@@ -2,6 +2,20 @@
    GENERAL
 ===================================================== */
 
+/* 1. MARCO FINO DE LA PÁGINA (Azul sereno) */
+body::before {
+    content: "";
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    border: 2px solid #2b5c8f; /* Azul sutil, nada agresivo */
+    pointer-events: none;
+    z-index: 9999;
+}
+
+
 * {
     box-sizing: border-box;
 }
@@ -13,6 +27,15 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
+@font-face {
+    font-family: 'RacingPower';
+    src: url('../fonts/Racing Power.otf') format('opentype');
+}
+
+@font-face {
+    font-family: 'Aboreto';
+    src: url('../fonts/Aboreto-Regular.ttf') format('truetype');
+}
 
 /* =====================================================
    CABECERA
@@ -23,14 +46,28 @@ header {
     padding: 50px 20px 35px;
 }
 
-header h1 {
-    margin: 0;
-    font-size: 32px;
+.subtitle {
+    font-family: 'Aboreto', sans-serif;
+    margin: 22px 0 0;           /* Subimos de 12px a 22px para distanciarlo */
+    color: #475569;
+    font-size: 14px;
     font-weight: 600;
-    letter-spacing: -0.5px;
+    letter-spacing: 1.5px;
+    line-height: 1.5;
+    text-transform: uppercase;
 }
 
-
+header h1 {
+    font-family: 'RacingPower', sans-serif;
+    font-size: 38px;
+    font-weight: normal;
+    margin: 0;
+    
+    color: #00b4d8; /* Azul claro brillante */
+    
+    /* Resplandor neón azul alrededor */
+    text-shadow: 0 0 12px rgba(0, 180, 216, 0.45);
+}
 /* =====================================================
    CONTENIDO PRINCIPAL
 ===================================================== */
@@ -42,98 +79,141 @@ main {
 
 
 /* =====================================================
-   BUSCADOR + ORDENACIÓN
+   BUSCADOR + ORDENACIÓN (ESTRUCTURA MEJORADA)
 ===================================================== */
 
 .toolbar {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
+    align-items: flex-end; /* Alinea los elementos por la parte inferior */
     gap: 20px;
     margin-bottom: 35px;
 }
 
+/* Base de Etiquetas (Buscar por fecha / Ordenar por) */
+.date-filter label,
+.controls label {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    color: #475569;
+    margin-bottom: 6px;
+}
+
+/* 1. BUSCADOR CON LUPA */
 .search-box {
-    flex: 1;
+    flex: 1.3;
+}
+
+.input-with-icon {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.search-icon {
+    position: absolute;
+    left: 14px;
+    pointer-events: none;
 }
 
 .search-box input {
     width: 100%;
-    padding: 11px 14px;
-
-    border: 1px solid #ccc;
-    border-radius: 6px;
-
-    background: white;
-
+    padding: 11px 14px 11px 42px; /* Espacio reservado para la lupa */
+    border: 1.5px solid #e2e8f0;
+    border-radius: 8px;
+    background: #f8fafc;
+    color: #1e293b;
     font-family: inherit;
     font-size: 14px;
-
     outline: none;
+    transition: all 0.2s ease;
 }
 
 .search-box input:focus {
-    border-color: #888;
+    border-color: #00b4d8;
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(0, 180, 216, 0.15);
 }
 
+/* 2. FILTRO FECHA (Etiqueta arriba, Caja + Botón alineados) */
 .date-filter {
     display: flex;
+    flex-direction: column;
+}
 
-    align-items: center;
-
+.date-input-group {
+    display: flex;
     gap: 8px;
 }
 
-.date-filter label {
-    font-size: 13px;
-
-    color: #555;
-
-    white-space: nowrap;
-}
-
 .date-filter input {
-    padding: 11px 12px;
-
-    border: 1px solid #ccc;
-    border-radius: 6px;
-
-    background: white;
-
+    padding: 10px 12px;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 8px;
+    background: #f8fafc;
+    color: #1e293b;
     font-family: inherit;
     font-size: 14px;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
+
+.date-filter input:focus {
+    border-color: #00b4d8;
+    background: #ffffff;
+    box-shadow: 0 0 0 3px rgba(0, 180, 216, 0.15);
 }
 
 .date-filter button {
-    padding: 11px 12px;
-
-    border: 1px solid #ccc;
-    border-radius: 6px;
-
-    background: white;
-
+    padding: 10px 14px;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 8px;
+    background: #ffffff;
+    color: #64748b;
     font-family: inherit;
     font-size: 13px;
-
+    font-weight: 500;
     cursor: pointer;
+    transition: all 0.2s ease;
 }
 
 .date-filter button:hover {
-    background: #f5f5f5;
+    border-color: #00b4d8;
+    color: #00b4d8;
+    background: rgba(0, 180, 216, 0.05);
+}
+
+/* 3. ORDENAR POR (Etiqueta arriba + Desplegable) */
+.controls {
+    display: flex;
+    flex-direction: column;
 }
 
 .controls select {
-    min-width: 220px;
-
-    padding: 11px 12px;
-
-    border: 1px solid #ccc;
-    border-radius: 6px;
-
-    background: white;
-
+    min-width: 210px;
+    padding: 10px 36px 10px 14px;
+    border: 1.5px solid #e2e8f0;
+    border-radius: 8px;
+    background: #f8fafc;
+    color: #1e293b;
     font-family: inherit;
     font-size: 14px;
+    outline: none;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    
+    /* Flechita personalizada elegante */
+    appearance: none;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+}
+
+.controls select:focus {
+    border-color: #00b4d8;
+    background-color: #ffffff;
+    box-shadow: 0 0 0 3px rgba(0, 180, 216, 0.15);
 }
 
 
@@ -461,46 +541,55 @@ main {
         padding: 35px 20px 25px;
     }
 
-    header h1 {
-        font-size: 26px;
+
+header h1 {
+        font-size: 25px;
     }
 
     main {
         width: 94%;
     }
 
-    .toolbar {
+    .subtitle {
+        font-size: 11px;
+        letter-spacing: 1px;
+    }
+
+.toolbar {
         flex-direction: column;
-
         align-items: stretch;
-
-        gap: 10px;
-
+        gap: 16px;
         margin-bottom: 25px;
+    }
+
+    .date-filter,
+    .controls {
+        width: 100%;
+    }
+
+    .date-filter label,
+    .controls label {
+        display: block; /* Muestra las etiquetas encima en móvil */
+    }
+
+    /* Agrupa el input de fecha y el botón Limpiar en línea en móvil */
+    .date-input-group {
+        display: flex;
+        gap: 8px;
+        width: 100%;
+    }
+
+    .date-input-group input {
+        flex: 1;
+        width: 100%;
+    }
+
+    .date-input-group button {
+        white-space: nowrap;
     }
 
     .controls select {
         width: 100%;
-    }
-
-    .date-filter {
-        display: flex;
-
-        width: 100%;
-    }
-
-    .date-filter label {
-        display: none;
-    }
-
-    .date-filter input {
-        flex: 1;
-
-        width: 100%;
-    }
-
-    .date-filter button {
-        white-space: nowrap;
     }
 
     .movies-grid {
