@@ -10,7 +10,7 @@ body::before {
     left: 0;
     right: 0;
     bottom: 0;
-    border: 2px solid #2b5c8f; /* Azul sutil, nada agresivo */
+    border: 5px solid #56bdf5; /* Azul sutil, nada agresivo */
     pointer-events: none;
     z-index: 9999;
 }
