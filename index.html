@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Proyecciones Únicas Madrid</title>
+
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Proyecciones Únicas Madrid</h1>
+    </header>
+
+    <main>
+
+        <div class="toolbar">
+
+            <div class="search-box">
+                <input
+                    type="search"
+                    id="search-input"
+                    placeholder="Buscar película..."
+                    autocomplete="off"
+                >
+            </div>
+
+            <div class="date-filter">
+    <label for="date-input">Buscar por fecha</label>
+
+    <input
+        type="date"
+        id="date-input"
+    >
+
+    <button
+        type="button"
+        id="clear-date"
+    >
+        Limpiar
+    </button>
+</div>
+
+            <div class="controls">
+                <select id="sort-select">
+
+                        <option value="next-screening">
+        Próxima proyección
+    </option>
+
+                    <option value="title-asc">Título: A-Z</option>
+                    <option value="title-desc">Título: Z-A</option>
+
+                    <option value="duration-asc">
+                        Duración: menor a mayor
+                    </option>
+
+                    <option value="duration-desc">
+                        Duración: mayor a menor
+                    </option>
+
+                    <option value="release-asc">
+                        Estreno: más antiguo primero
+                    </option>
+
+                    <option value="release-desc">
+                        Estreno: más reciente primero
+                    </option>
+
+                </select>
+            </div>
+
+        </div>
+
+        <section class="movies-grid" id="movies-grid">
+            <!-- Las películas aparecerán aquí -->
+        </section>
+
+        <p class="no-results" id="no-results">
+            No se han encontrado películas.
+        </p>
+
+    </main>
+
+    <script src="js/movies.js"></script>
+    <script src="js/script.js"></script>
+
+</body>
+
+</html>
