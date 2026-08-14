@@ -17,10 +17,7 @@ const clearDate = document.getElementById("clear-date");
 if (moviesGrid) {
 
     // RECUPERAR FECHA GUARDADA
-
-    const savedDate = localStorage.getItem(
-        "movieDatePreference"
-    );
+    const savedDate = localStorage.getItem("movieDatePreference");
 
     if (savedDate) {
         dateInput.value = savedDate;
@@ -51,8 +48,7 @@ if (moviesGrid) {
             `;
 
             card.addEventListener("click", () => {
-                window.location.href =
-                    `movie.html?id=${movie.id}`;
+                window.location.href = `movie.html?id=${movie.id}`;
             });
 
             moviesGrid.appendChild(card);
@@ -100,17 +96,15 @@ if (moviesGrid) {
                     b.year - a.year
                 );
                 break;
-                case "next-screening":
 
-    sortedMovies.sort((a, b) => {
+            case "next-screening":
+                sortedMovies.sort((a, b) => {
+                    const nextA = getNextScreening(a);
+                    const nextB = getNextScreening(b);
 
-        const nextA = getNextScreening(a);
-        const nextB = getNextScreening(b);
-
-        return nextA - nextB;
-    });
-
-    break;
+                    return nextA - nextB;
+                });
+                break;
         }
 
         return sortedMovies;
@@ -118,68 +112,71 @@ if (moviesGrid) {
 
     function getNextScreening(movie) {
 
-    const now = new Date();
+        const now = new Date().getTime();
 
-    const futureScreenings = movie.screenings
-        .map(screening => getDateTime(screening))
-        .filter(dateTime => dateTime >= now.getTime());
+        const futureScreenings = movie.screenings
+            .map(screening => getDateTime(screening))
+            .filter(dateTime => dateTime >= now);
 
-    if (futureScreenings.length === 0) {
-        return Infinity;
+        if (futureScreenings.length === 0) {
+            return Infinity;
+        }
+
+        return Math.min(...futureScreenings);
     }
-
-    return Math.min(...futureScreenings);
-}
 
 
     function updateMovies() {
 
-    const searchTerm = searchInput.value
-        .trim()
-        .toLowerCase();
-
-    const selectedDate = dateInput.value;
-
-    const filteredMovies = movies.filter(movie => {
-
-        const searchableText = [
-            movie.title,
-            movie.originalTitle,
-            movie.director,
-            ...movie.cast
-        ]
-            .join(" ")
+        const searchTerm = searchInput.value
+            .trim()
             .toLowerCase();
 
-        const matchesSearch =
-            searchableText.includes(searchTerm);
+        const selectedDate = dateInput.value;
 
-        const matchesDate =
-            !selectedDate ||
-            movie.screenings.some(screening =>
-                screening.date === selectedDate
-            );
+        const filteredMovies = movies.filter(movie => {
 
-        return matchesSearch && matchesDate;
-    });
+            // 1. FILTRO AUTOMÁTICO: Oculta la película si no le queda ninguna proyección futura
+            if (!hasFutureScreenings(movie)) {
+                return false;
+            }
+
+            const searchableText = [
+                movie.title,
+                movie.originalTitle,
+                movie.director,
+                ...movie.cast
+            ]
+                .join(" ")
+                .toLowerCase();
+
+            const matchesSearch =
+                searchableText.includes(searchTerm);
+
+            const matchesDate =
+                !selectedDate ||
+                movie.screenings.some(screening =>
+                    screening.date === selectedDate
+                );
+
+            return matchesSearch && matchesDate;
+        });
 
 
-    const sortedMovies = sortMovies(
-        filteredMovies,
-        sortSelect.value
-    );
+        const sortedMovies = sortMovies(
+            filteredMovies,
+            sortSelect.value
+        );
 
-    displayMovies(sortedMovies);
-}
+        displayMovies(sortedMovies);
+    }
 
 
     // =================================================
     // RECORDAR ORDENACIÓN
     // =================================================
 
-    const savedSort = localStorage.getItem(
-        "movieSortPreference"
-    );
+    const savedSort = localStorage.getItem("movieSortPreference");
 
     if (savedSort) {
         sortSelect.value = savedSort;
@@ -187,53 +184,28 @@ if (moviesGrid) {
 
 
     sortSelect.addEventListener("change", () => {
-
-        localStorage.setItem(
-            "movieSortPreference",
-            sortSelect.value
-        );
-
+        localStorage.setItem("movieSortPreference", sortSelect.value);
         updateMovies();
     });
 
-    dateInput.addEventListener(
-    "change",
-    () => {
-
-        localStorage.setItem(
-            "movieDatePreference",
-            dateInput.value
-        );
-
+    dateInput.addEventListener("change", () => {
+        localStorage.setItem("movieDatePreference", dateInput.value);
         updateMovies();
-    }
-);
+    });
 
 
-clearDate.addEventListener(
-    "click",
-    () => {
-
+    clearDate.addEventListener("click", () => {
         dateInput.value = "";
-
-        localStorage.removeItem(
-            "movieDatePreference"
-        );
-
+        localStorage.removeItem("movieDatePreference");
         updateMovies();
-    }
-);
+    });
 
 
     // =================================================
     // BUSCADOR
     // =================================================
 
-    searchInput.addEventListener(
-        "input",
-        updateMovies
-    );
-
+    searchInput.addEventListener("input", updateMovies);
 
     updateMovies();
 }
@@ -247,45 +219,26 @@ const moviePage = document.querySelector(".movie-page");
 
 if (moviePage) {
 
-    const params = new URLSearchParams(
-        window.location.search
-    );
-
+    const params = new URLSearchParams(window.location.search);
     const movieId = params.get("id");
-
-    const movie = movies.find(
-        item => item.id === movieId
-    );
+    const movie = movies.find(item => item.id === movieId);
 
 
     if (movie) {
 
-        const poster =
-            document.querySelector(".movie-poster img");
-
-        const title =
-            document.querySelector(".movie-info h1");
-
-        const originalTitle =
-            document.querySelector(".original-title");
-
-        const technicalInfo =
-            document.querySelector(".technical-info");
-
-        const synopsis =
-            document.querySelector(".synopsis");
-
-        const screenings =
-            document.querySelector(".screenings");
+        const poster = document.querySelector(".movie-poster img");
+        const title = document.querySelector(".movie-info h1");
+        const originalTitle = document.querySelector(".original-title");
+        const technicalInfo = document.querySelector(".technical-info");
+        const synopsis = document.querySelector(".synopsis");
+        const screenings = document.querySelector(".screenings");
 
 
         poster.src = movie.poster;
         poster.alt = movie.title;
 
         title.textContent = movie.title;
-
-        originalTitle.textContent =
-            movie.originalTitle;
+        originalTitle.textContent = movie.originalTitle;
 
 
         // =============================================
@@ -325,14 +278,13 @@ if (moviePage) {
         `;
 
 
-        synopsis.textContent =
-            movie.synopsis;
+        synopsis.textContent = movie.synopsis;
 
+        // Pasamos a la vista individual solo las proyecciones que no hayan caducado
+        const now = new Date().getTime();
+        const futureScreeningsOnly = movie.screenings.filter(s => getDateTime(s) >= now);
 
-        displayScreenings(
-            movie.screenings,
-            screenings
-        );
+        displayScreenings(futureScreeningsOnly, screenings);
 
     } else {
 
@@ -351,73 +303,59 @@ if (moviePage) {
 // PROYECCIONES AGRUPADAS POR CINE
 // =====================================================
 
-function displayScreenings(
-    screeningList,
-    container
-) {
+function displayScreenings(screeningList, container) {
 
     const cinemas = {};
 
-
     screeningList.forEach(screening => {
-
         if (!cinemas[screening.cinema]) {
             cinemas[screening.cinema] = [];
         }
-
-        cinemas[screening.cinema].push(
-            screening
-        );
+        cinemas[screening.cinema].push(screening);
     });
 
+    if (screeningList.length === 0) {
+        container.innerHTML = `
+            <h2>Proyecciones</h2>
+            <p style="color: #64748b; font-size: 14px;">No hay pases futuros programados actualmente.</p>
+        `;
+        return;
+    }
 
-    let html = `
-        <h2>Proyecciones</h2>
-    `;
-
+    let html = `<h2>Proyecciones</h2>`;
 
     Object.keys(cinemas)
-        .sort((a, b) =>
-            a.localeCompare(b, "es")
-        )
+        .sort((a, b) => a.localeCompare(b, "es"))
         .forEach(cinema => {
 
             const screenings = cinemas[cinema];
 
-            screenings.sort((a, b) =>
-                getDateTime(a) - getDateTime(b)
-            );
-
+            screenings.sort((a, b) => getDateTime(a) - getDateTime(b));
 
             html += `
                 <div class="cinema-group">
-
                     <h3>${cinema}</h3>
-
                     <div class="cinema-screenings">
             `;
 
-
             screenings.forEach(screening => {
-
                 html += `
                     <div class="screening">
                         <strong>
                             ${formatDate(screening.date)}
                         </strong>
 
-<span class="screening-time">
-    ${screening.time}
+                        <span class="screening-time">
+                            ${screening.time}
 
-    ${screening.version
-        ? `<small class="screening-version">${screening.version}</small>`
-        : ""
-    }
-</span>
+                            ${screening.version
+                                ? `<small class="screening-version">${screening.version}</small>`
+                                : ""
+                            }
+                        </span>
                     </div>
                 `;
             });
-
 
             html += `
                     </div>
@@ -425,35 +363,29 @@ function displayScreenings(
             `;
         });
 
-
     container.innerHTML = html;
 }
 
 
 // =====================================================
-// FECHA Y HORA
+// FUNCIONES AUXILIARES DE FECHA Y HORA
 // =====================================================
 
-function getDateTime(screening) {
-
-    return new Date(
-        `${screening.date}T${screening.time || "00:00"}`
-    ).getTime();
+// Comprueba si a una película le queda al menos 1 proyección futura activa
+function hasFutureScreenings(movie) {
+    const now = new Date().getTime();
+    return movie.screenings.some(screening => getDateTime(screening) >= now);
 }
 
+function getDateTime(screening) {
+    return new Date(`${screening.date}T${screening.time || "23:59"}`).getTime();
+}
 
 function formatDate(dateString) {
-
-    const date = new Date(
-        dateString + "T12:00:00"
-    );
-
-    return date.toLocaleDateString(
-        "es-ES",
-        {
-            weekday: "long",
-            day: "numeric",
-            month: "long"
-        }
-    );
+    const date = new Date(dateString + "T12:00:00");
+    return date.toLocaleDateString("es-ES", {
+        weekday: "long",
+        day: "numeric",
+        month: "long"
+    });
 }
