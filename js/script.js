@@ -303,6 +303,10 @@ if (moviePage) {
 // PROYECCIONES AGRUPADAS POR CINE
 // =====================================================
 
+// =====================================================
+// PROYECCIONES AGRUPADAS POR CINE (ORDENADAS POR FECHA MÁS CERCANA)
+// =====================================================
+
 function displayScreenings(screeningList, container) {
 
     const cinemas = {};
@@ -322,46 +326,54 @@ function displayScreenings(screeningList, container) {
         return;
     }
 
+    // Asegurarnos de que las sesiones de cada cine estén ordenadas de más cercana a más lejana
+    Object.keys(cinemas).forEach(cinema => {
+        cinemas[cinema].sort((a, b) => getDateTime(a) - getDateTime(b));
+    });
+
+    // Ordenar la lista de cines según la fecha de su PRIMERA proyección disponible
+    const sortedCinemas = Object.keys(cinemas).sort((cinemaA, cinemaB) => {
+        const earliestA = getDateTime(cinemas[cinemaA][0]);
+        const earliestB = getDateTime(cinemas[cinemaB][0]);
+        return earliestA - earliestB;
+    });
+
     let html = `<h2>Proyecciones</h2>`;
 
-    Object.keys(cinemas)
-        .sort((a, b) => a.localeCompare(b, "es"))
-        .forEach(cinema => {
+    sortedCinemas.forEach(cinema => {
 
-            const screenings = cinemas[cinema];
+        const screenings = cinemas[cinema];
 
-            screenings.sort((a, b) => getDateTime(a) - getDateTime(b));
+        html += `
+            <div class="cinema-group">
+                <h3>${cinema}</h3>
+                <div class="cinema-screenings">
+        `;
 
+        screenings.forEach(screening => {
             html += `
-                <div class="cinema-group">
-                    <h3>${cinema}</h3>
-                    <div class="cinema-screenings">
-            `;
+                <div class="screening">
+                    <strong>
+                        ${formatDate(screening.date)}
+                    </strong>
 
-            screenings.forEach(screening => {
-                html += `
-                    <div class="screening">
-                        <strong>
-                            ${formatDate(screening.date)}
-                        </strong>
+                    <span class="screening-time">
+                        ${screening.time}
 
-                        <span class="screening-time">
-                            ${screening.time}
-
-                            ${screening.version
-                                ? `<small class="screening-version">${screening.version}</small>`
-                                : ""
-                            }
-                        </span>
-                    </div>
-                `;
-            });
-
-            html += `
-                    </div>
+                        ${screening.version
+                            ? `<small class="screening-version">${screening.version}</small>`
+                            : ""
+                        }
+                    </span>
                 </div>
             `;
         });
+
+        html += `
+                </div>
+            </div>
+        `;
+    });
 
     container.innerHTML = html;
 }
