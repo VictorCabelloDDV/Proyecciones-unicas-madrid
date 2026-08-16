@@ -22,6 +22,7 @@ body::before {
 
 body {
     position: relative;
+    min-height: 100vh;
     margin: 0;
     background: white;
     color: #111;
@@ -194,19 +195,38 @@ main {
 .controls select {
     min-width: 210px;
     padding: 10px 36px 10px 14px;
+
     border: 1.5px solid #e2e8f0;
     border-radius: 8px;
+
     background: #f8fafc;
     color: #1e293b;
+
     font-family: inherit;
     font-size: 14px;
+
     outline: none;
     cursor: pointer;
+
     transition: all 0.2s ease;
-    
-    /* Flechita personalizada elegante */
+
     appearance: none;
-    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+
+    background-repeat: no-repeat;
+    background-position: right 12px center;
+}
+
+.cinema-filter select {
+    appearance: none;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+
+    padding-right: 36px;
+
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 24 24' fill='none' stroke='%2364748b' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'%3E%3C/polyline%3E%3C/svg%3E");
+
     background-repeat: no-repeat;
     background-position: right 12px center;
 }
@@ -308,19 +328,37 @@ main {
 }
 
 .back-link {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
 
-    margin-bottom: 30px;
+    margin-bottom: 40px;
+    padding: 10px 15px;
 
-    color: #555;
+    color: #444;
+    background: #fff;
+
+    border: 1px solid #dedede;
+    border-radius: 7px;
 
     text-decoration: none;
 
-    font-size: 14px;
+    font-size: 13px;
+    font-weight: 500;
+
+    transition:
+        background 0.15s ease,
+        border-color 0.15s ease,
+        color 0.15s ease,
+        transform 0.15s ease;
 }
 
 .back-link:hover {
     color: #111;
+    background: #f7f7f7;
+    border-color: #ccc;
+
+    transform: translateX(-2px);
 }
 
 

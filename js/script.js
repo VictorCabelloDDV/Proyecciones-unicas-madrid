@@ -8,7 +8,7 @@ const searchInput = document.getElementById("search-input");
 const noResults = document.getElementById("no-results");
 const dateInput = document.getElementById("date-input");
 const clearDate = document.getElementById("clear-date");
-
+const cinemaSelect = document.getElementById("cinema-select");
 
 // =====================================================
 // PÁGINA PRINCIPAL
@@ -47,9 +47,15 @@ if (moviesGrid) {
                 <p>${movie.originalTitle}</p>
             `;
 
-            card.addEventListener("click", () => {
-                window.location.href = `movie.html?id=${movie.id}`;
-            });
+card.addEventListener("click", () => {
+
+    sessionStorage.setItem(
+        "movieScrollPosition",
+        window.scrollY
+    );
+
+    window.location.href = `movie.html?id=${movie.id}`;
+});
 
             moviesGrid.appendChild(card);
         });
@@ -128,59 +134,65 @@ if (moviesGrid) {
 
     function updateMovies() {
 
-        const searchTerm = searchInput.value
-            .trim()
+    const searchTerm = searchInput.value
+        .trim()
+        .toLowerCase();
+
+    const selectedDate = dateInput.value;
+    const selectedCinema = cinemaSelect.value;
+
+    const filteredMovies = movies.filter(movie => {
+
+        // 1. FILTRO AUTOMÁTICO:
+        // Oculta la película si no le queda ninguna proyección futura
+        if (!hasFutureScreenings(movie)) {
+            return false;
+        }
+
+        const searchableText = [
+            movie.title,
+            movie.originalTitle,
+            movie.director,
+            ...movie.cast
+        ]
+            .join(" ")
             .toLowerCase();
 
-        const selectedDate = dateInput.value;
+        const matchesSearch =
+            searchableText.includes(searchTerm);
 
-        const filteredMovies = movies.filter(movie => {
+        const matchesDate =
+            !selectedDate ||
+            movie.screenings.some(screening =>
+                screening.date === selectedDate
+            );
 
-            // 1. FILTRO AUTOMÁTICO: Oculta la película si no le queda ninguna proyección futura
-            if (!hasFutureScreenings(movie)) {
-                return false;
-            }
+        const matchesCinema =
+            !selectedCinema ||
+            movie.screenings.some(screening =>
+                screening.cinema === selectedCinema
+            );
 
-            const searchableText = [
-                movie.title,
-                movie.originalTitle,
-                movie.director,
-                ...movie.cast
-            ]
-                .join(" ")
-                .toLowerCase();
-
-            const matchesSearch =
-                searchableText.includes(searchTerm);
-
-            const matchesDate =
-                !selectedDate ||
-                movie.screenings.some(screening =>
-                    screening.date === selectedDate
-                );
-
-            return matchesSearch && matchesDate;
-        });
-
-
-        const sortedMovies = sortMovies(
-            filteredMovies,
-            sortSelect.value
+        return (
+            matchesSearch &&
+            matchesDate &&
+            matchesCinema
         );
+    });
 
-        displayMovies(sortedMovies);
-    }
+    const sortedMovies = sortMovies(
+        filteredMovies,
+        sortSelect.value
+    );
+
+    displayMovies(sortedMovies);
+}
+    
 
 
     // =================================================
     // RECORDAR ORDENACIÓN
     // =================================================
-
-    const savedSort = localStorage.getItem("movieSortPreference");
-
-    if (savedSort) {
-        sortSelect.value = savedSort;
-    }
 
 
     sortSelect.addEventListener("change", () => {
@@ -200,14 +212,75 @@ if (moviesGrid) {
         updateMovies();
     });
 
+cinemaSelect.addEventListener("change", () => {
 
-    // =================================================
-    // BUSCADOR
-    // =================================================
-
-    searchInput.addEventListener("input", updateMovies);
+    localStorage.setItem(
+        "movieCinemaPreference",
+        cinemaSelect.value
+    );
 
     updateMovies();
+});
+
+
+// =================================================
+// BUSCADOR
+// =================================================
+
+searchInput.addEventListener(
+    "input",
+    updateMovies
+);
+
+
+
+
+// =================================================
+// MOSTRAR PELÍCULAS
+// =================================================
+
+populateCinemaFilter();
+
+
+// RECUPERAR FILTROS GUARDADOS
+const savedSort = localStorage.getItem(
+    "movieSortPreference"
+);
+
+const savedCinema = localStorage.getItem(
+    "movieCinemaPreference"
+);
+
+if (savedSort) {
+    sortSelect.value = savedSort;
+}
+
+if (savedCinema) {
+    cinemaSelect.value = savedCinema;
+}
+
+updateMovies();
+
+
+// =================================================
+// RESTAURAR POSICIÓN DE SCROLL
+// =================================================
+
+const savedScrollPosition = sessionStorage.getItem(
+    "movieScrollPosition"
+);
+
+if (savedScrollPosition !== null) {
+
+    window.scrollTo(
+        0,
+        parseInt(savedScrollPosition, 10)
+    );
+
+    sessionStorage.removeItem(
+        "movieScrollPosition"
+    );
+}
 }
 
 
@@ -399,5 +472,30 @@ function formatDate(dateString) {
         weekday: "long",
         day: "numeric",
         month: "long"
+    });
+}
+
+function populateCinemaFilter() {
+
+    const cinemas = new Set();
+
+    movies.forEach(movie => {
+        movie.screenings.forEach(screening => {
+            cinemas.add(screening.cinema);
+        });
+    });
+
+    const sortedCinemas = [...cinemas].sort((a, b) =>
+        a.localeCompare(b, "es")
+    );
+
+    sortedCinemas.forEach(cinema => {
+
+        const option = document.createElement("option");
+
+        option.value = cinema;
+        option.textContent = cinema;
+
+        cinemaSelect.appendChild(option);
     });
 }

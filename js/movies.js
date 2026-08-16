@@ -86,7 +86,7 @@ const movies = [
         "synopsis": "En un Neo-Tokio devastado, un joven motorista desarrolla poderes telequinéticos que amenazan con desatar una catástrofe de proporciones inimaginables.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
             }
@@ -117,7 +117,7 @@ const movies = [
                 "cinema": "Kinépolis Ciudad de la Imagen",
                 "date": "2026-11-19",
                 "time": "19:00",
-                "version": "VOSE"
+                
             }
         ]
     },
@@ -172,7 +172,7 @@ const movies = [
         "synopsis": "Una pareja de fantasmas intenta expulsar de su antigua casa a los nuevos habitantes y recurre a Beetlejuice, un excéntrico espíritu especializado en causar problemas.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-15",
                 "time": "20:00"
             }
@@ -235,7 +235,7 @@ const movies = [
                 "time": "20:30"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-12-03",
                 "time": "20:00"
             }
@@ -275,7 +275,7 @@ const movies = [
                 "time": "22:30"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-01",
                 "time": "20:00"
             }
@@ -304,7 +304,7 @@ const movies = [
         "synopsis": "En la Casablanca ocupada de la Segunda Guerra Mundial, el dueño de un club nocturno debe elegir entre su amor por una mujer y ayudarla a ella y a su marido, un líder de la resistencia, a escapar de los nazis.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-09-21",
                 "time": "20:00"
             }
@@ -362,7 +362,7 @@ const movies = [
         "synopsis": "Tras volver derrotado de la guerra de Secesión, Ethan Edwards emprende una larga persecución de los comanches que han raptado a su sobrina, en compañía de un joven mestizo adoptado por su familia.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-09",
                 "time": "20:00"
             }
@@ -395,7 +395,7 @@ const movies = [
             "time": "20:00"
         },
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-27",
             "time": "22:00",
             "version": "35 mm · Música en directo"
@@ -452,7 +452,7 @@ const movies = [
         "synopsis": "Por un malentendido, un ejecutivo publicitario neoyorquino es confundido con un agente del gobierno por una organización de espías, lo que lo obliga a huir a través de todo el país mientras intenta desentrañar la conspiración.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-26",
                 "time": "20:00"
             }
@@ -480,7 +480,7 @@ const movies = [
         "synopsis": "Cuatro amigos de doce años emprenden una excursión por el bosque en busca del cadáver de un chico desaparecido, un viaje que fortalece su amistad y marca el final de su infancia.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-16",
                 "time": "22:00"
             }
@@ -507,7 +507,7 @@ const movies = [
         "synopsis": "Un matrimonio de ancianos viaja desde su pueblo hasta Tokio para visitar a sus hijos, que apenas tienen tiempo para atenderlos, salvo Noriko, la viuda de su hijo fallecido, que les muestra el afecto que sus propios hijos ya no les dan.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-02",
                 "time": "20:00"
             }
@@ -535,7 +535,7 @@ const movies = [
         "synopsis": "Las vidas de un oftalmólogo que oculta una relación extramatrimonial y de un documentalista idealista frustrado con su matrimonio se entrelazan en una reflexión sobre la moral, la culpa y las decisiones que definen a las personas.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-26",
                 "time": "20:00"
             }
@@ -622,7 +622,7 @@ const movies = [
         "synopsis": "Holly Golightly, una joven neoyorquina de vida aparentemente despreocupada y extravagante, entabla una relación con Paul, un escritor recién mudado a su edificio, mientras ambos ocultan sus propias inseguridades y anhelos.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-23",
                 "time": "22:00"
             }
@@ -651,7 +651,7 @@ const movies = [
         "synopsis": "En el verano de 1963, la joven e inocente Frances 'Baby' Houseman se enamora de Johnny Castle, un profesor de baile de clase trabajadora, en un balneario donde las diferencias sociales complican su romance.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-18",
                 "time": "22:00"
             }
@@ -716,7 +716,7 @@ const movies = [
     "synopsis": "Un extraterrestre queda abandonado en la Tierra cuando su nave despega sin él. Escondido en casa de un niño llamado Elliott, ambos entablan una amistad mientras intentan encontrar la manera de que el pequeño ser regrese a su planeta.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-22",
             "time": "22:00",
             "version": "35 mm"
@@ -746,7 +746,7 @@ const movies = [
         "synopsis": "Brasil, 1977. Marcelo, un especialista en tecnología de unos cuarenta años que está huyendo, regresa a Recife durante la semana del carnaval con la esperanza de reunirse con su hijo, pero descubre que la ciudad está lejos de ser el refugio tranquilo que esperaba.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-14",
                 "time": "22:00"
             }
@@ -775,7 +775,7 @@ const movies = [
         "synopsis": "Un modesto empleado de una compañía de seguros asciende en su trabajo prestando su apartamento a sus jefes para sus citas amorosas, hasta que se enamora de la ascensorista del edificio, que resulta ser la amante de uno de ellos.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-30",
                 "time": "20:00"
             }
@@ -803,7 +803,7 @@ const movies = [
         "synopsis": "Dos empleados de una tienda de regalos en Budapest apenas se soportan en el trabajo, sin saber que son, en realidad, los anónimos amantes por correspondencia de los que cada uno se ha enamorado.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-12-14",
                 "time": "20:00"
             }
@@ -830,7 +830,7 @@ const movies = [
         "synopsis": "Eddie Felson, un joven y arrogante jugador de billar, recorre las salas de juego buscando enfrentarse al legendario Gordo de Minnesota para demostrar que es el mejor, mientras su relación con una mujer solitaria pone a prueba su ambición.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-23",
                 "time": "20:00"
             }
@@ -864,12 +864,12 @@ const movies = [
                 "time": "22:30"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-03",
                 "time": "12:00"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-04",
                 "time": "12:00"
             }
@@ -899,12 +899,12 @@ const movies = [
         "synopsis": "Tras la muerte de su madre, el joven Mahito se muda al campo con su padre. Allí entra en un mundo fantástico guiado por una misteriosa garza gris y comienza un viaje entre vivos y muertos.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-24",
                 "time": "12:00"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-25",
                 "time": "12:00"
             }
@@ -995,7 +995,7 @@ const movies = [
                 "cinema": "Kinépolis Ciudad de la Imagen",
                 "date": "2026-09-17",
                 "time": "19:00",
-                "version": "VOSE"
+                
             }
         ]
     },
@@ -1023,7 +1023,7 @@ const movies = [
         "synopsis": "Un caballero que regresa a Suecia tras las Cruzadas se encuentra con la Muerte y consigue aplazar su destino jugando una partida de ajedrez mientras busca respuestas sobre la vida, la muerte y Dios.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-05",
                 "time": "20:00"
             }
@@ -1052,12 +1052,12 @@ const movies = [
         "synopsis": "Chihiro entra accidentalmente en un mundo habitado por espíritus después de que sus padres sean transformados en cerdos. Para salvarlos y regresar a casa, deberá trabajar en una misteriosa casa de baños gobernada por la bruja Yubaba.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-09-26",
                 "time": "12:00"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-09-27",
                 "time": "12:00"
             }
@@ -1086,12 +1086,12 @@ const movies = [
         "synopsis": "Jiro Horikoshi sueña con diseñar aviones y acaba convirtiéndose en uno de los ingenieros aeronáuticos más importantes de Japón, mientras vive una historia de amor marcada por la guerra y la enfermedad.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-17",
                 "time": "12:00"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-18",
                 "time": "12:00"
             }
@@ -1120,7 +1120,7 @@ const movies = [
         "synopsis": "Un vendedor de coches endeudado contrata a dos delincuentes para que secuestren a su propia esposa y así sacarle dinero a su suegro, pero el plan se tuerce y desencadena una investigación liderada por una sagaz y embarazada jefa de policía de Minnesota.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-12-10",
                 "time": "20:00"
             }
@@ -1146,7 +1146,7 @@ const movies = [
         "synopsis": "La actriz Alba Flores se adentra en la memoria de su padre, el músico Antonio Flores, fallecido cuando ella tenía ocho años, a través de vídeos caseros, cintas inéditas y entrevistas a familiares y amigos para entender quién fue de verdad.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-17",
                 "time": "22:00"
             }
@@ -1204,12 +1204,12 @@ const movies = [
         "synopsis": "Tras un romántico verano juntos, Sandy y Danny vuelven a encontrarse en el instituto Rydell, donde las diferencias entre sus pandillas y la presión de encajar ponen a prueba su relación entre canciones y coreografías.",
         "screenings": [
             {
-                "cinema": "Cines de Verano Bombilla",
+                "cinema": "Cine de Verano de La Bombilla",
                 "date": "2026-08-30",
                 "time": "22:00"
             },
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-09-08",
                 "time": "22:00"
             }
@@ -1238,7 +1238,7 @@ const movies = [
         "synopsis": "Un padre regala a su hijo un extraño y adorable ser llamado mogwai, adquirido en una tienda de Chinatown, sin saber que incumplir sus tres sencillas normas de cuidado desatará una plaga de criaturas monstruosas en su tranquilo pueblo durante la Navidad.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-12-17",
                 "time": "20:00"
             }
@@ -1269,12 +1269,12 @@ const movies = [
     "synopsis": "La historia de Agnes, la esposa de William Shakespeare, en su lucha por superar la tragedia familiar que irrumpe en su vida, con el telón de fondo de la creación de una de las obras más importantes de Shakespeare.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-24",
             "time": "22:00"
         },
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-08-31",
             "time": "22:00"
         }
@@ -1347,7 +1347,7 @@ const movies = [
         "synopsis": "En un futuro Japón, todos los perros son desterrados a una isla de basura. Un niño viaja hasta allí para encontrar a su mascota y acaba contando con la ayuda de una peculiar manada de perros.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-10-08",
                 "time": "20:00"
             }
@@ -1376,19 +1376,19 @@ const movies = [
     "synopsis": "Versión íntegra que fusiona los volúmenes 1 y 2 de 'Kill Bill' en una sola película, tal y como Tarantino la concibió originalmente. La Novia, dada por muerta tras una masacre en su boda, emprende una implacable venganza contra el escuadrón de asesinas y contra Bill, su antiguo jefe y amante.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-15",
             "time": "22:15",
             "version": "The Whole Bloody Affair"
         },
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-08-19",
             "time": "22:00",
             "version": "Parte 1"
         },
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-08-26",
             "time": "22:00",
             "version": "Parte 2"
@@ -1416,7 +1416,7 @@ const movies = [
         "synopsis": "Mariano De Santis, presidente de la República Italiana, se enfrenta al final de su mandato y a una difícil decisión política y moral relacionada con la eutanasia.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-25",
                 "time": "22:00"
             }
@@ -1455,13 +1455,13 @@ const movies = [
             "time": "20:00"
         },
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-09-10",
             "time": "22:00",
             "version": "Sing-Along"
         },
         {
-            "cinema": "Cinesa Xanadú / Las Rozas / Méndez Álvaro",
+            "cinema": "Cinesa",
             "date": "2026-08-21",
             "time": "19:35"
         },
@@ -1534,7 +1534,7 @@ const movies = [
         "synopsis": "En un pueblo europeo del siglo XIX, el tímido Victor ensaya sus votos de boda en el bosque y, sin querer, despierta a Emily, una misteriosa novia cadáver que lo reclama como su esposo y lo arrastra al mundo de los muertos, mientras su prometida real le espera en el mundo de los vivos.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-08-15",
                 "time": "22:00"
             }
@@ -1563,12 +1563,12 @@ const movies = [
         "synopsis": "El joven Ashitaka viaja hacia el oeste para encontrar una cura a una maldición y queda atrapado en el conflicto entre los habitantes de una ciudad industrial y los espíritus del bosque liderados por la princesa Mononoke.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-09-19",
                 "time": "12:00"
             },
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-09-20",
                 "time": "12:00"
             }
@@ -1598,7 +1598,7 @@ const movies = [
         "synopsis": "Un abuelo le lee a su nieto enfermo el cuento de Westley y Buttercup: tras años buscando fortuna, Westley regresa para casarse con su amada, pero deberá enfrentarse a piratas, gigantes, espadachines y a un malvado príncipe para recuperarla.",
         "screenings": [
             {
-                "cinema": "Cine de Verano de Las Cibeles",
+                "cinema": "Cibeles de Cine",
                 "date": "2026-09-05",
                 "time": "22:00"
             }
@@ -1657,7 +1657,7 @@ const movies = [
                 "cinema": "Kinépolis Ciudad de la Imagen",
                 "date": "2026-10-15",
                 "time": "19:00",
-                "version": "VOSE"
+                
             }
         ]
     },
@@ -1682,7 +1682,7 @@ const movies = [
         "synopsis": "En la Roma de posguerra, Antonio consigue un empleo pegando carteles con la condición de tener una bicicleta, pero se la roban el primer día de trabajo. Junto a su pequeño hijo Bruno, recorre la ciudad tratando de recuperarla antes de perder también su nuevo empleo.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-16",
                 "time": "20:00"
             }
@@ -1710,7 +1710,7 @@ const movies = [
         "synopsis": "Christine, que prefiere hacerse llamar 'Lady Bird', vive su último año de instituto en Sacramento soñando con escapar a la Costa Este, mientras lidia con una relación intensa y a menudo conflictiva con su madre.",
         "screenings": [
             {
-                "cinema": "MK2 Cine Paz",
+                "cinema": "mk2 Cine Paz",
                 "date": "2026-11-05",
                 "time": "20:00"
             }
@@ -1734,7 +1734,7 @@ const movies = [
     "synopsis": "El príncipe Ahmed emprende un viaje fantástico en el que se enfrenta a un poderoso hechicero y vive aventuras extraordinarias con la ayuda de un caballo mágico, Aladino y la bruja de la Montaña de Fuego.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-20",
             "time": "20:00",
             "version": "Narración y música en directo"
@@ -1763,7 +1763,7 @@ const movies = [
     "synopsis": "Corky, una expresidiaria, y Violet, la novia de un mafioso, se enamoran y planean robar millones de dólares de dinero de la mafia.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-18",
             "time": "22:00"
         }
@@ -1850,7 +1850,7 @@ const movies = [
     "synopsis": "Un grupo de amigos descubre un antiguo mapa del tesoro y se embarca en una aventura para encontrar el legendario tesoro del pirata Willy el Tuerto y salvar sus hogares.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-09-24",
             "time": "20:00"
         }
@@ -1880,7 +1880,7 @@ const movies = [
     "synopsis": "Tras la Segunda Guerra Mundial, Grace vive con sus dos hijos en una enorme casa aislada. Cuando empiezan a suceder extraños fenómenos, la familia descubre que quizá no está sola.",
     "screenings": [
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-09-03",
             "time": "22:00"
         }
@@ -1911,7 +1911,7 @@ const movies = [
             "cinema": "Kinépolis Ciudad de la Imagen",
             "date": "2026-10-29",
             "time": "19:00",
-            "version": "VOSE"
+            
         }
     ]
 },
@@ -1946,7 +1946,7 @@ const movies = [
             "time": "12:00"
         },
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-09-28",
             "time": "20:00"
         }
@@ -2000,7 +2000,7 @@ const movies = [
     "synopsis": "Retrato cinematográfico de Michael Jackson que recorre su trayectoria desde sus primeros años como integrante de los Jackson Five hasta convertirse en uno de los mayores iconos de la música y el entretenimiento.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-25",
             "time": "22:00"
         }
@@ -2030,12 +2030,7 @@ const movies = [
     "synopsis": "En el París de 1900, el joven poeta Christian se enamora de Satine, la estrella del Moulin Rouge, mientras el club se enfrenta a la amenaza de un poderoso duque.",
     "screenings": [
         {
-            "cinema": "Cinesa Proyecciones",
-            "date": "2026-08-24",
-            "time": "19:35"
-        },
-        {
-            "cinema": "Cinesa Méndez Álvaro",
+            "cinema": "Cinesa",
             "date": "2026-08-24",
             "time": "19:35"
         }
@@ -2107,10 +2102,10 @@ const movies = [
     "synopsis": "Las fuerzas del mal amenazan Monterrey y sólo Mágico, un superhéroe llegado del espacio, puede enfrentarse a los supervillanos y salvar la ciudad.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-09-04",
             "time": "22:30",
-            "version": "VOSE"
+            
         }
     ]
 },
@@ -2139,7 +2134,7 @@ const movies = [
     "synopsis": "Dom Cobb es un experto en infiltrarse en los sueños de otras personas para robar secretos. Su última misión consiste en hacer lo contrario: implantar una idea en la mente de un objetivo.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-11-19",
             "time": "20:00"
         }
@@ -2168,7 +2163,7 @@ const movies = [
     "synopsis": "Un grupo de adolescentes comienza a ser perseguido en sus sueños por Freddy Krueger, un asesino sobrenatural capaz de convertir sus pesadillas en una amenaza mortal.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-10-29",
             "time": "20:00"
         }
@@ -2198,17 +2193,17 @@ const movies = [
     "synopsis": "Ponyo, una pequeña criatura marina que sueña con convertirse en humana, conoce al niño Sosuke y desarrolla un fuerte vínculo con él, desencadenando una serie de acontecimientos mágicos junto al mar.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-10-10",
             "time": "12:00"
         },
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-10-11",
             "time": "12:00"
         },
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-10-12",
             "time": "12:00"
         }
@@ -2320,7 +2315,7 @@ const movies = [
     "synopsis": "La tragedia de Shakespeare se traslada a la moderna Verona Beach, donde Romeo y Julieta se enamoran pese a pertenecer a dos familias enfrentadas.",
     "screenings": [
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-08-30",
             "time": "22:00"
         }
@@ -2374,7 +2369,7 @@ const movies = [
     "synopsis": "Durante la Primera Guerra Mundial, tres soldados franceses son acusados injustamente de cobardía después de que un ataque contra las posiciones alemanas fracasa. Su superior intenta defenderlos frente a un consejo de guerra que busca convertirlos en chivos expiatorios.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-09-14",
             "time": "20:00"
         }
@@ -2466,7 +2461,7 @@ const movies = [
     "synopsis": "Travis Bickle, un veterano de Vietnam que trabaja como taxista nocturno en Nueva York, se hunde progresivamente en la soledad y la violencia mientras desarrolla una obsesión por limpiar las calles de aquello que considera corrupción.",
     "screenings": [
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-09-06",
             "time": "22:00"
         }
@@ -2526,7 +2521,7 @@ const movies = [
     "synopsis": "Un joven ingenuo llega a la universidad convencido de que puede convertirse rápidamente en el alumno más popular, pero sus intentos por encajar provocan una sucesión de situaciones cómicas.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-09-03",
             "time": "22:00",
             "version": "Cine mudo · Música en directo"
@@ -2559,7 +2554,7 @@ const movies = [
             "cinema": "Kinépolis Ciudad de la Imagen",
             "date": "2026-12-03",
             "time": "19:00",
-            "version": "VOSE"
+            
         }
     ]
 },
@@ -2611,7 +2606,7 @@ const movies = [
     "synopsis": "Viridiana, una joven novicia a punto de tomar los hábitos, visita a su tío antes de ingresar definitivamente en el convento. La visita desencadena una serie de acontecimientos que cambiarán por completo su vida y sus convicciones.",
     "screenings": [
         {
-            "cinema": "MK2 Cine Paz",
+            "cinema": "mk2 Cine Paz",
             "date": "2026-10-12",
             "time": "20:00"
         }
@@ -2675,10 +2670,10 @@ const movies = [
             "cinema": "Kinépolis Ciudad de la Imagen",
             "date": "2026-11-12",
             "time": "19:00",
-            "version": "VOSE"
+            
         },
         {
-            "cinema": "Cinesa Proyecciones",
+            "cinema": "Cinesa",
             "date": "2026-08-25",
             "time": "20:40"
         }
@@ -2773,7 +2768,7 @@ const movies = [
     "synopsis": "Elsa es una directora de publicidad cuya madre muere durante un largo puente de diciembre. Se refugia en el trabajo para evitar enfrentarse al duelo, hasta que un ataque de pánico la obliga a detenerse y replantearse su vida.",
     "screenings": [
         {
-            "cinema": "Cine de Verano de Las Cibeles",
+            "cinema": "Cibeles de Cine",
             "date": "2026-08-21",
             "time": "22:00"
         }
@@ -2804,7 +2799,7 @@ const movies = [
     "synopsis": "Brian O'Conner, un policía infiltrado, se introduce en el mundo de las carreras callejeras de Los Ángeles para investigar una serie de robos de camiones. Allí conoce a Dominic Toretto, el líder de una banda de corredores, y comienza a cuestionarse dónde está realmente su lealtad.",
     "screenings": [
         {
-            "cinema": "Cines de Verano Bombilla",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-28",
             "time": "22:00"
         }

@@ -59,20 +59,29 @@
                 </div>
             </div>
 
-            <!-- 3. ORDENAR POR (Con su etiqueta arriba) -->
-            <div class="controls">
-                <label for="sort-select">Ordenar por</label>
+<!-- 3. FILTRO POR CINE -->
+<div class="controls">
+    <label for="cinema-select">Cine</label>
 
-                <select id="sort-select">
-                    <option value="next-screening">Próxima proyección</option>
-                    <option value="title-asc">Título: A-Z</option>
-                    <option value="title-desc">Título: Z-A</option>
-                    <option value="duration-asc">Duración: menor a mayor</option>
-                    <option value="duration-desc">Duración: mayor a menor</option>
-                    <option value="release-asc">Estreno: más antiguo primero</option>
-                    <option value="release-desc">Estreno: más reciente primero</option>
-                </select>
-            </div>
+    <select id="cinema-select">
+        <option value="">Todos los cines</option>
+    </select>
+</div>
+
+<!-- 4. ORDENAR POR -->
+<div class="controls">
+    <label for="sort-select">Ordenar por</label>
+
+    <select id="sort-select">
+        <option value="next-screening">Próxima proyección</option>
+        <option value="title-asc">Título: A-Z</option>
+        <option value="title-desc">Título: Z-A</option>
+        <option value="duration-asc">Duración: menor a mayor</option>
+        <option value="duration-desc">Duración: mayor a menor</option>
+        <option value="release-asc">Estreno: más antiguo primero</option>
+        <option value="release-desc">Estreno: más reciente primero</option>
+    </select>
+</div>
 
         </div>
 
