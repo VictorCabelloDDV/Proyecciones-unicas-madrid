@@ -29,7 +29,8 @@ const movies = [
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-08-18",
-                "time": "21:15"
+                "time": "21:15",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -55,7 +56,8 @@ const movies = [
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-08-19",
-                "time": "21:15"
+                "time": "21:15",
+                "version": "Embajadores Río"
             },
             {
                 "cinema": "Sala Equis",
@@ -594,7 +596,7 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Renoir",
-                "date": "2026-09-07",
+                "date": "2026-09-17",
                 "time": "20:00"
             }
         ]
@@ -683,13 +685,9 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-08-18",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-08-19",
-                "time": "20:00"
+                "time": "20:00", 
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -872,6 +870,11 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-04",
                 "time": "12:00"
+            }, 
+            {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-17",
+            "time": "22:20"
             }
         ]
     },
@@ -1060,6 +1063,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-27",
                 "time": "12:00"
+            }, 
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-23",
+                "time": "12:00",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -1452,7 +1461,65 @@ const movies = [
         {
             "cinema": "Cines Embajadores",
             "date": "2026-08-22",
-            "time": "20:00"
+            "time": "19:55"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-23",
+            "time": "12:00"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-24",
+            "time": "22:30"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-21",
+            "time": "20:00",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-21",
+            "time": "21:10",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-22",
+            "time": "20:00",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-22",
+            "time": "21:10",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-23",
+            "time": "18:00",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-23",
+            "time": "20:30",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-24",
+            "time": "18:00",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-24",
+            "time": "20:30",
+            "version": "Embajadores Río"
         },
         {
             "cinema": "Cibeles de Cine",
@@ -1463,7 +1530,8 @@ const movies = [
         {
             "cinema": "Cinesa",
             "date": "2026-08-21",
-            "time": "19:35"
+            "time": "19:35",
+            "version": "Cinesas Xanadú/Las Rozas/Méndez Álvaro sólo"
         },
         {
             "cinema": "Sala Equis",
@@ -1736,7 +1804,7 @@ const movies = [
         {
             "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-20",
-            "time": "20:00",
+            "time": "22:00",
             "version": "Narración y música en directo"
         }
     ]
@@ -1790,12 +1858,17 @@ const movies = [
     ],
     "synopsis": "Durante las veinticuatro horas posteriores a un violento enfrentamiento con la policía, tres jóvenes de los suburbios de París afrontan la tensión, la frustración y la violencia de su entorno.",
     "screenings": [
-    {
-        "cinema": "Cines Embajadores",
-        "date": "2026-08-17",
-        "time": "20:00"
-    }
-]
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-17",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-22",
+            "time": "22:30"
+        }
+    ]
 },
 {
     "id": "los-400-golpes",
@@ -2003,6 +2076,11 @@ const movies = [
             "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-25",
             "time": "22:00"
+        },
+        {
+            "cinema": "Cibeles de Cine",
+            "date": "2026-09-02",
+            "time": "22:00"
         }
     ]
 },
@@ -2206,6 +2284,12 @@ const movies = [
             "cinema": "mk2 Cine Paz",
             "date": "2026-10-12",
             "time": "12:00"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-10-22",
+            "time": "16:00",
+            "version": "Doblada al Español"
         }
     ]
 },
@@ -2799,10 +2883,1591 @@ const movies = [
     "synopsis": "Brian O'Conner, un policía infiltrado, se introduce en el mundo de las carreras callejeras de Los Ángeles para investigar una serie de robos de camiones. Allí conoce a Dominic Toretto, el líder de una banda de corredores, y comienza a cuestionarse dónde está realmente su lealtad.",
     "screenings": [
         {
+            "cinema": "Cines Verdi",
+            "date": "2026-08-21",
+            "time": "22:30"
+        },
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-08-22",
+            "time": "22:30"
+        },
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-08-23",
+            "time": "22:30"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-21",
+            "time": "22:15",
+            "version": "4DX 2D · Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-22",
+            "time": "21:30",
+            "version": "4DX 2D · Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-23",
+            "time": "21:30",
+            "version": "Doblada al español"
+        },
+        {
             "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-08-28",
             "time": "22:00"
         }
     ]
-}
+},
+{
+    "id": "carretera-perdida",
+    "title": "Carretera perdida",
+    "originalTitle": "Lost Highway",
+    "poster": "images/carretera-perdida.jpg",
+    "director": "David Lynch",
+    "cast": [
+        "Bill Pullman",
+        "Patricia Arquette",
+        "Balthazar Getty",
+        "Robert Blake",
+        "Robert Loggia"
+    ],
+    "year": 1997,
+    "duration": 134,
+    "country": "Estados Unidos",
+    "genres": [
+        "Mystery",
+        "Thriller",
+        "Drama"
+    ],
+    "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-18",
+            "time": "22:30"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-22",
+            "time": "22:30",
+            "version": "Embajadores Río"
+        }
+    ]
+}, 
+{
+    "id": "la-virgen-de-agosto",
+    "title": "La virgen de agosto",
+    "originalTitle": "La virgen de agosto",
+    "poster": "images/la-virgen-de-agosto.jpg",
+    "director": "Jonás Trueba",
+    "cast": [
+        "Itsaso Arana",
+        "Vito Sanz",
+        "Joe Manjón",
+        "Isabelle Stoffel",
+        "Luis Heras"
+    ],
+    "year": 2019,
+    "duration": 129,
+    "country": "España",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Eva es una mujer de treinta y tres años que decide quedarse en Madrid durante el caluroso mes de agosto, mientras la mayoría de la gente se va de vacaciones. A lo largo de esos días de verbenas y reencuentros, irá descubriendo en la ciudad una oportunidad para reflexionar y empezar de nuevo.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-23",
+            "time": "21:00"
+        }
+    ]
+},
+{
+    "id": "moonrise-kingdom",
+    "title": "Moonrise Kingdom",
+    "originalTitle": "Moonrise Kingdom",
+    "poster": "images/moonrise-kingdom.jpg",
+    "director": "Wes Anderson",
+    "cast": [
+        "Jared Gilman",
+        "Kara Hayward",
+        "Bruce Willis",
+        "Edward Norton",
+        "Bill Murray",
+        "Frances McDormand"
+    ],
+    "year": 2012,
+    "duration": 94,
+    "country": "Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Romance"
+    ],
+    "synopsis": "Años 60. Familiares y amigos buscan a dos niños de doce años que se han enamorado y han decidido fugarse juntos de su pueblo natal en una isla de Nueva Inglaterra. Diversas autoridades intentan encontrarlos antes de que una tormenta azote la costa.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-17",
+            "time": "20:30",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-20",
+            "time": "22:30",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-21",
+            "time": "22:30",
+            "version": "Embajadores Río"
+        }
+    ]
+}, 
+{
+    "id": "mi-vecino-totoro",
+    "title": "Mi vecino Totoro",
+    "originalTitle": "Tonari no Totoro",
+    "poster": "images/mi-vecino-totoro.jpg",
+    "director": "Hayao Miyazaki",
+    "cast": [
+        "Noriko Hidaka",
+        "Chika Sakamoto",
+        "Hitoshi Takagi",
+        "Shigesato Itoi"
+    ],
+    "year": 1988,
+    "duration": 86,
+    "country": "Japón",
+    "genres": [
+        "Animación",
+        "Fantástico",
+        "Aventura"
+    ],
+    "synopsis": "En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espíritu del bosque, y viven fantásticas aventuras en un entorno natural lleno de magia.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-23",
+            "time": "16:00",
+            "version": "Doblada al español"
+        }
+    ]
+},
+{
+    "id": "pastoris",
+    "title": "Pastoris",
+    "originalTitle": "Pastoris",
+    "poster": "images/pastoris.jpg",
+    "director": "Pablo Moreno",
+    "cast": [
+        "Raúl Escudero",
+        "Laura Contreras",
+        "Carlos Paca",
+        "Sergio Cardoso"
+    ],
+    "year": 2024,
+    "duration": 95,
+    "country": "España",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Domingo, que ha sido dado por muerto en la guerra, regresa a su casa. Todo ha cambiado, incluso los suyos. Ahora él es la pieza que no encaja en la sociedad. Surge la posibilidad de un trabajo: pastorear un rebaño de ovejas desde Salamanca a Extremadura. Domingo inicia el viaje a través de la vía pecuaria, afrontando los peligros del camino y los de su propio interior.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-24",
+            "time": "20:15",
+            "version": "Coloquio con el director"
+        }
+    ]
+},
+{
+    "id": "begin-again",
+    "title": "Begin Again",
+    "originalTitle": "Begin Again",
+    "poster": "images/begin-again.jpg",
+    "director": "John Carney",
+    "cast": [
+        "Keira Knightley",
+        "Mark Ruffalo",
+        "Adam Levine",
+        "Hailee Steinfeld",
+        "James Corden"
+    ],
+    "year": 2013,
+    "duration": 104,
+    "country": "Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Musica",
+        "Romance"
+    ],
+    "synopsis": "Gretta y su novio de toda la vida Dave viajan a Nueva York cuando él consigue un contrato con una gran discográfica. Pero las tentaciones de la fama pronto alejan a Dave. Desconsolada, Gretta conoce a Dan, un productor discográfico en horas bajas que queda cautivado por su talento mientras la escucha actuar en un bar de East Village.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-24",
+            "time": "20:00"
+        
+        }
+    ]
+}, 
+{
+    "id": "fresas-salvajes",
+    "title": "Fresas salvajes",
+    "originalTitle": "Smultronstället",
+    "poster": "images/fresas-salvajes.jpg",
+    "director": "Ingmar Bergman",
+    "cast": [
+        "Victor Sjöström",
+        "Bibi Andersson",
+        "Ingrid Thulin",
+        "Gunnar Björnstrand"
+    ],
+    "year": 1957,
+    "duration": 91,
+    "country": "Suecia",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Un anciano profesor de medicina, Isak Borg, viaja en coche desde Estocolmo hasta Lund con su nuera para recibir un homenaje académico. A lo largo del trayecto, los encuentros con diversos personajes y los vívidos recuerdos y sueños de su juventud le llevan a reflexionar sobre su vida, su egoísmo y sus relaciones personales.",
+    "screenings": [
+        {
+            "cinema": "Cines Renoir",
+            "date": "2026-09-15",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "harry-potter-y-la-piedra-filosofal",
+    "title": "Harry Potter y la piedra filosofal",
+    "originalTitle": "Harry Potter and the Sorcerer's Stone",
+    "poster": "images/harry-potter-y-la-piedra-filosofal.jpg",
+    "director": "Chris Columbus",
+    "cast": [
+        "Daniel Radcliffe",
+        "Rupert Grint",
+        "Emma Watson",
+        "Robbie Coltrane",
+        "Richard Harris",
+        "Alan Rickman",
+        "Maggie Smith"
+    ],
+    "year": 2001,
+    "duration": 152,
+    "country": "Reino Unido, Estados Unidos",
+    "genres": [
+        "Fantástico",
+        "Aventura",
+        "Familiar"
+    ],
+    "synopsis": "El día de su undécimo cumpleaños, Harry Potter descubre que es hijo de dos conocidos hechiceros y que posee poderes mágicos. Tras ser invitado a estudiar en el Colegio Hogwarts de Magia y Hechicería, inicia una aventura en la que descubrirá la verdad sobre el pasado de sus padres y la amenaza del malvado Lord Voldemort.",
+"screenings": [
+        {
+            "cinema": "Cibeles de Cine",
+            "date": "2026-08-29",
+            "time": "22:00"
+        },
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-09-03",
+            "time": "20:30"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-28",
+            "time": "15:45",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-28",
+            "time": "19:15",
+            "version": "VOSE · Cinesa Proyecciones"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-28",
+            "time": "19:15",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-28",
+            "time": "20:30",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-29",
+            "time": "15:45",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-29",
+            "time": "19:15",
+            "version": "VOSE · Cinesa Proyecciones"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-29",
+            "time": "19:15",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-29",
+            "time": "20:30",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-30",
+            "time": "15:45",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-30",
+            "time": "19:15",
+            "version": "VOSE · Cinesa Proyecciones"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-30",
+            "time": "19:15",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-30",
+            "time": "20:30",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-28",
+            "time": "16:15",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-28",
+            "time": "19:30",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-28",
+            "time": "16:00",
+            "version": "VOSE"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-28",
+            "time": "19:15",
+            "version": "VOSE"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-29",
+            "time": "16:15",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-29",
+            "time": "19:30",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-29",
+            "time": "16:00",
+            "version": "VOSE"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-29",
+            "time": "19:15",
+            "version": "VOSE"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-30",
+            "time": "16:15",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-30",
+            "time": "19:30",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-30",
+            "time": "16:00",
+            "version": "VOSE"
+        },
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-08-30",
+            "time": "19:15",
+            "version": "VOSE"
+        }
+    ]
+},
+{
+    "id": "en-el-nombre-del-padre",
+    "title": "En el nombre del padre",
+    "originalTitle": "In the Name of the Father",
+    "poster": "images/en-el-nombre-del-padre.jpg",
+    "director": "Jim Sheridan",
+    "cast": [
+        "Daniel Day-Lewis",
+        "Pete Postlethwaite",
+        "Emma Thompson",
+        "John Lynch"
+    ],
+    "year": 1993,
+    "duration": 133,
+    "country": "Irlanda, Reino Unido",
+    "genres": [
+        "Drama",
+        "Biográfico",
+        "Drama judicial"
+    ],
+    "synopsis": "Belfast, años 70. Gerry es injustamente acusado de participar en un atentado del IRA en Guildford y condenado a cadena perpetua junto a su padre Giuseppe. En prisión, Gerry descubre la fuerza interior de su padre mientras una abogada entregada a la causa lucha por demostrar su inocencia y destapar uno de los mayores errores judiciales de la historia de Reino Unido.",
+    "screenings": [
+        {
+            "cinema": "Cine de Verano de La Bombilla",
+            "date": "2026-08-29",
+            "time": "22:00",
+            "version": "Concierto tributo U2 a las 21:15"
+        }
+    ]
+},
+{
+    "id": "mudras-bailando-los-hilos-invisibles",
+    "title": "Mudras. Bailando los hilos invisibles",
+    "originalTitle": "Mudras. Bailando los hilos invisibles",
+    "poster": "images/mudras-bailando-los-hilos-invisibles.jpg",
+    "director": "Bobby Bedi",
+    "cast": [
+        "Mónica de la Fuente",
+        "Nazaré de la Fuente"
+    ],
+    "year": 2024,
+    "duration": 75,
+    "country": "España, India",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "A principios de los 90, la bailarina Mónica de la Fuente viajó a la India descubriendo sus artes escénicas tradicionales. Treinta años después, su hija Nazaré, con la misma edad que tenía su madre entonces, recorre los mismos lugares. Lo que empieza como un viaje artístico se convierte en una exploración sobre la memoria, la herencia y la danza que une a dos generaciones entre España e India.",
+    "screenings": [
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-09-10",
+            "time": "18:15",
+            "version": "Coloquio con el equipo de la película"
+        }
+    ]
+},
+{
+    "id": "bohemian-rhapsody",
+    "title": "Bohemian Rhapsody",
+    "originalTitle": "Bohemian Rhapsody",
+    "poster": "images/bohemian-rhapsody.jpg",
+    "director": "Bryan Singer",
+    "cast": [
+        "Rami Malek",
+        "Lucy Boynton",
+        "Gwilym Lee",
+        "Ben Hardy",
+        "Joseph Mazzello",
+        "Aidan Gillen"
+    ],
+    "year": 2018,
+    "duration": 134,
+    "country": "Reino Unido, Estados Unidos",
+    "genres": [
+        "Drama",
+        "Biográfico",
+        "Musical"
+    ],
+    "synopsis": "Retrato de la banda Queen y de su carismático cantante Freddie Mercury, desde sus inicios en los años 70 hasta su mítica actuación en el concierto Live Aid de 1985 en el estadio de Wembley.",
+    "screenings": [
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-18",
+            "time": "19:35"
+        }
+    ]
+},
+{
+    "id": "mamma-mia",
+    "title": "Mamma Mia!",
+    "originalTitle": "Mamma Mia!",
+    "poster": "images/mamma-mia.jpg",
+    "director": "Phyllida Lloyd",
+    "cast": [
+        "Meryl Streep",
+        "Pierce Brosnan",
+        "Colin Firth",
+        "Stellan Skarsgård",
+        "Julie Walters",
+        "Amanda Seyfried",
+        "Christine Baranski"
+    ],
+    "year": 2008,
+    "duration": 108,
+    "country": "Reino Unido, Estados Unidos",
+    "genres": [
+        "Musical",
+        "Comedia",
+        "Romance"
+    ],
+    "synopsis": "Sophie, una joven a punto de casarse en una idílica isla griega, invita a la boda a tres hombres del pasado de su madre con la esperanza de averiguar quién de ellos es su verdadero padre, todo a ritmo de los grandes éxitos de ABBA.",
+    "screenings": [
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-20",
+            "time": "19:35",
+            "version": "Doblada al español"
+        }
+    ]
+},
+{
+    "id": "el-gran-showman",
+    "title": "El gran showman",
+    "originalTitle": "The Greatest Showman",
+    "poster": "images/el-gran-showman.jpg",
+    "director": "Michael Gracey",
+    "cast": [
+        "Hugh Jackman",
+        "Zendaya",
+        "Zac Efron",
+        "Michelle Williams",
+        "Rebecca Ferguson"
+    ],
+    "year": 2017,
+    "duration": 105,
+    "country": "Estados Unidos",
+    "genres": [
+        "Musical",
+        "Drama",
+        "Biográfico"
+    ],
+    "synopsis": "Un musical fascinante e inspirador que celebra el nacimiento del negocio del espectáculo y la historia del visionario P.T. Barnum, quien partió de la nada para crear un espectáculo que se convirtió en una sensación mundial.",
+    "screenings": [
+        {
+            "cinema": "Cinesa",
+            "date": "2026-08-19",
+            "time": "19:35",
+            "version": "En Cinesa Equinoccio/Loranca/Oasiz sólo"
+        }
+    ]
+},
+{
+    "id": "love-actually",
+    "title": "Love Actually",
+    "originalTitle": "Love Actually",
+    "poster": "images/love-actually.jpg",
+    "director": "Richard Curtis",
+    "cast": [
+        "Hugh Grant",
+        "Liam Neeson",
+        "Colin Firth",
+        "Laura Linney",
+        "Emma Thompson",
+        "Alan Rickman",
+        "Keira Knightley",
+        "Bill Nighy"
+    ],
+    "year": 2003,
+    "duration": 135,
+    "country": "Reino Unido, Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Romance",
+        "Drama"
+    ],
+    "synopsis": "En Londres, poco antes de las navidades, se entrelazan varias historias de amor y desamor. Desde el nuevo primer ministro hasta una vieja estrella del rock, pasando por un escritor despechado o una novia en apuros, todos se enfrentan a los altibajos del corazón en la época más mágica del año.",
+    "screenings": [
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-12-17",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "parada-en-el-infierno",
+    "title": "Parada en el infierno",
+    "originalTitle": "Stop Over in Hell",
+    "poster": "images/parada-en-el-infierno.jpg",
+    "director": "Víctor Matellano",
+    "cast": [
+        "Tania Watson",
+        "Pablo Scola",
+        "Veki Velilla",
+        "Denis Rafter",
+        "Nadia de Santiago",
+        "Manuel Bandera"
+    ],
+    "year": 2016,
+    "duration": 91,
+    "country": "España",
+    "genres": [
+        "Western",
+        "Thriller",
+        "Acción"
+    ],
+    "synopsis": "Ernest y Chris regentan una parada de inteligencias en un recóndito lugar del Oeste americano. Su tranquilidad se rompe de forma salvaje cuando irrumpe un despiadado grupo de facinerosos liderado por el Coronel a la espera de un cargamento de oro, convirtiendo el lugar en un sangriento juego de supervivencia.",
+    "screenings": [
+        {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-09-10",
+            "time": "22:00",
+            "version": "Coloquio con el equipo de la película"
+        }
+    ]
+},
+{
+    "id": "gaua",
+    "title": "Gaua",
+    "originalTitle": "Gaua",
+    "poster": "images/gaua.jpg",
+    "director": "Paul Urkijo Alijo",
+    "cast": [
+        "Yune Nogueiras",
+        "Elena Uriz"
+    ],
+    "year": 2024,
+    "duration": 60,
+    "country": "España",
+    "genres": [
+        "Terror",
+        "Fantástico"
+    ],
+    "synopsis": "En una noche en la Europa del siglo XVII, una joven que camina por el bosque para huir de unos cazadores de brujas se topa con unas misteriosas ancianas que están lavando ropa al borde del río.",
+    "screenings": [
+        {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-09-12",
+            "time": "22:00"
+        }
+    ]
+},
+{
+    "id": "asalto-a-la-comisaria-del-distrito-13",
+    "title": "Asalto a la comisaría del distrito 13",
+    "originalTitle": "Assault on Precinct 13",
+    "poster": "images/asalto-a-la-comisaria-del-distrito-13.jpg",
+    "director": "John Carpenter",
+    "cast": [
+        "Austin Stoker",
+        "Darwin Joston",
+        "Laurie Zim",
+        "Martin West"
+    ],
+    "year": 1976,
+    "duration": 91,
+    "country": "Estados Unidos",
+    "genres": [
+        "Acción",
+        "Thriller",
+        "Crimen"
+    ],
+    "synopsis": "Un policía en su primera noche de servicio debe unir fuerzas con los prisioneros de una comisaría a punto de cerrar para defenderse del asedio inminente de una sangrienta banda callejera.",
+    "screenings": [
+        {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-10-24",
+            "time": "22:00"
+        }
+    ]
+},
+{
+    "id": "depredador-2",
+    "title": "Depredador 2",
+    "originalTitle": "Predator 2",
+    "poster": "images/depredador-2.jpg",
+    "director": "Stephen Hopkins",
+    "cast": [
+        "Danny Glover",
+        "Gary Busey",
+        "Rubén Blades",
+        "Maria Conchita Alonso",
+        "Bill Paxton"
+    ],
+    "year": 1990,
+    "duration": 108,
+    "country": "Estados Unidos",
+    "genres": [
+        "Acción",
+        "Ciencia ficción",
+        "Terror"
+    ],
+    "synopsis": "Un extraterrestre cazador llega a una calurosa ciudad de Los Ángeles sumida en una brutal guerra entre bandas de narcotraficantes. Un veterano policía intentará atrapar a la criatura antes de convertirse en su próxima presa.",
+    "screenings": [
+        {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-11-21",
+            "time": "22:00"
+        }
+    ]
+},
+{
+    "id": "horizonte-final",
+    "title": "Horizonte Final",
+    "originalTitle": "Event Horizon",
+    "poster": "images/horizonte-final.jpg",
+    "director": "Paul W.S. Anderson",
+    "cast": [
+        "Laurence Fishburne",
+        "Sam Neill",
+        "Kathleen Quinlan",
+        "Joely Richardson",
+        "Jason Isaacs"
+    ],
+    "year": 1997,
+    "duration": 96,
+    "country": "Reino Unido, Estados Unidos",
+    "genres": [
+        "Ciencia ficción",
+        "Terror"
+    ],
+    "synopsis": "En el año 2047, una nave de rescate es enviada a investigar la reaparición de la 'Event Horizon', una nave experimental desaparecida siete años atrás en los confines del sistema solar. Al abordar la nave, la tripulación descubrirá que algo aterrador ha regresado con ella.",
+    "screenings": [
+        {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-12-19",
+            "time": "22:00"
+        }
+    ]
+},
+{
+        "id": "la-iguana",
+        "title": "La iguana",
+        "originalTitle": "Iguana",
+        "poster": "images/la-iguana.jpg",
+        "director": "Monte Hellman",
+        "cast": [
+            "Everett McGill",
+            "Michael Madsen",
+            "Fabio Testi",
+            "Maru Valdivielso"
+        ],
+        "year": 1988,
+        "duration": 88,
+        "country": "Estados Unidos, Italia, España",
+        "genres": [
+            "Drama",
+            "Aventura"
+        ],
+        "synopsis": "Un marinero deforme y maltratado por la tripulación de su barco decide rebelarse y escapar a una isla desierta de las Galápagos, donde se proclama rey y declara la guerra al resto de la humanidad.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-18",
+                "time": "18:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-27",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "quiz-show-el-dilema",
+        "title": "Quiz Show (El dilema)",
+        "originalTitle": "Quiz Show",
+        "poster": "images/quiz-show-el-dilema.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "John Turturro",
+            "Ralph Fiennes",
+            "Rob Morrow",
+            "Paul Scofield",
+            "Mira Sorvino"
+        ],
+        "year": 1994,
+        "duration": 133,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Historia"
+        ],
+        "synopsis": "A finales de los años 50, el concurso de televisión 'Twenty-One' arrasa en audiencia. Cuando un modesto concursante es obligado a perder para dejar paso a un atractivo profesor universitario, se desata un escándalo de corrupción y manipulación mediática.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-18",
+                "time": "20:30",
+                "version": "Proyección en 35 mm"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-27",
+                "time": "22:00",
+                "version": "Proyección en 35 mm"
+            }
+        ]
+    },
+    {
+        "id": "un-lugar-llamado-milagro",
+        "title": "Un lugar llamado Milagro",
+        "originalTitle": "The Milagro Beanfield War",
+        "poster": "images/un-lugar-llamado-milagro.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "Rubén Blades",
+            "Sônia Braga",
+            "Christopher Walken",
+            "John Heard",
+            "Melanie Griffith"
+        ],
+        "year": 1988,
+        "duration": 117,
+        "country": "Estados Unidos",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Fantástico"
+        ],
+        "synopsis": "En un pequeño pueblo de Nuevo México, un agricultor decide regar ilegalmente su parcela de judías usando agua de un proyecto urbanístico, desencadenando un conflicto entre la comunidad local y los grandes especuladores.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-19",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "el-dependiente",
+        "title": "El dependiente",
+        "originalTitle": "El dependiente",
+        "poster": "images/el-dependiente.jpg",
+        "director": "Leonardo Favio",
+        "cast": [
+            "Walter Vidarte",
+            "Graciela Borges",
+            "Fernando Iglesias",
+            "Nora Cullen"
+        ],
+        "year": 1969,
+        "duration": 87,
+        "country": "Argentina",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Fernández es el maduro dependiente de una ferretería cuyo dueño está muy enfermo. Espera con ansias la muerte del anciano para heredar el negocio, mientras entabla una extraña relación con una joven del pueblo.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-19",
+                "time": "20:30",
+                "version": "Proyección en 35 mm"
+            }
+        ]
+    },
+    {
+        "id": "route-irish",
+        "title": "Route Irish",
+        "originalTitle": "Route Irish",
+        "poster": "images/route-irish.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Mark Womack",
+            "Andrea Lowe",
+            "John Bishop",
+            "Geoff Bell"
+        ],
+        "year": 2010,
+        "duration": 109,
+        "country": "Reino Unido, Francia",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "synopsis": "Tras la muerte de su mejor amigo en la peligrosa carretera que une el aeropuerto de Bagdad con la Zona Verde, un contratista de seguridad privada rechaza la versión oficial y emprende su propia investigación en Liverpool.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-19",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "en-un-mundo-libre",
+        "title": "En un mundo libre...",
+        "originalTitle": "It's a Free World...",
+        "poster": "images/en-un-mundo-libre.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Kierston Wareing",
+            "Juliet Ellis",
+            "Leslaw Zurek",
+            "Colin Caughlin"
+        ],
+        "year": 2007,
+        "duration": 96,
+        "country": "Reino Unido, Italia, Alemania, España",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Tras ser despedida de una empresa de trabajo temporal, una ambiciosa mujer decide montar su propia agencia informal de contratación de inmigrantes ilegales, entrando en una espiral de explotación moralmente cuestionable.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-20",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "kinetta",
+        "title": "Kinetta",
+        "originalTitle": "Kinetta",
+        "poster": "images/kinetta.jpg",
+        "director": "Yorgos Lanthimos",
+        "cast": [
+            "Evangelia Randou",
+            "Aris Servetalis",
+            "Costas Xikominos"
+        ],
+        "year": 2005,
+        "duration": 95,
+        "country": "Grecia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "En una desierta ciudad costera griega fuera de temporada, un policía obsesionado con los coches, una camarera de hotel y un fotógrafo se dedican a recrear minuciosamente violentos crímenes reales ocurridos en la zona.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-20",
+                "time": "20:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-28",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "la-conspiracion",
+        "title": "La conspiración",
+        "originalTitle": "The Conspirator",
+        "poster": "images/la-conspiracion.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "James McAvoy",
+            "Robin Wright",
+            "Kevin Kline",
+            "Evan Rachel Wood",
+            "Tom Wilkinson"
+        ],
+        "year": 2010,
+        "duration": 122,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Historia"
+        ],
+        "synopsis": "Tras el asesinato de Abraham Lincoln, siete hombres y una mujer son arrestados. Un joven héroe de la Guerra Civil es encargado de defender a Mary Surratt, la única mujer acusada de formar parte del complot para acabar con el presidente.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-20",
+                "time": "22:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-28",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "la-ruta-de-salina",
+        "title": "La ruta de Salina",
+        "originalTitle": "La route de Salina",
+        "poster": "images/la-ruta-de-salina.jpg",
+        "director": "Georges Lautner",
+        "cast": [
+            "Mimsy Farmer",
+            "Robert Walker Jr.",
+            "Rita Hayworth",
+            "Ed Begley"
+        ],
+        "year": 1970,
+        "duration": 96,
+        "country": "Francia, Italia",
+        "genres": [
+            "Drama",
+            "Misterio"
+        ],
+        "synopsis": "Un joven hippy errante llega a una gasolinera aislada en el desierto donde la dueña y su atractiva hija confunden al forastero con su hijo y hermano desaparecido años atrás, sumergiéndolo en una turbia dinámica familiar.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-21",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "sonar-sonar",
+        "title": "Soñar, soñar",
+        "originalTitle": "Soñar, soñar",
+        "poster": "images/sonar-sonar.jpg",
+        "director": "Leonardo Favio",
+        "cast": [
+            "Carlos Monzón",
+            "Gian Franco Pagliaro",
+            "Nora Cullen"
+        ],
+        "year": 1976,
+        "duration": 85,
+        "country": "Argentina",
+        "genres": [
+            "Comedia",
+            "Drama"
+        ],
+        "synopsis": "Carlos, un joven mecánico ingenuo y soñador, conoce a El Rulo, un buscavidas que le promete una vida de aventuras y éxito artístico. Convencidos de que pueden triunfar como artistas, ambos viajan a Buenos Aires para perseguir la fama, pero pronto descubren que sus sueños chocan con una realidad mucho más dura de lo que esperaban.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-21",
+                "time": "20:30",
+                "version": "Proyección en 35 mm"
+            }
+        ]
+    },
+    {
+        "id": "jimmys-hall",
+        "title": "Jimmy's Hall",
+        "originalTitle": "Jimmy's Hall",
+        "poster": "images/jimmys-hall.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Barry Ward",
+            "Simone Kirby",
+            "Jim Norton",
+            "Andrew Scott"
+        ],
+        "year": 2014,
+        "duration": 109,
+        "country": "Reino Unido, Irlanda, Francia",
+        "genres": [
+            "Drama",
+            "Historia"
+        ],
+        "synopsis": "En 1932, tras diez años de exilio en Estados Unidos, el activista político Jimmy Gralton regresa a su Irlanda natal para reabrir un centro comunitario y de baile, chocando frontalmente con la Iglesia y las autoridades locales.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-21",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "el-espiritu-del-45",
+        "title": "El espíritu del 45",
+        "originalTitle": "The Spirit of '45",
+        "poster": "images/el-espiritu-del-45.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Documental"
+        ],
+        "year": 2013,
+        "duration": 94,
+        "country": "Reino Unido",
+        "genres": [
+            "Documental",
+            "Historia"
+        ],
+        "synopsis": "Documental que examina el espíritu de unidad nacional que floreció en el Reino Unido tras la Segunda Guerra Mundial y que llevó a la creación del Estado del bienestar, la sanidad pública y la nacionalización de los servicios básicos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-22",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "la-isla-de-la-muerte",
+        "title": "La isla de la muerte",
+        "originalTitle": "Island of the Doomed",
+        "poster": "images/la-isla-de-la-muerte.jpg",
+        "director": "Mel Welles",
+        "cast": [
+            "Cameron Mitchell",
+            "Elisa Montés",
+            "George Martin",
+            "Rolf von Nauckhoff"
+        ],
+        "year": 1967,
+        "duration": 88,
+        "country": "España, Alemania del Este",
+        "genres": [
+            "Terror",
+            "Ciencia ficción"
+        ],
+        "synopsis": "Un grupo de científicos e invitados llega a una remota isla del Mediterráneo donde un misterioso botánico ha creado una especie silvestre de planta carnívora mutante alimentada con sangre humana.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-22",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "pacto-de-silencio",
+        "title": "Pacto de silencio",
+        "originalTitle": "The Company You Keep",
+        "poster": "images/pacto-de-silencio.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "Robert Redford",
+            "Shia LaBeouf",
+            "Julie Christie",
+            "Susan Sarandon",
+            "Nick Nolte",
+            "Stanley Tucci"
+        ],
+        "year": 2012,
+        "duration": 121,
+        "country": "Estados Unidos",
+        "genres": [
+            "Thriller",
+            "Drama"
+        ],
+        "synopsis": "Jim Grant es un antiguo radical pacifista de los Weather Underground que lleva treinta años viviendo en secreto como abogado. Cuando un joven e inquisitivo periodista descubre su verdadera identidad, Grant se ve obligado a emprender la huida para limpiar su nombre.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-22",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "la-parte-de-los-angeles",
+        "title": "La parte de los ángeles",
+        "originalTitle": "The Angels' Share",
+        "poster": "images/la-parte-de-los-angeles.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Paul Brannigan",
+            "John Henshaw",
+            "Gary Maitland",
+            "Jasmin Riggins",
+            "William Ruane"
+        ],
+        "year": 2012,
+        "duration": 101,
+        "country": "Reino Unido, Francia",
+        "genres": [
+            "Comedia",
+            "Drama"
+        ],
+        "synopsis": "Robbie es un joven escocés de Glasgow con un pasado delictivo a punto de ser padre. Evita la cárcel al ser condenado a trabajos comunitarios, donde conoce a un educador social que les introduce a él y a sus compañeros en el apasionante mundo del whisky de malta.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-23",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+    "id": "juan-moreira",
+    "title": "Juan Moreira",
+    "originalTitle": "Juan Moreira",
+    "poster": "images/juan-moreira.jpg",
+    "director": "Leonardo Favio",
+    "cast": [
+        "Rodolfo Bebán",
+        "Jorge Villalba",
+        "Pablo Cumo",
+        "Elcira Olivera Garcés",
+        "Edgardo Suárez"
+    ],
+    "year": 1973,
+    "duration": 98,
+    "country": "Argentina",
+    "genres": [
+        "Drama",
+        "Historia",
+        "Western"
+    ],
+    "synopsis": "A finales del siglo XIX, Juan Moreira es un gaucho bueno, trabajador y respetado que solo busca vivir en paz con su esposa y su hijo. Su destino cambia drásticamente cuando el teniente alcalde del pueblo se niega a pagarle una deuda y, ante sus quejas, lo castiga y humilla públicamente, obligándolo a convertirse en un fuera de la ley.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-08-23",
+            "time": "20:30"
+        }
+    ]
+},
+    {
+        "id": "la-leyenda-de-bagger-vance",
+        "title": "La leyenda de Bagger Vance",
+        "originalTitle": "The Legend of Bagger Vance",
+        "poster": "images/la-leyenda-de-bagger-vance.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "Will Smith",
+            "Matt Damon",
+            "Charlize Theron",
+            "Bruce McGill",
+            "Jack Lemmon"
+        ],
+        "year": 2000,
+        "duration": 126,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Deporte"
+        ],
+        "synopsis": "Tras regresar traumatizado de la Primera Guerra Mundial, un prometedor golfista ha perdido su swing y su pasión por la vida. Su oportunidad de redención llega con un torneo benéfico y la repentina aparición de un enigmático caddy llamado Bagger Vance.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-25",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "la-cuadrilla",
+        "title": "La cuadrilla",
+        "originalTitle": "The Navigators",
+        "poster": "images/la-cuadrilla.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Dean Andrews",
+            "Thomas Craig",
+            "Joe Duttine",
+            "Steve Huison",
+            "Venn Tracey"
+        ],
+        "year": 2001,
+        "duration": 96,
+        "country": "Reino Unido, Alemania, España",
+        "genres": [
+            "Drama",
+            "Comedia"
+        ],
+        "synopsis": "A mediados de los años 90, la privatización del sistema ferroviario británico afecta directamente a una cuadrilla de trabajadores en Yorkshire. Entre la incertidumbre laboral y los despidos, el grupo lucha por mantener su dignidad y sentido del compañerismo.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-25",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "el-rio-de-la-vida",
+        "title": "El río de la vida",
+        "originalTitle": "A River Runs Through It",
+        "poster": "images/el-rio-de-la-vida.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "Craig Sheffer",
+            "Brad Pitt",
+            "Tom Skerritt",
+            "Brenda Blethyn",
+            "Emily Lloyd"
+        ],
+        "year": 1992,
+        "duration": 123,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "En la Montana de principios del siglo XX, dos hermanos, hijos de un estricto pastor presbiteriano, crecen unidos por la pasión compartida por la pesca con mosca, aunque sus caminos vitales acaban tomando rumbos muy opuestos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-26",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "more",
+        "title": "More",
+        "originalTitle": "More",
+        "poster": "images/more.jpg",
+        "director": "Barbet Schroeder",
+        "cast": [
+            "Mimsy Farmer",
+            "Klaus Grünberg",
+            "Heinz Engelmann",
+            "Michel Chanderli"
+        ],
+        "year": 1969,
+        "duration": 116,
+        "country": "Francia, Alemania, Luxemburgo",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Un estudiante alemán viaja a París a finales de los 60, donde conoce a una enigmática joven estadounidense. Juntos viajan a la isla de Ibiza, sumergiéndose en el movimiento hippie y en una destructiva espiral de adicción a las drogas con banda sonora de Pink Floyd.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-26",
+                "time": "20:30"
+            }
+        ]
+    },
+{
+    "id": "nazareno-cruz-y-el-lobo",
+    "title": "Nazareno Cruz y el lobo",
+    "originalTitle": "Nazareno Cruz y el lobo",
+    "poster": "images/nazareno-cruz-y-el-lobo.jpg",
+    "director": "Leonardo Favio",
+    "cast": [
+        "Juan José Camero",
+        "Marina Magali",
+        "Alfredo Alcón",
+        "Lautaro Murúa"
+    ],
+    "year": 1975,
+    "duration": 101,
+    "country": "Argentina",
+    "genres": [
+        "Fantástico",
+        "Drama",
+        "Terror"
+    ],
+    "synopsis": "Nazareno Cruz es un joven campesino sobre el que pesa una antigua superstición al ser el séptimo hijo varón. Aunque crece libre de la maldición y lleva una vida tranquila, todo cambia cuando se enamora de Griselda y la leyenda del Lobizón se activa irrevocablemente.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-08-26",
+            "time": "22:00",
+            "version": "Proyección en 35 mm"
+        }
+    ]
+},
+    {
+        "id": "cuando-eramos-jovenes",
+        "title": "We Were Young",
+        "originalTitle": "A byahme mladi (We Were Young)",
+        "poster": "images/cuando-eramos-jovenes.jpg",
+        "director": "Binka Zhelyazkova",
+        "cast": [
+            "Dimitar Buynozov",
+            "Rumyana Karabelova",
+            "Lyudmila Cheshmedzhieva",
+            "Georgi Georgiev-Getz"
+        ],
+        "year": 1961,
+        "duration": 110,
+        "country": "Bulgaria",
+        "genres": [
+            "Drama",
+            "Guerra"
+        ],
+        "synopsis": "Durante la Segunda Guerra Mundial en Sofía, un grupo de jóvenes miembros de la resistencia antifascista vive sus primeros amores, ideales e ilusiones bajo la constante sombra del peligro y la traición.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-27",
+                "time": "18:00",
+                "version": "VOSE"
+            }
+        ]
+    },
+{
+    "id": "the-bright-and-dark-sides-of-things",
+    "title": "The Bright and Dark Sides of Things",
+    "originalTitle": "Lice i opako",
+    "poster": "images/the-bright-and-dark-sides-of-things.jpg",
+    "director": "Binka Zhelyazkova",
+    "cast": [
+        "Documental"
+    ],
+    "year": 1982,
+    "duration": 129,
+    "country": "Bulgaria",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Impactante documental sobre la vida y el sufrimiento de las mujeres en la cárcel de Sliven (Bulgaria) que dan a luz a sus hijos tras los barrotes. A través de sus desgarradores testimonios, la cineasta plantea cuestiones fundamentales sobre la culpa, el arrepentimiento y la redención. Prohibida por el régimen, no se estrenó hasta 1990.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-08-28",
+            "time": "18:00",
+            "version": "VOSE · Proyección en 35 mm"
+        }
+    ]
+},
+    {
+        "id": "el-hombre-que-susurraba-a-los-caballos",
+        "title": "El hombre que susurraba a los caballos",
+        "originalTitle": "The Horse Whisperer",
+        "poster": "images/el-hombre-que-susurraba-a-los-caballos.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "Robert Redford",
+            "Kristin Scott Thomas",
+            "Scarlett Johansson",
+            "Sam Neill",
+            "Dianne Wiest"
+        ],
+        "year": 1998,
+        "duration": 169,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Tras sufrir un grave accidente a caballo junto a su mejor amiga, la joven Grace y su caballo quedan traumatizados. Su madre viaja hasta Montana en busca de Tom Booker, un conocido 'susurrador' con un don especial para curar a los caballos y a las personas.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-29",
+                "time": "18:00"
+            }
+        ]
+    },
+{
+    "id": "life-flows-slowly-by",
+    "title": "Life Flows Slowly By...",
+    "originalTitle": "Zhivotat si teche tiho...",
+    "poster": "images/life-flows-slowly-by.jpg",
+    "director": "Binka Zhelyazkova, Hristo Ganev",
+    "cast": [
+        "Apostol Karamitev",
+        "Lyubomir Kabakchiev",
+        "Gani Staikov"
+    ],
+    "year": 1957,
+    "duration": 112,
+    "country": "Bulgaria",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Años después del fin de la contienda, un grupo de antiguos partisanos antifascistas se reencuentra en la Bulgaria socialista para descubrir con amargura cómo los ideales de su juventud han dado paso al distanciamiento, la burocracia y el desencanto.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-08-29",
+            "time": "21:30",
+            "version": "VOSE · Proyección en 35 mm"
+        }
+    ]
+},
+    {
+        "id": "yo-daniel-blake",
+        "title": "Yo, Daniel Blake",
+        "originalTitle": "I, Daniel Blake",
+        "poster": "images/yo-daniel-blake.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Dave Johns",
+            "Hayley Squires",
+            "Sharon Percy",
+            "Briana Shann"
+        ],
+        "year": 2016,
+        "duration": 100,
+        "country": "Reino Unido, Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Daniel Blake, un carpintero inglés de 59 años, se ve obligado a acudir a las ayudas sociales tras sufrir un problema cardíaco. A pesar de los médicos, la burocracia estatal le obliga a buscar trabajo mientras entabla amistad con Katie, una madre soltera en una situación similar.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-29",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "felices-16",
+        "title": "Felices 16",
+        "originalTitle": "Sweet Sixteen",
+        "poster": "images/felices-16.jpg",
+        "director": "Ken Loach",
+        "cast": [
+            "Martin Compston",
+            "Annmarie Fulton",
+            "William Ruane",
+            "Michelle Abercromby"
+        ],
+        "year": 2002,
+        "duration": 106,
+        "country": "Reino Unido, Alemania, España",
+        "genres": [
+            "Drama",
+            "Crimen"
+        ],
+        "synopsis": "Liam es un adolescente de 15 años de Greenock que sueña con reunir dinero suficiente para comprar un hogar donde vivir junto a su madre cuando esta salga de prisión. Para lograrlo se adentra en el peligroso mundo del tráfico de drogas local.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-30",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "leones-por-corderos",
+        "title": "Leones por corderos",
+        "originalTitle": "Lions for Lambs",
+        "poster": "images/leones-por-corderos.jpg",
+        "director": "Robert Redford",
+        "cast": [
+            "Robert Redford",
+            "Meryl Streep",
+            "Tom Cruise",
+            "Peter Sarsgaard",
+            "Andrew Garfield"
+        ],
+        "year": 2007,
+        "duration": 92,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "synopsis": "Tres historias entrelazadas exploran las consecuencias de la guerra de Afganistán: un congresista ambicioso que concede una entrevista exclusiva a una veterana periodista, un profesor universitario que intenta motivar a un brillante alumno y dos soldados atrapados en territorio enemigo.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-08-30",
+                "time": "20:30"
+            }
+        ]
+    }
+
 ];

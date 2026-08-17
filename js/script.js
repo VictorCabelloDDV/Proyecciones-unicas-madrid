@@ -54,6 +54,11 @@ card.addEventListener("click", () => {
         window.scrollY
     );
 
+    sessionStorage.setItem(
+        "movieSearchPreference",
+        searchInput.value
+    );
+
     window.location.href = `movie.html?id=${movie.id}`;
 });
 
@@ -61,7 +66,7 @@ card.addEventListener("click", () => {
         });
     }
 
-    function sortMovies(movieList, sortType) {
+function sortMovies(movieList, sortType, selectedCinema, selectedDate) {
 
         const sortedMovies = [...movieList];
 
@@ -105,8 +110,8 @@ card.addEventListener("click", () => {
 
             case "next-screening":
                 sortedMovies.sort((a, b) => {
-                    const nextA = getNextScreening(a);
-                    const nextB = getNextScreening(b);
+                    const nextA = getNextScreening(a, selectedCinema, selectedDate);
+                    const nextB = getNextScreening(b, selectedCinema, selectedDate);
 
                     return nextA - nextB;
                 });
@@ -116,13 +121,18 @@ card.addEventListener("click", () => {
         return sortedMovies;
     }
 
-    function getNextScreening(movie) {
+function getNextScreening(movie, selectedCinema, selectedDate) {
 
         const now = new Date().getTime();
 
         const futureScreenings = movie.screenings
-            .map(screening => getDateTime(screening))
-            .filter(dateTime => dateTime >= now);
+            .filter(screening => {
+                const matchesCinema = !selectedCinema || screening.cinema === selectedCinema;
+                const matchesDate = !selectedDate || screening.date === selectedDate;
+                const isFuture = getDateTime(screening) >= now;
+                return matchesCinema && matchesDate && isFuture;
+            })
+            .map(screening => getDateTime(screening));
 
         if (futureScreenings.length === 0) {
             return Infinity;
@@ -132,7 +142,7 @@ card.addEventListener("click", () => {
     }
 
 
-    function updateMovies() {
+function updateMovies() {
 
     const searchTerm = searchInput.value
         .trim()
@@ -140,12 +150,17 @@ card.addEventListener("click", () => {
 
     const selectedDate = dateInput.value;
     const selectedCinema = cinemaSelect.value;
+    const now = new Date().getTime();
 
     const filteredMovies = movies.filter(movie => {
 
-        // 1. FILTRO AUTOMÁTICO:
-        // Oculta la película si no le queda ninguna proyección futura
-        if (!hasFutureScreenings(movie)) {
+        // 1. FILTRAR PRIMERO SOLO LAS SESIONES FUTURAS DE ESTA PELÍCULA
+        const futureScreenings = movie.screenings.filter(
+            screening => getDateTime(screening) >= now
+        );
+
+        // Si no le queda ninguna sesión futura en ningún cine, la descartamos
+        if (futureScreenings.length === 0) {
             return false;
         }
 
@@ -153,6 +168,7 @@ card.addEventListener("click", () => {
             movie.title,
             movie.originalTitle,
             movie.director,
+            movie.country,
             ...movie.cast
         ]
             .join(" ")
@@ -161,15 +177,16 @@ card.addEventListener("click", () => {
         const matchesSearch =
             searchableText.includes(searchTerm);
 
+        // 2. COMPROBAR LA FECHA Y EL CINE SOLO SOBRE LAS SESIONES FUTURAS (futureScreenings)
         const matchesDate =
             !selectedDate ||
-            movie.screenings.some(screening =>
+            futureScreenings.some(screening =>
                 screening.date === selectedDate
             );
 
         const matchesCinema =
             !selectedCinema ||
-            movie.screenings.some(screening =>
+            futureScreenings.some(screening =>
                 screening.cinema === selectedCinema
             );
 
@@ -180,9 +197,11 @@ card.addEventListener("click", () => {
         );
     });
 
-    const sortedMovies = sortMovies(
+const sortedMovies = sortMovies(
         filteredMovies,
-        sortSelect.value
+        sortSelect.value,
+        selectedCinema,
+        selectedDate
     );
 
     displayMovies(sortedMovies);
@@ -250,6 +269,14 @@ const savedSort = localStorage.getItem(
 const savedCinema = localStorage.getItem(
     "movieCinemaPreference"
 );
+
+const savedSearch = sessionStorage.getItem(
+    "movieSearchPreference"
+);
+
+if (savedSearch) {
+    searchInput.value = savedSearch;
+}
 
 if (savedSort) {
     sortSelect.value = savedSort;
