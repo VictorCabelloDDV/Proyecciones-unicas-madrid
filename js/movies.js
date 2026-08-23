@@ -609,6 +609,11 @@ const movies = [
         ],
         "synopsis": "En 2084, Douglas Quaid acude a una empresa que implanta recuerdos para vivir unas vacaciones virtuales en Marte. El procedimiento despierta recuerdos que sugieren que su identidad y su pasado no son lo que parecen.",
         "screenings": [
+                {
+                "cinema": "Cinesa Renoir",
+                "date": "2026-09-17",
+                "time": "20:00"
+                }
 
         ]
     },
