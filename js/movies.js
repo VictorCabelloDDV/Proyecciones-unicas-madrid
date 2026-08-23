@@ -63,7 +63,16 @@ const movies = [
                 "cinema": "Sala Equis",
                 "date": "2026-08-25",
                 "time": "22:00"
-            }
+            },{
+    "cinema": "Cines Embajadores",
+    "date": "2026-08-24",
+    "time": "22:30"
+},
+{
+    "cinema": "Sala Equis",
+    "date": "2026-08-30",
+    "time": "20:00"
+}
         ]
     },
     {
@@ -240,7 +249,13 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-12-03",
                 "time": "20:00"
-            }
+            },
+            {
+    "cinema": "Cines Embajadores",
+    "date": "2026-08-25",
+    "time": "21:10",
+    "version": "Embajadores Río"
+}
         ]
     },
     {
@@ -594,11 +609,7 @@ const movies = [
         ],
         "synopsis": "En 2084, Douglas Quaid acude a una empresa que implanta recuerdos para vivir unas vacaciones virtuales en Marte. El procedimiento despierta recuerdos que sugieren que su identidad y su pasado no son lo que parecen.",
         "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-17",
-                "time": "20:00"
-            }
+
         ]
     },
     {
@@ -1066,7 +1077,7 @@ const movies = [
             }, 
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-23",
+                "date": "2026-08-23",
                 "time": "12:00",
                 "version": "Doblada al español"
             }
@@ -1135,32 +1146,37 @@ const movies = [
             }
         ]
     },
-    {
-        "id": "flores-para-antonio",
-        "title": "Flores para Antonio",
-        "originalTitle": "Flores para Antonio",
-        "poster": "images/flores-para-antonio.jpg",
-        "director": "Elena Molina, Isaki Lacuesta",
-        "cast": [
-            "Alba Flores",
-            "Lolita Flores",
-            "Rosario Flores"
-        ],
-        "year": 2025,
-        "duration": 98,
-        "country": "España",
-        "genres": [
-            "Documental"
-        ],
-        "synopsis": "La actriz Alba Flores se adentra en la memoria de su padre, el músico Antonio Flores, fallecido cuando ella tenía ocho años, a través de vídeos caseros, cintas inéditas y entrevistas a familiares y amigos para entender quién fue de verdad.",
-        "screenings": [
-            {
-                "cinema": "Cibeles de Cine",
-                "date": "2026-08-17",
-                "time": "22:00"
-            }
-        ]
-    },
+ {
+    "id": "flores-para-antonio",
+    "title": "Flores para Antonio",
+    "originalTitle": "Flores para Antonio",
+    "poster": "images/flores-para-antonio.jpg",
+    "director": "Elena Molina, Isaki Lacuesta",
+    "cast": [
+        "Alba Flores",
+        "Lolita Flores",
+        "Rosario Flores"
+    ],
+    "year": 2025,
+    "duration": 98,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "La actriz Alba Flores se adentra en la memoria de su padre, el músico Antonio Flores, fallecido cuando ella tenía ocho años, a través de vídeos caseros, cintas inéditas y entrevistas a familiares y amigos para entender quién fue de verdad.",
+    "screenings": [
+        {
+            "cinema": "Cibeles de Cine",
+            "date": "2026-08-17",
+            "time": "22:00"
+        },
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-09",
+            "time": "19:00"
+        }
+    ]
+},
     {
         "id": "gangs-of-new-york",
         "title": "Gangs of New York",
@@ -1401,7 +1417,12 @@ const movies = [
             "date": "2026-08-26",
             "time": "22:00",
             "version": "Parte 2"
-        }
+        },
+        {
+    "cinema": "Sala Equis",
+    "date": "2026-08-26",
+    "time": "20:00"
+}
     ]
 },
     {
@@ -1547,6 +1568,17 @@ const movies = [
             "cinema": "Sala Equis",
             "date": "2026-08-22",
             "time": "18:00"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-25",
+            "time": "22:30"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-25",
+            "time": "20:00",
+            "version": "Embajadores Río"
         }
     ]
 },
@@ -1867,7 +1899,12 @@ const movies = [
             "cinema": "Cines Embajadores",
             "date": "2026-08-22",
             "time": "22:30"
-        }
+        },
+        {
+    "cinema": "Cines Embajadores",
+    "date": "2026-08-27",
+    "time": "22:30"
+}
     ]
 },
 {
@@ -3055,6 +3092,12 @@ const movies = [
         {
             "cinema": "Cines Embajadores",
             "date": "2026-08-23",
+            "time": "16:20",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-25",
             "time": "16:00",
             "version": "Doblada al español"
         }
@@ -3473,9 +3516,9 @@ const movies = [
     "screenings": [
         {
             "cinema": "Cinesa",
-            "date": "2026-08-19",
-            "time": "19:35",
-            "version": "En Cinesa Equinoccio/Loranca/Oasiz sólo"
+            "date": "2026-08-27",
+            "time": "19:35"
+            
         }
     ]
 },
@@ -4468,6 +4511,808 @@ const movies = [
                 "time": "20:30"
             }
         ]
-    }
+    },
+{
+    "id": "berdea",
+    "title": "Berdea",
+    "originalTitle": "Berdea",
+    "poster": "images/berdea.jpg",
+    "director": "Oihane Ruiz",
+    "cast": [
+        "Oihane Ruiz",
+        "Ane Barrutia",
+        "Elena Aranda",
+        "Guillermo Ruiz De Erentxun"
+    ],
+    "year": 2025,
+    "duration": 67,
+    "country": "España",
+    "genres": [
+        "Documental",
+        "Medioambiente"
+    ],
+    "synopsis": "La madera es el material del futuro. Con esa idea como punto de partida, la arquitecta Oihane Ruiz y la paisajista Ane Barrutia recorren el ciclo de la madera en su Euskadi natal —del bosque a la industria— en busca de respuestas: ¿qué bosque dejaremos a las generaciones futuras?, ¿quién define hoy el bosque del mañana?",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-28",
+            "time": "20:00",
+            "version": "VOSE / Coloquio"
+        }
+    ]
+},
+{
+    "id": "cristal-oscuro",
+    "title": "Cristal Oscuro",
+    "originalTitle": "The Dark Crystal",
+    "poster": "images/cristal-oscuro.jpg",
+    "director": "Jim Henson, Frank Oz",
+    "cast": [
+        "Jim Henson",
+        "Kathryn Mullen",
+        "Frank Oz",
+        "Dave Goelz"
+    ],
+    "year": 1982,
+    "duration": 93,
+    "country": "Estados Unidos",
+    "genres": [
+        "Fantástico",
+        "Aventura",
+        "Animación"
+    ],
+    "synopsis": "En un planeta lejano, un joven Gelfling llamado Jen emprende una peligrosa búsqueda para encontrar el fragmento perdido del Cristal Oscuro y restaurar el equilibrio en su mundo antes de que expire la Conjunción de los tres soles.",
+    "screenings": [
+        {
+            "cinema": "Cine de Verano de La Bombilla",
+            "date": "2026-08-28",
+            "time": "22:00"
+        }
+    ]
+},
+{
+    "id": "blue-jasmine",
+    "title": "Blue Jasmine",
+    "originalTitle": "Blue Jasmine",
+    "poster": "images/blue-jasmine.jpg",
+    "director": "Woody Allen",
+    "cast": [
+        "Cate Blanchett",
+        "Alec Baldwin",
+        "Sally Hawkins",
+        "Bobby Cannavale"
+    ],
+    "year": 2013,
+    "duration": 98,
+    "country": "Estados Unidos",
+    "genres": [
+        "Drama",
+        "Comedia"
+    ],
+    "synopsis": "Jasmine, una ama de casa rica de Nueva York que lo ha perdido todo tras la quiebra de su marido, se ve obligada a mudarse a San Francisco a vivir con su hermana Ginger, una mujer de clase trabajadora, e intentar rehacer su vida desde cero.",
+    "screenings": [
+        {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-10-01",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "call-me-by-your-name",
+    "title": "Call Me by Your Name",
+    "originalTitle": "Call Me by Your Name",
+    "poster": "images/call-me-by-your-name.jpg",
+    "director": "Luca Guadagnino",
+    "cast": [
+        "Timothée Chalamet",
+        "Armie Hammer",
+        "Michael Stuhlbarg",
+        "Amira Casar"
+    ],
+    "year": 2017,
+    "duration": 132,
+    "country": "Estados Unidos, Italia",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "synopsis": "En el verano de 1983, en el norte de Italia, Elio Perlman, un joven de 17 años, pasa los días en la villa familiar estudiando música y leyendo. La llegada de Oliver, el nuevo ayudante de su padre, cambiará su vida para siempre.",
+    "screenings": [
+        {
+            "cinema": "Sala Equis",
+            "date": "2026-08-29",
+            "time": "22:00"
+        }
+    ]
+},
+{
+    "id": "suspiria-2018",
+    "title": "Suspiria (2018)",
+    "originalTitle": "Suspiria",
+    "poster": "images/suspiria-2018.jpg",
+    "director": "Luca Guadagnino",
+    "cast": [
+        "Dakota Johnson",
+        "Tilda Swinton",
+        "Mia Goth",
+        "Chloe Grace Moretz"
+    ],
+    "year": 2018,
+    "duration": 152,
+    "country": "Italia, Estados Unidos",
+    "genres": [
+        "Terror",
+        "Misterio",
+        "Thriller"
+    ],
+    "synopsis": "Susie Bannion, una joven bailarina estadounidense, viaja a Berlín en los años 70 para audicionar en la prestigiosa compañía de danza Markos. Tras ser aceptada, descubre que la escuela esconde oscuros e inquietantes secretos relacionados con la brujería.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-05",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "emilia-perez",
+    "title": "Emilia Pérez",
+    "originalTitle": "Emilia Pérez",
+    "poster": "images/emilia-perez.jpg",
+    "director": "Jacques Audiard",
+    "cast": [
+        "Zoe Saldaña",
+        "Karla Sofía Gascón",
+        "Selena Gomez",
+        "Adriana Paz"
+    ],
+    "year": 2024,
+    "duration": 132,
+    "country": "Francia",
+    "genres": [
+        "Musical",
+        "Drama",
+        "Comedia"
+    ],
+    "synopsis": "Rita, una abogada sobrecualificada e infravalorada en un gran bufete de México, recibe una oferta inesperada: ayudar al temido líder de un cártel a retirarse del negocio y realizar el proceso de afirmación de género que siempre ha deseado.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-06",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "august-so-tragic-and-tender",
+    "title": "August: So Tragic and Tender",
+    "originalTitle": "August: So Tragic and Tender",
+    "poster": "images/august-so-tragic-and-tender.jpg",
+    "director": "Bruno Lázaro",
+    "cast": [
+        "Ingrid García-Jonsson",
+        "Fernando Tielve",
+        "Carlos Camino",
+        "Ahmed Mohamed Fadel (el Rubio)"
+    ],
+    "year": 2024,
+    "duration": 80,
+    "country": "España, Canadá",
+    "genres": [
+        "Drama",
+        "Misterio",
+        "Thriller"
+    ],
+    "synopsis": "Erica, una documentalista, busca a su novio Marc tras su misteriosa desaparición en parapente en las costas del sur de España. Durante la angustiosa búsqueda junto al mejor amigo de Marc, se desatan tensiones y dilemas entre la realidad, el deseo y lo paranormal.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-09",
+            "time": "20:30"
+        },
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-10",
+            "time": "18:30"
+        },
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-11",
+            "time": "18:30"
+        }
+    ]
+},
+{
+    "id": "carriage-trade",
+    "title": "Carriage Trade",
+    "originalTitle": "Carriage Trade",
+    "poster": "images/carriage-trade.jpg",
+    "director": "Warren Sonbert",
+    "cast": [],
+    "year": 1972,
+    "duration": 61,
+    "country": "Estados Unidos",
+    "genres": [
+        "Experimental",
+        "Documental"
+    ],
+    "synopsis": "Pieza histórica de videoarte mudo (sin sonido ni música). Un montaje rítmico e hipnótico de fragmentos en 16mm grabados en viajes por todo el mundo, explorando el lenguaje visual y el movimiento sin narrativa tradicional.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-16",
+            "time": "18:00",
+            "version": "Muda / Videoarte"
+        }
+    ]
+},
+{
+    "id": "la-sexta-parte-del-mundo-1926",
+    "title": "La sexta parte del mundo",
+    "originalTitle": "Shestaya chast mira",
+    "poster": "images/la-sexta-parte-del-mundo.jpg",
+    "director": "Dziga Vertov",
+    "cast": [],
+    "year": 1926,
+    "duration": 73,
+    "country": "Unión Soviética",
+    "genres": [
+        "Documental",
+        "Clásico"
+    ],
+    "synopsis": "Obra cumbre del cine documental mudo soviético. A través de un montaje innovador y sinfónico de noticiarios y archivos de viajes, explora la inmensa diversidad de pueblos, culturas, paisajes e industrias que componían la antigua URSS en la década de 1920.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-16",
+            "time": "20:30",
+            "version": "Cine Mudo"
+        }
+    ]
+},
+{
+    "id": "marnie-la-ladrona-1964",
+    "title": "Marnie, la ladrona",
+    "originalTitle": "Marnie",
+    "poster": "images/marnie-la-ladrona.jpg",
+    "director": "Alfred Hitchcock",
+    "cast": [
+        "Tippi Hedren",
+        "Sean Connery",
+        "Diane Baker",
+        "Martin Gabel"
+    ],
+    "year": 1964,
+    "duration": 130,
+    "country": "Estados Unidos",
+    "genres": [
+        "Thriller",
+        "Misterio",
+        "Drama",
+        "Clásico"
+    ],
+"synopsis": "Marnie es una ladrona compulsiva que aprovecha su trabajo como secretaria para robar. Cuando Mark Rutland la contrata y descubre su secreto, cede a un impulso inexplicable: decide casarse con ella para desentrañar los oscuros traumas del pasado que provocan su comportamiento.",    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-17",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "escrito-sobre-el-viento-1956",
+    "title": "Escrito sobre el viento",
+    "originalTitle": "Written on the Wind",
+    "poster": "images/escrito-sobre-el-viento.jpg",
+    "director": "Douglas Sirk",
+    "cast": [
+        "Rock Hudson",
+        "Lauren Bacall",
+        "Robert Stack",
+        "Dorothy Malone"
+    ],
+    "year": 1956,
+    "duration": 99,
+    "country": "Estados Unidos",
+    "genres": [
+        "Drama",
+        "Romance",
+        "Clásico"
+    ],
+"synopsis": "Kyle Hadley, un magnate del petróleo, y Mitch Wayne, su mejor amigo, se enamoran de la secretaria Lucy Moore. Aunque Kyle es un alcohólico irresponsable, se casa con ella. Tras un año, Kyle parece transformado, pero los celos y pasiones no tardarán en desatarse.",    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-18",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "smog-en-tu-corazon-2022",
+    "title": "Smog en tu corazón",
+    "originalTitle": "Smog en tu corazón",
+    "poster": "images/smog-en-tu-corazon.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Martín Aletta",
+        "Gabriela Ditisheim",
+        "Laura Nevole",
+        "Pablo Ragoni"
+    ],
+    "year": 2022,
+    "duration": 112,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "Cinco personas trabajan en un club de tenis argentino: el dueño, la profesora, un nuevo empleado, el contador y el tímido gerente. Las tensiones y el caos estallan cuando deciden organizar una peregrinación omitiendo invitar a uno de ellos en este melodrama anárquico de culto.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-27",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "saturdays-disorders-2022",
+    "title": "Saturdays Disorders",
+    "originalTitle": "Saturdays Disorders",
+    "poster": "images/saturdays-disorders.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Ignacio Sánchez Mestre",
+        "Gabriela Ditisheim",
+        "Martín Aletta",
+        "Laura Nevole",
+        "Pablo Ragoni"
+    ],
+    "year": 2022,
+    "duration": 97,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "En esta secuela de 'Smog en tu corazón', Luján se emprende en una surrealista peregrinación llena de rarezas urbanas. Mientras tanto, en el club de tenis local se intenta organizar un torneo donde insólitamente solo se han inscrito dos participantes.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-28",
+            "time": "18:00"
+        }
+    ]
+},
+{
+    "id": "weak-rangers-2022",
+    "title": "Weak Rangers",
+    "originalTitle": "Weak Rangers",
+    "poster": "images/weak-rangers.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Martín Aletta",
+        "Gabriela Ditisheim",
+        "Laura Nevole",
+        "Pablo Ragoni",
+        "Ignacio Sánchez Mestre"
+    ],
+    "year": 2022,
+    "duration": 128,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "El partido final de la 'trilogía del tenis' afila al máximo el humor y desencadena todos los dramas entre el propietario y los empleados del complejo, sumando notas de melancolía y nuevos personajes a este insólito viacrucis.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-28",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "the-urgency-of-death-2023",
+    "title": "The Urgency of Death",
+    "originalTitle": "The Urgency of Death",
+    "poster": "images/the-urgency-of-death.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Gonzalo García-Pelayo",
+        "Gabriela Ditisheim",
+        "Lara Sol Gaudini",
+        "Pablo Ragoni",
+        "Martín Aletta"
+    ],
+    "year": 2023,
+    "duration": 125,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "Un relato singular e inclasificable en una ciudad de La Plata nada convencional. Seles despliega de nuevo sus diálogos anárquicos, tensiones cotidianas y humor excéntrico en torno a la memoria, las obsesiones y los vínculos humanos.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-31",
+            "time": "18:00"
+        }
+    ]
+},
+{
+    "id": "rezar-como-queria",
+    "title": "Rezar como quería",
+    "originalTitle": "Rezar como quería",
+    "poster": "images/rezar-como-queria.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Lucía Seles"
+    ],
+    "year": 2023,
+    "duration": 60,
+    "country": "Argentina",
+    "genres": [
+        "Documental",
+        "Experimental"
+    ],
+    "synopsis": "Obra íntima e inclasificable articulada a través de archivos, recuerdos y narraciones particulares sobre la memoria, la música y las vivencias personales, presentada dentro del ciclo dedicado a la cineasta argentina.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-30",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "fire-supply-2024",
+    "title": "Fire Supply",
+    "originalTitle": "Fire Supply",
+    "poster": "images/fire-supply.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Martín Aletta",
+        "Gabriela Ditisheim",
+        "Laura Nevole",
+        "Susana Pampín",
+        "Pablo Ragoni"
+    ],
+    "year": 2024,
+    "duration": 156,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "Un joven de la provincia de San Juan descubre la admiración que su madre siente por el dueño de una pista de patinaje sobre hielo y la invita a Buenos Aires para conocerlo, desencadenando nuevos enredos en esta cómica entrega de Lucía Seles.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-29",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "terminal-young-2023",
+    "title": "Terminal Young",
+    "originalTitle": "Terminal Young",
+    "poster": "images/terminal-young.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Ignacio Sánchez Mestre",
+        "Susana Pampín",
+        "Laura Nevole",
+        "Pablo Ragoni",
+        "Gabriela Ditisheim"
+    ],
+    "year": 2023,
+    "duration": 128,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "Una mujer que sufrió un incidente del pasado mantiene una relación con un inseguro músico de jazz de Ramos Mejía. Pese a las tensiones y peculiaridades de su entorno, afronta la vida con renovada fuerza en esta particular comedia de enredos urbanos.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-29",
+            "time": "18:00"
+        }
+    ]
+},
 
+{
+    "id": "lejos-de-los-arboles-1972",
+    "title": "Lejos de los árboles",
+    "originalTitle": "Lejos de los árboles",
+    "poster": "images/lejos-de-los-arboles.jpg",
+    "director": "Jacinto Esteva",
+    "cast": [],
+    "year": 1972,
+    "duration": 99,
+    "country": "España",
+    "genres": [
+        "Documental",
+        "Clásico"
+    ],
+    "synopsis": "Una fascinante colección en blanco y negro sobre la España más oculta a través de sus ritos y fiestas populares. Jacinto Esteva muestra un retrato duro y revelador de las costumbres rústicas del folclore regional, muchas de ellas profundamente vinculadas a la religión, la violencia y la muerte.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-04",
+            "time": "19:30"
+        }
+    ]
+},
+{
+    "id": "its-for-you-bruno-lazaro",
+    "title": "It's for You!",
+    "originalTitle": "It's for You!",
+    "poster": "images/its-for-you.jpg",
+    "director": "Bruno Lázaro",
+    "cast": [
+        "Joris Jarsky",
+        "Sundra Rue Ros",
+        "Edith Tankus",
+        "Debra Felstead"
+    ],
+    "year": 2002,
+    "duration": 94,
+    "country": "Canadá, España",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "synopsis": "Julián regresa a Toronto tras un apasionado romance en Barcelona con Sundra, una modelo a la que decide enviar vídeocartas diarias para mantener viva la relación. Al descubrir que ella tiene otro amante, Sundra le propone mantener el contacto a distancia enviándose las grabaciones de sus nuevas experiencias íntimas.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-07",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "runa-simi-2026",
+    "title": "Runa Simi",
+    "originalTitle": "Runa Simi",
+    "poster": "images/runa-simi.jpg",
+    "director": "Augusto Zegarra",
+    "cast": [
+        "Fernando Valencia",
+        "Dylan Valencia"
+    ],
+    "year": 2025,
+    "duration": 81,
+    "country": "Perú",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Fernando Valencia, un joven actor de doblaje y activista cusqueño, sueña con doblar 'El Rey León' al quechua para evitar que su lengua caiga en la extinción. Junto a su hijo Dylan, emprende un viaje personal de paternidad y activismo para preservar su herencia cultural.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-09",
+            "time": "19:00",
+            "version": "VOSE (Coloquio con la productora Claudia Chávez)"
+        }
+    ]
+},
+{
+    "id": "the-bewilderment-of-chile-2024",
+    "title": "The Bewilderment of Chile",
+    "originalTitle": "The Bewilderment of Chile",
+    "poster": "images/the-bewilderment-of-chile.jpg",
+    "director": "Lucía Seles",
+    "cast": [
+        "Martín Aletta",
+        "Gabriela Ditisheim",
+        "Laura Nevole",
+        "Pablo Ragoni"
+    ],
+    "year": 2024,
+    "duration": 121,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+"synopsis": "Un hombre de Lugo termina caminando solo por la estación ferroviaria de La Plata. Su deriva errante se convierte en el hilo conductor para retratar distintas escenas, personajes y momentos cotidianos de la vida en esta ciudad argentina.",    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-31",
+            "time": "20:30"
+         }
+    ]
+},
+{
+    "id": "la-noche-esta-marchandose-ya",
+    "title": "La noche está marchándose ya",
+    "originalTitle": "La noche está marchándose ya",
+    "poster": "images/la-noche-esta-marchandose-ya.jpg",
+    "director": "Ramiro Sonzini, Ezequiel Salinas",
+    "cast": [
+        "Octavio Bertone",
+        "Juana Oviedo",
+        "Rodrigo Fierro"
+    ],
+    "year": 2025,
+    "duration": 104,
+    "country": "Argentina",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "Pelu, treintañero y proyeccionista de un cineclub municipal, es degradado a sereno nocturno. Tras perder su casa, se muda al cine en secreto. Poco a poco, forma una comunidad con un grupo de cuidadores de autos y su mejor amiga, mientras una crisis generalizada amenaza con cerrar el cine y destruir su pequeño refugio.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-26",
+            "time": "20:30",
+            "version": "Coloquio con el equipo artístico"
+        }
+    ]
+},
+{
+    "id": "as-cidades-e-as-trocas-2014",
+    "title": "As Cidades e as Trocas",
+    "originalTitle": "As Cidades e as Trocas",
+    "poster": "images/as-cidades-e-as-trocas.jpg",
+    "director": "Pedro Pinho, Luísa Homem",
+    "cast": [],
+    "year": 2014,
+    "duration": 138,
+    "country": "Portugal",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "En 2008, el boom turístico de Cabo Verde se frena por la falta de arena para hormigón, desatando el envío de barcos cargados desde Mauritania. Partiendo de Lisboa en un carguero, la película recorre esta ruta atlántica para poner de manifiesto las profundas transformaciones físicas y sociales que estos intercambios generan en el paisaje.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-22",
+            "time": "19:30"
+        }
+    ]
+},
+{
+    "id": "la-risa-y-la-navaja-version-integral",
+    "title": "La risa y la navaja (versión integral)",
+    "originalTitle": "O Riso e a Faca",
+    "poster": "images/la-risa-y-la-navaja.jpg",
+    "director": "Pedro Pinho",
+    "cast": [
+        "Sérgio Coragem",
+        "Cleo Diára",
+        "Jonathan Guilherme"
+    ],
+    "year": 2025,
+    "duration": 330,
+    "country": "Portugal",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Sergio viaja a África Occidental como ingeniero ambiental para construir una carretera entre el desierto y la selva. Allí entabla una relación compleja con dos lugareños, Diara y Gui, mientras descubre detalles sobre la misteriosa desaparición del ingeniero italiano que le precedió en el puesto.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-24",
+            "time": "17:00"
+        },
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-26",
+            "time": "17:00"
+        },
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-27",
+            "time": "17:00"
+        }
+    ]
+},
+{
+    "id": "canciller-el-templo-del-rock",
+    "title": "Canciller, el templo del rock",
+    "originalTitle": "Canciller, el templo del rock",
+    "poster": "images/canciller-el-templo-del-rock.jpg",
+    "director": "Vicente Martín Terán",
+    "cast": [
+        "Armando de Castro",
+        "Jero Ramiro",
+        "Leonor Marchessi"
+    ],
+    "year": 2025,
+    "duration": 90,
+    "country": "España",
+    "genres": [
+        "Documental",
+        "Música"
+    ],
+    "synopsis": "Un recorrido por la historia de la mítica Sala Canciller de Madrid, templo clave para la escena del rock duro y el heavy metal en la España de los 80. A través de imágenes históricas y testimonios de la época, el documental repasa el impacto cultural y el ambiente único de un local que marcó a toda una generación.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-16",
+            "time": "17:30",
+            "version": "Coloquio con el director"
+        }
+    ]
+},
+{
+    "id": "el-silencio-de-otros-2018",
+    "title": "El silencio de otros",
+    "originalTitle": "El silencio de otros",
+    "poster": "images/el-silencio-de-otros.jpg",
+    "director": "Almudena Carracedo, Robert Bahar",
+    "cast": [],
+    "year": 2018,
+    "duration": 96,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Filmada a lo largo de seis años con un estilo directo e intimista, la película revela la épica lucha de las víctimas de la dictadura de Franco para romper el 'pacto del olvido'. El documental sigue a los supervivientes mientras organizan la 'Querella Argentina' para llevar ante la justicia los crímenes de lesa humanidad en un país dividido por la amnesia estatal.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-11",
+            "time": "18:00"
+        }
+    ]
+},
+{
+    "id": "we-die-bruno-lazaro",
+    "title": "We Die",
+    "originalTitle": "We Die",
+    "poster": "images/we-die.jpg",
+    "director": "Rebeca Sánchez",
+    "cast": [],
+    "year": 1998,
+    "duration": 70,
+    "country": "Canadá, España",
+    "genres": [
+        "Documental",
+        "Experimental"
+    ],
+    "synopsis": "Una reflexión sobre la concepción mágico-realista de la muerte en tres comunidades singulares: los Tana Toraja en Indonesia, las viudas de Vrindaban en India y los mayas de Pomuch en México. A través de sus ritos mortuorios y tradiciones, la película recorre la espera, el fallecimiento y el duelo para comprender cómo conviven con el final de la vida.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-12",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "la-berma-2024",
+    "title": "La berma",
+    "originalTitle": "La Berma",
+    "poster": "images/la-berma.jpg",
+    "director": "Agustín Domínguez",
+    "cast": [
+        "Yauguiha Mohamed Embarec",
+        "Matamulana Sidi Brahim"
+    ],
+    "year": 2026,
+    "duration": 90,
+    "country": "España, Sáhara Occidental",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "La historia de Yauguiha Mohamed Embarec, una joven refugiada saharaui y bióloga que trabaja desminando en la barrera militar operativa más larga del planeta. A lo largo de sus 2.720 km de longitud hay escondidas más de 10 millones de minas, convirtiendo este territorio en una de las zonas más peligrosas del mundo y retratando la resistencia y el liderazgo femenino del pueblo saharaui.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-15",
+            "time": "17:30"
+        }
+    ]
+}
 ];
