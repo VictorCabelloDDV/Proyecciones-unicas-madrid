@@ -440,24 +440,26 @@ function displayScreenings(screeningList, container) {
                 <div class="cinema-screenings">
         `;
 
-        screenings.forEach(screening => {
-            html += `
-                <div class="screening">
-                    <strong>
-                        ${formatDate(screening.date)}
-                    </strong>
+screenings.forEach(screening => {
+    html += `
+        <div class="screening">
+            <strong>
+                ${formatDate(screening.date)}
+            </strong>
 
-                    <span class="screening-time">
-                        ${screening.time}
+            <span class="screening-version-container">
+                ${screening.version
+                    ? `<span class="screening-version">${screening.version}</span>`
+                    : ""
+                }
+            </span>
 
-                        ${screening.version
-                            ? `<small class="screening-version">${screening.version}</small>`
-                            : ""
-                        }
-                    </span>
-                </div>
-            `;
-        });
+            <span class="screening-time">
+                ${screening.time}
+            </span>
+        </div>
+    `;
+});
 
         html += `
                 </div>

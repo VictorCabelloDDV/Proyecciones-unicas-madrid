@@ -241,21 +241,16 @@ const movies = [
         "synopsis": "En un futuro distópico, un antiguo policía especializado en perseguir replicantes debe localizar a un grupo de androides que ha regresado ilegalmente a la Tierra.",
         "screenings": [
             {
-                "cinema": "Cines Embajadores",
-                "date": "2026-08-16",
-                "time": "20:30"
-            },
-            {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-12-03",
                 "time": "20:00"
             },
             {
-    "cinema": "Cines Embajadores",
-    "date": "2026-08-25",
-    "time": "21:10",
-    "version": "Embajadores Río"
-}
+                "cinema": "Cines Embajadores",
+                "date": "2026-08-25",
+                "time": "21:10",
+                "version": "Embajadores Río"
+            }
         ]
     },
     {
@@ -610,7 +605,7 @@ const movies = [
         "synopsis": "En 2084, Douglas Quaid acude a una empresa que implanta recuerdos para vivir unas vacaciones virtuales en Marte. El procedimiento despierta recuerdos que sugieren que su identidad y su pasado no son lo que parecen.",
         "screenings": [
                 {
-                "cinema": "Cinesa Renoir",
+                "cinema": "Cines Renoir",
                 "date": "2026-09-17",
                 "time": "20:00"
                 }
@@ -1333,8 +1328,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-08-14",
-                "time": "22:30"
+                "date": "2026-08-28",
+                "time": "22:45"
             },
             {
                 "cinema": "Cines Embajadores",
@@ -1481,65 +1476,85 @@ const movies = [
     "screenings": [
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-21",
-            "time": "20:00"
+            "date": "2026-08-26",
+            "time": "17:30",
+            "version": "Embajadores Río"
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-22",
-            "time": "19:55"
+            "date": "2026-08-27",
+            "time": "22:30",
+            "version": "Embajadores Río"
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-23",
-            "time": "12:00"
+            "date": "2026-08-28",
+            "time": "20:00",
+            "version": "Embajadores Río"
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-24",
+            "date": "2026-08-28",
+            "time": "22:30",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-29",
+            "time": "20:05",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-29",
+            "time": "22:35",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-31",
+            "time": "18:00",
+            "version": "Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-27",
+            "time": "20:35"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-30",
+            "time": "20:15"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-31",
             "time": "22:30"
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-21",
-            "time": "20:00",
-            "version": "Embajadores Río"
-        },
+            "date": "2026-09-02",
+            "time": "17:45"
+        },        
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-21",
-            "time": "21:10",
-            "version": "Embajadores Río"
-        },
+            "date": "2026-09-02",
+            "time": "20:00"
+        },        
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-22",
-            "time": "20:00",
-            "version": "Embajadores Río"
-        },
+            "date": "2026-09-02",
+            "time": "22:30"
+        },        
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-22",
-            "time": "21:10",
-            "version": "Embajadores Río"
-        },
+            "date": "2026-09-03",
+            "time": "20:00"
+        },        
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-23",
-            "time": "18:00",
-            "version": "Embajadores Río"
-        },
-        {
-            "cinema": "Cines Embajadores",
-            "date": "2026-08-23",
-            "time": "20:30",
-            "version": "Embajadores Río"
-        },
-        {
-            "cinema": "Cines Embajadores",
-            "date": "2026-08-24",
-            "time": "18:00",
-            "version": "Embajadores Río"
+            "date": "2026-09-03",
+            "time": "22:30"
         },
         {
             "cinema": "Cines Embajadores",
@@ -1897,19 +1912,19 @@ const movies = [
     "screenings": [
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-17",
-            "time": "20:00"
-        },
-        {
-            "cinema": "Cines Embajadores",
-            "date": "2026-08-22",
+            "date": "2026-09-03",
             "time": "22:30"
         },
         {
-    "cinema": "Cines Embajadores",
-    "date": "2026-08-27",
-    "time": "22:30"
-}
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-29",
+            "time": "21:45"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-27",
+            "time": "22:30"
+        }
     ]
 },
 {
@@ -2329,9 +2344,9 @@ const movies = [
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-10-22",
-            "time": "16:00",
-            "version": "Doblada al Español"
+            "date": "2026-09-03",
+            "time": "17:40",
+            "version": "Embajadores Río - Doblada al Español"
         }
     ]
 },
@@ -2994,7 +3009,7 @@ const movies = [
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-22",
+            "date": "2026-09-03",
             "time": "22:30",
             "version": "Embajadores Río"
         }
@@ -3096,15 +3111,27 @@ const movies = [
     "screenings": [
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-23",
-            "time": "16:20",
+            "date": "2026-08-26",
+            "time": "15:45",
             "version": "Doblada al español"
         },
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-25",
+            "date": "2026-08-29",
             "time": "16:00",
             "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-02",
+            "time": "16:00",
+            "version": "Doblada al español"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-30",
+            "time": "16:00",
+            "version": "Embajadores Río - Doblada al español"
         }
     ]
 },
@@ -3229,6 +3256,11 @@ const movies = [
             "cinema": "Cines Verdi",
             "date": "2026-09-03",
             "time": "20:30"
+        },        
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-09-28",
+            "time": "20:20"
         },
         {
             "cinema": "Cinesa",
@@ -3373,7 +3405,35 @@ const movies = [
             "date": "2026-08-30",
             "time": "19:15",
             "version": "VOSE"
-        }
+        },        
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-28",
+            "time": "22:10"
+        },        
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-31",
+            "time": "22:10"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-29",
+            "time": "11:45",
+            "version": "Doblada al español - Embajadores Río"
+        },        
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-03",
+            "time": "17:10",
+            "version": "Doblada al español - Embajadores Río"
+        },        
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-08-30",
+            "time": "11:45",
+            "version": "Doblada al español"
+        },
     ]
 },
 {
@@ -3400,7 +3460,7 @@ const movies = [
     "screenings": [
         {
             "cinema": "Cine de Verano de La Bombilla",
-            "date": "2026-08-29",
+            "date": "2026-09-04",
             "time": "22:00",
             "version": "Concierto tributo U2 a las 21:15"
         }
@@ -4540,9 +4600,9 @@ const movies = [
     "screenings": [
         {
             "cinema": "Cines Embajadores",
-            "date": "2026-08-28",
-            "time": "20:00",
-            "version": "VOSE / Coloquio"
+            "date": "2026-09-06",
+            "time": "12:00",
+            "version": "VOSE - Coloquio"
         }
     ]
 },
@@ -5317,6 +5377,33 @@ const movies = [
             "cinema": "Cineteca Madrid",
             "date": "2026-09-15",
             "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "retrato-de-una-mujer-en-llamas",
+    "title": "Retrato de una mujer en llamas",
+    "originalTitle": "Portrait de la jeune fille en feu",
+    "poster": "images/retrato-de-una-mujer-en-llamas.jpg",
+    "director": "Céline Sciamma",
+    "cast": [
+        "Noémie Merlant",
+        "Adèle Haenel",
+        "Luàna Bajrami"
+    ],
+    "year": 2019,
+    "duration": 120,
+    "country": "Francia",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "synopsis": "Francia, 1770. Marianne, una pintora, recibe un encargo que consiste en realizar el retrato de bodas de Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-02",
+            "time": "22:30"
         }
     ]
 }
