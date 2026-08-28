@@ -155,8 +155,9 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-08-23",
-                "time": "20:30"
+                "date": "2026-09-01",
+                "time": "21:10",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -1077,8 +1078,8 @@ const movies = [
             }, 
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-08-23",
-                "time": "12:00",
+                "date": "2026-08-31",
+                "time": "11:45",
                 "version": "Doblada al español"
             }
         ]
@@ -1531,6 +1532,16 @@ const movies = [
             "date": "2026-08-31",
             "time": "22:30"
         },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-01",
+            "time": "20:10"
+        }, 
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-01",
+            "time": "22:35"
+        }, 
         {
             "cinema": "Cines Embajadores",
             "date": "2026-09-02",
@@ -5404,6 +5415,122 @@ const movies = [
             "cinema": "Cines Embajadores",
             "date": "2026-09-02",
             "time": "22:30"
+        }
+    ]
+},
+{
+    "id": "copying-beethoven",
+    "title": "Copying Beethoven",
+    "originalTitle": "Copying Beethoven",
+    "poster": "images/copying-beethoven.jpg",
+    "director": "Agnieszka Holland",
+    "cast": [
+        "Ed Harris",
+        "Diane Kruger",
+        "Matthew Goode",
+        "Phyllida Law",
+        "Ralph Riach"
+    ],
+    "year": 2006,
+    "duration": 104,
+    "country": "Estados Unidos",
+    "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+    ],
+    "synopsis": "En la Viena de 1824, Beethoven se encuentra preparando el estreno de su Novena Sinfonía mientras lucha contra su creciente sordera. Anna Holtz, una joven estudiante de composición, comienza a trabajar como su copista y se convierte en una figura fundamental durante uno de los momentos más importantes de su carrera.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-21",
+            "time": "20:00",
+            "version": "Embajadores Rio"
+        }
+    ]
+},
+{
+    "id": "el-piano",
+    "title": "El piano",
+    "originalTitle": "The Piano",
+    "poster": "images/el-piano.jpg",
+    "director": "Jane Campion",
+    "cast": [
+        "Holly Hunter",
+        "Harvey Keitel",
+        "Sam Neill",
+        "Anna Paquin"
+    ],
+    "year": 1993,
+    "duration": 121,
+    "country": "Australia, Francia, Nueva Zelanda",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "synopsis": "En la década de 1850, Ada, una mujer muda desde niña, viaja desde Escocia hasta Nueva Zelanda junto a su hija Flora y su piano para contraer un matrimonio concertado. Cuando su marido se niega a llevar el piano a casa y decide venderlo, Ada establece un particular acuerdo con George Baines, el hombre que lo ha comprado.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-28",
+            "time": "20:00",
+            "version": "Embajadores Rio"
+        }
+    ]
+},
+{
+    "id": "master-and-commander",
+    "title": "Master and Commander: Al otro lado del mundo",
+    "originalTitle": "Master and Commander: The Far Side of the World",
+    "poster": "images/master-and-commander.jpg",
+    "director": "Peter Weir",
+    "cast": [
+        "Russell Crowe",
+        "Paul Bettany",
+        "James D'Arcy",
+        "Edward Woodall"
+    ],
+    "year": 2003,
+    "duration": 138,
+    "country": "Estados Unidos",
+    "genres": [
+        "Aventura",
+        "Acción",
+        "Drama"
+    ],
+    "synopsis": "Durante las guerras napoleónicas, el audaz capitán británico Jack Aubrey y el doctor y naturalista Stephen Maturin lideran al HMS Surprise en una encarnizada persecución por los océanos contra un buque de guerra corsario francés.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-10-04",
+            "time": "12:00"
+        }
+    ]
+},
+{
+    "id": "chopin",
+    "title": "Chopin",
+    "originalTitle": "Chopin",
+    "poster": "images/chopin.jpg",
+    "director": "Michal Kwiecinski",
+    "cast": [
+        "Eryk Kulm"
+    ],
+    "year": 2024,
+    "duration": 110,
+    "country": "Polonia",
+    "genres": [
+        "Biografía",
+        "Drama",
+        "Música"
+    ],
+    "synopsis": "Un recorrido por la apasionante vida, el genio musical y los años de exilio del célebre compositor y pianista polaco Frédéric Chopin, explorando sus grandes pasiones y su relación íntima con la creación artística.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-10-05",
+            "time": "20:00",
+            "version": "Embajadores Río"
         }
     ]
 }
