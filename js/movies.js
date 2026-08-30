@@ -5533,5 +5533,1382 @@ const movies = [
             "version": "Embajadores Río"
         }
     ]
+},
+{
+    "id": "el-sexto-sentido-1929",
+    "title": "El sexto sentido",
+    "originalTitle": "El sexto sentido",
+    "poster": "images/el-sexto-sentido.jpg",
+    "director": "Nemesio M. Sobrevila, Eusebio Fernández Ardavín",
+    "cast": [
+        "Enrique Durán",
+        "Faustino Bretaño",
+        "María Anaya"
+    ],
+    "year": 1929,
+    "duration": 100,
+    "country": "España",
+    "genres": [
+        "Drama",
+        "Comedia",
+        "Experimental",
+        "Cine mudo"
+    ],
+    "synopsis": "Dos parejas atraviesan problemas en sus matrimonios y los dos amigos, Carlos y León, los afrontan de modos muy distintos debido a su opuesto talante. Para animar a su amigo pesimista, Carlos le lleva a conocer a Kamus, quien acaba de comprarse una cámara de cine. Rareza mayúscula de la vanguardia española restaurada por la Filmoteca Española. La sesión incluye la proyección previa del cortometraje documental 'Estampas 1932' de José Val del Omar.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-01",
+            "time": "17:30",
+            "version": "Mudo / Con cortometraje previo y presentación"
+        }
+    ]
+},
+{
+    "id": "fort-apache-1948",
+    "title": "Fort Apache",
+    "originalTitle": "Fort Apache",
+    "poster": "images/fort-apache.jpg",
+    "director": "John Ford",
+    "cast": [
+        "John Wayne",
+        "Henry Fonda",
+        "Shirley Temple",
+        "John Agar",
+        "Pedro Armendáriz",
+        "Ward Bond",
+        "Victor McLaglen"
+    ],
+    "year": 1948,
+    "duration": 128,
+    "country": "Estados Unidos",
+    "genres": [
+        "Western"
+    ],
+    "synopsis": "Tras la Guerra de Secesión, el general Owen Thursday ha sido degradado a coronel y destinado a un fuerte situado en el desierto de Arizona. Allí toma el mando del cuartel frente a unos soldados habituados a tratar y luchar contra los apaches mescaleros. Su rigidez militar, su soberbia y su desconcierto ante las costumbres locales chocan con la experiencia del capitán Kirby York, abocando a las tropas a un trágico enfrentamiento contra el jefe Cochise por la búsqueda de gloria personal.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-01",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "martin-hache-1997",
+    "title": "Martín (Hache)",
+    "originalTitle": "Martín (Hache)",
+    "poster": "images/martin-hache.jpg",
+    "director": "Adolfo Aristarain",
+    "cast": [
+        "Federico Luppi",
+        "Juan Diego Botto",
+        "Cecilia Roth",
+        "Eusebio Poncela"
+    ],
+    "year": 1997,
+    "duration": 130,
+    "country": "España, Argentina",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Martín Echenique es un cineasta argentino que lleva veinte años viviendo en Madrid. Tras sufrir su hijo de 19 años (Hache) una sobredosis en Buenos Aires, su exmujer le pide que se haga cargo del joven. Padre e hijo emprenden una convivencia forzada en España, donde también les esperan Alicia, la amante de Martín, y Dante, su mejor amigo y actor hedonista, poniendo a prueba los vínculos familiares y la incapacidad de amar sin miedo al dolor.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-02",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "notre-musique-2004",
+    "title": "Notre Musique",
+    "originalTitle": "Notre Musique",
+    "poster": "images/notre-musique.jpg",
+    "director": "Jean-Luc Godard",
+    "cast": [
+        "Sara Adler",
+        "Nade Dieu",
+        "Rony Kramer"
+    ],
+    "year": 2004,
+    "duration": 80,
+    "country": "Francia, Suiza",
+    "genres": [
+        "Drama",
+        "Ensayo"
+    ],
+    "synopsis": "La película se estructura en tres partes inspiradas en la Divina Comedia de Dante: Infierno, Purgatorio y Paraíso. El Infierno se compone de un montaje impactante de imágenes de guerras reales y ficticias que muestran la violencia histórica y la destrucción, mientras el célebre cineasta examina la brutalidad de los conflictos a lo largo de los segmentos.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-02",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-18",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "variety-1983",
+    "title": "Variety",
+    "originalTitle": "Variety",
+    "poster": "images/variety.jpg",
+    "director": "Bette Gordon",
+    "cast": [
+        "Sandy McLeod",
+        "Will Patton",
+        "Luis Guzmán"
+    ],
+    "year": 1983,
+    "duration": 100,
+    "country": "Reino Unido, Alemania, Estados Unidos",
+    "genres": [
+        "Drama",
+        "Thriller",
+        "Cine independiente"
+    ],
+    "synopsis": "Christine consigue trabajo como taquillera de un cine porno en Times Square. En lugar de sentir rechazo por ese mundo marginal, poco a poco irá desarrollando una obsesión por la sordidez del sexo que amenazará con consumirla, a la vez que siente una fuerte atracción por un cliente habitual. La narrativa detectivesca que floreció en los años cuarenta se fusiona con este vibrante escenario ochentero, mezclando el Hollywood clásico con el cine independiente.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-02",
+            "time": "20:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-08",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "tiempo-de-revancha-1981",
+    "title": "Tiempo de revancha",
+    "originalTitle": "Tiempo de revancha",
+    "poster": "images/tiempo-de-revancha.jpg",
+    "director": "Adolfo Aristarain",
+    "cast": [
+        "Federico Luppi",
+        "Haydée Padilla",
+        "Julio De Grazia",
+        "Ulises Dumont"
+    ],
+    "year": 1981,
+    "duration": 108,
+    "country": "Argentina",
+    "genres": [
+        "Thriller",
+        "Drama"
+    ],
+    "synopsis": "Un ex-sindicalista y experto en explosivos entra a trabajar en una peligrosa empresa minera. Junto a otros compañeros traza un plan para simular un accidente y conseguir una gran indemnización, pero la tragedia se desata y se ve obligado a hacerse pasar por mudo para enfrentarse en solitario a una corporación despiadada.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-03",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "vida-en-sombras-1948",
+    "title": "Vida en sombras",
+    "originalTitle": "Vida en sombras",
+    "poster": "images/vida-en-sombras.jpg",
+    "director": "Lorenzo Llobet Gràcia",
+    "cast": [
+        "Fernando Fernán Gómez",
+        "María Dolores Pradera",
+        "Ana Esmeralda"
+    ],
+    "year": 1948,
+    "duration": 75,
+    "country": "España",
+    "genres": [
+        "Drama",
+        "Cine dentro del cine"
+    ],
+    "synopsis": "Homenaje absoluto al séptimo arte a través de la vida de un fotógrafo y cinéfilo barcelonés cuya existencia discurre en paralelo a la historia del cine y a los acontecimientos políticos y sociales de España, desde principios de siglo hasta la posguerra.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-03",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-20",
+            "time": "21:00"
+        }
+    ]
+},
+{
+    "id": "boat-people-1982",
+    "title": "Boat People",
+    "originalTitle": "Tau sun yau",
+    "poster": "images/boat-people.jpg",
+    "director": "Ann Hui",
+    "cast": [
+        "George Lam",
+        "Cora Miao",
+        "Andy Lau"
+    ],
+    "year": 1982,
+    "duration": 103,
+    "country": "Hong Kong",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "El fotoperiodista japonés Akutagawa Shiomi viaja a Vietnam tras la unificación para retratar la supuesta prosperidad del nuevo régimen socialista. Sin embargo, tras la fachada oficial descubre la cruda realidad de los campos de reeducación, la miseria y el drama desesperado de los refugiados.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-03",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-12",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "la-rosa-purpura-de-el-cairo-1985",
+    "title": "La rosa púrpura de El Cairo",
+    "originalTitle": "The Purple Rose of Cairo",
+    "poster": "images/la-rosa-purpura-de-el-cairo.jpg",
+    "director": "Woody Allen",
+    "cast": [
+        "Mia Farrow",
+        "Jeff Daniels",
+        "Danny Aiello"
+    ],
+    "year": 1985,
+    "duration": 82,
+    "country": "Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Fantasía",
+        "Romance"
+    ],
+    "synopsis": "En plena Gran Depresión, una camarera de Nueva Jersey acude al cine para escapar de su gris realidad y de su infeliz matrimonio. Una noche, el protagonista de la película que está viendo cruza la pantalla del cine y se baja del atril para conocerla, desatando una fantasía romántica inolvidable.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-04",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-16",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "mirages-de-paris-1933",
+    "title": "Mirages de Paris",
+    "originalTitle": "Mirages de Paris",
+    "poster": "images/mirages-de-paris.jpg",
+    "director": "Fëdor Ocep",
+    "cast": [
+        "Jacqueline Francell",
+        "Roger Tréville",
+        "Alice Tissot",
+        "Colette Darfeuil"
+    ],
+    "year": 1933,
+    "duration": 77,
+    "country": "Francia, Alemania",
+    "genres": [
+        "Comedia",
+        "Drama",
+        "Musical"
+    ],
+    "synopsis": "Madeleine Duchanel, una joven de provincias convencida de que está destinada a triunfar en los escenarios, se escapa a París para perseguir sus sueños de fama. Allí descubre un mundo mucho más duro de lo que imaginaba, moviéndose entre pensiones miserables, timadores y delincuentes.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-04",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-13",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "generacion-1955",
+    "title": "Generación",
+    "originalTitle": "Pokolenie",
+    "poster": "images/generacion.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Tadeusz Łomnicki",
+        "Urszula Modrzyńska",
+        "Tadeusz Janczar"
+    ],
+    "year": 1955,
+    "duration": 87,
+    "country": "Polonia",
+    "genres": [
+        "Drama",
+        "Bélico"
+    ],
+    "synopsis": "Ambientada en la Varsovia ocupada de 1943, la película tiene como protagonista a Stach Mazur, un muchacho de un suburbio de barracas que pasa del pequeño hurto de carbón en los trenes alemanes al compromiso armado con la resistencia comunista, guiado por el viejo obrero Sekuła. Ópera prima de Wajda que retrata la maduración forzosa de una juventud marcada por la guerra.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-04",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-23",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "el-moderno-sherlock-holmes-1924",
+    "title": "El moderno Sherlock Holmes",
+    "originalTitle": "Sherlock Jr.",
+    "poster": "images/el-moderno-sherlock-holmes.jpg",
+    "director": "Buster Keaton",
+    "cast": [
+        "Buster Keaton",
+        "Kathryn McGuire",
+        "Joe Keaton"
+    ],
+    "year": 1924,
+    "duration": 45,
+    "country": "Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Cine mudo"
+    ],
+    "synopsis": "Un proyeccionista de cine que aspira a convertirse en detective privado es acusado injustamente por un rival sin escrúpulos de robar un reloj de bolsillo. Mientras duerme profundamente en la cabina de proyección, su espíritu se separa de su cuerpo y entra literalmente dentro de la película para intentar salvar a su amada y resolver el misterio.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-05",
+            "time": "17:30",
+            "version": "Mudo"
+        }
+    ]
+},
+{
+    "id": "made-in-hong-kong-1997",
+    "title": "Made in Hong Kong",
+    "originalTitle": "Xiang gang zhi zao",
+    "poster": "images/made-in-hong-kong.jpg",
+    "director": "Fruit Chan",
+    "cast": [
+        "Sam Lee",
+        "Neiky Yip",
+        "Wun Lai Tun",
+        "Tam Suet-Mei"
+    ],
+    "year": 1997,
+    "duration": 108,
+    "country": "Hong Kong",
+    "genres": [
+        "Drama",
+        "Cine independiente"
+    ],
+    "synopsis": "Rodada de manera totalmente independiente con película caducada justo antes de la devolución de Hong Kong a China, la historia sigue a Autumn Moon, un joven matón de poca monta de los bajos fondos urbanos, cuya vida cambia al entablar relación con una chica enferma y una estudiante suicida.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-05",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-25",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "la-legion-invencible-1949",
+    "title": "La legión invencible",
+    "originalTitle": "She Wore a Yellow Ribbon",
+    "poster": "images/la-legion-invencible.jpg",
+    "director": "John Ford",
+    "cast": [
+        "John Wayne",
+        "Joanne Dru",
+        "John Agar",
+        "Ben Johnson"
+    ],
+    "year": 1949,
+    "duration": 103,
+    "country": "Estados Unidos",
+    "genres": [
+        "Western"
+    ],
+    "synopsis": "Poco después de la derrota de Custer en Little Big Horn, un veterano capitán de caballería próximo a jubilarse afronta su última y delicada misión en la frontera: evitar a toda costa un levantamiento general de las tribus indias tras unificar sus fuerzas.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-05",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "matinee-1993",
+    "title": "Matinee",
+    "originalTitle": "Matinee",
+    "poster": "images/matinee.jpg",
+    "director": "Joe Dante",
+    "cast": [
+        "John Goodman",
+        "Cathy Moriarty",
+        "Simon Fenton",
+        "Omri Katz"
+    ],
+    "year": 1993,
+    "duration": 99,
+    "country": "Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Cine dentro del cine"
+    ],
+    "synopsis": "En plena crisis de los misiles de Cuba, un astuto y extravagante productor de cine de serie B llega a un pueblo costero de Florida para estrenar su última película de terror de bajo presupuesto, revolucionando a los adolescentes locales con efectos especiales en directo y una campaña publicitaria inolvidable.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-06",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-23",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "twin-dragons-1992",
+    "title": "Twin Dragons",
+    "originalTitle": "Shuang long hui",
+    "poster": "images/twin-dragons.jpg",
+    "director": "Ringo Lam, Tsui Hark",
+    "cast": [
+        "Jackie Chan",
+        "Maggie Cheung",
+        "Teddy Robin",
+        "Sylvia Chang"
+    ],
+    "year": 1992,
+    "duration": 104,
+    "country": "Hong Kong",
+    "genres": [
+        "Acción",
+        "Comedia"
+    ],
+    "synopsis": "Divertida comedia de enredos y artes marciales dirigida por dos grandes del cine de Hong Kong. Dos hermanos gemelos separados al nacer llevan vidas totalmente opuestas: uno es un prestigioso director de orquesta y el otro un gamberro callejero. Cuando cruzan sus caminos por casualidad en Hong Kong, se desata el caos absoluto con confusiones de identidad y peleas memorables.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-06",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-16",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "una-manana-mejor-1986",
+    "title": "Un mañana mejor",
+    "originalTitle": "Ying hung boon sik",
+    "poster": "images/una-manana-mejor.jpg",
+    "director": "John Woo",
+    "cast": [
+        "Ti Lung",
+        "Leslie Cheung",
+        "Chow Yun-fat",
+        "Emily Chu"
+    ],
+    "year": 1986,
+    "duration": 95,
+    "country": "Hong Kong",
+    "genres": [
+        "Acción",
+        "Crimen",
+        "Drama"
+    ],
+    "synopsis": "Obra maestra fundacional del cine de acción de Hong Kong que narra la compleja relación entre un falsificador de billetes arrepentido, su hermano menor (un joven y ambicioso policía) y un leal compañero marcado por la venganza y los códigos de honor de la triada.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-08",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-18",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "la-patrulla-de-la-muerte-1957",
+    "title": "La patrulla de la muerte",
+    "originalTitle": "Kanal",
+    "poster": "images/la-patrulla-de-la-muerte.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Tadeusz Janczar",
+        "Wiola Glinkowna",
+        "Andrzej Szalawski",
+        "Marek Perepeczko"
+    ],
+    "year": 1957,
+    "duration": 91,
+    "country": "Polonia",
+    "genres": [
+        "Bélico",
+        "Drama"
+    ],
+    "synopsis": "Crónica claustrofóbica y desesperada de los últimos días del Alzamiento de Varsovia en 1944. Un grupo de soldados e insurgentes polacos intenta escapar del cerco y los bombardeos nazis adentrándose en la oscura y laberíntica red de alcantarillado de la ciudad.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-09",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-25",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "talking-about-trees-2019",
+    "title": "Talking About Trees",
+    "originalTitle": "Talking About Trees",
+    "poster": "images/talking-about-trees.jpg",
+    "director": "Suhaib Gasmelbari",
+    "cast": [
+        "Manar Al Hilo",
+        "Suliman Elnour",
+        "Eltayeb Mahdi",
+        "Ibrahim Shaddad"
+    ],
+    "year": 2019,
+    "duration": 93,
+    "country": "Sudán, Francia, Alemania",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Cuatro veteranos cineastas sudaneses y miembros del histórico Sudanese Film Group se reencuentran con el propósito de revivir el cine en su país tras décadas de censura y abandono institucional, intentando reabrir un viejo cine al aire libre en las afueras de Jartum.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-09",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-24",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "rio-grande-1950",
+    "title": "Río Grande",
+    "originalTitle": "Rio Grande",
+    "poster": "images/rio-grande.jpg",
+    "director": "John Ford",
+    "cast": [
+        "John Wayne",
+        "Maureen O'Hara",
+        "Claude Jarman Jr.",
+        "Ben Johnson"
+    ],
+    "year": 1950,
+    "duration": 105,
+    "country": "Estados Unidos",
+    "genres": [
+        "Western"
+    ],
+    "synopsis": "Última entrega de la emblemática trilogía de la caballería de John Ford. Un teniente coronel destinado en la conflictiva frontera del río Grande ve cómo su hijo recién reclutado se alista en su propio regimiento. Con la tensa presencia de su esposa de fondo y las constantes incursiones de los apaches, padre e hijo deberán afrontar sus deberes militares y familiares.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-09",
+            "time": "20:30"
+        }
+    ]
+},
+{
+    "id": "las-dos-memorias-2001",
+    "title": "Las dos memorias",
+    "originalTitle": "Las dos memorias",
+    "poster": "images/las-dos-memorias.jpg",
+    "director": "Jorge Semprún",
+    "cast": [],
+    "year": 2001,
+    "duration": 125,
+    "country": "España, Francia",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Documental dirigido por el escritor y político Jorge Semprún que reflexiona sobre la memoria histórica de España, abordando la Guerra Civil y la posterior dictadura franquista a través de testimonios y un profundo análisis político y moral.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-10",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "shirin-2008",
+    "title": "Shirin",
+    "originalTitle": "Shirin",
+    "poster": "images/shirin.jpg",
+    "director": "Abbas Kiarostami",
+    "cast": [
+        "Juliette Binoche",
+        "Hanieh Tehrani",
+        "Shirin Bina"
+    ],
+    "year": 2008,
+    "duration": 92,
+    "country": "Irán",
+    "genres": [
+        "Drama",
+        "Experimental"
+    ],
+    "synopsis": "Hipnótica y original propuesta en la que la cámara se sitúa fija frente a los rostros de decenas de mujeres iraníes —incluyendo a la actriz Juliette Binoche— mientras asisten en una sala oscura a la representación en audio de un clásico poema trágico persa sobre el amor, reflejando sus emociones cambiantes a través de las expresiones y la mirada.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-10",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-22",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "city-on-fire-1987",
+    "title": "City on Fire",
+    "originalTitle": "Lung fu fong wan",
+    "poster": "images/city-on-fire.jpg",
+    "director": "Ringo Lam",
+    "cast": [
+        "Chow Yun-fat",
+        "Danny Lee",
+        "Sun Yueh",
+        "Maria Cordero"
+    ],
+    "year": 1987,
+    "duration": 101,
+    "country": "Hong Kong",
+    "genres": [
+        "Acción",
+        "Thriller",
+        "Crimen"
+    ],
+    "synopsis": "Un policía encubierto se infiltra en una peligrosa banda de ladrones de Hong Kong para planificar y frustrar un gran robo a una joyería, vierto se debate entre la lealtad hacia su trabajo y los lazos de hermandad criminal que forja con uno de los atracadores.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-10",
+            "time": "20:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-26",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "la-ley-de-la-frontera-1995",
+    "title": "La ley de la frontera",
+    "originalTitle": "La ley de la frontera",
+    "poster": "images/la-ley-de-la-frontera.jpg",
+    "director": "Adolfo Aristarain",
+    "cast": [
+        "Federico Luppi",
+        "Pere Ponce",
+        "Aitana Sánchez-Gijón",
+        "Achero Mañas"
+    ],
+    "year": 1995,
+    "duration": 115,
+    "country": "España, Argentina",
+    "genres": [
+        "Aventuras",
+        "Comedia"
+    ],
+    "synopsis": "A comienzos del siglo XX en la frontera galaico-portuguesa, un joven adinerado y el hijo de un minero cruzan sus caminos y se adentran en el bandolerismo. Juntos asaltan a recaudadores y conocen a una intrépida periodista que busca entrevistar al célebre bandido conocido como 'El Argentino'.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-11",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "retratos-fantasma-2023",
+    "title": "Retratos fantasma",
+    "originalTitle": "Retratos Fantasmas",
+    "poster": "images/retratos-fantasma.jpg",
+    "director": "Kleber Mendonça Filho",
+    "cast": [
+        "Kleber Mendonça Filho",
+        "Sonia Braga",
+        "Arlindo Bezerra"
+    ],
+    "year": 2023,
+    "duration": 93,
+    "country": "Brasil",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Un viaje íntimo y cinematográfico por el centro de la ciudad brasileña de Recife a través del tiempo, explorando la historia, los grandes cines de barrio desaparecidos y las transformaciones urbanas y sociales mediante el archivo personal y la memoria del propio director.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-11",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "cenizas-y-diamantes-1958",
+    "title": "Cenizas y diamantes",
+    "originalTitle": "Popiól i diament",
+    "poster": "images/cenizas-y-diamantes.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Zbigniew Cybulski",
+        "Ewa Krzyżewska",
+        "Adam Pawlikowski",
+        "Bogumił Kobiela"
+    ],
+    "year": 1958,
+    "duration": 98,
+    "country": "Polonia",
+    "genres": [
+        "Drama",
+        "Bélico"
+    ],
+    "synopsis": "En la Polonia de 1945, justo el día en que finaliza la Segunda Guerra Mundial, el caos político y el extremismo se apoderan del país. Un joven miembro de la resistencia clandestina anticomunista recibe la orden de asesinar a un funcionario del partido comunista, pero sus dudas crecen al enamorarse de una camarera en un hotel de provincias durante sus últimas horas decisivas.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-12",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-27",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "el-ultimo-gran-heroe-1993",
+    "title": "El último gran héroe",
+    "originalTitle": "Last Action Hero",
+    "poster": "images/el-ultimo-gran-heroe.jpg",
+    "director": "John McTiernan",
+    "cast": [
+        "Arnold Schwarzenegger",
+        "Austin O'Brien",
+        "F. Murray Abraham"
+    ],
+    "year": 1993,
+    "duration": 130,
+    "country": "Estados Unidos",
+    "genres": [
+        "Acción",
+        "Comedia",
+        "Fantasía"
+    ],
+    "synopsis": "Un joven cinéfilo recibe una entrada mágica que le permite entrar en la película de acción protagonizada por su héroe, Jack Slater. Juntos deberán impedir que un peligroso villano escape al mundo real y desate el caos.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-12",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-30",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "un-lugar-en-el-mundo-1992",
+    "title": "Un lugar en el mundo",
+    "originalTitle": "Un lugar en el mundo",
+    "poster": "images/un-lugar-en-el-mundo.jpg",
+    "director": "Adolfo Aristarain",
+    "cast": [
+        "José Sacristán",
+        "Federico Luppi",
+        "Leonor Benedetto",
+        "Cecilia Roth"
+    ],
+    "year": 1992,
+    "duration": 120,
+    "country": "Argentina, España",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Un hombre regresa a un remoto y árido valle en el centro de Argentina donde pasó su infancia, evocando el tiempo en que sus padres vivían allí exiliados, dedicados a ayudar a los campesinos locales frente a las injusticias de los terratenientes y compartiendo su vida con un geólogo español.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-13",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-27",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "everything-for-sale-1969",
+    "title": "Everything for Sale",
+    "originalTitle": "Wszystko na sprzedaż",
+    "poster": "images/everything-for-sale.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Beata Tyszkiewicz",
+        "Elżbieta Czyżewska",
+        "Andrzej Łapicki",
+        "Daniel Olbrychski",
+        "Bogumił Kobiela"
+    ],
+    "year": 1969,
+    "duration": 98,
+    "country": "Polonia",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Fascinante ejercicio metacinematográfico de Andrzej Wajda que rinde tributo y a la vez reflexiona sobre la figura del actor Zbigniew Cybulski. La trama arranca cuando un célebre actor no se presenta en el rodaje de una película, desencadenando una intensa búsqueda por parte del director, su esposa y sus allegados mientras se difuminan los límites entre la ficción y la realidad.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-13",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-22",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "el-ultimo-verano-2016",
+    "title": "El último verano",
+    "originalTitle": "El último verano",
+    "poster": "images/el-ultimo-verano.jpg",
+    "director": "Leire Apellaniz",
+    "cast": [
+        "Miguel Ángel",
+        "Garlós Hamparzoumian",
+        "Roberto Moreno",
+        "Álvaro Ogalla"
+    ],
+    "year": 2016,
+    "duration": 93,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Durante el verano, Miguel Ángel recorre distintas localidades proyectando películas al aire libre en 35 milímetros. Su oficio atraviesa un momento crítico debido a la inminente e implacable sustitución del celuloide tradicional por los nuevos sistemas de proyección digital.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-14",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "paisaje-despues-de-la-batalla-1970",
+    "title": "Paisaje después de la batalla",
+    "originalTitle": "Krajobraz po bitwie",
+    "poster": "images/paisaje-despues-de-la-batalla.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Daniel Olbrychski",
+        "Stanisława Celińska",
+        "Aleksander Bardini",
+        "Zygmunt Malanowicz"
+    ],
+    "year": 1970,
+    "duration": 100,
+    "country": "Polonia",
+    "genres": [
+        "Drama",
+        "Bélico",
+        "Romance"
+    ],
+    "synopsis": "Recién finalizada la Segunda Guerra Mundial, un joven poeta polaco superviviente de un campo de concentración nazi es liberado por las tropas aliadas y trasladado a un campo de desplazados en Alemania. Allí, entre las ruinas y la incertidumbre del porvenir, intenta recuperar las ganas de vivir y su vocación artística, un proceso marcado por su intenso y complejo romance con una joven prisionera judía.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-15",
+            "time": "20:00"
+        },
+                {
+            "cinema": "Cine Doré",
+            "date": "2026-09-24",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "lugares-comunes-2002",
+    "title": "Lugares comunes",
+    "originalTitle": "Lugares comunes",
+    "poster": "images/lugares-comunes.jpg",
+    "director": "Adolfo Aristarain",
+    "cast": [
+        "Federico Luppi",
+        "Mercedes Sampietro",
+        "Arturo Puig"
+    ],
+    "year": 2002,
+    "duration": 112,
+    "country": "España, Argentina",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Fernando Robles, un profesor de literatura cercano a la jubilación, es apartado inesperadamente de la universidad. Junto a su esposa Liliana, decide afrontar los cambios vitales, la crisis económica y el traslado desde Buenos Aires hacia una nueva vida en el entorno rural de Córdoba.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-16",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "my-heart-is-that-eternal-rose-1989",
+    "title": "My Heart is That Eternal Rose",
+    "originalTitle": "Sha shou hu die meng",
+    "poster": "images/my-heart-is-that-eternal-rose.jpg",
+    "director": "Patrick Tam",
+    "cast": [
+        "Kenny Bee",
+        "Tony Leung Chiu-wai",
+        "Joey Wang"
+    ],
+    "year": 1989,
+    "duration": 90,
+    "country": "Hong Kong",
+    "genres": [
+        "Acción",
+        "Crimen",
+        "Romance"
+    ],
+    "synopsis": "Lap, una joven que trabaja en un restaurante, se enamora de Rick, un joven vinculado al mundo del crimen. Cuando el padre de Lap, propietario del local, se ve obligado a colaborar con la policía, Rick debe huir de Hong Kong tras un peligroso enfrentamiento, marcando sus destinos por la lealtad y el peligro.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-17",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-27",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "el-desencanto-1976",
+    "title": "El desencanto",
+    "originalTitle": "El desencanto",
+    "poster": "images/el-desencanto.jpg",
+    "director": "Jaime Chávarri",
+    "cast": [
+        "Felicidad Blanc",
+        "Juan Luis Panero",
+        "Leopoldo María Panero",
+        "Michi Panero"
+    ],
+    "year": 1976,
+    "duration": 107,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Tras la muerte del poeta Leopoldo Panero, su viuda, Felicidad Blanc, y sus tres hijos —Juan Luis, Leopoldo María y Michi— rememoran la figura del patriarca y la historia de la familia. A través de sus testimonios y confesiones afloran viejos resentimientos, profundas frustraciones y heridas nunca cerradas.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-17",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "goodbye-dragon-inn-2003",
+    "title": "Goodbye Dragon Inn",
+    "originalTitle": "Bu san",
+    "poster": "images/goodbye-dragon-inn.jpg",
+    "director": "Tsai Ming-liang",
+    "cast": [
+        "Lee Kang-sheng",
+        "Chen Shiang-chyi",
+        "Kiyonobu Mitamura"
+    ],
+    "year": 2003,
+    "duration": 82,
+    "country": "Taiwán",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "En una vieja y decadente sala de cine de Taipéi que se dispone a cerrar definitivamente sus puertas, se proyecta una última sesión de un clásico de las artes marciales. Mientras fuera cae una intensa lluvia, un puñado de solitarios espectadores y los empleados del cine deambulan por los pasillos y butacas en una melancólica despedida a una época dorada de la gran pantalla.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-18",
+            "time": "20:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-29",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "the-cameraman-1928",
+    "title": "El cameraman",
+    "originalTitle": "The Cameraman",
+    "poster": "images/the-cameraman.jpg",
+    "director": "Edward Sedgwick, Buster Keaton",
+    "cast": [
+        "Buster Keaton",
+        "Marceline Day",
+        "Harold Goodwin"
+    ],
+    "year": 1928,
+    "duration": 76,
+    "country": "Estados Unidos",
+    "genres": [
+        "Comedia",
+        "Cine mudo",
+        "Romance"
+    ],
+    "synopsis": "Un modesto fotógrafo callejero se enamora perdidamente de una joven que trabaja en un estudio cinematográfico de noticiarios. Decidido a conquistarla, compra una cámara vieja para convertirse en cámara profesional, provocando una cadena infinita de desastres cómicos y tiernas situaciones en su intento por destacar.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-19",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "la-tierra-de-la-gran-promesa-1975",
+    "title": "La tierra de la gran promesa",
+    "originalTitle": "Ziemia obiecana",
+    "poster": "images/la-tierra-de-la-gran-promesa.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Daniel Olbrychski",
+        "Wojciech Pszoniak",
+        "Andrzej Seweryn"
+    ],
+    "year": 1975,
+    "duration": 179,
+    "country": "Polonia",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "A finales del siglo XIX en la industrializada ciudad polaca de Łódź, tres jóvenes amigos de diferentes orígenes —un polaco, un alemán y un judío— se asocian con el propósito de construir una gran fábrica textil y amasar una fortuna durante el vertiginoso boom capitalista, enfrentándose a un entorno implacable marcado por la ambición, la explotación y la pérdida de valores éticos.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-19",
+            "time": "19:00"
+        },
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-29",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "the-killer-1989",
+    "title": "The Killer",
+    "originalTitle": "Die xue shuang xiong",
+    "poster": "images/the-killer.jpg",
+    "director": "John Woo",
+    "cast": [
+        "Chow Yun-fat",
+        "Danny Lee",
+        "Sally Yeh",
+        "Kenneth Tsang"
+    ],
+    "year": 1989,
+    "duration": 111,
+    "country": "Hong Kong",
+    "genres": [
+        "Acción",
+        "Thriller",
+        "Crimen"
+    ],
+    "synopsis": "Obra maestra del cine de acción de Hong Kong dirigida por John Woo. Un sicario desilusionado acepta realizar un último trabajo para poder costear una costosa operación quirúrgica que devuelva la vista a una cantante a la que hirió accidentalmente por culpa de su oficio. Mientras intenta protegerla, un inspector de policía tenaz le sigue muy de cerca, forjando ambos una extraña y compleja relación de respeto mutuo al margen de la ley.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-19",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "el-hombre-de-marmol-1977",
+    "title": "El hombre de mármol",
+    "originalTitle": "Człowiek z marmuru",
+    "poster": "images/el-hombre-de-marmol.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Krystyna Janda",
+        "Jerzy Radziwiłowicz",
+        "Tadeusz Łomnicki",
+        "Michał Tarkowski"
+    ],
+    "year": 1977,
+    "duration": 164,
+    "country": "Polonia",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "En la Polonia de los años setenta, una joven estudiante de cine realiza un documental sobre Mateusz Birkut, un albañil que en la década de 1950 fue aclamado como héroe del trabajo socialista y estajanovista, pero que posteriormente cayó en desgracia y fue marginado por el régimen. A través de su investigación, destapa las contradicciones y los abusos del sistema político comunista.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-20",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "fallen-angels-1995",
+    "title": "Fallen Angels",
+    "originalTitle": "Duo luo tian shi",
+    "poster": "images/fallen-angels.jpg",
+    "director": "Wong Kar-wai",
+    "cast": [
+        "Leon Lai",
+        "Michelle Reis",
+        "Takeshi Kaneshiro",
+        "Charlie Yeung"
+    ],
+    "year": 1995,
+    "duration": 103,
+    "country": "Hong Kong",
+    "genres": [
+        "Drama",
+        "Crimen",
+        "Romance"
+    ],
+    "synopsis": "Hipnótico y estilizadísimo retrato urbano de Hong Kong que entrelaza las historias de varios personajes solitarios en los márgenes de la noche: un asesino a sueldo que busca abandonar su peligrosa profesión, su misteriosa socia que organiza sus contratos desde la sombra, un joven mudo que se dedica a allanar locales ajenos por las noches y una chica desconsolada por un desamor que busca desesperadamente un contacto humano.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-23",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "roma-2004",
+    "title": "Roma",
+    "originalTitle": "Roma",
+    "poster": "images/roma.jpg",
+    "director": "Adolfo Aristarain",
+    "cast": [
+        "Juan Diego Botto",
+        "Susú Pecoraro",
+        "José Sacristán"
+    ],
+    "year": 2004,
+    "duration": 155,
+    "country": "España, Argentina",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Joaquín Gónez, un prestigioso escritor argentino, regresa a su país para recibir un homenaje tras años de exilio. Durante el viaje rememora su infancia y juventud, marcadas por la figura de su madre, Roma, una mujer fuerte y generosa que sostuvo a la familia en tiempos difíciles.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-20",
+            "time": "19:30"
+        }
+    ]
+},
+{
+    "id": "la-vida-util-2010",
+    "title": "La vida útil",
+    "originalTitle": "La vida útil",
+    "poster": "images/la-vida-util.jpg",
+    "director": "Federico Veiroj",
+    "cast": [
+        "Jorge Jellinek",
+        "Manuel Martínez Carril",
+        "Paola Venditto"
+    ],
+    "year": 2010,
+    "duration": 63,
+    "country": "Uruguay, España",
+    "genres": [
+        "Comedia",
+        "Drama"
+    ],
+    "synopsis": "Jorge, un cinéfilo empedernido que ha trabajado durante veinticinco años en la Cinemateca Uruguaya, se ve obligado a reinventar su vida cuando la institución atraviesa una profunda crisis económica y se plantea su cierre definitivo, empujándolo a descubrir el mundo exterior más allá de las paredes de la sala de proyección.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-25",
+            "time": "20:00"
+        }
+    ]
+},
+{
+    "id": "cien-ninos-esperando-un-tren-1988",
+    "title": "Cien niños esperando un tren",
+    "originalTitle": "Cien niños esperando un tren",
+    "poster": "images/cien-ninos-esperando-un-tren.jpg",
+    "director": "Ignacio Agüero",
+    "cast": [
+        "Alicia Vega"
+    ],
+    "year": 1988,
+    "duration": 56,
+    "country": "Chile",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "En una población de los suburbios de Santiago de Chile durante la dictadura, la profesora Alicia Vega imparte un taller de cine los fines de semana para un centenar de niños que nunca antes habían visto una película. A través de las clases, los juegos ópticos y las proyecciones, los niños descubren un mundo nuevo de libertad, imaginación y esperanza.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-26",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "la-boda-1973",
+    "title": "La boda",
+    "originalTitle": "Wesele",
+    "poster": "images/la-boda.jpg",
+    "director": "Andrzej Wajda",
+    "cast": [
+        "Marek Walczewski",
+        "Izabella Olszewska",
+        "Daniel Olbrychski",
+        "Ewa Ziętek"
+    ],
+    "year": 1973,
+    "duration": 105,
+    "country": "Polonia",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "Ambientada a principios del siglo XX, la película narra el enlace matrimonial entre un intelectual de la burguesía de Cracovia y una joven de origen campesino. A la celebración acude una heterogénea concurrencia que representa a todas las clases sociales de la Polonia de la época. Entre bailes, alcohol y discusiones, la fiesta se transforma en un profundo y fantasmagórico examen sobre la identidad nacional, la historia y los traumas políticos del país.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-26",
+            "time": "19:00"
+        }
+    ]
+},
+{
+    "id": "padre-nuestro-1985",
+    "title": "Padre nuestro",
+    "originalTitle": "Padre nuestro",
+    "poster": "images/padre-nuestro.jpg",
+    "director": "Francisco Regueiro",
+    "cast": [
+        "Fernando Rey",
+        "Francisco Rabal",
+        "Victoria Abril",
+        "Emma Penella"
+    ],
+    "year": 1985,
+    "duration": 99,
+    "country": "España",
+    "genres": [
+        "Drama"
+    ],
+    "synopsis": "A un cardenal español le diagnostican una enfermedad incurable y decide abandonar Roma para regresar a España antes de morir. Su principal obsesión es dejarlo todo en orden y conseguir legitimar a su hija —que trabaja como prostituta de lujo—, para lo cual urde un insólito plan: convencer a su hermano, un ateo convencido, de que se case con ella.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-30",
+            "time": "17:30"
+        }
+    ]
+},
+{
+    "id": "comrades-almost-a-love-story-1996",
+    "title": "Comrades: Almost a Love Story",
+    "originalTitle": "Tian mi mi",
+    "poster": "images/comrades-almost-a-love-story.jpg",
+    "director": "Peter Chan",
+    "cast": [
+        "Maggie Cheung",
+        "Leon Lai",
+        "Eric Tsang"
+    ],
+    "year": 1996,
+    "duration": 118,
+    "country": "Hong Kong",
+    "genres": [
+        "Drama",
+        "Romance"
+    ],
+    "synopsis": "A finales de la década de 1980, Xiaojun llega a Hong Kong desde la China continental con el objetivo de ganar suficiente dinero para casarse con su novia de toda la vida. Poco después de instalarse, conoce a Qiao, una ambiciosa joven que también intenta prosperar en la gran ciudad. La relación entre ambos evoluciona de la amistad al amor a lo largo de los años, marcada por las idas y venidas, el destino y la música de Teresa Teng.",
+    "screenings": [
+        {
+            "cinema": "Cine Doré",
+            "date": "2026-09-30",
+            "time": "19:00"
+        }
+    ]
 }
+
+
 ];
