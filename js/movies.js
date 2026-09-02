@@ -6588,7 +6588,7 @@ const movies = [
     "synopsis": "Mario se muda a una nueva casa con sus padres y con su hermano mayor David, al cual está muy unido. Mario sufre episodios de ansiedad y falta de concentración, por lo que está tomando medicación de manera regular. Una tarde lluviosa, Mario presencia cómo secuestran a su hermano mayor. Después de 19 días de angustiosa espera, David vuelve a casa, pero no recuerda nada de su desaparición. Desde ese momento, Mario nota suficientes cambios en la personalidad y el comportamiento de su hermano mayor como para empezar a creer que la persona que ha regresado no es su verdadero hermano.",
     "screenings": [
         {
-            "cinema": "Fescinal (La Bombilla)",
+            "cinema": "Cine de Verano de La Bombilla",
             "date": "2026-09-02",
             "time": "22:00",
             "version": "Coloquio"
