@@ -40,7 +40,14 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Sophie recuerda unas vacaciones que compartió con su padre veinte años atrás, intentando reconciliar al padre que conoció con el hombre que nunca llegó a conocer del todo.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-04",
+                "time": "22:35",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "akira",
@@ -230,6 +237,17 @@ const movies = [
         ],
         "synopsis": "Un joven encuentra una oreja humana en un campo y comienza a investigar un oscuro misterio relacionado con una cantante de club nocturno y un peligroso criminal.",
         "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-07",
+                "time": "17:50",
+                "version": "Embajadores río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-09",
+                "time": "22:35"
+            },
             {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-01",
@@ -1302,6 +1320,36 @@ const movies = [
                 "time": "22:30"
             },
             {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-04",
+                "time": "20:00",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-05",
+                "time": "22:25",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-06",
+                "time": "20:35",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-07",
+                "time": "19:45",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-09",
+                "time": "22:35",
+                "version": "Embajadores Río"
+            },
+            {
                 "cinema": "Cibeles de Cine",
                 "date": "2026-09-10",
                 "time": "22:00",
@@ -1392,6 +1440,17 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-20",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-09",
+                "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-06",
+                "time": "11:45",
+                "version": "doblada al español - embajadores río"
             }
         ]
     },
@@ -1602,6 +1661,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-03",
                 "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-05",
+                "time": "16:00"
             }
         ]
     },
@@ -1989,11 +2053,6 @@ const movies = [
                 "time": "12:00"
             },
             {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-12",
-                "time": "12:00"
-            },
-            {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-03",
                 "time": "17:40",
@@ -2341,7 +2400,23 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Un poeta fracasado y desencantado encuentra una nueva oportunidad cuando conoce a una joven con talento para la poesía y decide convertirse en su mentor.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-09-06",
+                "time": "21:45"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-09-10",
+                "time": "19:30"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-09-15",
+                "time": "21:45"
+            }
+        ]
     },
     {
         "id": "viridiana",
@@ -2569,6 +2644,17 @@ const movies = [
                 "date": "2026-09-03",
                 "time": "22:30",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-04",
+                "time": "22:30",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-10",
+                "time": "22:30"
             }
         ]
     }, 
@@ -2646,6 +2732,12 @@ const movies = [
                 "date": "2026-09-02",
                 "time": "16:00",
                 "version": "Doblada al español"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-05",
+                "time": "16:00",
+                "version": "Doblada al español - Embajadores Río"
             }
         ]
     },
@@ -2693,7 +2785,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Gretta y su novio de toda la vida Dave viajan a Nueva York cuando él consigue un contrato con una gran discográfica. Pero las tentaciones de la fama pronto alejan a Dave. Desconsolada, Gretta conoce a Dan, un productor discográfico en horas bajas que queda cautivado por su talento mientras la escucha actuar en un bar de East Village.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-07",
+                "time": "22:30"
+            }
+        ]
     }, 
     {
         "id": "fresas-salvajes",
@@ -2753,9 +2851,10 @@ const movies = [
                 "time": "20:30"
             },       
             {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-28",
-                "time": "20:20"
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-03",
+                "time": "17:00",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -3713,7 +3812,7 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-06",
                 "time": "12:00",
-                "version": "VOSE - Coloquio"
+                "version": "VOSE - Coloquio - embajadores río"
             }
         ]
     },
@@ -3907,7 +4006,7 @@ const movies = [
             {
                 "cinema": "Cineteca Madrid",
                 "date": "2026-10-16",
-                "time": "18:00",
+                "time": "20:30",
                 "version": "Muda / Videoarte"
             }
         ]
@@ -3931,7 +4030,7 @@ const movies = [
             {
                 "cinema": "Cineteca Madrid",
                 "date": "2026-10-16",
-                "time": "20:30",
+                "time": "18:00",
                 "version": "Cine Mudo"
             }
         ]
@@ -3962,7 +4061,7 @@ const movies = [
             {
                 "cinema": "Cineteca Madrid",
                 "date": "2026-10-17",
-                "time": "20:30"
+                "time": "18:00"
             }
         ]
     },
@@ -3991,7 +4090,7 @@ const movies = [
             {
                 "cinema": "Cineteca Madrid",
                 "date": "2026-10-18",
-                "time": "20:30"
+                "time": "18:00"
             }
         ]
     },
@@ -4265,8 +4364,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cineteca Madrid",
-                "date": "2026-10-09",
-                "time": "19:00",
+                "date": "2026-11-13",
+                "time": "19:30",
                 "version": "VOSE (Coloquio con la productora Claudia Chávez)"
             }
         ]
@@ -4503,7 +4602,18 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Francia, 1770. Marianne, una pintora, recibe un encargo que consiste en realizar el retrato de bodas de Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-02",
+                "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-05",
+                "time": "22:35"
+            }
+        ]
     },
     {
         "id": "copying-beethoven",
@@ -4661,7 +4771,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Martín Echenique es un cineasta argentino que lleva veinte años viviendo en Madrid. Tras sufrir su hijo de 19 años (Hache) una sobredosis en Buenos Aires, su exmujer le pide que se haga cargo del joven. Padre e hijo emprenden una convivencia forzada en España, donde también les esperan Alicia, la amante de Martín, y Dante, su mejor amigo y actor hedonista, poniendo a prueba los vínculos familiares y la incapacidad de amar sin miedo al dolor.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-09-02",
+                "time": "17:30"
+            }
+        ]
     },
     {
         "id": "notre-musique-2004",
@@ -4683,6 +4799,11 @@ const movies = [
         ],
         "synopsis": "La película se estructura en tres partes inspiradas en la Divina Comedia de Dante: Infierno, Purgatorio y Paraíso. El Infierno se compone de un montaje impactante de imágenes de guerras reales y ficticias que muestran la violencia histórica y la destrucción, mientras el célebre cineasta examina la brutalidad de los conflictos a lo largo de los segmentos.",
         "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-09-02",
+                "time": "19:00"
+            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-18",
@@ -4711,6 +4832,11 @@ const movies = [
         ],
         "synopsis": "Christine consigue trabajo como taquillera de un cine porno en Times Square. En lugar de sentir rechazo por ese mundo marginal, poco a poco irá desarrollando una obsesión por la sordidez del sexo que amenazará con consumirla, a la vez que siente una fuerte atracción por un cliente habitual. La narrativa detectivesca que floreció en los años cuarenta se fusiona con este vibrante escenario ochentero, mezclando el Hollywood clásico con el cine independiente.",
         "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-09-02",
+                "time": "20:30"
+            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-08",
@@ -5186,7 +5312,7 @@ const movies = [
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-09",
-                "time": "20:30"
+                "time": "20:00"
             }
         ]
     },
@@ -5235,7 +5361,7 @@ const movies = [
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-10",
-                "time": "20:00"
+                "time": "19:00"
             },
             {
                 "cinema": "Cine Doré",
@@ -5328,7 +5454,12 @@ const movies = [
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-11",
-                "time": "20:00"
+                "time": "19:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-09-17",
+                "time": "17:30"
             }
         ]
     },
@@ -5355,8 +5486,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-12",
-                "time": "17:30"
+                "date": "2026-09-11",
+                "time": "20:00"
             },
             {
                 "cinema": "Cine Doré",
@@ -5420,12 +5551,7 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-13",
-                "time": "17:30"
-            },
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-27",
+                "date": "2026-09-12",
                 "time": "20:00"
             }
         ]
@@ -5486,7 +5612,7 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-14",
+                "date": "2026-09-15",
                 "time": "17:30"
             }
         ]
@@ -5808,8 +5934,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-20",
-                "time": "19:30"
+                "date": "2026-09-24",
+                "time": "20:00"
             }
         ]
     },
@@ -5944,6 +6070,530 @@ const movies = [
                 "time": "19:00"
             }
         ]
+    },
+    {
+    "id": "porco-rosso",
+    "title": "Porco Rosso",
+    "originalTitle": "Kurenai no Buta",
+    "poster": "images/porco-rosso.jpg",
+    "director": "Hayao Miyazaki",
+    "cast": [
+        "Shûichirô Moriyama",
+        "Tokiko Katô",
+        "Sanshi Katsura",
+        "Mahiro Tsugawa"
+    ],
+    "year": 1992,
+    "duration": 94,
+    "country": "Japón",
+    "genres": [
+        "Animación",
+        "Aventura",
+        "Fantasía",
+        "Comedia"
+    ],
+    "synopsis": "Ambientada en Italia durante el periodo de entreguerras, la historia sigue a Marco Pagot, un piloto veterano de la Primera Guerra Mundial que ha sufrido una extraña maldición convirtiéndolo en un hombre con cabeza de cerdo. Conocido como 'Porco Rosso', trabaja como cazarrecompensas persiguiendo a los piratas aéreos en el mar Adriático mientras lidia con su pasado y con un rival estadounidense.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-06",
+            "time": "16:00",
+            "version": "Doblada al español - Embajadores Río"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-09",
+            "time": "16:00",
+            "version": "Doblada al español - Embajadores Río"
+        }
+    ]
+    },
+    {
+    "id": "midsommar",
+    "title": "Midsommar",
+    "originalTitle": "Midsommar",
+    "poster": "images/midsommar.jpg",
+    "director": "Ari Aster",
+    "cast": [
+        "Florence Pugh",
+        "Jack Reynor",
+        "Will Poulter",
+        "William Jackson Harper",
+        "Vilhelm Blomgren"
+    ],
+    "year": 2019,
+    "duration": 147,
+    "country": "Estados Unidos, Suecia",
+    "genres": [
+        "Terror",
+        "Drama",
+        "Misterio"
+    ],
+    "synopsis": "Una pareja joven viaja a Suecia para visitar la ciudad natal de su amigo de la infancia y disfrutar de su festival de verano rural. Lo que comienza como unas vacaciones idílicas de verano en un remoto pueblo con tradiciones ancestrales se convierte poco a poco en una competición cada vez más violenta y extraña a manos de un culto pagano.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-09",
+            "time": "22:30",
+            "version": "Embajadores Río"
+        }
+    ]
+    },
+    {
+    "id": "el-pianista-2002",
+    "title": "El pianista",
+    "originalTitle": "The Pianist",
+    "poster": "images/el-pianista.jpg",
+    "director": "Roman Polanski",
+    "cast": [
+        "Adrien Brody",
+        "Thomas Kretschmann",
+        "Frank Finlay",
+        "Maureen Lipman",
+        "Emilia Fox"
+    ],
+    "year": 2002,
+    "duration": 150,
+    "country": "Reino Unido, Francia, Polonia, Alemania",
+    "genres": [
+        "Drama",
+        "Bélico",
+        "Biográfico"
+    ],
+    "synopsis": "Władysław Szpilman, un brillante pianista polaco de origen judío, toca en la radio de Varsovia cuando estalla la Segunda Guerra Mundial. Con la invasión alemana, la vida de los judíos en la ciudad cambia drásticamente, siendo confinados en el gueto de Varsovia. Szpilman logra evitar la deportación gracias a la ayuda de algunos amigos, debiendo sobrevivir oculto entre las ruinas de la ciudad mientras busca desesperadamente comida y refugio.",
+    "screenings": [
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-14",
+            "time": "20:00",
+            "version": "Embajadores Río"
+        }
+    ]
+    },
+//220
+    {
+    "id": "el-tiempo-de-montserrat-2026",
+    "title": "El tiempo de Montserrat",
+    "originalTitle": "El temps de Montserrat",
+    "poster": "images/el-tiempo-de-montserrat.jpg",
+    "director": "Carles Prats",
+    "cast": [],
+    "year": 2026,
+    "duration": 80,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "La vida cotidiana de los monjes del Monasterio de Montserrat cuando se celebra su Milenario. Una reflexión sobre el paso del tiempo en una comunidad benedictina regida por la Regla de San Benedicto, que muestra aquello que no está a la vista del público: cómo vive, de puertas adentro, la comunidad monástica.",
+    "screenings": [
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-09-10",
+            "time": "18:30"
+        }
+    ]
+    },
+    {
+    "id": "eso-de-lo-que-nunca-se-habla-2026",
+    "title": "Eso de lo que nunca se habla",
+    "originalTitle": "Eso de lo que nunca se habla",
+    "poster": "images/eso-de-lo-que-nunca-se-habla.jpg",
+    "director": "Juanjo Castro",
+    "cast": [],
+    "year": 2026,
+    "duration": 80,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Documental que aborda, con una mirada íntima y rigurosa, uno de los grandes tabúes de nuestra sociedad: la muerte. A través de testimonios reales, la película reflexiona sobre cuestiones como la eutanasia, el suicidio, los cuidados paliativos, el duelo y el acompañamiento al final de la vida. Lejos del sensacionalismo, el documental propone un espacio de reflexión sereno y profundamente humano, planteando preguntas esenciales sobre la dignidad, el sufrimiento y la responsabilidad colectiva ante la muerte.",
+    "screenings": [
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-09-12",
+            "time": "11:30",
+            "version": "Sesión con coloquio a cargo de Juanjo Castro"
+        }
+    ]
+    },
+    {
+    "id": "queen-hungarian-rhapsody-live-in-budapest-1986",
+    "title": "Queen: Hungarian Rhapsody - Live in Budapest",
+    "originalTitle": "Hungarian Rhapsody: Queen Live in Budapest",
+    "poster": "images/queen-hungarian-rhapsody-live-in-budapest.jpg",
+    "director": "János Zsombolyai",
+    "cast": [
+        "Freddie Mercury",
+        "Brian May",
+        "Roger Taylor",
+        "John Deacon"
+    ],
+    "year": 1986,
+    "duration": 97,
+    "country": "Reino Unido, Hungría",
+    "genres": [
+        "Documental",
+        "Musical"
+    ],
+    "synopsis": "El 27 de julio de 1986, la banda británica de rock Queen marcó un hito al tocar por primera vez en Hungría, un país que aún se encontraba bajo una dictadura comunista tras el Telón de Acero. Hungarian Rhapsody: Queen Live in Budapest es una película del concierto que Queen ofreció en Budapest durante su última gira con Freddie Mercury, The Magic Tour, siendo una de las pocas bandas de Europa Occidental en actuar en el Bloque del Este durante la Guerra Fría.",
+    "screenings": [
+        {
+            "cinema": "Cines Verdi",
+            "date": "2026-10-07",
+            "time": "20:30"
+        }
+    ]
+    },
+    {
+    "id": "la-llamada-2017",
+    "title": "La llamada",
+    "originalTitle": "La llamada",
+    "poster": "images/la-llamada.jpg",
+    "director": "Javier Calvo, Javier Ambrossi",
+    "cast": [
+        "Macarena García",
+        "Anna Castillo",
+        "Belén Cuesta",
+        "Gracia Olayo",
+        "Richard Collins-Moore"
+    ],
+    "year": 2017,
+    "duration": 108,
+    "country": "España",
+    "genres": [
+        "Comedia",
+        "Musical",
+        "Romance"
+    ],
+    "synopsis": "María y Susana son dos jóvenes de 17 años que pasan el verano en un campamento de verano cristiano en Segovia llamado La Brisa. Las dos adolescentes son muy amantes del electro latino, pero una noche se le aparece a María Dios en persona cantando canciones de Whitney Houston. A partir de ahí, las vidas de todos los personajes cambiarán por completo.",
+    "screenings": [
+        {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-09-17",
+            "time": "20:00"
+        }
+    ]
+    },
+    {
+    "id": "the-ferryman-2016",
+    "title": "The Ferryman",
+    "originalTitle": "Le passeur des lieux",
+    "poster": "images/the-ferryman.jpg",
+    "director": "Gilles Delmas",
+    "cast": [
+        "Damien Jalet",
+        "Marina Abramović",
+        "Clara Furey",
+        "Aimilios Arapoglou"
+    ],
+    "year": 2016,
+    "duration": 71,
+    "country": "Francia, Japón",
+    "genres": [
+        "Documental",
+        "Musical"
+    ],
+    "synopsis": "Una exploración cinematográfica y coreográfica de las raíces animistas de los rituales, la danza y la escultura. A través del recorrido de un hombre mi-cerf, mi-cazador, la película funciona como un viaje chamánico y una metáfora poética y visceral de la ascensión de una montaña en seis etapas, explorando los límites del arte, la espiritualidad y la naturaleza en localizaciones de Japón.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-06",
+            "time": "18:30"
+        }
+    ]
+    },
+    {
+    "id": "mares-2025",
+    "title": "Mares",
+    "originalTitle": "Mares",
+    "poster": "images/mares.jpg",
+    "director": "Ariadna Seuba Serra",
+    "cast": [],
+    "year": 2025,
+    "duration": 74,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Anna (41) y Ari (32) quieren ser madres. Lo que parecía que iba a ser fácil, pronto se convierte en una dura prueba médica, física y emocional que llevará a la pareja al límite. Durante más de cuatro años, Ari filma los altibajos de un proceso lleno de ilusiones y frustraciones. Una película transgeneracional que invita a reflexionar sobre las consecuencias de retrasar la maternidad y celebra el amor, el cariño y los lazos afectivos.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-09",
+            "time": "20:30"
+        }
+    ]
+    },
+    {
+    "id": "duels-2024",
+    "title": "DuEls",
+    "originalTitle": "DuEls",
+    "poster": "images/duels.jpg",
+    "director": "Jonas Åkerlund",
+    "cast": [],
+    "year": 2024,
+    "duration": 60,
+    "country": "Noruega, Bélgica, Islandia",
+    "genres": [
+        "Documental",
+        "Musical"
+    ],
+    "synopsis": "Un viaje visual y sonoro a través del emblemático Museo Vigeland de Oslo, concebido por los coreógrafos Damien Jalet y Erna Ómarsdóttir. La obra se construye a partir de un diálogo dinámico entre las esculturas del recinto y una serie de piezas coreográficas breves e intensas que exploran el movimiento y el espacio.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-12",
+            "time": "19:00"
+        }
+    ]
+    },
+    {
+    "id": "llamame-sinsorga-2025",
+    "title": "Llámame Sinsorga",
+    "originalTitle": "Llámame Sinsorga",
+    "poster": "images/llamame-sinsorga.jpg",
+    "director": "Marta Gómez, Paula Iglesias",
+    "cast": [
+        "Irantzu Varela",
+        "Andrea Momoitio"
+    ],
+    "year": 2025,
+    "duration": 88,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Irantzu Varela y Andrea Momoitio son dos transgresoras periodistas que deciden transformar un centenario atelier de vestidos de novia en el primer centro cultural feminista de la ciudad: La Sinsorga. Para ello, plantean un reto singular: realizar toda la obra de rehabilitación exclusivamente con mujeres, creando una base de datos en un sector altamente masculinizado. Cinco obreras son las encargadas de reconstruir este espacio, combinando el costumbrismo de la obra con un universo performático donde asoman sus miedos, deseos y la deconstrucción del amor romántico.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-13",
+            "time": "20:30"
+        }
+    ]
+    },
+    {
+    "id": "borau-y-el-cine-2025",
+    "title": "Borau y el cine",
+    "originalTitle": "Borau y el cine",
+    "poster": "images/borau-y-el-cine.jpg",
+    "director": "Germán Roda",
+    "cast": [],
+    "year": 2025,
+    "duration": 77,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Un niño enamorado del cine consigue que su sueño se haga realidad, pero no es como él se lo había imaginado. Durante toda su vida intentará hacer el cine que le hubiera gustado al niño de su infancia. Un recorrido por la vida y obra de José Luis Borau, un creador único y su inmenso impacto en la cinematografía española a través de su legado y de personalidades que compartieron con él su trayectoria.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-16",
+            "time": "20:00"
+        }
+    ]
+    },
+    {
+    "id": "al-sur-de-ninguna-parte-2025",
+    "title": "Al sur de ninguna parte",
+    "originalTitle": "Al sur de ninguna parte",
+    "poster": "images/al-sur-de-ninguna-parte.jpg",
+    "director": "Nico Recover",
+    "cast": [],
+    "year": 2025,
+    "duration": 75,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Un largometraje documental que ofrece una mirada íntima y humana a la situación de las personas refugiadas y migrantes en España, poniendo el foco en las historias personales, la superación y la búsqueda de un nuevo hogar por encima de las cifras.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-17",
+            "time": "17:30"
+        }
+    ]
+    },
+//230
+    {
+    "id": "cecilia-bartolome-tan-lluny-tan-prop-2024",
+    "title": "Cecilia Bartolomé: Tan lluny, tan prop",
+    "originalTitle": "Cecilia Bartolomé: Tan lluny, tan prop",
+    "poster": "images/cecilia-bartolome-tan-lluny-tan-prop.jpg",
+    "director": "Giovanna Ribes",
+    "cast": [
+        "Cecilia Bartolomé"
+    ],
+    "year": 2024,
+    "duration": 97,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "La alicantina Cecilia Bartolomé es una directora de cine, guionista y productora pionera del cine español. Maltratada por la censura, mantiene, siendo octogenaria, el espíritu libre que siempre la ha caracterizado. Un viaje a través de su apasionante vida, obra y lucha que continúan tan lejos, tan cerca.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-17",
+            "time": "20:00"
+        }
+    ]
+    },
+    {
+    "id": "omega-wants-to-dance-2024",
+    "title": "Omega Wants to Dance",
+    "originalTitle": "Omega Wants to Dance",
+    "poster": "images/omega-wants-to-dance.jpg",
+    "director": "Ramon Tort",
+    "cast": [
+        "Karina Matas Piper",
+        "Christian Stamm",
+        "Daniel Francis-Berenson"
+    ],
+    "year": 2024,
+    "duration": 92,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Un viaje en busca de la identidad individual y colectiva a través del baile, la música, el pensamiento y la espiritualidad. Combinando testimonios personales, hechos históricos, ficción y un electrizante collage audiovisual, se exploran las múltiples dimensiones del acto de bailar: diversión, catarsis, seducción, ritual y crecimiento personal.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-09-25",
+            "time": "20:00",
+            "version": "Coloquio con el director"
+        }
+    ]
+    },
+    {
+    "id": "raquel-meller-insumisa-y-divina-2025",
+    "title": "Raquel Meller, insumisa y divina",
+    "originalTitle": "Raquel Meller, insumisa y divina",
+    "poster": "images/raquel-meller-insumisa-y-divina.jpg",
+    "director": "Lidia Peralta García, Roberto S. Romero",
+    "cast": [
+        "Raquel Meller"
+    ],
+    "year": 2025,
+    "duration": 78,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Un recorrido por la fascinante y arrolladora vida de Raquel Meller, una de las grandes estrellas de la canción y el cine mudo de principios del siglo XX, cuya fama traspasó fronteras internacionales antes de caer en el injusto olvido. El documental reivindica su figura como una mujer independiente, moderna e insumisa para su época.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-08",
+            "time": "19:30"
+        }
+    ]
+    },
+    {
+    "id": "natividad-zaro-en-voz-alta-2024",
+    "title": "Natividad Zaro. En voz alta",
+    "originalTitle": "Natividad Zaro. En voz alta",
+    "poster": "images/natividad-zaro-en-voz-alta.jpg",
+    "director": "Vicky Calavia",
+    "cast": [
+        "Natividad Zaro"
+    ],
+    "year": 2024,
+    "duration": 74,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Un documental que recupera la figura y el legado de Natividad Zaro, una mujer polifacética y pionera nacida a principios del siglo XX que destacó como actriz, dramaturga, guionista, traductora y productora, además de ser estrecha colaboradora y amiga de Federico García Lorca. Su apasionante trayectoria personal y profesional supuso todo un referente de libertad y modernidad.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-09",
+            "time": "19:30"
+        }
+    ]
+    },
+    {
+    "id": "amilcar-2025",
+    "title": "Amílcar",
+    "originalTitle": "Amílcar",
+    "poster": "images/amilcar.jpg",
+    "director": "Miguel Eek",
+    "cast": [],
+    "year": 2025,
+    "duration": 89,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Agrónomo, poeta, pensador utópico y revolucionario, Amílcar Cabral fue el gran líder del movimiento anticolonial contra Portugal que unió a Guinea-Bissau y Cabo Verde. Un ensayo documental poético que aborda, a través de archivos inéditos y escritos íntimos, la compleja y fascinante vida de una figura fundamental de la descolonización.",
+    "screenings": [
+        {
+            "cinema": "Cineteca Madrid",
+            "date": "2026-10-09",
+            "time": "19:30"
+        }
+    ]
+    },
+    {
+    "id": "madrid-ext-2025",
+    "title": "Madrid, Ext.",
+    "originalTitle": "Madrid, Ext.",
+    "poster": "images/madrid-ext.jpg",
+    "director": "Juan Cavestany",
+    "cast": [],
+    "year": 2025,
+    "duration": 93,
+    "country": "España",
+    "genres": [
+        "Documental"
+    ],
+    "synopsis": "Una película sinfónica y ensayo fílmico acerca de la ciudad, el tiempo, sus flujos y sus contradicciones. Un gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruzan comercio y fauna, arquitectura, mercerías y poetas, constructores y destructores de la ciudad, transitando entre la nostalgia y la ironía.",
+    "screenings": [
+        {
+            "cinema": "Sala Equis",
+            "date": "2026-09-12",
+            "time": "17:30"
+        },
+        {
+            "cinema": "Sala Equis",
+            "date": "2026-09-17",
+            "time": "19:30"
+        }
+    ]
+    },
+    {
+    "id": "reversion-2025",
+    "title": "Reversión",
+    "originalTitle": "Reversión",
+    "poster": "images/reversion.jpg",
+    "director": "Jacob Santana",
+    "cast": [
+        "Jaime Lorente",
+        "Manu Vega",
+        "Belén Rueda",
+        "Fernando Cayo",
+        "Eva Llorach"
+    ],
+    "year": 2025,
+    "duration": 97,
+    "country": "España",
+    "genres": [
+        "Thriller",
+        "Misterio"
+    ],
+    "synopsis": "Mario se muda a una nueva casa con sus padres y con su hermano mayor David, al cual está muy unido. Mario sufre episodios de ansiedad y falta de concentración, por lo que está tomando medicación de manera regular. Una tarde lluviosa, Mario presencia cómo secuestran a su hermano mayor. Después de 19 días de angustiosa espera, David vuelve a casa, pero no recuerda nada de su desaparición. Desde ese momento, Mario nota suficientes cambios en la personalidad y el comportamiento de su hermano mayor como para empezar a creer que la persona que ha regresado no es su verdadero hermano.",
+    "screenings": [
+        {
+            "cinema": "Fescinal (La Bombilla)",
+            "date": "2026-09-02",
+            "time": "22:00",
+            "version": "Coloquio"
+        }
+    ]
     }
-//217
+
 ];
