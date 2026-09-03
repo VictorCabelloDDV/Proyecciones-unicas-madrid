@@ -878,7 +878,13 @@ const movies = [
                 "cinema": "Cines Renoir",
                 "date": "2026-09-29",
                 "time": "20:00"
-            }
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-18",
+                "time": "20:00",
+                "version": "Piano en directo - Embajadores Río"
+            }   
         ]
     },
     {
@@ -1296,31 +1302,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-02",
-                "time": "17:45"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-02",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-02",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-03",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-03",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-04",
                 "time": "20:00",
                 "version": "Embajadores Río"
@@ -1345,8 +1326,26 @@ const movies = [
             },
             {
                 "cinema": "Cines Embajadores",
+                "date": "2026-09-08",
+                "time": "20:40",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
                 "date": "2026-09-09",
                 "time": "22:35",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-10",
+                "time": "17:30",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-10",
+                "time": "22:30",
                 "version": "Embajadores Río"
             },
             {
@@ -1659,13 +1658,13 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-03",
-                "time": "22:30"
+                "date": "2026-09-05",
+                "time": "16:00"
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-05",
-                "time": "16:00"
+                "date": "2026-09-08",
+                "time": "22:30"
             }
         ]
     },
@@ -2641,12 +2640,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-03",
-                "time": "22:30",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-04",
                 "time": "22:30",
                 "version": "Embajadores Río"
@@ -2727,18 +2720,7 @@ const movies = [
         ],
         "synopsis": "En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espíritu del bosque, y viven fantásticas aventuras en un entorno natural lleno de magia.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-02",
-                "time": "16:00",
-                "version": "Doblada al español"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-05",
-                "time": "16:00",
-                "version": "Doblada al español - Embajadores Río"
-            }
+
         ]
     },
     {
@@ -6241,6 +6223,12 @@ const movies = [
             "cinema": "Cines Verdi",
             "date": "2026-10-07",
             "time": "20:30"
+        },
+        {
+            "cinema": "Cines Embajadores",
+            "date": "2026-10-07",
+            "time": "22:30",
+            "version": "Embajadores Río"
         }
     ]
     },
