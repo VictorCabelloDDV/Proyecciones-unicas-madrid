@@ -1309,6 +1309,11 @@ const movies = [
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-05",
+                "time": "18:15"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-05",
                 "time": "22:25",
                 "version": "Embajadores Río"
             },
@@ -2696,7 +2701,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Años 60. Familiares y amigos buscan a dos niños de doce años que se han enamorado y han decidido fugarse juntos de su pueblo natal en una isla de Nueva Inglaterra. Diversas autoridades intentan encontrarlos antes de que una tormenta azote la costa.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-10",
+                "time": "22:35"
+            }
+        ]
     }, 
     {
         "id": "mi-vecino-totoro",
