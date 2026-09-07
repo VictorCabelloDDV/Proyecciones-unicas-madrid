@@ -40,14 +40,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Sophie recuerda unas vacaciones que compartió con su padre veinte años atrás, intentando reconciliar al padre que conoció con el hombre que nunca llegó a conocer del todo.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-04",
-                "time": "22:35",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "akira",
@@ -247,6 +240,12 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-09",
                 "time": "22:35"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-10",
+                "time": "17:45",
+                "version": "Embajadores río"
             },
             {
                 "cinema": "mk2 Cine Paz",
@@ -775,6 +774,11 @@ const movies = [
         "synopsis": "Sophie, una joven sombrerera, es víctima de una maldición que la convierte en una anciana. En busca de una solución, acaba viviendo en el extraordinario castillo ambulante del misterioso mago Howl.",
         "screenings": [
             {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-09",
+                "time": "22:20"
+            },
+            {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-03",
                 "time": "12:00"
@@ -1296,29 +1300,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-04",
-                "time": "20:00",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-05",
-                "time": "18:15"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-05",
-                "time": "22:25",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-06",
-                "time": "20:35",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-07",
                 "time": "19:45",
                 "version": "Embajadores Río"
@@ -1338,13 +1319,13 @@ const movies = [
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-10",
-                "time": "17:30",
+                "time": "22:30",
                 "version": "Embajadores Río"
             },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-10",
-                "time": "22:30",
+                "time": "20:05",
                 "version": "Embajadores Río"
             },
             {
@@ -1443,12 +1424,6 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-09",
                 "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-06",
-                "time": "11:45",
-                "version": "doblada al español - embajadores río"
             }
         ]
     },
@@ -1475,13 +1450,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Un abuelo le lee a sus nieto enfermo el cuento de Westley y Buttercup: tras años buscando fortuna, Westley regresa para casarse con su amada, pero deberá enfrentarse a piratas, gigantes, espadachines y a un malvado príncipe para recuperarla.",
-        "screenings": [
-            {
-                "cinema": "Cibeles de Cine",
-                "date": "2026-09-05",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-strada",
@@ -1657,18 +1626,13 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-05",
-                "time": "16:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-06",
-                "time": "20:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-08",
                 "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-09",
+                "time": "17:20"
             }
         ]
     },
@@ -1836,13 +1800,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Antología de ciencia ficción formada por tres historias independientes que exploran recuerdos, tecnología, guerra y los aspectos más inquietantes de la imaginación humana.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-04",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "michael",
@@ -1941,13 +1899,7 @@ const movies = [
             "Serie B"
         ],
         "synopsis": "Las fuerzas del mal amenazan Monterrey y sólo Mágico, un superhéroe llegado del espacio, puede enfrentarse a los supervillanos y salvar la ciudad.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-04",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "origen",
@@ -2219,13 +2171,7 @@ const movies = [
             "Guerra"
         ],
         "synopsis": "Una compañía teatral de Varsovia utiliza sus dotes para la interpretación y el disfraz para enfrentarse a los nazis durante la ocupación alemana de Polonia.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-06",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "suspiria",
@@ -2278,13 +2224,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Travis Bickle, un veterano de Vietnam que trabaja como taxista nocturno en Nueva York, se hunde progresivamente en la soledad y la violencia mientras desarrolla una obsesión por limpiar las calles de aquello que considera corrupción.",
-        "screenings": [
-            {
-                "cinema": "Cibeles de Cine",
-                "date": "2026-09-06",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
 //80
     {
@@ -2379,11 +2319,6 @@ const movies = [
         ],
         "synopsis": "Un poeta fracasado y desencantado encuentra una nueva oportunidad cuando conoce a una joven con talento para la poesía y decide convertirse en su mentor.",
         "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-09-06",
-                "time": "21:45"
-            },
             {
                 "cinema": "Sala Equis",
                 "date": "2026-09-10",
@@ -2612,12 +2547,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-04",
-                "time": "22:30",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-10",
                 "time": "22:30"
             }
@@ -2827,14 +2756,7 @@ const movies = [
             "Drama judicial"
         ],
         "synopsis": "Belfast, años 70. Gerry es injustamente acusado de participar en un atentado del IRA en Guildford y condenado a cadena perpetua junto a su padre Giuseppe. En prisión, Gerry descubre la fuerza interior de su padre mientras una abogada entregada a la causa lucha por demostrar su inocencia y destapar uno de los mayores errores judiciales de la historia de Reino Unido.",
-        "screenings": [
-            {
-                "cinema": "Cine de Verano de La Bombilla",
-                "date": "2026-09-04",
-                "time": "22:00",
-                "version": "Concierto tributo U2 a las 21:15"
-            }
-        ]
+        "screenings": []
     },
 //100
     {
@@ -3755,14 +3677,7 @@ const movies = [
             "Medioambiente"
         ],
         "synopsis": "La madera es el material del futuro. Con esa idea como punto de partida, la arquitecta Oihane Ruiz y la paisajista Ane Barrutia recorren el ciclo de la madera en su Euskadi natal —del bosque a la industria— en busca de respuestas: ¿qué bosque dejaremos a las generaciones futuras?, ¿quién define hoy el bosque del mañana?",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-06",
-                "time": "12:00",
-                "version": "VOSE - Coloquio - embajadores río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cristal-oscuro",
@@ -3859,13 +3774,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Susie Bannion, una joven bailarina estadounidense, viaja a Berlín en los años 70 para audicionar en la prestigiosa compañía de danza Markos. Tras ser aceptada, descubre que la escuela esconde oscuros e inquietantes secretos relacionados con la brujería.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-05",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "emilia-perez",
@@ -3888,13 +3797,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Rita, una abogada sobrecualificada e infravalorada en un gran bufete de México, recibe una oferta inesperada: ayudar al temido líder de un cártel a retirarse del negocio y realizar el proceso de afirmación de género que siempre ha deseado.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-06",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "august-so-tragic-and-tender",
@@ -4550,13 +4453,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Francia, 1770. Marianne, una pintora, recibe un encargo que consiste en realizar el retrato de bodas de Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-05",
-                "time": "22:35"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "copying-beethoven",
@@ -4899,11 +4796,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-04",
-                "time": "19:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-13",
                 "time": "20:00"
             }
@@ -4931,11 +4823,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-04",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-23",
                 "time": "19:00"
             }
@@ -4960,14 +4847,7 @@ const movies = [
             "Cine mudo"
         ],
         "synopsis": "Un proyeccionista de cine que aspira a convertirse en detective privado es acusado injustamente por un rival sin escrúpulos de robar un reloj de bolsillo. Mientras duerme profundamente en la cabina de proyección, su espíritu se separa de su cuerpo y entra literalmente dentro de la película para intentar salvar a su amada y resolver el misterio.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-05",
-                "time": "17:30",
-                "version": "Mudo"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "made-in-hong-kong-1997",
@@ -4990,11 +4870,6 @@ const movies = [
         ],
         "synopsis": "Rodada de manera totalmente independiente con película caducada justo antes de la devolución de Hong Kong a China, la historia sigue a Autumn Moon, un joven matón de poca monta de los bajos fondos urbanos, cuya vida cambia al entablar relación con una chica enferma y una estudiante suicida.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-05",
-                "time": "19:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-25",
@@ -5021,13 +4896,7 @@ const movies = [
             "Western"
         ],
         "synopsis": "Poco después de la derrota de Custer en Little Big Horn, un veterano capitán de caballería próximo a jubilarse afronta su última y delicada misión en la frontera: evitar a toda costa un levantamiento general de las tribus indias tras unificar sus fuerzas.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-05",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "matinee-1993",
@@ -5050,11 +4919,6 @@ const movies = [
         ],
         "synopsis": "En plena crisis de los misiles de Cuba, un astuto y extravagante productor de cine de serie B llega a un pueblo costero de Florida para estrenar su última película de terror de bajo presupuesto, revolucionando a los adolescentes locales con efectos especiales en directo y una campaña publicitaria inolvidable.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-06",
-                "time": "17:30"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-23",
@@ -5083,11 +4947,6 @@ const movies = [
         ],
         "synopsis": "Divertida comedia de enredos y artes marciales dirigida por dos grandes del cine de Hong Kong. Dos hermanos gemelos separados al nacer llevan vidas totalmente opuestas: uno es un prestigioso director de orquesta y el otro un gamberro callejero. Cuando cruzan sus caminos por casualidad en Hong Kong, se desata el caos absoluto con confusiones de identidad y peleas memorables.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-06",
-                "time": "20:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-16",
@@ -6002,12 +5861,6 @@ const movies = [
     "screenings": [
             {
             "cinema": "Cines Embajadores",
-            "date": "2026-09-06",
-            "time": "16:00",
-            "version": "Doblada al español - Embajadores Río"
-        },
-            {
-            "cinema": "Cines Embajadores",
             "date": "2026-09-09",
             "time": "16:00",
             "version": "Doblada al español - Embajadores Río"
@@ -6206,13 +6059,7 @@ const movies = [
         "Musical"
     ],
     "synopsis": "Una exploración cinematográfica y coreográfica de las raíces animistas de los rituales, la danza y la escultura. A través del recorrido de un hombre mi-cerf, mi-cazador, la película funciona como un viaje chamánico y una metáfora poética y visceral de la ascensión de una montaña en seis etapas, explorando los límites del arte, la espiritualidad y la naturaleza en localizaciones de Japón.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-06",
-            "time": "18:30"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "mares-2025",
