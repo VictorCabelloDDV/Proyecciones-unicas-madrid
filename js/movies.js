@@ -2918,10 +2918,6 @@ const movies = [
         "synopsis": "Ernest y Chris regentan una parada de inteligencias en un recóndito lugar del Oeste americano. Su tranquilidad se rompe de forma salvaje cuando irrumpe un despiadado grupo de facinerosos liderado por el Coronel a la espera de un cargamento de oro, convirtiendo el lugar en un sangriento juego de supervivencia.",
         "screenings": [
             {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-10",
-                "time": "22:00",
-                "version": "Coloquio con el equipo de la película"
             }
         ]
     },
