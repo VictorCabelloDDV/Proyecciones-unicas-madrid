@@ -232,12 +232,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-07",
-                "time": "17:50",
-                "version": "Embajadores río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-09",
                 "time": "22:35"
             },
@@ -619,7 +613,13 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Después de escapar de un extraño accidente, un adolescente comienza a tener visiones de una misteriosa figura con disfraz de conejo que parece conocer el futuro y le empuja hacia una serie de acontecimientos inquietantes.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-17",
+                "time": "22:30"
+            }
+        ]
     },
     {
         "id": "et",
@@ -981,6 +981,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-27",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-13",
+                "time": "11:50",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -1200,7 +1206,14 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-12",
+                "time": "16:00",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "isla-de-perros",
@@ -1300,12 +1313,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-07",
-                "time": "19:45",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-08",
                 "time": "20:40",
                 "version": "Embajadores Río"
@@ -1327,6 +1334,26 @@ const movies = [
                 "date": "2026-09-10",
                 "time": "20:05",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-11",
+                "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-12",
+                "time": "20:10"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-13",
+                "time": "20:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-16",
+                "time": "22:35"
             },
             {
                 "cinema": "Cibeles de Cine",
@@ -1424,6 +1451,12 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-09",
                 "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-13",
+                "time": "11:45",
+                "version": "Doblada al español - Emabajadores Río"
             }
         ]
     },
@@ -1633,6 +1666,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-09",
                 "time": "17:20"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-12",
+                "time": "15:45"
             }
         ]
     },
@@ -2674,13 +2712,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Gretta y su novio de toda la vida Dave viajan a Nueva York cuando él consigue un contrato con una gran discográfica. Pero las tentaciones de la fama pronto alejan a Dave. Desconsolada, Gretta conoce a Dan, un productor discográfico en horas bajas que queda cautivado por su talento mientras la escucha actuar en un bar de East Village.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-07",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     }, 
     {
         "id": "fresas-salvajes",
@@ -3673,7 +3705,14 @@ const movies = [
             "Medioambiente"
         ],
         "synopsis": "La madera es el material del futuro. Con esa idea como punto de partida, la arquitecta Oihane Ruiz y la paisajista Ane Barrutia recorren el ciclo de la madera en su Euskadi natal —del bosque a la industria— en busca de respuestas: ¿qué bosque dejaremos a las generaciones futuras?, ¿quién define hoy el bosque del mañana?",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-13",
+                "time": "12:00",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "cristal-oscuro",
@@ -5860,7 +5899,13 @@ const movies = [
             "date": "2026-09-09",
             "time": "16:00",
             "version": "Doblada al español - Embajadores Río"
-        }
+            },
+            {
+            "cinema": "Cines Embajadores",
+            "date": "2026-09-12",
+            "time": "12:00",
+            "version": "Doblada al español - Embajadores Río"
+            }
         ]
     },
     {
@@ -6342,6 +6387,37 @@ const movies = [
     ],
     "synopsis": "Mario se muda a una nueva casa con sus padres y con su hermano mayor David, al cual está muy unido. Mario sufre episodios de ansiedad y falta de concentración, por lo que está tomando medicación de manera regular. Una tarde lluviosa, Mario presencia cómo secuestran a su hermano mayor. Después de 19 días de angustiosa espera, David vuelve a casa, pero no recuerda nada de su desaparición. Desde ese momento, Mario nota suficientes cambios en la personalidad y el comportamiento de su hermano mayor como para empezar a creer que la persona que ha regresado no es su verdadero hermano.",
     "screenings": []
+    },
+    {
+        "id": "intikam-benim",
+        "title": "İntikam Benim",
+        "originalTitle": "İntikam Benim",
+        "poster": "images/intikam-benim.jpg",
+        "director": "Çetin İnanç",
+        "cast": [
+            "Cüneyt Arkın",
+            "Emel Tümer",
+            "Hüseyin Peyda",
+            "Arzu Aytun",
+            "Oktar Durukan",
+            "Feryal Feray",
+            "Nejat Gürçen"
+        ],
+        "year": 1983,
+        "duration": 76,
+        "country": "Turquía",
+        "genres": [
+            "Acción",
+            "Aventuras"
+        ],
+        "synopsis": "Tras el asesinato de su hermano, el prestigioso comisario Kartal Murat cae en el alcoholismo y desaparece durante años. A su regreso, emprende una violenta venganza personal contra los criminales responsables de su tragedia.",
+        "screenings": [
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-10-02",
+                "time": "22:30"
+            }
+        ]
     }
 
 ]
