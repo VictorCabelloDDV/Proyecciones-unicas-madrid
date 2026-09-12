@@ -170,13 +170,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Un hijo intenta descubrir la verdadera historia de su padre, un hombre famoso por contar extraordinarias historias sobre su propia vida.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-10",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "blade-runner",
@@ -230,17 +224,6 @@ const movies = [
         ],
         "synopsis": "Un joven encuentra una oreja humana en un campo y comienza a investigar un oscuro misterio relacionado con una cantante de club nocturno y un peligroso criminal.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-09",
-                "time": "22:35"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-10",
-                "time": "17:45",
-                "version": "Embajadores río"
-            },
             {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-01",
@@ -774,11 +757,6 @@ const movies = [
         "synopsis": "Sophie, una joven sombrerera, es víctima de una maldición que la convierte en una anciana. En busca de una solución, acaba viviendo en el extraordinario castillo ambulante del misterioso mago Howl.",
         "screenings": [
             {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-09",
-                "time": "22:20"
-            },
-            {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-03",
                 "time": "12:00"
@@ -1071,13 +1049,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "La actriz Alba Flores se adentra en la memoria de su padre, el músico Antonio Flores, fallecido cuando ella tenía ocho años, a través de vídeos caseros, cintas inéditas y entrevistas a familiares y amigos para entender quién fue de verdad.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-09",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "gangs-of-new-york",
@@ -1123,13 +1095,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Tras un romántico verano juntos, Sandy y Danny vuelven a encontrarse en el instituto Rydell, donde las diferencias entre sus pandillas y la presión de encajar ponen a prueba su relación entre canciones y coreografías.",
-        "screenings": [
-            {
-                "cinema": "Cibeles de Cine",
-                "date": "2026-09-08",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
 //40
     {
@@ -1206,14 +1172,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-12",
-                "time": "16:00",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "isla-de-perros",
@@ -1313,35 +1272,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-08",
-                "time": "20:40",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-09",
-                "time": "22:35",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-10",
-                "time": "22:30",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-10",
-                "time": "20:05",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-11",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-12",
                 "time": "20:10"
             },
@@ -1354,12 +1284,6 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-16",
                 "time": "22:35"
-            },
-            {
-                "cinema": "Cibeles de Cine",
-                "date": "2026-09-10",
-                "time": "22:00",
-                "version": "Sing-Along"
             }
         ]
     },
@@ -1385,6 +1309,11 @@ const movies = [
         ],
         "synopsis": "Alex, líder de una banda de jóvenes violentos, es encarcelado y sometido a un polémico tratamiento experimental destinado a eliminar sus impulsos criminales.",
         "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-17",
+                "time": "11:30"
+            },
             {
                 "cinema": "Cines Verdi",
                 "date": "2026-09-17",
@@ -1449,14 +1378,14 @@ const movies = [
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-09",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-13",
                 "time": "11:45",
                 "version": "Doblada al español - Emabajadores Río"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-15",
+                "time": "20:00"
             }
         ]
     },
@@ -1656,23 +1585,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Durante las veinticuatro horas posteriores a un violento enfrentamiento con la policía, tres jóvenes de los suburbios de París afrontan la tensión, la frustración y la violencia de su entorno.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-08",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-09",
-                "time": "17:20"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-12",
-                "time": "15:45"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-400-golpes",
@@ -1693,13 +1606,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Antoine Doinel, un adolescente incomprendido, se enfrenta a los problemas familiares y escolares mientras intenta escapar de una vida que siente que no le pertenece.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-08",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-goonies",
@@ -1911,7 +1818,13 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Una aspirante a actriz llega a Los Ángeles y conoce a una mujer que ha perdido la memoria tras un accidente. Juntas intentan descubrir su identidad mientras se adentran en una misteriosa red de secretos.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-08",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "mágico-el-enviado-de-los-dioses",
@@ -2359,11 +2272,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Sala Equis",
-                "date": "2026-09-10",
-                "time": "19:30"
-            },
-            {
-                "cinema": "Sala Equis",
                 "date": "2026-09-15",
                 "time": "21:45"
             }
@@ -2582,13 +2490,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-10",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -2635,13 +2537,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Años 60. Familiares y amigos buscan a dos niños de doce años que se han enamorado y han decidido fugarse juntos de su pueblo natal en una isla de Nueva Inglaterra. Diversas autoridades intentan encontrarlos antes de que una tormenta azote la costa.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-10",
-                "time": "22:35"
-            }
-        ]
+        "screenings": []
     }, 
     {
         "id": "mi-vecino-totoro",
@@ -2808,14 +2704,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "A principios de los 90, la bailarina Mónica de la Fuente viajó a la India descubriendo sus artes escénicas tradicionales. Treinta años después, su hija Nazaré, con la misma edad que tenía su madre entonces, recorre los mismos lugares. Lo que empieza como un viaje artístico se convierte en una exploración sobre la memoria, la herencia y la danza que une a dos generaciones entre España e India.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-10",
-                "time": "18:15",
-                "version": "Coloquio con el equipo de la película"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "bohemian-rhapsody",
@@ -2949,8 +2838,6 @@ const movies = [
         ],
         "synopsis": "Ernest y Chris regentan una parada de inteligencias en un recóndito lugar del Oeste americano. Su tranquilidad se rompe de forma salvaje cuando irrumpe un despiadado grupo de facinerosos liderado por el Coronel a la espera de un cargamento de oro, convirtiendo el lugar en un sangriento juego de supervivencia.",
         "screenings": [
-            {
-            }
         ]
     },
     {
@@ -4413,13 +4300,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Filmada a lo largo de seis años con un estilo directo e intimista, la película revela la épica lucha de las víctimas de la dictadura de Franco para romper el 'pacto del olvido'. El documental sigue a los supervivientes mientras organizan la 'Querella Argentina' para llevar ante la justicia los crímenes de lesa humanidad en un país dividido por la amnesia estatal.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-11",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "we-die-bruno-lazaro",
@@ -4695,13 +4576,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Christine consigue trabajo como taquillera de un cine porno en Times Square. En lugar de sentir rechazo por ese mundo marginal, poco a poco irá desarrollando una obsesión por la sordidez del sexo que amenazará con consumirla, a la vez que siente una fuerte atracción por un cliente habitual. La narrativa detectivesca que floreció en los años cuarenta se fusiona con este vibrante escenario ochentero, mezclando el Hollywood clásico con el cine independiente.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-08",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "tiempo-de-revancha-1981",
@@ -5013,11 +4888,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-08",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-18",
                 "time": "19:00"
             }
@@ -5044,11 +4914,6 @@ const movies = [
         ],
         "synopsis": "Crónica claustrofóbica y desesperada de los últimos días del Alzamiento de Varsovia en 1944. Un grupo de soldados e insurgentes polacos intenta escapar del cerco y los bombardeos nazis adentrándose en la oscura y laberíntica red de alcantarillado de la ciudad.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-09",
-                "time": "17:30"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-25",
@@ -5078,11 +4943,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-09",
-                "time": "19:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-24",
                 "time": "17:30"
             }
@@ -5108,13 +4968,7 @@ const movies = [
             "Western"
         ],
         "synopsis": "Última entrega de la emblemática trilogía de la caballería de John Ford. Un teniente coronel destinado en la conflictiva frontera del río Grande ve cómo su hijo recién reclutado se alista en su propio regimiento. Con la tensa presencia de su esposa de fondo y las constantes incursiones de los apaches, padre e hijo deberán afrontar sus deberes militares y familiares.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-09",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "las-dos-memorias-2001",
@@ -5130,13 +4984,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Documental dirigido por el escritor y político Jorge Semprún que reflexiona sobre la memoria histórica de España, abordando la Guerra Civil y la posterior dictadura franquista a través de testimonios y un profundo análisis político y moral.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-10",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "shirin-2008",
@@ -5158,11 +5006,6 @@ const movies = [
         ],
         "synopsis": "Hipnótica y original propuesta en la que la cámara se sitúa fija frente a los rostros de decenas de mujeres iraníes —incluyendo a la actriz Juliette Binoche— mientras asisten en una sala oscura a la representación en audio de un clásico poema trágico persa sobre el amor, reflejando sus emociones cambiantes a través de las expresiones y la mirada.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-10",
-                "time": "19:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-22",
@@ -5194,11 +5037,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-10",
-                "time": "20:30"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-26",
                 "time": "20:00"
             }
@@ -5224,13 +5062,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "A comienzos del siglo XX en la frontera galaico-portuguesa, un joven adinerado y el hijo de un minero cruzan sus caminos y se adentran en el bandolerismo. Juntos asaltan a recaudadores y conocen a una intrépida periodista que busca entrevistar al célebre bandido conocido como 'El Argentino'.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-11",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "retratos-fantasma-2023",
@@ -5251,11 +5083,6 @@ const movies = [
         ],
         "synopsis": "Un viaje íntimo y cinematográfico por el centro de la ciudad brasileña de Recife a través del tiempo, explorando la historia, los grandes cines de barrio desaparecidos y las transformaciones urbanas y sociales mediante el archivo personal y la memoria del propio director.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-11",
-                "time": "19:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-17",
@@ -5286,11 +5113,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-11",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-27",
                 "time": "17:30"
             }
@@ -5317,11 +5139,6 @@ const movies = [
         ],
         "synopsis": "Un joven cinéfilo recibe una entrada mágica que le permite entrar en la película de acción protagonizada por su héroe, Jack Slater. Juntos deberán impedir que un peligroso villano escape al mundo real y desate el caos.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-12",
-                "time": "17:30"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-30",
@@ -5893,20 +5710,7 @@ const movies = [
         "Comedia"
     ],
     "synopsis": "Ambientada en Italia durante el periodo de entreguerras, la historia sigue a Marco Pagot, un piloto veterano de la Primera Guerra Mundial que ha sufrido una extraña maldición convirtiéndolo en un hombre con cabeza de cerdo. Conocido como 'Porco Rosso', trabaja como cazarrecompensas persiguiendo a los piratas aéreos en el mar Adriático mientras lidia con su pasado y con un rival estadounidense.",
-    "screenings": [
-            {
-            "cinema": "Cines Embajadores",
-            "date": "2026-09-09",
-            "time": "16:00",
-            "version": "Doblada al español - Embajadores Río"
-            },
-            {
-            "cinema": "Cines Embajadores",
-            "date": "2026-09-12",
-            "time": "12:00",
-            "version": "Doblada al español - Embajadores Río"
-            }
-        ]
+    "screenings": []
     },
     {
     "id": "midsommar",
@@ -5930,14 +5734,7 @@ const movies = [
         "Misterio"
     ],
     "synopsis": "Una pareja joven viaja a Suecia para visitar la ciudad natal de su amigo de la infancia y disfrutar de su festival de verano rural. Lo que comienza como unas vacaciones idílicas de verano en un remoto pueblo con tradiciones ancestrales se convierte poco a poco en una competición cada vez más violenta y extraña a manos de un culto pagano.",
-    "screenings": [
-            {
-            "cinema": "Cines Embajadores",
-            "date": "2026-09-09",
-            "time": "22:30",
-            "version": "Embajadores Río"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "el-pianista-2002",
@@ -5985,13 +5782,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "La vida cotidiana de los monjes del Monasterio de Montserrat cuando se celebra su Milenario. Una reflexión sobre el paso del tiempo en una comunidad benedictina regida por la Regla de San Benedicto, que muestra aquello que no está a la vista del público: cómo vive, de puertas adentro, la comunidad monástica.",
-    "screenings": [
-            {
-            "cinema": "Cines Verdi",
-            "date": "2026-09-10",
-            "time": "18:30"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "eso-de-lo-que-nunca-se-habla-2026",
@@ -6007,14 +5798,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Documental que aborda, con una mirada íntima y rigurosa, uno de los grandes tabúes de nuestra sociedad: la muerte. A través de testimonios reales, la película reflexiona sobre cuestiones como la eutanasia, el suicidio, los cuidados paliativos, el duelo y el acompañamiento al final de la vida. Lejos del sensacionalismo, el documental propone un espacio de reflexión sereno y profundamente humano, planteando preguntas esenciales sobre la dignidad, el sufrimiento y la responsabilidad colectiva ante la muerte.",
-    "screenings": [
-            {
-            "cinema": "Cines Verdi",
-            "date": "2026-09-12",
-            "time": "11:30",
-            "version": "Sesión con coloquio a cargo de Juanjo Castro"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "queen-hungarian-rhapsody-live-in-budapest-1986",
@@ -6047,6 +5831,26 @@ const movies = [
             "date": "2026-10-07",
             "time": "22:30",
             "version": "Embajadores Río"
+        },
+            {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-10-07",
+            "time": "19:30"
+        },
+            {
+            "cinema": "Kinépolis Ciudad de la Imagen",
+            "date": "2026-10-10",
+            "time": "17:00"
+        },
+            {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-10-10",
+            "time": "12:00"
+        },
+            {
+            "cinema": "mk2 Cine Paz",
+            "date": "2026-10-10",
+            "time": "22:00"
         }
         ]
     },
@@ -6116,13 +5920,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Anna (41) y Ari (32) quieren ser madres. Lo que parecía que iba a ser fácil, pronto se convierte en una dura prueba médica, física y emocional que llevará a la pareja al límite. Durante más de cuatro años, Ari filma los altibajos de un proceso lleno de ilusiones y frustraciones. Una película transgeneracional que invita a reflexionar sobre las consecuencias de retrasar la maternidad y celebra el amor, el cariño y los lazos afectivos.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-09",
-            "time": "20:30"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "duels-2024",
@@ -6355,11 +6153,6 @@ const movies = [
     "screenings": [
             {
             "cinema": "Sala Equis",
-            "date": "2026-09-12",
-            "time": "17:30"
-        },
-            {
-            "cinema": "Sala Equis",
             "date": "2026-09-17",
             "time": "19:30"
         }
@@ -6416,6 +6209,268 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-02",
                 "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "cine-para-perdedores-full-monty",
+        "title": "Full Monty",
+        "originalTitle": "The Full Monty",
+        "poster": "images/full-monty.jpg",
+        "director": "Peter Cattaneo",
+        "cast": [
+            "Robert Carlyle",
+            "Mark Addy",
+            "Tom Wilkinson",
+            "Lesley Sharp"
+        ],
+        "year": 1997,
+        "duration": 83,
+        "country": "Reino Unido",
+        "genres": [
+            "Comedia",
+            "Drama"
+        ],
+        "synopsis": "En medio de la desesperación por la falta de empleo en una ciudad industrial británica, a un grupo de desempleados se le ocurre una idea a primera vista disparatada para ganar dinero: organizar un espectáculo de strip-tease.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-13",
+                "time": "16:00",
+                "version": " coloquio con SoyUnaPringada - Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-13",
+                "time": "18:15",
+                "version": " coloquio con SoyUnaPringada - Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "letty-lynton",
+        "title": "Letty Lynton",
+        "originalTitle": "Letty Lynton",
+        "poster": "images/letty-lynton.jpg",
+        "director": "Clarence Brown",
+        "cast": [
+            "Joan Crawford",
+            "Lewis Stone",
+            "Nils Asther",
+            "Robert Montgomery"
+        ],
+        "year": 1932,
+        "duration": 84,
+        "country": "Estados Unidos",
+        "genres": [
+            "Crimen",
+            "Drama"
+        ],
+        "synopsis": "La rica y mundana Letty Lynton vuelve a Nueva York, después de abandonar a su amante Emile Renaul en Sudamérica, cuando entabla un romance a bordo de un barco con Jerry Darrow. Renaul la espera en Nueva York, pero ella lo envenena. Cuando los detectives la arrestan, Jerry prepara una coartada.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-19",
+                "time": "12:00",
+                "version": "Presentada por La Caneli - Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "the-african-queen",
+        "title": "La reina de África",
+        "originalTitle": "The African Queen",
+        "poster": "images/the-african-queen.jpg",
+        "director": "John Huston",
+        "cast": [
+            "Humphrey Bogart",
+            "Katharine Hepburn",
+            "Robert Morley",
+            "Peter Bull"
+        ],
+        "year": 1951,
+        "duration": 105,
+        "country": "Estados Unidos, Reino Unido",
+        "genres": [
+            "Aventura",
+            "Romance",
+            "Drama"
+        ],
+        "synopsis": "Durante la Primera Guerra Mundial, en el África Oriental alemana, una puritana misionera británica y un rudo capitán de un maltrecho barco de vapor remontan un río peligroso para intentar torpedear un cañonero enemigo.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-06",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "gilda",
+        "title": "Gilda",
+        "originalTitle": "Gilda",
+        "poster": "images/gilda.jpg",
+        "director": "Charles Vidor",
+        "cast": [
+            "Rita Hayworth",
+            "Glenn Ford",
+            "George Macready",
+            "Joseph Calleia"
+        ],
+        "year": 1946,
+        "duration": 110,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Cine negro",
+            "Romance"
+        ],
+        "synopsis": "En un casino de Buenos Aires, un tahúr se reencuentra inesperadamente con su antiguo amor, que ahora es la deslumbrante y esquiva esposa de su jefe.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-13",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "los-paraguas-de-cherburgo",
+        "title": "Los paraguas de Cherburgo",
+        "originalTitle": "Les Parapluies de Cherbourg",
+        "poster": "images/los-paraguas-de-cherburgo.jpg",
+        "director": "Jacques Demy",
+        "cast": [
+            "Catherine Deneuve",
+            "Nino Castelnuovo",
+            "Anne Vernon",
+            "Marc Michel"
+        ],
+        "year": 1964,
+        "duration": 91,
+        "country": "Francia",
+        "genres": [
+            "Musical",
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Geneviève y Guy están profundamente enamorados y planean casarse, pero él es reclutado para luchar en la guerra de Argelia. La dolorosa separación y el paso del tiempo pondrán a prueba su promesa de amor eterno en este icónico melodrama musical cantado en su totalidad.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-27",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "dracula-de-bram-stoker",
+        "title": "Drácula, de Bram Stoker",
+        "originalTitle": "Bram Stoker's Dracula",
+        "poster": "images/dracula-de-bram-stoker.jpg",
+        "director": "Francis Ford Coppola",
+        "cast": [
+            "Gary Oldman",
+            "Winona Ryder",
+            "Anthony Hopkins",
+            "Keanu Reeves"
+        ],
+        "year": 1992,
+        "duration": 128,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Romance",
+            "Drama"
+        ],
+        "synopsis": "El conde Drácula viaja desde Transilvania hasta Londres del siglo XIX en busca de Mina Harker, una mujer idéntica a su difunta esposa, desatando el terror y la pasión a su paso.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-29",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "phenomena",
+        "title": "Phenomena",
+        "originalTitle": "Phenomena",
+        "poster": "images/phenomena.jpg",
+        "director": "Dario Argento",
+        "cast": [
+            "Jennifer Connelly",
+            "Daria Nicolodi",
+            "Donald Pleasence",
+            "Fiore Argento"
+        ],
+        "year": 1985,
+        "duration": 116,
+        "country": "Italia",
+        "genres": [
+            "Terror",
+            "Misterio",
+            "Thriller"
+        ],
+        "synopsis": "Una joven estudiante estadounidense con la capacidad telepática de comunicarse con los insectos llega a un prestigioso internado suizo, donde se ve envuelta en la investigación de una serie de espeluznantes crímenes cometidos por un misterioso asesino.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-09-24",
+                "time": "20:30",
+                "version": "Coloquio posterior y obsequio exclusivo"
+            }
+        ]
+    },
+    {
+        "id": "amores-perros",
+        "title": "Amores perros",
+        "originalTitle": "Amores perros",
+        "poster": "images/amores-perros.jpg",
+        "director": "Alejandro González Iñárritu",
+        "cast": [
+            "Emilio Echevarría",
+            "Gael García Bernal",
+            "Loya Goya",
+            "Alvaro Guerrero"
+        ],
+        "year": 2000,
+        "duration": 151,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "synopsis": "Un trágico accidente automovilístico en la Ciudad de México entrelaza las vidas de tres personas de diferentes estratos sociales: un joven que se involucra en peleas de perros para escapar con la novia de su hermano, un modelo maduro cuya vida cambia tras el choque, y un exguerrillero convertido en asesino a sueldo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-09-29",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "gatos-encaramados-chats-perches",
+        "title": "Gatos encaramados (Chats perchés)",
+        "originalTitle": "Chats perchés",
+        "poster": "images/gatos-encaramados.jpg",
+        "director": "Chris Marker",
+        "cast": [],
+        "year": 2003,
+        "duration": 59,
+        "country": "Francia",
+        "genres": [
+            "Documental",
+            "Ensayo"
+        ],
+        "synopsis": "Tras el 11 de septiembre, un gato amarillo dibujado comienza a aparecer en los muros de París, observando la ciudad con una enigmática sonrisa. Chris Marker emprende un viaje visual y reflexivo a través de la capital francesa, explorando el arte urbano, las protestas sociales y el estado del mundo. Coloquio posterior con los arquitectos Aritz González y David García-Asenjo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-29",
+                "time": "19:00",
+                "version": "Coloquio posterior"
             }
         ]
     }
