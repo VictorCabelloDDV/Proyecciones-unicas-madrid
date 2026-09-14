@@ -67,6 +67,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-17",
+                "time": "20:00",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -959,12 +965,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-27",
                 "time": "12:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "11:50",
-                "version": "Doblada al español"
             }
         ]
     },
@@ -1272,16 +1272,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-12",
-                "time": "20:10"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "20:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-16",
                 "time": "22:35"
             }
@@ -1375,12 +1365,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-20",
                 "time": "12:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "11:45",
-                "version": "Doblada al español - Emabajadores Río"
             },
             {
                 "cinema": "Cines Renoir",
@@ -2015,13 +1999,7 @@ const movies = [
             "Drama psicológico"
         ],
         "synopsis": "Cuatro personas persiguen sus propios sueños y esperanzas, pero sus adicciones y obsesiones les llevan progresivamente hacia una espiral de aislamiento y destrucción.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "romeo-y-julieta",
@@ -2094,13 +2072,7 @@ const movies = [
             "Bélico"
         ],
         "synopsis": "Durante la Primera Guerra Mundial, tres soldados franceses son acusados injustamente de cobardía después de que un ataque contra las posiciones alemanas fracasa. Su superior intenta defenderlos frente a un consejo de guerra que busca convertirlos en chivos expiatorios.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-14",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ser-o-no-ser",
@@ -2858,13 +2830,7 @@ const movies = [
             "Fantástico"
         ],
         "synopsis": "En una noche en la Europa del siglo XVII, una joven que camina por el bosque para huir de unos cazadores de brujas se topa con unas misteriosas ancianas que están lavando ropa al borde del río.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-12",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "asalto-a-la-comisaria-del-distrito-13",
@@ -3592,14 +3558,7 @@ const movies = [
             "Medioambiente"
         ],
         "synopsis": "La madera es el material del futuro. Con esa idea como punto de partida, la arquitecta Oihane Ruiz y la paisajista Ane Barrutia recorren el ciclo de la madera en su Euskadi natal —del bosque a la industria— en busca de respuestas: ¿qué bosque dejaremos a las generaciones futuras?, ¿quién define hoy el bosque del mañana?",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "12:00",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cristal-oscuro",
@@ -4317,13 +4276,7 @@ const movies = [
             "Experimental"
         ],
         "synopsis": "Una reflexión sobre la concepción mágico-realista de la muerte en tres comunidades singulares: los Tana Toraja en Indonesia, las viudas de Vrindaban en India y los mayas de Pomuch en México. A través de sus ritos mortuorios y tradiciones, la película recorre la espera, el fallecimiento y el duelo para comprender cómo conviven con el final de la vida.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-12",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-berma-2024",
@@ -4645,13 +4598,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "El fotoperiodista japonés Akutagawa Shiomi viaja a Vietnam tras la unificación para retratar la supuesta prosperidad del nuevo régimen socialista. Sin embargo, tras la fachada oficial descubre la cruda realidad de los campos de reeducación, la miseria y el drama desesperado de los refugiados.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-12",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-rosa-purpura-de-el-cairo-1985",
@@ -4703,13 +4650,7 @@ const movies = [
             "Musical"
         ],
         "synopsis": "Madeleine Duchanel, una joven de provincias convencida de que está destinada a triunfar en los escenarios, se escapa a París para perseguir sus sueños de fama. Allí descubre un mundo mucho más duro de lo que imaginaba, moviéndose entre pensiones miserables, timadores y delincuentes.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-13",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "generacion-1955",
@@ -5165,13 +5106,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un hombre regresa a un remoto y árido valle en el centro de Argentina donde pasó su infancia, evocando el tiempo en que sus padres vivían allí exiliados, dedicados a ayudar a los campesinos locales frente a las injusticias de los terratenientes y compartiendo su vida con un geólogo español.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-12",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "everything-for-sale-1969",
@@ -5194,11 +5129,6 @@ const movies = [
         ],
         "synopsis": "Fascinante ejercicio metacinematográfico de Andrzej Wajda que rinde tributo y a la vez reflexiona sobre la figura del actor Zbigniew Cybulski. La trama arranca cuando un célebre actor no se presenta en el rodaje de una película, desencadenando una intensa búsqueda por parte del director, sus esposa y sus allegados mientras se difuminan los límites entre la ficción y la realidad.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-13",
-                "time": "17:30"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-22",
@@ -5758,14 +5688,7 @@ const movies = [
         "Biográfico"
     ],
     "synopsis": "Władysław Szpilman, un brillante pianista polaco de origen judío, toca en la radio de Varsovia cuando estalla la Segunda Guerra Mundial. Con la invasión alemana, la vida de los judíos en la ciudad cambia drásticamente, siendo confinados en el gueto de Varsovia. Szpilman logra evitar la deportación gracias a la ayuda de algunos amigos, debiendo sobrevivir oculto entre las ruinas de la ciudad mientras busca desesperadamente comida y refugio.",
-    "screenings": [
-            {
-            "cinema": "Cines Embajadores",
-            "date": "2026-09-14",
-            "time": "20:00",
-            "version": "Embajadores Río"
-        }
-        ]
+    "screenings": []
     },
 //220
     {
@@ -5937,13 +5860,7 @@ const movies = [
         "Musical"
     ],
     "synopsis": "Un viaje visual y sonoro a través del emblemático Museo Vigeland de Oslo, concebido por los coreógrafos Damien Jalet y Erna Ómarsdóttir. La obra se construye a partir de un diálogo dinámico entre las esculturas del recinto y una serie de piezas coreográficas breves e intensas que exploran el movimiento y el espacio.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-12",
-            "time": "19:00"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "llamame-sinsorga-2025",
@@ -5962,13 +5879,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Irantzu Varela y Andrea Momoitio son dos transgresoras periodistas que deciden transformar un centenario atelier de vestidos de novia en el primer centro cultural feminista de la ciudad: La Sinsorga. Para ello, plantean un reto singular: realizar toda la obra de rehabilitación exclusivamente con mujeres, creando una base de datos en un sector altamente masculinizado. Cinco obreras son las encargadas de reconstruir este espacio, combinando el costumbrismo de la obra con un universo performático donde asoman sus miedos, deseos y la deconstrucción del amor romántico.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-13",
-            "time": "20:30"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "borau-y-el-cine-2025",
@@ -6232,20 +6143,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En medio de la desesperación por la falta de empleo en una ciudad industrial británica, a un grupo de desempleados se le ocurre una idea a primera vista disparatada para ganar dinero: organizar un espectáculo de strip-tease.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "16:00",
-                "version": " coloquio con SoyUnaPringada - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-13",
-                "time": "18:15",
-                "version": " coloquio con SoyUnaPringada - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "letty-lynton",
@@ -6471,6 +6369,217 @@ const movies = [
                 "date": "2026-10-29",
                 "time": "19:00",
                 "version": "Coloquio posterior"
+            }
+        ]
+    },
+{
+        "id": "return-of-the-living-dead-part-ii",
+        "title": "El regreso de los muertos vivientes 2",
+        "originalTitle": "Return of the Living Dead Part II",
+        "poster": "images/return-of-the-living-dead-part-ii.jpg",
+        "director": "Ken Wiederhorn",
+        "cast": [
+            "Michael Kenworthy",
+            "Thor Bishopric",
+            "Jasen Wade",
+            "Dana Ashbrook",
+            "James Karen",
+            "Thom Matthews"
+        ],
+        "year": 1988,
+        "duration": 89,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Comedia",
+            "Zombies"
+        ],
+        "synopsis": "Un barril militar tóxico que contiene un gas capaz de resucitar a los muertos cae accidentalmente cerca de un cementerio de un pequeño pueblo. Dos niños descubren el contenedor y liberan sin querer una nueva y descontrolada plaga de zombis devoradores de cerebros.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-14",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "magic-1978",
+        "title": "Magic",
+        "originalTitle": "Magic",
+        "poster": "images/magic.jpg",
+        "director": "Richard Attenborough",
+        "cast": [
+            "Anthony Hopkins",
+            "Ann-Margret",
+            "Burgess Meredith",
+            "Ed Lauter"
+        ],
+        "year": 1978,
+        "duration": 107,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Drama"
+        ],
+        "synopsis": "Corky es un mago y ventrílocuo mediocre que alcanza el éxito gracias a Fats, su cínico y agresivo muñeco. Sin embargo, a medida que la fama aumenta, la mente de Corky empieza a desequilibrarse, y Fats parece cobrar vida propia, dictando sus acciones y empujándole hacia una espiral de celos y terror.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-15",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "la-furia-1978",
+        "title": "La Furia",
+        "originalTitle": "The Fury",
+        "poster": "images/la-furia.jpg",
+        "director": "Brian De Palma",
+        "cast": [
+            "Kirk Douglas",
+            "John Cassavetes",
+            "Carrie Snodgress",
+            "Charles Durning",
+            "Amy Irving"
+        ],
+        "year": 1978,
+        "duration": 118,
+        "country": "Estados Unidos",
+        "genres": [
+            "Ciencia ficción",
+            "Terror",
+            "Thriller",
+            "Sobrenatural"
+        ],
+        "synopsis": "Un agente gubernamental busca desesperadamente a su hijo con extraordinarios poderes psíquicos, quien ha sido secuestrado por una oscura agencia secreta interesada en explotar militarmente sus peligrosas habilidades mentales.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-16",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "shocker-1989",
+        "title": "Shocker",
+        "originalTitle": "Shocker",
+        "poster": "images/shocker.jpg",
+        "director": "Wes Craven",
+        "cast": [
+            "Michael C. Williams",
+            "Peter Berg",
+            "Mitch Pileggi",
+            "Cami Cooper"
+        ],
+        "year": 1989,
+        "duration": 110,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Comedia negra",
+            "Slasher"
+        ],
+        "synopsis": "Tras ser capturado y condenado a morir en la silla eléctrica, el sádico asesino en serie Horace Pinker logra hacer un pacto macabro con fuerzas oscuras. Sobrevive a la ejecución transformándose en pura energía eléctrica capaz de viajar a través de las líneas de corriente y poseer los cuerpos de otras personas, obligando a un joven jugador de fútbol americano a detenerlo.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-17",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "el-cazador-1978",
+        "title": "El cazador",
+        "originalTitle": "The Deer Hunter",
+        "poster": "images/el-cazador.jpg",
+        "director": "Michael Cimino",
+        "cast": [
+            "Robert De Niro",
+            "Christopher Walken",
+            "John Cazale",
+            "John Savage",
+            "Meryl Streep",
+            "George Dzundza"
+        ],
+        "year": 1978,
+        "duration": 183,
+        "country": "Estados Unidos, Reino Unido",
+        "genres": [
+            "Drama",
+            "Bélico"
+        ],
+        "synopsis": "Un grupo de amigos de origen ruso residentes en una pequeña localidad minera de Pensilvania comparte su pasión por la caza de ciervos antes de ser alistados y enviados a combatir a la guerra de Vietnam, donde su traumática experiencia cambiará sus vidas para siempre.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-09-17",
+                "time": "21:00",
+                "version": "35 mm"
+            }
+        ]
+    },
+    {
+        "id": "el-ultimo-caballo-1950",
+        "title": "El último caballo",
+        "originalTitle": "El último caballo",
+        "poster": "images/el-ultimo-caballo.jpg",
+        "director": "Edgar Neville",
+        "cast": [
+            "Fernando Fernán Gómez",
+            "Conchita Montes",
+            "Guillermo Marín",
+            "José Luis Ozores",
+            "Julia Caba Alba"
+        ],
+        "year": 1950,
+        "duration": 75,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Costumbrismo",
+            "Clásico"
+        ],
+        "synopsis": "Fernando decide comprar un caballo antes de licenciarse del servicio militar en Madrid e intenta por todos los medios mantenerlo y ocultarlo en la gran ciudad frente al tráfico, los coches y la incomprensión de los vecinos, en una sátira tierna y premonitoria sobre la modernización urbana.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-09-18",
+                "time": "20:00",
+                "version": "Entrada libre - Coloquio"
+            }
+        ]
+    },
+    {
+        "id": "el-lenguaje-desatado-jelinek",
+        "title": "El lenguaje desatado, Jelinek",
+        "originalTitle": "Jelinek – Die Sprache von der Leine lassen",
+        "poster": "images/el-lenguaje-desatado.jpg",
+        "director": "Claudia Müller",
+        "cast": [
+            "Elfriede Jelinek",
+            "Sophie Rois",
+            "Martin Wuttke",
+            "Sandra Hüller"
+        ],
+        "year": 2022,
+        "duration": 96,
+        "country": "Austria, Alemania",
+        "genres": [
+            "Documental",
+            "Biográfico"
+        ],
+        "synopsis": "Un innovador ensayo documental que rinde homenaje a la figura y la obra de la escritora austríaca Elfriede Jelinek, ganadora del Premio Nobel de Literatura. El documental explora su radical uso del lenguaje, su compromiso político y la controversia constante que ha rodeado a su literatura a través de material de archivo y lecturas de sus textos. Entrada libre con conferencia posterior de Brigitte Jirku.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-09-19",
+                "time": "19:00",
+                "version": "Entrada libre - Conferencia de Brigitte Jirku"
             }
         ]
     }
