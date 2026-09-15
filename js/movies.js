@@ -965,6 +965,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-27",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-19",
+                "time": "11:45",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -1172,7 +1178,18 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-19",
+                "time": "16:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-23",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "isla-de-perros",
@@ -1274,6 +1291,28 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-16",
                 "time": "22:35"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-18",
+                "time": "22:15",
+                "version": "Embajadores río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-19",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-23",
+                "time": "22:35"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-24",
+                "time": "22:30",
+                "version": "Embajadores río"
             }
         ]
     },
@@ -1569,7 +1608,14 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Durante las veinticuatro horas posteriores a un violento enfrentamiento con la policía, tres jóvenes de los suburbios de París afrontan la tensión, la frustración y la violencia de su entorno.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-19",
+                "time": "22:45",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "los-400-golpes",
@@ -5611,7 +5657,14 @@ const movies = [
         "Comedia"
     ],
     "synopsis": "Ambientada en Italia durante el periodo de entreguerras, la historia sigue a Marco Pagot, un piloto veterano de la Primera Guerra Mundial que ha sufrido una extraña maldición convirtiéndolo en un hombre con cabeza de cerdo. Conocido como 'Porco Rosso', trabaja como cazarrecompensas persiguiendo a los piratas aéreos en el mar Adriático mientras lidia con su pasado y con un rival estadounidense.",
-    "screenings": []
+    "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-20",
+                "time": "22:45",
+                "version": "Doblada al español - Embajadores Río"
+            }
+        ]
     },
     {
     "id": "midsommar",
@@ -6366,7 +6419,13 @@ const movies = [
             "Zombies"
         ],
         "synopsis": "Un barril militar tóxico que contiene un gas capaz de resucitar a los muertos cae accidentalmente cerca de un cementerio de un pequeño pueblo. Dos niños descubren el contenedor y liberan sin querer una nueva y descontrolada plaga de zombis devoradores de cerebros.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-22",
+                "time": "22:00"
+            }
+        ]
     },
     {
         "id": "magic-1978",
@@ -6389,7 +6448,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Corky es un mago y ventrílocuo mediocre que alcanza el éxito gracias a Fats, su cínico y agresivo muñeco. Sin embargo, a medida que la fama aumenta, la mente de Corky empieza a desequilibrarse, y Fats parece cobrar vida propia, dictando sus acciones y empujándole hacia una espiral de celos y terror.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-22",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "la-furia-1978",
@@ -6419,6 +6484,11 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-16",
                 "time": "22:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-24",
+                "time": "16:00"
             }
         ]
     },
@@ -6626,7 +6696,156 @@ const movies = [
                 "time": "19:30"
             }
         ]
+    },
+    {
+        "id": "scanners-ii-the-new-order",
+        "title": "Scanners 2: El nuevo orden",
+        "originalTitle": "Scanners II: The New Order",
+        "poster": "images/scanners-ii.jpg",
+        "director": "Christian Duguay",
+        "cast": [
+            "David Hewlett",
+            "Deborah Raffin",
+            "Sébastien Dhavernas",
+            "Rome Paul",
+            "Vlasta Vrana"
+        ],
+        "year": 1991,
+        "duration": 104,
+        "country": "Canadá",
+        "genres": [
+            "Ciencia ficción",
+            "Terror",
+            "Acción"
+        ],
+        "synopsis": "Un ambicioso y corrupto jefe de policía utiliza a un escáner corrupto para eliminar a sus oponentes y controlar la ciudad. Para detener sus planes, un joven estudiante de veterinaria que también posee habilidades telepáticas extraordinarias deberá enfrentarse a él en una cruenta batalla mental.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-18",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "scanners-iii-the-takeover",
+        "title": "Scanners 3: El desquite",
+        "originalTitle": "Scanners III: The Takeover",
+        "poster": "images/scanners-3.jpg",
+        "director": "Christian Duguay",
+        "cast": [
+            "Liliana Komorowska",
+            "Colin Fox",
+            "Steve Parrish",
+            "Ann Day-Jones",
+            "Alexis Smith"
+        ],
+        "year": 1991,
+        "duration": 95,
+        "country": "Canadá",
+        "genres": [
+            "Ciencia ficción",
+            "Terror",
+            "Acción"
+        ],
+        "synopsis": "Una joven que posee extraordinarios poderes de escáner se somete a un tratamiento experimental con un nuevo fármaco desarrollado por su padre adoptivo. Sin embargo, los efectos secundarios alteran drásticamente su personalidad, convirtiéndola en un ser megalómano y despiadado dispuesto a utilizar su mente para controlar la industria farmacéutica y eliminar a cualquiera que se interponga en su camino.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-21",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "scanners-iv-the-minds-eye",
+        "title": "Scanners IV: The Mind's Eye",
+        "originalTitle": "The Mind's Eye",
+        "poster": "images/scanners-4.jpg",
+        "director": "Joe Begos",
+        "cast": [
+            "Graham Skipper",
+            "Lauren Ashley Carter",
+            "John Speredakos",
+            "Larry Fessenden",
+            "Noah Segan"
+        ],
+        "year": 2015,
+        "duration": 87,
+        "country": "Estados Unidos",
+        "genres": [
+            "Ciencia ficción",
+            "Terror",
+            "Thriller"
+        ],
+        "synopsis": "Zack Connors y Carla Moran son dos personas que poseen extraordinarias habilidades telequinéticas y mentales conocidas como 'scanners'. Cuando un científico sin escrúpulos localiza a personas con sus mismas capacidades para secuestrarlas y extraer por la fuerza su poder, ambos se ven obligados a luchar desesperadamente por su supervivencia en una espiral de violencia explícita y estallidos psíquicos.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-23",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "el-regreso-de-los-muertos-vivientes-1985",
+        "title": "El regreso de los muertos vivientes",
+        "originalTitle": "The Return of the Living Dead",
+        "poster": "images/el-regreso-de-los-muertos-vivientes.jpg",
+        "director": "Dan O'Bannon",
+        "cast": [
+            "Clu Gulager",
+            "James Karen",
+            "Thom Matthews",
+            "Don Calfa",
+            "Linnea Quigley"
+        ],
+        "year": 1985,
+        "duration": 91,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Comedia",
+            "Zombies"
+        ],
+        "synopsis": "Dos empleados de un almacén de suministros médicos abren accidentalmente un contenedor militar secreto que libera un gas tóxico capaz de resucitar a los muertos. El gas no solo devuelve la vida a los cadáveres de la morgue cercana, sino que desata una plaga zombi incontrolable sobre la ciudad mientras un grupo de punks intenta sobrevivir a la noche.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-22",
+                "time": "20:15",
+                "version": "VOSE"
+            }
+        ]
+    },
+    {
+        "id": "que-vienen-los-perros-2025",
+        "title": "Que vienen los perros",
+        "originalTitle": "Que vienen los perros",
+        "poster": "images/que-vienen-los-perros.jpg",
+        "director": "Iván Sánchez Alonso, David Tembleque",
+        "cast": [
+            "Olivia Baglivi",
+            "Catalina Sopelana",
+            "Joaquín López-Bailo",
+            "Carmen Mayordomo",
+            "Mabel Del Pozo"
+        ],
+        "year": 2025,
+        "duration": 90,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "synopsis": "Un acontecimiento fortuito y violento despierta en la protagonista recuerdos hasta ahora ocultos en su memoria. Al huir y volver a su origen, descubrirá que su madre, que la abandonó en el momento más difícil, es la única que puede ayudarla a salir del laberinto en el que se ha metido.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-24",
+                "time": "20:00"
+            }
+        ]
     }
-
 
 ]
