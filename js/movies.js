@@ -234,6 +234,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-01",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-23",
+                "time": "22:30",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -1853,6 +1859,12 @@ const movies = [
                 "cinema": "Cines Renoir",
                 "date": "2026-10-08",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-24",
+                "time": "22:30",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -2502,7 +2514,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-23",
+                "time": "22:15"
+            }
+        ]
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -5474,6 +5492,12 @@ const movies = [
                 "cinema": "Cine Doré",
                 "date": "2026-09-23",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-23",
+                "time": "22:30",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -6844,6 +6868,37 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-24",
                 "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "cabeza-borradora-1977",
+        "title": "Cabeza borradora",
+        "originalTitle": "Eraserhead",
+        "poster": "images/cabeza-borradora.jpg",
+        "director": "David Lynch",
+        "cast": [
+            "Jack Nance",
+            "Charlotte Stewart",
+            "Allen Joseph",
+            "Jeanne Bates",
+            "Judith Anna Roberts"
+        ],
+        "year": 1977,
+        "duration": 89,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Surrealismo",
+            "Experimental",
+            "Ciencia ficción"
+        ],
+        "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-21",
+                "time": "22:30"
             }
         ]
     }
