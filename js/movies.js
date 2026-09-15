@@ -2241,13 +2241,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Un poeta fracasado y desencantado encuentra una nueva oportunidad cuando conoce a una joven con talento para la poesía y decide convertirse en su mentor.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-09-15",
-                "time": "21:45"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "viridiana",
@@ -2601,13 +2595,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un anciano profesor de medicina, Isak Borg, viaja en coche desde Estocolmo hasta Lund con su nuera para recibir un homenaje académico. A lo largo del trayecto, los encuentros con diversos personajes y los vívidos recuerdos y sueños de su juventud le llevan a reflexionar sobre su vida, su egoísmo y sus relaciones personales.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-15",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "harry-potter-y-la-piedra-filosofal",
@@ -4295,13 +4283,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "La historia de Yauguiha Mohamed Embarec, una joven refugiada saharaui y bióloga que trabaja desminando en la barrera militar operativa más larga del planeta. A lo largo de sus 2.720 km de longitud hay escondidas más de 10 millones de minas, convirtiendo este territorio en una de las zonas más peligrosas del mundo y retratando la resistencia y el liderazgo femenino del pueblo saharaui.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-15",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "retrato-de-una-mujer-en-llamas",
@@ -5156,13 +5138,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Durante el verano, Miguel Ángel recorre distintas localidades proyectando películas al aire libre en 35 milímetros. Su oficio atraviesa un momento crítico debido a la inminente e implacable sustitución del celuloide tradicional por los nuevos sistemas de proyección digital.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-15",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "paisaje-despues-de-la-batalla-1970",
@@ -5186,11 +5162,6 @@ const movies = [
         ],
         "synopsis": "Recién finalizada la Segunda Guerra Mundial, un joven poeta polaco superviviente de un campo de concentración nazi es liberado por las tropas aliadas y trasladado a un campo de desplazados en Alemania. Allí, entre las ruinas y la incertidumbre del porvenir, intenta recuperar las ganas de vivir y su vocación artística, un proceso marcado por su intenso y complejo romance con una joven prisionera judía.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-15",
-                "time": "20:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-24",
@@ -6395,13 +6366,7 @@ const movies = [
             "Zombies"
         ],
         "synopsis": "Un barril militar tóxico que contiene un gas capaz de resucitar a los muertos cae accidentalmente cerca de un cementerio de un pequeño pueblo. Dos niños descubren el contenedor y liberan sin querer una nueva y descontrolada plaga de zombis devoradores de cerebros.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-14",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "magic-1978",
@@ -6424,13 +6389,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Corky es un mago y ventrílocuo mediocre que alcanza el éxito gracias a Fats, su cínico y agresivo muñeco. Sin embargo, a medida que la fama aumenta, la mente de Corky empieza a desequilibrarse, y Fats parece cobrar vida propia, dictando sus acciones y empujándole hacia una espiral de celos y terror.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-15",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-furia-1978",
@@ -6582,6 +6541,92 @@ const movies = [
                 "version": "Entrada libre - Conferencia de Brigitte Jirku"
             }
         ]
+    },
+    {
+        "id": "la-chica-que-saltaba-a-traves-del-tiempo-2006",
+        "title": "La chica que saltaba a través del tiempo",
+        "originalTitle": "Toki o Kakeru Shōjo",
+        "poster": "images/la-chica-que-saltaba-a-traves-del-tiempo.jpg",
+        "director": "Mamoru Hosoda",
+        "cast": [
+            "Riisa Naka",
+            "Takuya Ishida",
+            "Mitsukata Itakura",
+            "Ayami Kakiuchi"
+        ],
+        "year": 2006,
+        "duration": 98,
+        "country": "Japón",
+        "genres": [
+            "Animación",
+            "Ciencia ficción",
+            "Romance",
+            "Drama"
+        ],
+        "synopsis": "Makoto Konno es una alegre estudiante de secundaria de 17 años que descubre repentinamente que tiene la habilidad de dar saltos en el tiempo. Al principio utiliza este poder para evitar pequeños contratiempos cotidianos, pero pronto comprenderá que cada alteración tiene consecuencias imprevistas en la vida de quienes la rodean.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-02",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "tiziano-el-imperio-del-color",
+        "title": "Tiziano. El imperio del color",
+        "originalTitle": "Tiziano. L'impero del colore",
+        "poster": "images/tiziano-el-imperio-del-color.jpg",
+        "director": "Laura Pesce",
+        "cast": [
+            "Claudia Gerini"
+        ],
+        "year": 2022,
+        "duration": 90,
+        "country": "Italia",
+        "genres": [
+            "Documental",
+            "Arte"
+        ],
+        "synopsis": "Un viaje visual y narrativo a través de la vida y obra de Tiziano Vecellio, maestro indiscutible del Renacimiento veneciano. La película explora su dominio sin igual del color, su fulgurante éxito comercial en la Europa de la época y su capacidad para revolucionar la pintura mediante la luz y la pincelada.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-23",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-23",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "mientras-el-cuerpo-aguante-1982",
+        "title": "Mientras el cuerpo aguante",
+        "originalTitle": "Mientras el cuerpo aguante",
+        "poster": "images/mientras-el-cuerpo-aguante.jpg",
+        "director": "Fernando Trueba",
+        "cast": [
+            "Chicho Sánchez Ferlosio"
+        ],
+        "year": 1982,
+        "duration": 89,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Música"
+        ],
+        "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-06",
+                "time": "19:30"
+            }
+        ]
     }
+
 
 ]
