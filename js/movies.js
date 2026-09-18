@@ -70,8 +70,8 @@ const movies = [
             },
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-09-17",
-                "time": "20:00",
+                "date": "2026-09-22",
+                "time": "16:00",
                 "version": "Doblada al español"
             }
         ]
@@ -238,8 +238,18 @@ const movies = [
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-23",
-                "time": "22:30",
+                "time": "22:15",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-22",
+                "time": "22:20"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-24",
+                "time": "18:00"
             }
         ]
     },
@@ -530,13 +540,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "En 2084, Douglas Quaid acude a una empresa que implanta recuerdos para vivir unas vacaciones virtuales en Marte. El procedimiento despierta recuerdos que sugieren que su identidad y su pasado no son lo que parecen.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-17",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
 //20
     {
@@ -608,13 +612,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Después de escapar de un extraño accidente, un adolescente comienza a tener visiones de una misteriosa figura con disfraz de conejo que parece conocer el futuro y le empuja hacia una serie de acontecimientos inquietantes.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-17",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "et",
@@ -902,13 +900,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Una joven agente del FBI busca la ayuda del brillante y peligroso Hannibal Lecter para atrapar a un asesino en serie conocido como Buffalo Bill.",
-        "screenings": [
-            {
-                "cinema": "Kinépolis Ciudad de la Imagen",
-                "date": "2026-09-17",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-septimo-sello",
@@ -1194,6 +1186,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-23",
                 "time": "16:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-18",
+                "time": "22:30"
             }
         ]
     },
@@ -1295,11 +1292,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-16",
-                "time": "22:35"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-18",
                 "time": "22:15",
                 "version": "Embajadores río"
@@ -1319,6 +1311,11 @@ const movies = [
                 "date": "2026-09-24",
                 "time": "22:30",
                 "version": "Embajadores río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-19",
+                "time": "22:30"
             }
         ]
     },
@@ -1343,18 +1340,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Alex, líder de una banda de jóvenes violentos, es encarcelado y sometido a un polémico tratamiento experimental destinado a eliminar sus impulsos criminales.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-17",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-17",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-novia-cadáver",
@@ -1410,6 +1396,11 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-20",
                 "time": "12:00"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-09-20",
+                "time": "20:00"
             },
             {
                 "cinema": "Cines Renoir",
@@ -1620,6 +1611,11 @@ const movies = [
                 "date": "2026-09-19",
                 "time": "22:45",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-24",
+                "time": "22:10"
             }
         ]
     },
@@ -1986,6 +1982,11 @@ const movies = [
             {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-11",
+                "time": "12:00"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-10-12",
                 "time": "12:00"
             }
         ]
@@ -4150,7 +4151,7 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-13",
                 "time": "19:30",
-                "version": "VOSE (Coloquio con la productora Claudia Chávez)"
+                "version": "Coloquio con la productora Claudia Chávez"
             }
         ]
     },
@@ -4288,14 +4289,7 @@ const movies = [
             "Música"
         ],
         "synopsis": "Un recorrido por la historia de la mítica Sala Canciller de Madrid, templo clave para la escena del rock duro y el heavy metal en la España de los 80. A través de imágenes históricas y testimonios de la época, el documental repasa el impacto cultural y el ambiente único de un local que marcó a toda una generación.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-16",
-                "time": "17:30",
-                "version": "Coloquio con el director"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-silencio-de-otros-2018",
@@ -4547,13 +4541,7 @@ const movies = [
             "Ensayo"
         ],
         "synopsis": "La película se estructura en tres partes inspiradas en la Divina Comedia de Dante: Infierno, Purgatorio y Paraíso. El Infierno se compone de un montaje impactante de imágenes de guerras reales y ficticias que muestran la violencia histórica y la destrucción, mientras el célebre cineasta examina la brutalidad de los conflictos a lo largo de los segmentos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-18",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "variety-1983",
@@ -4666,13 +4654,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En plena Gran Depresión, una camarera de Nueva Jersey acude al cine para escapar de su gris realidad y de su infeliz matrimonio. Una noche, el protagonista de la película que está viendo cruza la pantalla del cine y se baja del atril para conocerla, desatando una fantasía romántica inolvidable.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-16",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
 //180
     {
@@ -4843,13 +4825,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Divertida comedia de enredos y artes marciales dirigida por dos grandes del cine de Hong Kong. Dos hermanos gemelos separados al nacer llevan vidas totalmente opuestas: uno es un prestigioso director de orquesta y el otro un gamberro callejero. Cuando cruzan sus caminos por casualidad en Hong Kong, se desata el caos absoluto con confusiones de identidad y peleas memorables.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-16",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "una-manana-mejor-1986",
@@ -5069,13 +5045,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Un viaje íntimo y cinematográfico por el centro de la ciudad brasileña de Recife a través del tiempo, explorando la historia, los grandes cines de barrio desaparecidos y las transformaciones urbanas y sociales mediante el archivo personal y la memoria del propio director.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-17",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cenizas-y-diamantes-1958",
@@ -5251,13 +5221,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fernando Robles, un profesor de literatura cercano a la jubilación, es apartado inesperadamente de la universidad. Junto a su esposa Liliana, decide afrontar los cambios vitales, la crisis económica y el traslado desde Buenos Aires hacia una nueva vida en el entorno rural de Córdoba.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-16",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "my-heart-is-that-eternal-rose-1989",
@@ -5280,11 +5244,6 @@ const movies = [
         ],
         "synopsis": "Lap, una joven que trabaja en un restaurante, se enamora de Rick, un joven vinculado al mundo del crimen. Cuando el padre de Lap, propietario del local, se ve obligado a colaborar con la policía, Rick debe huir de Hong Kong tras un peligroso enfrentamiento, marcando sus destinos por la lealtad y el peligro.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-17",
-                "time": "19:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-27",
@@ -5311,13 +5270,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Tras la muerte del poeta Leopoldo Panero, su viuda, Felicidad Blanc, y sus tres hijos —Juan Luis, Leopoldo María y Michi— rememoran la figura del patriarca y la historia de la familia. A través de sus testimonios y confesiones afloran viejos resentimientos, profundas frustraciones y heridas nunca cerradas.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-17",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "goodbye-dragon-inn-2003",
@@ -5685,7 +5638,7 @@ const movies = [
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-20",
-                "time": "22:45",
+                "time": "11:45",
                 "version": "Doblada al español - Embajadores Río"
             }
         ]
@@ -5847,13 +5800,7 @@ const movies = [
         "Romance"
     ],
     "synopsis": "María y Susana son dos jóvenes de 17 años que pasan el verano en un campamento de verano cristiano en Segovia llamado La Brisa. Las dos adolescentes son muy amantes del electro latino, pero una noche se le aparece a María Dios en persona cantando canciones de Whitney Houston. A partir de ahí, las vidas de todos los personajes cambiarán por completo.",
-    "screenings": [
-            {
-            "cinema": "mk2 Cine Paz",
-            "date": "2026-09-17",
-            "time": "20:00"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "the-ferryman-2016",
@@ -5943,13 +5890,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Un niño enamorado del cine consigue que su sueño se haga realidad, pero no es como él se lo había imaginado. Durante toda su vida intentará hacer el cine que le hubiera gustado al niño de su infancia. Un recorrido por la vida y obra de José Luis Borau, un creador único y su inmenso impacto en la cinematografía española a través de su legado y de personalidades que compartieron con él su trayectoria.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-16",
-            "time": "20:00"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "al-sur-de-ninguna-parte-2025",
@@ -5965,13 +5906,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Un largometraje documental que ofrece una mirada íntima y humana a la situación de las personas refugiadas y migrantes en España, poniendo el foco en las historias personales, la superación y la búsqueda de un nuevo hogar por encima de las cifras.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-17",
-            "time": "17:30"
-        }
-        ]
+    "screenings": []
     },
 //230
     {
@@ -5990,13 +5925,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "La alicantina Cecilia Bartolomé es una directora de cine, guionista y productora pionera del cine español. Maltratada por la censura, mantiene, siendo octogenaria, el espíritu libre que siempre la ha caracterizado. Un viaje a través de su apasionante vida, obra y lucha que continúan tan lejos, tan cerca.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-17",
-            "time": "20:00"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "omega-wants-to-dance-2024",
@@ -6109,13 +6038,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Una película sinfónica y ensayo fílmico acerca de la ciudad, el tiempo, sus flujos y sus contradicciones. Un gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruzan comercio y fauna, arquitectura, mercerías y poetas, constructores y destructores de la ciudad, transitando entre la nostalgia y la ironía.",
-    "screenings": [
-            {
-            "cinema": "Sala Equis",
-            "date": "2026-09-17",
-            "time": "19:30"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "reversion-2025",
@@ -6448,6 +6371,12 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-22",
                 "time": "22:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-22",
+                "time": "20:15",
+                "version": "Programa doble (Parte 1 y 2)"
             }
         ]
     },
@@ -6506,11 +6435,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-09-16",
-                "time": "22:15"
-            },
-            {
-                "cinema": "Artistic Metropol",
                 "date": "2026-09-24",
                 "time": "16:00"
             }
@@ -6537,13 +6461,7 @@ const movies = [
             "Slasher"
         ],
         "synopsis": "Tras ser capturado y condenado a morir en la silla eléctrica, el sádico asesino en serie Horace Pinker logra hacer un pacto macabro con fuerzas oscuras. Sobrevive a la ejecución transformándose en pura energía eléctrica capaz de viajar a través de las líneas de corriente y poseer los cuerpos de otras personas, obligando a un joven jugador de fútbol americano a detenerlo.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-17",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-cazador-1978",
@@ -6567,14 +6485,7 @@ const movies = [
             "Bélico"
         ],
         "synopsis": "Un grupo de amigos de origen ruso residentes en una pequeña localidad minera de Pensilvania comparte su pasión por la caza de ciervos antes de ser alistados y enviados a combatir a la guerra de Vietnam, donde su traumática experiencia cambiará sus vidas para siempre.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-09-17",
-                "time": "21:00",
-                "version": "35 mm"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-ultimo-caballo-1950",
@@ -6837,8 +6748,13 @@ const movies = [
             {
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-22",
+                "time": "20:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-22",
                 "time": "20:15",
-                "version": "VOSE"
+                "version": "Programa doble (Parte 1 y 2)"
             }
         ]
     },
@@ -6899,6 +6815,320 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-21",
                 "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-20",
+                "time": "18:20"
+            }
+        ]
+    },
+    {
+        "id": "ring-zero-birthday-2000",
+        "title": "Ring Zero: Birthday",
+        "originalTitle": "Ringu 0: Bāsudei",
+        "poster": "images/ring-zero-birthday.jpg",
+        "director": "Norio Tsuruta",
+        "cast": [
+            "Yukie Nakama",
+            "Seiichi Tanabe",
+            "Kumiko Asô",
+            "Yoshiko Tanaka",
+            "Takeshi Wakamatsu"
+        ],
+        "year": 2000,
+        "duration": 99,
+        "country": "Japón",
+        "genres": [
+            "Terror",
+            "Sobrenatural"
+        ],
+        "synopsis": "Años antes de desatar la maldición de la cinta de video, Sadako Yamamura es una joven y tímida estudiante universitaria que se une a una compañía de teatro experimental para intentar llevar una vida normal. Sin embargo, su presencia empieza a desatar extraños fenómenos y muertes inexplicables a su alrededor, mientras un joven redactor de prensa comienza a investigar su perturbador pasado.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-24",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "el-resplandor-1980",
+        "title": "El resplandor",
+        "originalTitle": "The Shining",
+        "poster": "images/el-resplandor.jpg",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Jack Nicholson",
+            "Shelley Duvall",
+            "Danny Lloyd",
+            "Scatman Crothers",
+            "Barry Nelson"
+        ],
+        "year": 1980,
+        "duration": 142,
+        "country": "Reino Unido, Estados Unidos",
+        "genres": [
+            "Terror",
+            "Psicológico",
+            "Clásico"
+        ],
+        "synopsis": "Jack Torrance acepta un empleo como cuidador de invierno en el aislado Hotel Overlook, en Colorado, con la esperanza de superar su bloqueo mental y escribir una novela. Se traslada allí junto a su mujer y su hijo pequeño, Danny, quien posee unas facultades extrasensoriales llamadas 'resplandor'. A medida que la nieve los aísla por completo del exterior, la maligna presencia del hotel se apodera poco a poco de la mente de Jack, arrastrándolo a una espiral de locura y violencia homicida.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-29",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "rufufu-1958",
+        "title": "Rufufú",
+        "originalTitle": "I soliti ignoti",
+        "poster": "images/rufufu.jpg",
+        "director": "Mario Monicelli",
+        "cast": [
+            "Vittorio Gassman",
+            "Marcello Mastroianni",
+            "Totò",
+            "Renato Salvatori",
+            "Claudia Cardinale",
+            "Memmo Carotenuto"
+        ],
+        "year": 1958,
+        "duration": 106,
+        "country": "Italia",
+        "genres": [
+            "Comedia",
+            "Clásico",
+            "Crimen"
+        ],
+        "synopsis": "Un variopinto grupo de delincuentes de poca monta, tan ineptos como entrañables, planea minuciosamente dar un gran golpe en una casa de empeños de Roma. Sin embargo, su absoluta falta de profesionalidad y sus innumerables desastres cotidianos convierten la preparación del robo en una comedia de enredos inolvidable.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-24",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-24",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "funcion-de-noche-1981",
+        "title": "Función de noche",
+        "originalTitle": "Función de noche",
+        "poster": "images/funcion-de-noche.jpg",
+        "director": "Josefina Molina",
+        "cast": [
+            "Lola Herrera",
+            "Daniel Dicenta"
+        ],
+        "year": 1981,
+        "duration": 90,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Drama",
+            "Metacine"
+        ],
+        "synopsis": "Durante la representación teatral de 'Cinco horas con Mario', la actriz Lola Herrera y su expareja, el también actor Daniel Dicenta, discuten y exponen públicamente sus verdaderos conflictos conyugales, su separación y las huellas del pasado. Josefina Molina dirige este ejercicio pionero y catártico que borra los límites entre la ficción y la dolorosa realidad íntima.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-09-29",
+                "time": "19:00",
+                "version": "Coloquio posterior (Inés París, Manuel Gutiérrez Aragón y Fernando Lara)"
+            },
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-03",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "esquilache-1989",
+        "title": "Esquilache",
+        "originalTitle": "Esquilache",
+        "poster": "images/esquilache.jpg",
+        "director": "Josefina Molina",
+        "cast": [
+            "Fernando Fernán Gómez",
+            "Concha Velasco",
+            "José Luis López Vázquez",
+            "Adolfo Marsillach",
+            "Ángela Molina",
+            "Fernando Guillén"
+        ],
+        "year": 1989,
+        "duration": 105,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Histórico"
+        ],
+        "synopsis": "Madrid, primavera de 1766. Leopoldo de Gregorio, marqués de Esquilache y ministro reformista de Carlos III, intenta modernizar las costumbres de la España de la época mediante un decreto sobre la indumentaria masculina que desata el descontento popular, los motines callejeros y las intrigas palaciegas de una corte hostil.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-09-30",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "vera-un-cuento-cruel-1973",
+        "title": "Vera, un cuento cruel",
+        "originalTitle": "Vera, un cuento cruel",
+        "poster": "images/vera-un-cuento-cruel.jpg",
+        "director": "Josefina Molina",
+        "cast": [
+            "Alfredo Alcón",
+            "Lucia Bosé",
+            "María Rosa Salgado",
+            "Manuel Collado"
+        ],
+        "year": 1973,
+        "duration": 95,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Fantástico",
+            "Romance"
+        ],
+        "synopsis": "Tras la trágica muerte de su amada esposa Vera, un hombre aristócrata se refugia en una melancolía obsesiva y solitaria. Su vida da un giro extraño cuando comienza a percibir que el espíritu de Vera sigue presente de algún modo en su mansión, desafiando las fronteras entre la vida y la muerte en una atmósfera de turbador romanticismo.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-02",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "la-lola-se-va-a-los-puertos-1993",
+        "title": "La Lola se va a los puertos",
+        "originalTitle": "La Lola se va a los puertos",
+        "poster": "images/la-lola-se-va-a-los-puertos.jpg",
+        "director": "Josefina Molina",
+        "cast": [
+            "Rocío Jurado",
+            "Francisco Rabal",
+            "José Sancho",
+            "Jesús Ruyman",
+            "Consuelo Trujillo"
+        ],
+        "year": 1993,
+        "duration": 110,
+        "country": "España",
+        "genres": [
+            "Musical",
+            "Drama",
+            "Cine español"
+        ],
+        "synopsis": "Lola Fuentes es una artista de bandera, una mujer libre, indomable y de gran talento que arrastra pasiones y despierta envidias por los puertos andaluces a finales del siglo XIX. Su arte con la copla y el cante jondo cautiva a hombres de distinta condición, desencadenando un torbellino de amores imposibles, orgullo y rivalidades en el corazón de la Andalucía flamenca.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-03",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "etterna-2022",
+        "title": "Eterna",
+        "originalTitle": "Eterna",
+        "poster": "images/etterna.jpg",
+        "director": "Juanma Sayalonga, David Saiz",
+        "cast": [
+            "Ana Isabel García Llorente (Gata Cattana)",
+            "Frank T",
+            "Sara Socas",
+            "El Chojin",
+            "Nia Correia"
+        ],
+        "year": 2022,
+        "duration": 94,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Musical",
+            "Biografía"
+        ],
+        "synopsis": "Un retrato íntimo y profundo de Ana Isabel García Llorente, conocida artísticamente como Gata Cattana, la prematuramente fallecida rapera, poeta, feminista y politóloga andaluza. A través de testimonios de familiares, amigos y compañeros de profesión, el documental recorre su legado artístico y humano, mostrando cómo su voz adelantada a su tiempo se convirtió en un auténtico icono de la cultura underground y el activismo poético.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-13",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-14",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "la-ciudad-del-arco-iris-2025",
+        "title": "La ciudad del arco iris",
+        "originalTitle": "La ciudad del arco iris",
+        "poster": "images/la-ciudad-del-arco-iris.jpg",
+        "director": "Gervasio Iglesias",
+        "cast": [],
+        "year": 2025,
+        "duration": 92,
+        "country": "España",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Un emotivo y reflexivo recorrido documental que explora los espacios de convivencia, las luchas sociales y la evolución de la memoria colectiva a través de una mirada profundamente humana a los márgenes y las identidades que construyen nuestra sociedad.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-13",
+                "time": "21:00"
+            },
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-14",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "ruibal-por-libre-2022",
+        "title": "Ruibal, por libre",
+        "originalTitle": "Ruibal, por libre",
+        "poster": "images/ruibal-por-libre.jpg",
+        "director": "César Martínez Herrada",
+        "cast": [
+            "Javier Ruibal",
+            "Lucía Ruibal",
+            "Javier Krahe",
+            "Pablo Guerrero",
+            "Kiko Veneno"
+        ],
+        "year": 2022,
+        "duration": 95,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Musical",
+            "Biografía"
+        ],
+        "synopsis": "Un recorrido íntimo y luminoso por la vida y la obra del cantautor gaditano Javier Ruibal. A través de sus canciones, conversaciones íntimas y las intervenciones de compañeros de profesión y familiares, el documental retrata a un artista independiente, creador de un universo musical único que fusiona el flamenco, el jazz, la copla y los ritmos de id a y vuelta con una poesía de altísimo vuelo.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-15",
+                "time": "19:00"
             }
         ]
     }
