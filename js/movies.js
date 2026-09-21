@@ -71,7 +71,7 @@ const movies = [
             {
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-22",
-                "time": "16:00",
+                "time": "17:50",
                 "version": "Doblada al español"
             }
         ]
@@ -870,12 +870,6 @@ const movies = [
                 "cinema": "Cines Renoir",
                 "date": "2026-09-29",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-18",
-                "time": "20:00",
-                "version": "Piano en directo - Embajadores Río"
             }
         ]
     },
@@ -963,12 +957,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-27",
                 "time": "12:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-19",
-                "time": "11:45",
-                "version": "Doblada al español"
             }
         ]
     },
@@ -1179,18 +1167,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-19",
-                "time": "16:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-23",
                 "time": "16:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-18",
-                "time": "22:30"
             }
         ]
     },
@@ -1292,17 +1270,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-18",
-                "time": "22:15",
-                "version": "Embajadores río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-19",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-23",
                 "time": "22:35"
             },
@@ -1311,11 +1278,6 @@ const movies = [
                 "date": "2026-09-24",
                 "time": "22:30",
                 "version": "Embajadores río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-19",
-                "time": "22:30"
             }
         ]
     },
@@ -1388,24 +1350,19 @@ const movies = [
         "synopsis": "El joven Ashitaka viaja hacia el oeste para encontrar una cura a una maldición y queda atrapado en el conflicto entre los habitantes de una ciudad industrial y los espíritus del bosque liderados por la princesa Mononoke.",
         "screenings": [
             {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-19",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-20",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-20",
-                "time": "20:00"
-            },
-            {
                 "cinema": "Cines Renoir",
                 "date": "2026-10-15",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-16",
+                "time": "20:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-17",
+                "time": "11:30"
             }
         ]
     },
@@ -1608,14 +1565,14 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-19",
-                "time": "22:45",
-                "version": "Embajadores Río"
+                "date": "2026-09-24",
+                "time": "22:10"
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "22:10"
+                "date": "2026-09-28",
+                "time": "16:00",
+                "version": "Embajadores río"
             }
         ]
     },
@@ -1751,11 +1708,6 @@ const movies = [
         "synopsis": "Un pueblo campesino, amenazado por una banda de bandidos, contrata a siete samuráis para defenderlo. Entre ellos deberán preparar a los habitantes para resistir el inevitable ataque.",
         "screenings": [
             {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-20",
-                "time": "12:00"
-            },
-            {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-09-28",
                 "time": "20:00"
@@ -1861,6 +1813,11 @@ const movies = [
                 "date": "2026-09-24",
                 "time": "22:30",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-01",
+                "time": "22:35"
             }
         ]
     },
@@ -2520,6 +2477,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-23",
                 "time": "22:15"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-28",
+                "time": "16:00"
             }
         ]
     }, 
@@ -4606,13 +4568,7 @@ const movies = [
             "Cine dentro del cine"
         ],
         "synopsis": "Homenaje absoluto al séptimo arte a través de la vida de un fotógrafo y cinéfilo barcelonés cuya existencia discurre en paralelo a la historia del cine y a los acontecimientos políticos y sociales de España, desde principios de siglo hasta la posguerra.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-20",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "boat-people-1982",
@@ -4848,13 +4804,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Obra maestra fundacional del cine de acción de Hong Kong que narra la compleja relación entre un falsificador de billetes arrepentido, su hermano menor (un joven y ambicioso policía) y un leal compañero marcado por la venganza y los códigos de honor de la triada.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-18",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-patrulla-de-la-muerte-1957",
@@ -5293,11 +5243,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-09-18",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-09-29",
                 "time": "20:00"
             }
@@ -5323,13 +5268,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Un modesto fotógrafo callejero se enamora perdidamente de una joven que trabaja en un estudio cinematográfico de noticiarios. Decidido a conquistarla, compra una cámara vieja para convertirse en cámara profesional, provocando una cadena infinita de desastres cómicos y tiernas situaciones en su intento por destacar.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-19",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-tierra-de-la-gran-promesa-1975",
@@ -5350,11 +5289,6 @@ const movies = [
         ],
         "synopsis": "A finales del siglo XIX en la industrializada ciudad polaca de Łódź, tres jóvenes amigos de diferentes orígenes —un polaco, un alemán y un judío— se asocian con el propósito de construir una gran fábrica textil y amasar una fortuna durante el vertiginoso boom capitalista, enfrentándose a un entorno implacable marcado por la ambición, la explotación y la pérdida de valores éticos.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-19",
-                "time": "19:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-09-29",
@@ -5383,13 +5317,7 @@ const movies = [
             "Crimen"
         ],
         "synopsis": "Obra maestra del cine de acción de Hong Kong dirigida por John Woo. Un sicario desilusionado acepta realizar un último trabajo para poder costear una costosa operación quirúrgica que devuelva la vista a una cantante a la que hirió accidentalmente por culpa de su oficio. Mientras intenta protegerla, un inspector de policía tenaz le sigue muy de cerca, forjando ambos una extraña y compleja relación de respeto mutuo al margen de la ley.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-19",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-hombre-de-marmol-1977",
@@ -5410,13 +5338,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En la Polonia de los años setenta, una joven estudiante de cine realiza un documental sobre Mateusz Birkut, un albañil que en la década de 1950 fue aclamado como héroe del trabajo socialista y estajanovista, pero que posteriormente cayó en desgracia y fue marginado por el régimen. A través de su investigación, destapa las contradicciones y los abusos del sistema político comunista.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-20",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
 //210
     {
@@ -5634,14 +5556,7 @@ const movies = [
         "Comedia"
     ],
     "synopsis": "Ambientada en Italia durante el periodo de entreguerras, la historia sigue a Marco Pagot, un piloto veterano de la Primera Guerra Mundial que ha sufrido una extraña maldición convirtiéndolo en un hombre con cabeza de cerdo. Conocido como 'Porco Rosso', trabaja como cazarrecompensas persiguiendo a los piratas aéreos en el mar Adriático mientras lidia con su pasado y con un rival estadounidense.",
-    "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-20",
-                "time": "11:45",
-                "version": "Doblada al español - Embajadores Río"
-            }
-        ]
+    "screenings": []
     },
     {
     "id": "midsommar",
@@ -6136,14 +6051,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "La rica y mundana Letty Lynton vuelve a Nueva York, después de abandonar a su amante Emile Renaul en Sudamérica, cuando entabla un romance a bordo de un barco con Jerry Darrow. Renaul la espera en Nueva York, pero ella lo envenena. Cuando los detectives la arrestan, Jerry prepara una coartada.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-19",
-                "time": "12:00",
-                "version": "Presentada por La Caneli - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-african-queen",
@@ -6509,14 +6417,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Fernando decide comprar un caballo antes de licenciarse del servicio militar en Madrid e intenta por todos los medios mantenerlo y ocultarlo en la gran ciudad frente al tráfico, los coches y la incomprensión de los vecinos, en una sátira tierna y premonitoria sobre la modernización urbana.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-09-18",
-                "time": "20:00",
-                "version": "Entrada libre - Coloquio"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-lenguaje-desatado-jelinek",
@@ -6538,14 +6439,7 @@ const movies = [
             "Biográfico"
         ],
         "synopsis": "Un innovador ensayo documental que rinde homenaje a la figura y la obra de la escritora austríaca Elfriede Jelinek, ganadora del Premio Nobel de Literatura. El documental explora su radical uso del lenguaje, su compromiso político y la controversia constante que ha rodeado a su literatura a través de material de archivo y lecturas de sus textos. Entrada libre con conferencia posterior de Brigitte Jirku.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-09-19",
-                "time": "19:00",
-                "version": "Entrada libre - Conferencia de Brigitte Jirku"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-chica-que-saltaba-a-traves-del-tiempo-2006",
@@ -6654,13 +6548,7 @@ const movies = [
             "Acción"
         ],
         "synopsis": "Un ambicioso y corrupto jefe de policía utiliza a un escáner corrupto para eliminar a sus oponentes y controlar la ciudad. Para detener sus planes, un joven estudiante de veterinaria que también posee habilidades telepáticas extraordinarias deberá enfrentarse a él en una cruenta batalla mental.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-18",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "scanners-iii-the-takeover",
@@ -6784,6 +6672,21 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-24",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-25",
+                "time": "22:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-26",
+                "time": "22:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-27",
+                "time": "20:00"
             }
         ]
     },
@@ -6818,8 +6721,9 @@ const movies = [
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-20",
-                "time": "18:20"
+                "date": "2026-10-01",
+                "time": "15:45",
+                "version": "Embajadores río"
             }
         ]
     },
@@ -7129,6 +7033,37 @@ const movies = [
                 "cinema": "Sala Berlanga",
                 "date": "2026-10-15",
                 "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "el-chico-1921-en-directo",
+        "title": "El chico",
+        "originalTitle": "The Kid",
+        "poster": "images/el-chico.jpg",
+        "director": "Charles Chaplin",
+        "cast": [
+            "Charles Chaplin",
+            "Jackie Coogan",
+            "Edna Purviance",
+            "Carl Miller"
+        ],
+        "year": 1921,
+        "duration": 68,
+        "country": "Estados Unidos",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Cine mudo",
+            "Clásico"
+        ],
+        "synopsis": "Un bondadoso cristalero vagabundo adopta a un bebé abandonado por su madre en un coche de lujo. Cinco años después, el niño se ha convertido en su entrañable cómplice en pequeñas pillerías para sobrevivir en los suburbios, hasta que un giro inesperado amenaza con separarlos. (Proyección especial con música de piano en directo interpretada por Federico Lechner).",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-26",
+                "time": "18:00",
+                "version": "Cine mudo con piano en directo (Federico Lechner)"
             }
         ]
     }
