@@ -70,8 +70,8 @@ const movies = [
             },
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-09-22",
-                "time": "17:50",
+                "date": "2026-09-30",
+                "time": "20:00",
                 "version": "Doblada al español"
             }
         ]
@@ -237,17 +237,6 @@ const movies = [
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-23",
-                "time": "22:15",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-22",
-                "time": "22:20"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-24",
                 "time": "18:00"
             }
@@ -274,13 +263,7 @@ const movies = [
             "Bélico"
         ],
         "synopsis": "En la Casablanca ocupada de la Segunda Guerra Mundial, el dueño de un club nocturno debe elegir entre su amor por una mujer y ayudarla a ella y a su marido, un líder de la resistencia, a escapar de los nazis.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-21",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
 // 10
     {
@@ -1041,7 +1024,13 @@ const movies = [
             "Documental"
         ],
         "synopsis": "La actriz Alba Flores se adentra en la memoria de su padre, el músico Antonio Flores, fallecido cuando ella tenía ocho años, a través de vídeos caseros, cintas inéditas y entrevistas a familiares y amigos para entender quién fue de verdad.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-23",
+                "time": "22:30"
+            }
+        ]
     },
     {
         "id": "gangs-of-new-york",
@@ -1164,13 +1153,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-23",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "isla-de-perros",
@@ -1268,11 +1251,6 @@ const movies = [
         ],
         "synopsis": "Mia, una aspirante a actriz que trabaja como camarera, y Sebastian, un pianista de jazz que malvive en locales de segunda, se enamoran en Los Ángeles, pero su ambición por triunfar en sus respectivas carreras artísticas pone en riesgo su relación.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-23",
-                "time": "22:35"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-24",
@@ -2060,13 +2038,7 @@ const movies = [
             "Biográfico"
         ],
         "synopsis": "A finales de los años 60, Sixto Rodríguez, un misterioso músico de Detroit, fue descubierto por dos productores que quedaron fascinados por sus canciones. Tras grabar dos discos sin alcanzar el éxito esperado, desapareció entre rumores sobre su muerte. Mientras tanto, su música se convirtió en un símbolo de libertad en la Sudáfrica del Apartheid. Décadas después, dos fans sudafricanos investigan qué ocurrió realmente con él y descubren una historia extraordinaria.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-22",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "senderos-de-gloria",
@@ -2473,11 +2445,6 @@ const movies = [
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-23",
-                "time": "22:15"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-09-28",
@@ -4188,13 +4155,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "En 2008, el boom turístico de Cabo Verde se frena por la falta de arena para hormigón, desatando el envío de barcos cargados desde Mauritania. Partiendo de Lisboa en un carguero, la película recorre esta ruta atlántica para poner de manifiesto las profundas transformaciones físicas y sociales que estos intercambios generan en el paisaje.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-22",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-risa-y-la-navaja-version-integral",
@@ -4348,14 +4309,7 @@ const movies = [
             "Música"
         ],
         "synopsis": "En la Viena de 1824, Beethoven se encuentra preparando el estreno de su Novena Sinfonía mientras lucha contra su creciente sordera. Anna Holtz, una joven estudiante de composición, comienza a trabajar como su copista y se convierte en una figura fundamental durante uno de los momentos más importantes de su carrera.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-21",
-                "time": "20:00",
-                "version": "Embajadores Rio"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-piano",
@@ -4655,13 +4609,7 @@ const movies = [
             "Bélico"
         ],
         "synopsis": "Ambientada en la Varsovia ocupada de 1943, la película tiene como protagonista a Stach Mazur, un muchacho de un suburbio de barracas que pasa del pequeño hurto de carbón en los trenes alemanes al compromiso armado con la resistencia comunista, guiado por el viejo obrero Sekuła. Ópera prima de Wajda que retrata la maduración forzosa de una juventud marcada por la guerra.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-23",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-moderno-sherlock-holmes-1924",
@@ -4753,13 +4701,7 @@ const movies = [
             "Cine dentro del cine"
         ],
         "synopsis": "En plena crisis de los misiles de Cuba, un astuto y extravagante productor de cine de serie B llega a un pueblo costero de Florida para estrenar su última película de terror de bajo presupuesto, revolucionando a los adolescentes locales con efectos especiales en directo y una campaña publicitaria inolvidable.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-23",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "twin-dragons-1992",
@@ -4918,13 +4860,7 @@ const movies = [
             "Experimental"
         ],
         "synopsis": "Hipnótica y original propuesta en la que la cámara se sitúa fija frente a los rostros de decenas de mujeres iraníes —incluyendo a la actriz Juliette Binoche— mientras asisten en una sala oscura a la representación en audio de un clásico poema trágico persa sobre el amor, reflejando sus emociones cambiantes a través de las expresiones y la mirada.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-22",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "city-on-fire-1987",
@@ -5094,13 +5030,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fascinante ejercicio metacinematográfico de Andrzej Wajda que rinde tributo y a la vez reflexiona sobre la figura del actor Zbigniew Cybulski. La trama arranca cuando un célebre actor no se presenta en el rodaje de una película, desencadenando una intensa búsqueda por parte del director, sus esposa y sus allegados mientras se difuminan los límites entre la ficción y la realidad.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-22",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
 //200
     {
@@ -5364,14 +5294,26 @@ const movies = [
         "synopsis": "Hipnótico y estilizadísimo retrato urbano de Hong Kong que entrelaza las historias de varios personajes solitarios en los márgenes de la noche: un asesino a sueldo que busca abandonar su peligrosa profesión, su misteriosa socia que organiza sus contratos desde la sombra, un joven mudo que se dedica a allanar locales ajenos por las noches y una chica desconsolada por un desamor que busca desesperadamente un contacto humano.",
         "screenings": [
             {
-                "cinema": "Cine Doré",
-                "date": "2026-09-23",
-                "time": "20:00"
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-24",
+                "time": "18:10",
+                "version": "Embajadores Río"
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-23",
-                "time": "22:30",
+                "date": "2026-09-24",
+                "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-29",
+                "time": "22:20",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-27",
+                "time": "22:35",
                 "version": "Embajadores Río"
             }
         ]
@@ -6274,19 +6216,7 @@ const movies = [
             "Zombies"
         ],
         "synopsis": "Un barril militar tóxico que contiene un gas capaz de resucitar a los muertos cae accidentalmente cerca de un cementerio de un pequeño pueblo. Dos niños descubren el contenedor y liberan sin querer una nueva y descontrolada plaga de zombis devoradores de cerebros.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-22",
-                "time": "22:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-22",
-                "time": "20:15",
-                "version": "Programa doble (Parte 1 y 2)"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "magic-1978",
@@ -6309,13 +6239,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Corky es un mago y ventrílocuo mediocre que alcanza el éxito gracias a Fats, su cínico y agresivo muñeco. Sin embargo, a medida que la fama aumenta, la mente de Corky empieza a desequilibrarse, y Fats parece cobrar vida propia, dictando sus acciones y empujándole hacia una espiral de celos y terror.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-22",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-furia-1978",
@@ -6488,18 +6412,7 @@ const movies = [
             "Arte"
         ],
         "synopsis": "Un viaje visual y narrativo a través de la vida y obra de Tiziano Vecellio, maestro indiscutible del Renacimiento veneciano. La película explora su dominio sin igual del color, su fulgurante éxito comercial en la Europa de la época y su capacidad para revolucionar la pintura mediante la luz y la pincelada.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-23",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-23",
-                "time": "18:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mientras-el-cuerpo-aguante-1982",
@@ -6572,13 +6485,7 @@ const movies = [
             "Acción"
         ],
         "synopsis": "Una joven que posee extraordinarios poderes de escáner se somete a un tratamiento experimental con un nuevo fármaco desarrollado por su padre adoptivo. Sin embargo, los efectos secundarios alteran drásticamente su personalidad, convirtiéndola en un ser megalómano y despiadado dispuesto a utilizar su mente para controlar la industria farmacéutica y eliminar a cualquiera que se interponga en su camino.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-21",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "scanners-iv-the-minds-eye",
@@ -6602,13 +6509,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Zack Connors y Carla Moran son dos personas que poseen extraordinarias habilidades telequinéticas y mentales conocidas como 'scanners'. Cuando un científico sin escrúpulos localiza a personas con sus mismas capacidades para secuestrarlas y extraer por la fuerza su poder, ambos se ven obligados a luchar desesperadamente por su supervivencia en una espiral de violencia explícita y estallidos psíquicos.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-23",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-regreso-de-los-muertos-vivientes-1985",
@@ -6632,19 +6533,7 @@ const movies = [
             "Zombies"
         ],
         "synopsis": "Dos empleados de un almacén de suministros médicos abren accidentalmente un contenedor militar secreto que libera un gas tóxico capaz de resucitar a los muertos. El gas no solo devuelve la vida a los cadáveres de la morgue cercana, sino que desata una plaga zombi incontrolable sobre la ciudad mientras un grupo de punks intenta sobrevivir a la noche.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-22",
-                "time": "20:15"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-22",
-                "time": "20:15",
-                "version": "Programa doble (Parte 1 y 2)"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "que-vienen-los-perros-2025",
@@ -6714,11 +6603,6 @@ const movies = [
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-21",
-                "time": "22:30"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-01",
@@ -6810,11 +6694,6 @@ const movies = [
         ],
         "synopsis": "Un variopinto grupo de delincuentes de poca monta, tan ineptos como entrañables, planea minuciosamente dar un gran golpe en una casa de empeños de Roma. Sin embargo, su absoluta falta de profesionalidad y sus innumerables desastres cotidianos convierten la preparación del robo en una comedia de enredos inolvidable.",
         "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-24",
-                "time": "11:30"
-            },
             {
                 "cinema": "Cines Verdi",
                 "date": "2026-09-24",
@@ -7066,6 +6945,629 @@ const movies = [
                 "version": "Cine mudo con piano en directo (Federico Lechner)"
             }
         ]
+    },
+    {
+        "id": "poder-malefico-1974",
+        "title": "Poder maléfico",
+        "originalTitle": "Chi sei?",
+        "poster": "images/poder-malefico.jpg",
+        "director": "Ovidio G. Assonitis",
+        "cast": [
+            "Juliet Mills",
+            "Richard Johnson",
+            "Gabriele Lavia",
+            "Barbora Boušková",
+            "David Colin Jr."
+        ],
+        "year": 1974,
+        "duration": 108,
+        "country": "Italia, Estados Unidos",
+        "genres": [
+            "Terror",
+            "Sobrenatural",
+            "Posesión"
+        ],
+        "synopsis": "Jessica Barrett, una mujer casada que espera su tercer hijo, comienza a sufrir extraños cambios de personalidad, visiones aterradoras y fenómenos de levitación. Un misterioso hombre vinculado a su pasado parece conocer el oscuro motivo por el cual una presencia demoníaca se ha propuesto poseerla a ella y a su futuro hijo.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-30",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "patrick-vive-todavia-1980",
+        "title": "Patrick vive todavía",
+        "originalTitle": "Patrick vive ancora",
+        "poster": "images/patrick-vive-todavia.jpg",
+        "director": "Mario Landi",
+        "cast": [
+            "Gianni Dei",
+            "Mariangela Giordano",
+            "Carmen Russo",
+            "Imelde Marani",
+            "Péter Hadházi"
+        ],
+        "year": 1980,
+        "duration": 92,
+        "country": "Italia",
+        "genres": [
+            "Terror",
+            "Giallo",
+            "Sobrenatural",
+            "Culto"
+        ],
+        "synopsis": "Años después de los extraños sucesos provocados por Patrick, un paciente en estado de coma que posee aterradores poderes mentales y telequinéticos, una misteriosa clínica privada acoge a un nuevo caso sospechoso. Pronto, una serie de muertes violentas y sádicas comienzan a sucederse entre el personal y los pacientes, demostrando que la mente de Patrick sigue muy activa y sedienta de venganza.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-27",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-01",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "la-iniciacion-de-sarah-1978",
+        "title": "La iniciación de Sarah",
+        "originalTitle": "The Initiation of Sarah",
+        "poster": "images/la-iniciacion-de-sarah.jpg",
+        "director": "Robert Day",
+        "cast": [
+            "Kay Lenz",
+            "Shelley Winters",
+            "Tony Bill",
+            "Morgan Fairchild",
+            "Robert Hays"
+        ],
+        "year": 1978,
+        "duration": 100,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Sobrenatural",
+            "Culto"
+        ],
+        "synopsis": "Sarah Goodwin es una joven tímida y retraída con una poderosa e incontrolable habilidad telequinética que ingresa en la universidad junto a su hermana gemela. Mientras su hermana es aceptada en la hermandad más popular y snob del campus, Sarah es acogida por una misteriosa decana (Shelley Winters) en una hermandad marginada, desencadenando una espiral de venganza sobrenatural durante la fiesta de graduación.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-01",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "patrick-1978",
+        "title": "Patrick",
+        "originalTitle": "Patrick",
+        "poster": "images/patrick.jpg",
+        "director": "Richard Franklin",
+        "cast": [
+            "Susan Penhaligon",
+            "Robert Helpmann",
+            "Rod Mullinar",
+            "Bruce Barry",
+            "Candy Raymond"
+        ],
+        "year": 1978,
+        "duration": 96,
+        "country": "Australia",
+        "genres": [
+            "Terror",
+            "Suspense",
+            "Sobrenatural",
+            "Culto"
+        ],
+        "synopsis": "Patrick es un paciente en estado de coma profundo tras matar a su madre y al amante de esta. Ingresado en una clínica privada aislada dirigida por un médico de métodos cuestionables, una joven enfermera comienza a notar que Patrick es capaz de comunicarse mediante la mente y desatar una poderosa y letal energía telequinética contra todo aquel que se acerque a ella.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-26",
+                "time": "22:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-09-29",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "adulto-2024",
+        "title": "Adulto",
+        "originalTitle": "Adulto",
+        "poster": "images/adulto.jpg",
+        "director": "Mariano González",
+        "cast": [
+            "Alfonso Gonzalez Lesca",
+            "Juan Minujín",
+            "Sofía Gala Castiglione",
+            "Valeria Lois",
+            "Camila Peralta"
+        ],
+        "year": 2024,
+        "duration": 79,
+        "country": "Argentina",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Antonio, de catorce años, vive junto a su padre en una situación de inestabilidad económica y habitacional en Buenos Aires. Cuando son desalojados de su hogar, Antonio debe afrontar un presente lleno de incertidumbres y sortear duras pruebas de la vida adulta prematura, descubriendo por el camino verdades ocultas que cambiarán su perspectiva de la relación con su padre.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-30",
+                "time": "20:00",
+                "version": "Coloquio online con Mariano González"
+            }
+        ]
+    },
+    {
+        "id": "velazquez-el-poder-y-el-arte-2024",
+        "title": "Velázquez, el Poder y el Arte",
+        "originalTitle": "Velázquez, el Poder y el Arte",
+        "poster": "images/velazquez-el-poder-y-el-arte.jpg",
+        "director": "José Manuel Gómez Vidal",
+        "cast": [
+            "José Manuel Gómez Vidal"
+        ],
+        "year": 2024,
+        "duration": 78,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Arte",
+            "Biografía"
+        ],
+        "synopsis": "Un viaje visual e histórico al corazón de la España del Siglo de Oro para examinar la figura de Diego Velázquez. El documental analiza no solo su técnica revolucionaria y su modernidad pictórica anticipada a su tiempo, sino también su compleja posición como cortesano y pintor de cámara al servicio del rey Felipe IV, donde el arte y el poder se entrelazaban peligrosamente.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-30",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-09-30",
+                "time": "18:20"
+            }
+        ]
+    },
+    {
+        "id": "memento-2000",
+        "title": "Memento",
+        "originalTitle": "Memento",
+        "poster": "images/memento.jpg",
+        "director": "Christopher Nolan",
+        "cast": [
+            "Guy Pearce",
+            "Carrie-Anne Moss",
+            "Joe Pantoliano",
+            "Mark Boone Junior",
+            "Jorja Fox"
+        ],
+        "year": 2000,
+        "duration": 113,
+        "country": "Estados Unidos",
+        "genres": [
+            "Thriller",
+            "Suspense",
+            "Psicológico",
+            "Culto"
+        ],
+        "synopsis": "Leonard Shelby es un hombre que sufre de amnesia anterógrada tras un brutal ataque en el que su esposa fue asesinada; desde entonces, es incapaz de almacenar nuevos recuerdos y su memoria se reinicia cada pocos minutos. Para poder investigar el asesinato y vengar a su mujer, Leonard se vale de notas escritas, fotografías polaroid y tatuajes grabados en su propio cuerpo, en una historia narrada de forma inversa que desafía por completo al espectador.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-01",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-01",
+                "time": "20:05"
+            }
+        ]
+    },
+    {
+        "id": "pepita-la-pistolera-2026",
+        "title": "Pepita, la pistolera",
+        "originalTitle": "Pepita, la pistolera",
+        "poster": "images/pepita-la-pistolera-2026.jpg",
+        "director": "Lucía Puenzo",
+        "cast": [
+            "Luisana Lopilato",
+            "Claudio Tolcachir",
+            "Alberto Ajaka",
+            "Charo López",
+            "Marcelo Subiotto",
+            "Camila Peralta"
+        ],
+        "year": 2026,
+        "duration": 106,
+        "country": "Argentina",
+        "genres": [
+            "Drama",
+            "Crimen",
+            "Suspenso",
+            "Acción"
+        ],
+        "synopsis": "Ambientada en Mar del Plata en 1985, la trama narra el vertiginoso ascenso y la compleja vida de Margarita Di Tullio (conocida como 'Pepita, la pistolera'), una trabajadora sexual embarazada que se abre paso en los oscuros y violentos bajos fondos del hampa argentino tras un suceso que cambiará su destino para siempre.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-09-30",
+                "time": "19:30",
+            }
+        ]
+    },
+    {
+        "id": "glass-bottom-ferry-2025",
+        "title": "Glass Bottom Ferry. Sobre fronteras y utopías sumergidas",
+        "originalTitle": "Glass Bottom Ferry. Sobre fronteras y utopías sumergidas",
+        "poster": "images/glass-bottom-ferry.jpg",
+        "director": "Chus Domínguez",
+        "cast": [],
+        "year": 2025,
+        "duration": 85,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Ensayo"
+        ],
+        "synopsis": "Un ensayo documental de Chus Domínguez que explora los conceptos de frontera, paisaje y memoria sumergida a través de un trayecto que transita entre lo real y lo utópico, cuestionando las divisiones territoriales y humanas a lo largo de cauces y riberas.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-02",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-03",
+                "time": "20:30"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-04",
+                "time": "20:30"
+            }
+        ]
+    },
+{
+        "id": "redondo-1986",
+        "title": "Redondo",
+        "originalTitle": "Redondo",
+        "poster": "images/redondo.jpg",
+        "director": "Raúl Busteros",
+        "cast": [
+            "Diana Bracho",
+            "Alfredo Sevilla",
+            "Fernando Balzaretti",
+            "Marcial Alejandro",
+            "Alfonso Arau"
+        ],
+        "year": 1986,
+        "duration": 90,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine social"
+        ],
+        "synopsis": "Un literato se encierra en una casa solitaria para escribir una novela acerca de la vida religiosa durante la colonia. El hombre es interrumpido, primero por su hijo, activista político, y después por su mujer. Su obra narra las dificultades que tienen unas monjas con el señor obispo; el autor se involucra tanto en su texto que llega a vivir un romance con una de las protagonistas de la novela. Todo lo anterior forma parte, a su vez, de una película que filma.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-06",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "en-el-balcon-vacio-1962",
+        "title": "En el balcón vacío",
+        "originalTitle": "En el balcón vacío",
+        "poster": "images/en-el-balcon-vacio.jpg",
+        "director": "Jomí García Ascot",
+        "cast": [
+            "María Luisa Elío",
+            "Paquita García Ascot",
+            "Emilio García Gómez",
+            "Jomí García Ascot"
+        ],
+        "year": 1962,
+        "duration": 70,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine experimental",
+            "Memoria Histórica"
+        ],
+        "synopsis": "La Guerra Civil española vista a través de los ojos de una niña: Gabriela, quien ya adulta y exiliada en México, recuerda los acontecimientos que la marcaron profundamente durante aquella etapa de ruptura y pérdida. Versión restaurada en 2K en Elías Querejeta Zine Eskola (2025) en colaboración con Filmoteca UNAM y TV UNAM.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-14",
+                "time": "19:00",
+                "version": "Versión restaurada 2K"
+            }
+        ]
+    },
+    {
+        "id": "the-wisdom-of-wonder-eugenia-balcells-2024",
+        "title": "The Wisdom of Wonder, Eugènia Balcells Once and Again",
+        "originalTitle": "The Wisdom of Wonder, Eugènia Balcells Once and Again",
+        "poster": "images/the-wisdom-of-wonder.jpg",
+        "director": "Luis Felipe Ruiz",
+        "cast": [
+            "Eugènia Balcells",
+            "Luis Felipe Ruiz"
+        ],
+        "year": 2024,
+        "duration": 95,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Arte",
+            "Biografía"
+        ],
+        "synopsis": "A través de una mirada sofisticada y llena de asombro, Eugènia Balcells, la célebre videoartista española, comparte su secreto mejor guardado: la curva de la vida. Presentación a cargo del director, Luis Felipe Ruiz. Selección oficial en el Festival Dart 2024 y el Festival de Málaga 2025.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-16",
+                "time": "19:00",
+                "version": "Presentación del director"
+            }
+        ]
+    },
+    {
+        "id": "of-mud-and-blood-2024",
+        "title": "Of Mud and Blood",
+        "originalTitle": "Of Mud and Blood",
+        "poster": "images/of-mud-and-blood.jpg",
+        "director": "Jean-Gabriel Leynaud",
+        "cast": [],
+        "year": 2024,
+        "duration": 90,
+        "country": "Francia, Alemania, República Democrática del Congo",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Investigación"
+        ],
+        "synopsis": "En las montañas del Congo, Numbi parece estar lejos de nuestro mundo, pero guarda bajo tierra uno de los minerales que lo mantienen conectado. Allí, hombres y mujeres extraen coltán a mano, atrapados entre la precariedad, los intereses económicos y un conflicto que se alimenta de esa riqueza. La película se sumerge en su vida cotidiana para revelar el reverso de nuestra comodidad digital y plantearnos una pregunta incómoda: ¿qué parte de este sistema nos corresponde cuando encendemos cada día nuestros dispositivos?",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-21",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "silver-2025",
+        "title": "Silver",
+        "originalTitle": "Silver",
+        "poster": "images/silver.jpg",
+        "director": "Natalia Koniarz",
+        "cast": [],
+        "year": 2025,
+        "duration": 69,
+        "country": "Polonia, Noruega, Finlandia",
+        "genres": [
+            "Documental",
+            "Cine social"
+        ],
+        "synopsis": "A casi 5.000 metros de altura, la vida en Cerro Rico gira alrededor de una mina que da sustento y, al mismo tiempo, amenaza a quienes dependen de ella. A través de la mirada de Juvi, un niño de doce años, la película se acerca con enorme intimidad a una comunidad marcada por el trabajo extremo, la espiritualidad y una herencia extractiva que atraviesa generaciones, enfrentándonos al coste humano de un modelo que sigue midiendo la riqueza por todo aquello que somos capaces de extraer de la tierra.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-22",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "los-suenos-que-compartimos-2025",
+        "title": "Los sueños que compartimos",
+        "originalTitle": "Los sueños que compartimos",
+        "poster": "images/los-suenos-que-compartimos.jpg",
+        "director": "Valentina Leduc",
+        "cast": [],
+        "year": 2025,
+        "duration": 102,
+        "country": "México",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Ecología"
+        ],
+        "synopsis": "¿Qué tendría que ocurrir para que en 2050 hubiéramos conseguido frenar el deterioro del planeta? Desde ese futuro posible, la película mira hacia las luchas que ya están transformando el presente. A partir del viaje transatlántico de comunidades mayas zapatistas, conecta resistencias de México, España y Alemania que defienden sus territorios frente a la destrucción industrial, en un relato colectivo sobre organización, solidaridad y cuidado de la vida.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-22",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "super-nature-2025",
+        "title": "Super Nature",
+        "originalTitle": "Super Nature",
+        "poster": "images/super-nature.jpg",
+        "director": "Ed Sayers",
+        "cast": [],
+        "year": 2025,
+        "duration": 82,
+        "country": "Reino Unido",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Naturaleza"
+        ],
+        "synopsis": "Filmado íntegramente en Super 8 por colaboradores de 25 países, Super Nature compone una carta de amor al planeta que celebra nuestra conexión con la naturaleza y nos invita a mirar de nuevo todo aquello que podemos perder. Una comunidad global captura momentos íntimos de la naturaleza con cámaras compartidas, entretejiendo sus observaciones personales en un impresionante tapiz visual.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-24",
+                "time": "19:30",
+                "version": "Versión original en Super 8"
+            }
+        ]
+    },
+    {
+        "id": "power-station-2025",
+        "title": "Power Station",
+        "originalTitle": "Power Station",
+        "poster": "images/power-station.jpg",
+        "director": "Hilary Powell, Dan Edelstyn",
+        "cast": [],
+        "year": 2025,
+        "duration": 90,
+        "country": "Reino Unido",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Ecología"
+        ],
+        "synopsis": "¿Puede una calle cualquiera convertirse en el inicio de una revolución energética? En Walthamstow, dos artistas convencen a sus vecinos para transformar sus tejados en una central solar comunitaria. Entre obstáculos, campañas disparatadas, humor y mucha perseverancia, la película convierte la transición energética en una aventura colectiva, cercana y contagiosa, mostrando el poder de la acción local.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-24",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "a-life-illuminated-2025",
+        "title": "A Life Illuminated",
+        "originalTitle": "A Life Illuminated",
+        "poster": "images/a-life-illuminated.jpg",
+        "director": "Tasha Van Zandt",
+        "cast": [
+            "Edie Widder"
+        ],
+        "year": 2025,
+        "duration": 90,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental",
+            "Naturaleza",
+            "Ciencia"
+        ],
+        "synopsis": "A Life Illuminated nos acerca a la figura de la pionera bióloga marina Edie Widder y a una vida dedicada a explorar aquello que el océano todavía oculta. Sus investigaciones sobre la bioluminiscencia y las profundidades marinas revelan un mundo tan extraordinario como vulnerable. A través de la ciencia, el asombro y unas imágenes excepcionales, la película nos invita a comprender mejor estos ecosistemas y a reconocer que proteger lo desconocido también forma parte de proteger el futuro del planeta.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-25",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "la-mujer-sin-cabeza-2008",
+        "title": "La mujer sin cabeza",
+        "originalTitle": "La mujer sin cabeza",
+        "poster": "images/la-mujer-sin-cabeza.jpg",
+        "director": "Lucrecia Martel",
+        "cast": [
+            "María Onetto",
+            "Claudia Cantero",
+            "Inés Efron",
+            "César Bordón",
+            "Daniel Valenzuela"
+        ],
+        "year": 2008,
+        "duration": 87,
+        "country": "Argentina, España, Francia, Italia",
+        "genres": [
+            "Drama",
+            "Thriller psicológico",
+            "Cine de autor"
+        ],
+        "synopsis": "Vero, una mujer burguesa de provincia, sufre un despiste al volante y atropella algo (o a alguien) en una carretera solitaria. A partir de ese momento, un extraño estado de aturdimiento, alienación y mutismo se apodera de ella, mientras su entorno familiar intenta protegerla y disimular un posible crimen.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-28",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "la-endemoniada-1975",
+        "title": "La endemoniada",
+        "originalTitle": "La endemoniada",
+        "poster": "images/la-endemoniada.jpg",
+        "director": "Amando de Ossorio",
+        "cast": [
+            "Marián Salgado",
+            "Julián Mateos",
+            "Fernando Sancho",
+            "Lone Fleming",
+            "Ángel del Pozo",
+            "Kali Hansa",
+            "Daniel Martín"
+        ],
+        "year": 1975,
+        "duration": 88,
+        "country": "España",
+        "genres": [
+            "Terror",
+            "Sobrenatural",
+            "Culto"
+        ],
+        "synopsis": "Una anciana gitana es detenida por la policía por su supuesta relación con el secuestro de un recién nacido y la desaparición de objetos sagrados. Durante el interrogatorio, la mujer se suicida arrojándose por la ventana tras encomendarse al diablo. Como venganza, su espíritu toma el cuerpo de la hija del comisionado de la zona. Presentación a cargo de Alberto Sedano, comisario del ciclo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-31",
+                "time": "20:30",
+                "version": "Presentación de Alberto Sedano"
+            }
+        ]
+    },
+{
+        "id": "invasion-travesti-2000",
+        "title": "Invasión Travesti",
+        "originalTitle": "Invasión Travesti",
+        "poster": "images/invasion-travesti.jpg",
+        "director": "Jero de los Santos",
+        "cast": [
+            "Dámaso Conde",
+            "Oren Moreno",
+            "Jordi Minguella",
+            "Justo Ruiz",
+            "Anabela Mira",
+            "Beatriz Cotobal",
+            "Antonio Caja",
+            "Maria José Leal"
+        ],
+        "year": 2000,
+        "duration": 57,
+        "country": "España",
+        "genres": [
+            "Ciencia ficción",
+            "Comedia",
+            "Culto",
+            "Underground"
+        ],
+        "synopsis": "Las hordas travestis han invadido el planeta. Laura Crawford, un híbrido letal formado con lo peor del hombre y la mujer, ha conducido a la humanidad al caos y al desprecio mutuo. Bárbara Furiasse, la última heterosexual sobre la Tierra, tiene tres días para encontrar a 'un hombre de verdad' y juntos escapar de la Invasión Travesti. Presentación a cargo del director, Jero de los Santos.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-01",
+                "time": "19:00",
+                "version": "Presentación del director"
+            }
+        ]
     }
-
 ]
