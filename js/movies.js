@@ -234,11 +234,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-10-01",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "18:00"
             }
         ]
     },
@@ -493,13 +488,7 @@ const movies = [
             "Familiar"
         ],
         "synopsis": "Sarah debe atravesar un laberinto poblado de criaturas fantásticas para rescatar a su hermano pequeño, secuestrado por el rey de los duendes Jareth, en un lugar donde nada es lo que parece.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-24",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "desafio-total",
@@ -1250,14 +1239,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Mia, una aspirante a actriz que trabaja como camarera, y Sebastian, un pianista de jazz que malvive en locales de segunda, se enamoran en Los Ángeles, pero su ambición por triunfar en sus respectivas carreras artísticas pone en riesgo su relación.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "22:30",
-                "version": "Embajadores río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-naranja-mecánica",
@@ -1543,11 +1525,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "22:10"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-28",
                 "time": "16:00",
                 "version": "Embajadores río"
@@ -1599,13 +1576,7 @@ const movies = [
             "Familia"
         ],
         "synopsis": "Un grupo de amigos descubre un antiguo mapa del tesoro y se embarca en una aventura para encontrar el legendario tesoro del pirata Willy el Tuerto y salvar sus hogares.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-24",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
 //60
     {
@@ -1785,12 +1756,6 @@ const movies = [
                 "cinema": "Cines Renoir",
                 "date": "2026-10-08",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "22:30",
-                "version": "Embajadores Río"
             },
             {
                 "cinema": "Cines Embajadores",
@@ -4178,11 +4143,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cineteca Madrid",
-                "date": "2026-09-24",
-                "time": "17:00"
-            },
-            {
-                "cinema": "Cineteca Madrid",
                 "date": "2026-09-26",
                 "time": "17:00"
             },
@@ -4795,13 +4755,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Cuatro veteranos cineastas sudaneses y miembros del histórico Sudanese Film Group se reencuentran con el propósito de revivir el cine en su país tras décadas de censura y abandono institucional, intentando reabrir un viejo cine al aire libre en las afueras de Jartum.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-24",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
 //190
     {
@@ -5075,13 +5029,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Recién finalizada la Segunda Guerra Mundial, un joven poeta polaco superviviente de un campo de concentración nazi es liberado por las tropas aliadas y trasladado a un campo de desplazados en Alemania. Allí, entre las ruinas y la incertidumbre del porvenir, intenta recuperar las ganas de vivir y su vocación artística, un proceso marcado por su intenso y complejo romance con una joven prisionera judía.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-24",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "lugares-comunes-2002",
@@ -5295,17 +5243,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "18:10",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-24",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-09-29",
                 "time": "22:20",
                 "version": "Embajadores Río"
@@ -5336,13 +5273,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Joaquín Gónez, un prestigioso escritor argentino, regresa a su país para recibir un homenaje tras años de exilio. Durante el viaje rememora su infancia y juventud, marcadas por la figura de su madre, Roma, una mujer fuerte y generosa que sostuvo a la familia en tiempos difíciles.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-24",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-vida-util-2010",
@@ -6132,14 +6063,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Una joven estudiante estadounidense con la capacidad telepática de comunicarse con los insectos llega a un prestigioso internado suizo, donde se ve envuelta en la investigación de una serie de espeluznantes crímenes cometidos por un misterioso asesino.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-24",
-                "time": "20:30",
-                "version": "Coloquio posterior y obsequio exclusivo"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "amores-perros",
@@ -6264,13 +6188,7 @@ const movies = [
             "Sobrenatural"
         ],
         "synopsis": "Un agente gubernamental busca desesperadamente a su hijo con extraordinarios poderes psíquicos, quien ha sido secuestrado por una oscura agencia secreta interesada en explotar militarmente sus peligrosas habilidades mentales.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-24",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "shocker-1989",
@@ -6559,11 +6477,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-09-24",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
                 "date": "2026-09-25",
                 "time": "22:00"
             },
@@ -6632,13 +6545,7 @@ const movies = [
             "Sobrenatural"
         ],
         "synopsis": "Años antes de desatar la maldición de la cinta de video, Sadako Yamamura es una joven y tímida estudiante universitaria que se une a una compañía de teatro experimental para intentar llevar una vida normal. Sin embargo, su presencia empieza a desatar extraños fenómenos y muertes inexplicables a su alrededor, mientras un joven redactor de prensa comienza a investigar su perturbador pasado.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-24",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-resplandor-1980",
@@ -6693,13 +6600,7 @@ const movies = [
             "Crimen"
         ],
         "synopsis": "Un variopinto grupo de delincuentes de poca monta, tan ineptos como entrañables, planea minuciosamente dar un gran golpe en una casa de empeños de Roma. Sin embargo, su absoluta falta de profesionalidad y sus innumerables desastres cotidianos convierten la preparación del robo en una comedia de enredos inolvidable.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-24",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "funcion-de-noche-1981",
@@ -7567,6 +7468,97 @@ const movies = [
                 "date": "2026-11-01",
                 "time": "19:00",
                 "version": "Presentación del director"
+            }
+        ]
+    },
+    {
+        "id": "las-melancolicas-1971",
+        "title": "Las melancólicas",
+        "originalTitle": "Las melancólicas",
+        "poster": "images/las-melancolicas.jpg",
+        "director": "Rafael Moreno Alba",
+        "cast": [
+            "Analía Gadé",
+            "Charo López",
+            "María Asquerino",
+            "Fernando Guillén",
+            "Helga Liné"
+        ],
+        "year": 1971,
+        "duration": 110,
+        "country": "España",
+        "genres": [
+            "Terror",
+            "Drama",
+            "Gótico",
+            "Culto"
+        ],
+        "synopsis": "Una mujer es puesta bajo el cuidado de un doctor tras el fallecimiento de su madre, que había sido sometida a un exorcismo. Tania, una paciente de asilo, sufre graves efectos conductuales tras aquella trágica pérdida, adentrándose en una espiral de delirios, opresión y locura en un lúgubre sanatorio.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-01",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "the-chaser-2008",
+        "title": "The Chaser",
+        "originalTitle": "Chugyeogja",
+        "poster": "images/the-chaser.jpg",
+        "director": "Na Hong-jin",
+        "cast": [
+            "Kim Yoon-seok",
+            "Ha Jung-woo",
+            "Seo Young-hee",
+            "Koo Bon-woong",
+            "Kim Yoo-jung"
+        ],
+        "year": 2008,
+        "duration": 125,
+        "country": "Corea del Sur",
+        "genres": [
+            "Thriller",
+            "Acción",
+            "Crimen",
+            "Cine negro"
+        ],
+        "synopsis": "Jung-ho, un antiguo detective convertido en proxeneta, descubre que varias de sus chicas han desaparecido tras acudir a los servicios de un mismo cliente. Cuando una de sus empleadas actuales desaparece de la misma forma, decide investigar por su cuenta, desatando una carrera contrarreloj desesperada y violenta por atrapar a un sádico asesino en serie antes de que sea demasiado tarde.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-17",
+                "time": "11:45",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "stockholm-2013",
+        "title": "Stockholm",
+        "originalTitle": "Stockholm",
+        "poster": "images/stockholm.jpg",
+        "director": "Rodrigo Sorogoyen",
+        "cast": [
+            "Aura Garrido",
+            "Javier Pereira"
+        ],
+        "year": 2013,
+        "duration": 90,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Cine independiente"
+        ],
+        "synopsis": "Un chico se enamora de una chica en una fiesta y hace todo lo posible por conquistarla durante una larga noche por las calles de Madrid. Lo que empieza como un juego de seducción nocturno da un giro totalmente inesperado al amanecer, desvelando capas mucho más oscuras y complejas en la relación.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-15",
+                "time": "20:30",
+                "version": "Coloquio con Rodrigo Sorogoyen y Eduardo de Vicente"
             }
         ]
     }
