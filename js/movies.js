@@ -282,13 +282,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "En el Las Vegas de los años setenta, Sam 'Ace' Rothstein dirige un casino controlado por la mafia. Su vida se complica cuando llega su viejo amigo Nicky Santoro y aparece Ginger McKenna, una mujer de la que se enamora.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-27",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "centauros-del-desierto",
@@ -919,18 +913,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Chihiro entra accidentalmente en un mundo habitado por espíritus después de que sus padres sean transformados en cerdos. Para salvarlos y regresar a casa, deberá trabajar en una misteriosa casa de baños gobernada por la bruja Yubaba.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-26",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-27",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-viento-se-levanta",
@@ -1528,6 +1511,12 @@ const movies = [
                 "date": "2026-09-28",
                 "time": "16:00",
                 "version": "Embajadores río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-01",
+                "time": "22:35",
+                "version": "Embajadores río"
             }
         ]
     },
@@ -1761,6 +1750,12 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-01",
                 "time": "22:35"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-01",
+                "time": "22:30",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -4097,14 +4092,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Pelu, treintañero y proyeccionista de un cineclub municipal, es degradado a sereno nocturno. Tras perder su casa, se muda al cine en secreto. Poco a poco, forma una comunidad con un grupo de cuidadores de autos y su mejor amiga, mientras una crisis generalizada amenaza con cerrar el cine y destruir su pequeño refugio.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-26",
-                "time": "20:30",
-                "version": "Coloquio con el equipo artístico"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "as-cidades-e-as-trocas-2014",
@@ -4140,18 +4128,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Sergio viaja a África Occidental como ingeniero ambiental para construir una carretera entre el desierto y la selva. Allí entabla una relación compleja con dos lugareños, Diara y Gui, mientras descubre detalles sobre la misteriosa desaparición del ingeniero italiano que le precedió en el puesto.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-26",
-                "time": "17:00"
-            },
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-27",
-                "time": "17:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "canciller-el-templo-del-rock",
@@ -4396,7 +4373,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Martín Echenique es un cineasta argentino que lleva veinte años viviendo en Madrid. Tras sufrir su hijo de 19 años (Hache) una sobredosis en Buenos Aires, su exmujer le pide que se haga cargo del joven. Padre e hijo emprenden una convivencia forzada en España, donde también les esperan Alicia, la amante de Martín, y Dante, su mejor amigo y actor hedonista, poniendo a prueba los vínculos familiares y la incapacidad de amar sin miedo al dolor.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-09",
+                "time": "21:00"
+            }
+        ]
     },
     {
         "id": "notre-musique-2004",
@@ -4612,13 +4595,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Rodada de manera totalmente independiente con película caducada justo antes de la devolución de Hong Kong a China, la historia sigue a Autumn Moon, un joven matón de poca monta de los bajos fondos urbanos, cuya vida cambia al entablar relación con una chica enferma y una estudiante suicida.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-25",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-legion-invencible-1949",
@@ -4728,13 +4705,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Crónica claustrofóbica y desesperada de los últimos días del Alzamiento de Varsovia en 1944. Un grupo de soldados e insurgentes polacos intenta escapar del cerco y los bombardeos nazis adentrándose en la oscura y laberíntica red de alcantarillado de la ciudad.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-25",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "talking-about-trees-2019",
@@ -4837,13 +4808,7 @@ const movies = [
             "Crimen"
         ],
         "synopsis": "Un policía encubierto se infiltra en una peligrosa banda de ladrones de Hong Kong para planificar y frustrar un gran robo a una joyería, vierto se debate entre la lealtad hacia su trabajo y los lazos de hermandad criminal que forja con uno de los atracadores.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-26",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-ley-de-la-frontera-1995",
@@ -4907,13 +4872,7 @@ const movies = [
             "Bélico"
         ],
         "synopsis": "En la Polonia de 1945, justo el día en que finaliza la Segunda Guerra Mundial, el caos político y el extremismo se apoderan del país. Un joven miembro de la resistencia clandestina anticomunista recibe la orden de asesinar a un funcionario del partido comunista, pero sus dudas crecen al enamorarse de una camarera en un hotel de provincias durante sus últimas horas decisivas.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-27",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-ultimo-gran-heroe-1993",
@@ -5252,6 +5211,12 @@ const movies = [
                 "date": "2026-09-27",
                 "time": "22:35",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-09-30",
+                "time": "17:40",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -5294,13 +5259,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Jorge, un cinéfilo empedernido que ha trabajado durante veinticinco años en la Cinemateca Uruguaya, se ve obligado a reinventar su vida cuando la institución atraviesa una profunda crisis económica y se plantea su cierre definitivo, empujándolo a descubrir el mundo exterior más allá de las paredes de la sala de proyección.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-25",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cien-ninos-esperando-un-tren-1988",
@@ -5318,13 +5277,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "En una población de los suburbios de Santiago de Chile durante la dictadura, la profesora Alicia Vega imparte un taller de cine los fines de semana para un centenar de niños que nunca antes habían visto una película. A través de las clases, los juegos ópticos y las proyecciones, los niños descubren un mundo nuevo de libertad, imaginación y esperanza.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-26",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-boda-1973",
@@ -5345,13 +5298,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Ambientada a principios del siglo XX, la película narra el enlace matrimonial entre un intelectual de la burguesía de Cracovia y una joven de origen campesino. A la celebración acude una heterogénea concurrencia que representa a todas las clases sociales de la Polonia de la época. Entre bailes, alcohol y discusiones, la fiesta se transforma en un profundo y fantasmagórico examen sobre la identidad nacional, la historia y los traumas políticos del país.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-26",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "padre-nuestro-1985",
@@ -5733,14 +5680,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Un viaje en busca de la identidad individual y colectiva a través del baile, la música, el pensamiento y la espiritualidad. Combinando testimonios personales, hechos históricos, ficción y un electrizante collage audiovisual, se exploran las múltiples dimensiones del acto de bailar: diversión, catarsis, seducción, ritual y crecimiento personal.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-09-25",
-            "time": "20:00",
-            "version": "Coloquio con el director"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "raquel-meller-insumisa-y-divina-2025",
@@ -6332,10 +6272,10 @@ const movies = [
         "synopsis": "Un viaje visual y narrativo a través de la vida y obra de Tiziano Vecellio, maestro indiscutible del Renacimiento veneciano. La película explora su dominio sin igual del color, su fulgurante éxito comercial en la Europa de la época y su capacidad para revolucionar la pintura mediante la luz y la pincelada.",
         "screenings": []
     },
-    {
+{
         "id": "mientras-el-cuerpo-aguante-1982",
-        "title": "Mientras el cuerpo aguante",
-        "originalTitle": "Mientras el cuerpo aguante",
+        "title": "Chicho o mientras el cuerpo aguante",
+        "originalTitle": "Chicho o mientras el cuerpo aguante",
         "poster": "images/mientras-el-cuerpo-aguante.jpg",
         "director": "Fernando Trueba",
         "cast": [
@@ -6348,12 +6288,93 @@ const movies = [
             "Documental",
             "Música"
         ],
-        "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad.",
+        "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad. La película vuelve a las salas tras una restauración llevada a cabo por la ECAM, bajo la supervisión de Javier Mosqueda, a partir del negativo original en 16 mm.",
         "screenings": [
             {
                 "cinema": "Cineteca Madrid",
                 "date": "2026-10-06",
                 "time": "19:30"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
+                "date": "2026-09-30",
+                "time": "17:00",
+                "version": "Precio Reducido"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
+                "date": "2026-10-02",
+                "time": "17:00"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-27",
+                "time": "20:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-27",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-28",
+                "time": "16:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-28",
+                "time": "20:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-28",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-29",
+                "time": "16:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-29",
+                "time": "20:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-29",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-30",
+                "time": "16:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-30",
+                "time": "20:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-09-30",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-10-01",
+                "time": "16:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-10-01",
+                "time": "20:15"
+            },
+            {
+                "cinema": "Cines Golem",
+                "date": "2026-10-01",
+                "time": "22:15"
             }
         ]
     },
@@ -6477,16 +6498,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-09-25",
-                "time": "22:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-26",
-                "time": "22:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
                 "date": "2026-09-27",
                 "time": "20:00"
             }
@@ -6516,12 +6527,6 @@ const movies = [
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-01",
-                "time": "15:45",
-                "version": "Embajadores río"
-            }
         ]
     },
     {
@@ -6838,14 +6843,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Un bondadoso cristalero vagabundo adopta a un bebé abandonado por su madre en un coche de lujo. Cinco años después, el niño se ha convertido en su entrañable cómplice en pequeñas pillerías para sobrevivir en los suburbios, hasta que un giro inesperado amenaza con separarlos. (Proyección especial con música de piano en directo interpretada por Federico Lechner).",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-26",
-                "time": "18:00",
-                "version": "Cine mudo con piano en directo (Federico Lechner)"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "poder-malefico-1974",
@@ -6967,11 +6965,6 @@ const movies = [
         ],
         "synopsis": "Patrick es un paciente en estado de coma profundo tras matar a su madre y al amante de esta. Ingresado en una clínica privada aislada dirigida por un médico de métodos cuestionables, una joven enfermera comienza a notar que Patrick es capaz de comunicarse mediante la mente y desatar una poderosa y letal energía telequinética contra todo aquel que se acerque a ella.",
         "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-26",
-                "time": "22:00"
-            },
             {
                 "cinema": "Artistic Metropol",
                 "date": "2026-09-29",
@@ -7559,6 +7552,128 @@ const movies = [
                 "date": "2026-10-15",
                 "time": "20:30",
                 "version": "Coloquio con Rodrigo Sorogoyen y Eduardo de Vicente"
+            }
+        ]
+    },
+    {
+        "id": "re-animator-1985",
+        "title": "Re-Animator",
+        "originalTitle": "Re-Animator",
+        "poster": "images/re-animator.jpg",
+        "director": "Stuart Gordon",
+        "cast": [
+            "Jeffrey Combs",
+            "Bruce Abbott",
+            "Barbara Crampton",
+            "David Gale",
+            "Robert Sampson"
+        ],
+        "year": 1985,
+        "duration": 84,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Comedia negra",
+            "Ciencia ficción",
+            "Culto"
+        ],
+        "synopsis": "Herbert West, un brillante y megalómano estudiante de medicina con teorías más que cuestionables sobre la reanimación de tejidos muertos, se muda a la Universidad de Miskatonic. Allí convence a su compañero de piso para probar su suero fluorescente experimental con cadáveres humanos, desatando una espiral de desastres grotescos, hilarantes y sanguinolentos.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-29",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "el-arreglo-1983",
+        "title": "El arreglo",
+        "originalTitle": "El arreglo",
+        "poster": "images/el-arreglo.jpg",
+        "director": "José Antonio Zorrilla",
+        "cast": [
+            "Eusebio Poncela",
+            "Julián Mateos",
+            "Ovidi Montllor",
+            "Charo López",
+            "Agustín González"
+        ],
+        "year": 1983,
+        "duration": 103,
+        "country": "España",
+        "genres": [
+            "Thriller",
+            "Cine negro",
+            "Drama"
+        ],
+        "synopsis": "Un hombre se ve involucrado en una trama de chanchullos, corrupción y negocios oscuros en los bajos fondos, intentando resolver una situación personal y económica compleja mientras los intereses que le rodean complican cada uno de sus pasos.",        
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-09",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "a-tiro-limpio-1963",
+        "title": "A tiro limpio",
+        "originalTitle": "A tiro limpio",
+        "poster": "images/a-tiro-limpio.jpg",
+        "director": "Francisco Pérez-Dolz",
+        "cast": [
+            "José Suárez",
+            "Luis Peña",
+            "Cándida Losada",
+            "Antonio Casas",
+            "Carlos Otero"
+        ],
+        "year": 1963,
+        "duration": 86,
+        "country": "España",
+        "genres": [
+            "Cine negro",
+            "Thriller",
+            "Crimen"
+        ],
+        "synopsis": "Para crear una banda profesional de atracadores en Barcelona, Martín y el francés Antoine se ponen en contacto con Román para que les consiga armas y un cuarto miembro. Mientras Marisa, la novia de Román, busca cambiar de vida sin éxito, Román intenta convencer a Jordi 'el Picas', un antiguo atracador que trabaja en una masía, para que se una al grupo.",        
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-10",
+                "time": "19:00"
+            }
+        ]
+    },
+{
+        "id": "a-tiro-limpio-1996",
+        "title": "A tiro limpio",
+        "originalTitle": "A tiro limpio",
+        "poster": "images/a-tiro-limpio-1996.jpg",
+        "director": "Jesús Mora",
+        "cast": [
+            "Toni Cantó",
+            "Adolfo Fernández",
+            "Roman Lúknar",
+            "Luís Rodrigues",
+            "María Asquerino",
+            "Francesc Orella"
+        ],
+        "year": 1996,
+        "duration": 87,
+        "country": "España",
+        "genres": [
+            "Thriller",
+            "Cine negro"
+        ],
+        "synopsis": "Rozando la treintena, Román quiere cambiar su vida. Sueña con comprarse un barco velero y navegar con su actual pareja. Pero lo que parece imposible cambiará cuando se reencuentre con su viejo amigo Martín. Martín tiene un nuevo plan para ganar mucho dinero, como ya ocurrió algunos años atrás sin éxito alguno… Esta vez Román y Martín piensan que será diferente.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-10",
+                "time": "21:00",
+                "version": "Versión original"
             }
         ]
     }
