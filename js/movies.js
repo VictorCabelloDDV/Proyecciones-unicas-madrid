@@ -333,7 +333,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Un reconocido cineasta recuerda su infancia en un pueblo siciliano, donde nació su pasión por el cine gracias a Alfredo, el proyeccionista del cine local que se convirtió en su mentor y figura paterna.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-24",
+                "time": "17:30"
+            }
+        ]
     },
     {
         "id": "ciudad-de-dios",
@@ -578,7 +584,13 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Después de escapar de un extraño accidente, un adolescente comienza a tener visiones de una misteriosa figura con disfraz de conejo que parece conocer el futuro y le empuja hacia una serie de acontecimientos inquietantes.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-08",
+                "time": "22:30"
+            }
+        ]
     },
     {
         "id": "et",
@@ -652,6 +664,11 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-30",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-22",
+                "time": "17:30"
             }
         ]
     },
@@ -1125,7 +1142,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-08",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "isla-de-perros",
@@ -1508,14 +1531,19 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-28",
-                "time": "16:00",
+                "date": "2026-10-01",
+                "time": "22:35",
                 "version": "Embajadores río"
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-01",
-                "time": "22:35",
+                "date": "2026-10-02",
+                "time": "15:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-08",
+                "time": "16:00",
                 "version": "Embajadores río"
             }
         ]
@@ -1644,13 +1672,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Un pueblo campesino, amenazado por una banda de bandidos, contrata a siete samuráis para defenderlo. Entre ellos deberán preparar a los habitantes para resistir el inevitable ataque.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-09-28",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "memories",
@@ -1755,6 +1777,12 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-01",
                 "time": "22:30",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-08",
+                "time": "16:10",
                 "version": "Embajadores Río"
             }
         ]
@@ -2407,8 +2435,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-28",
-                "time": "16:00"
+                "date": "2026-10-08",
+                "time": "22:35"
             }
         ]
     }, 
@@ -4222,7 +4250,14 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Francia, 1770. Marianne, una pintora, recibe un encargo que consiste en realizar el retrato de bodas de Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-08",
+                "time": "22:35",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "copying-beethoven",
@@ -4268,14 +4303,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En la década de 1850, Ada, una mujer muda desde niña, viaja desde Escocia hasta Nueva Zelanda junto a su hija Flora y su piano para contraer un matrimonio concertado. Cuando su marido se niega a llevar el piano a casa y decide venderlo, Ada establece un particular acuerdo con George Baines, el hombre que lo ha comprado.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-28",
-                "time": "20:00",
-                "version": "Embajadores Rio"
-            }
-        ]
+        "screenings": []
     },
 //170
     {
@@ -4965,7 +4993,13 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Durante el verano, Miguel Ángel recorre distintas localidades proyectando películas al aire libre en 35 milímetros. Su oficio atraviesa un momento crítico debido a la inminente e implacable sustitución del celuloide tradicional por los nuevos sistemas de proyección digital.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-01",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "paisaje-despues-de-la-batalla-1970",
@@ -5030,13 +5064,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Lap, una joven que trabaja en un restaurante, se enamora de Rick, un joven vinculado al mundo del crimen. Cuando el padre de Lap, propietario del local, se ve obligado a colaborar con la policía, Rick debe huir de Hong Kong tras un peligroso enfrentamiento, marcando sus destinos por la lealtad y el peligro.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-27",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-desencanto-1976",
@@ -5154,7 +5182,13 @@ const movies = [
             "Crimen"
         ],
         "synopsis": "Obra maestra del cine de acción de Hong Kong dirigida por John Woo. Un sicario desilusionado acepta realizar un último trabajo para poder costear una costosa operación quirúrgica que devuelva la vista a una cantante a la que hirió accidentalmente por culpa de su oficio. Mientras intenta protegerla, un inspector de policía tenaz le sigue muy de cerca, forjando ambos una extraña y compleja relación de respeto mutuo al margen de la ley.",
-        "screenings": []
+        "screenings": [
+            {
+            "cinema": "Cine Doré",
+            "date": "2026-10-03",
+            "time": "20:00"
+            }
+        ]
     },
     {
         "id": "el-hombre-de-marmol-1977",
@@ -5175,7 +5209,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En la Polonia de los años setenta, una joven estudiante de cine realiza un documental sobre Mateusz Birkut, un albañil que en la década de 1950 fue aclamado como héroe del trabajo socialista y estajanovista, pero que posteriormente cayó en desgracia y fue marginado por el régimen. A través de su investigación, destapa las contradicciones y los abusos del sistema político comunista.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-21",
+                "time": "19:00"
+            }
+        ]
     },
 //210
     {
@@ -5208,15 +5248,30 @@ const movies = [
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-27",
-                "time": "22:35",
+                "date": "2026-09-30",
+                "time": "17:40",
                 "version": "Embajadores Río"
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-30",
-                "time": "17:40",
+                "date": "2026-10-02",
+                "time": "23:10",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-04",
+                "time": "22:35"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-07",
+                "time": "15:45"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-11",
+                "time": "20:00"
             }
         ]
     },
@@ -5259,7 +5314,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Jorge, un cinéfilo empedernido que ha trabajado durante veinticinco años en la Cinemateca Uruguaya, se ve obligado a reinventar su vida cuando la institución atraviesa una profunda crisis económica y se plantea su cierre definitivo, empujándolo a descubrir el mundo exterior más allá de las paredes de la sala de proyección.",
-        "screenings": []
+        "screenings": [
+            {
+            "cinema": "Cine Doré",
+            "date": "2026-10-03",
+            "time": "19:00"
+            }
+        ]
     },
     {
         "id": "cien-ninos-esperando-un-tren-1988",
@@ -5298,7 +5359,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Ambientada a principios del siglo XX, la película narra el enlace matrimonial entre un intelectual de la burguesía de Cracovia y una joven de origen campesino. A la celebración acude una heterogénea concurrencia que representa a todas las clases sociales de la Polonia de la época. Entre bailes, alcohol y discusiones, la fiesta se transforma en un profundo y fantasmagórico examen sobre la identidad nacional, la historia y los traumas políticos del país.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-08",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "padre-nuestro-1985",
@@ -5351,6 +5418,11 @@ const movies = [
                 "cinema": "Cine Doré",
                 "date": "2026-09-30",
                 "time": "19:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-07",
+                "time": "17:30"
             }
         ]
     },
@@ -6272,7 +6344,7 @@ const movies = [
         "synopsis": "Un viaje visual y narrativo a través de la vida y obra de Tiziano Vecellio, maestro indiscutible del Renacimiento veneciano. La película explora su dominio sin igual del color, su fulgurante éxito comercial en la Europa de la época y su capacidad para revolucionar la pintura mediante la luz y la pincelada.",
         "screenings": []
     },
-{
+    {
         "id": "mientras-el-cuerpo-aguante-1982",
         "title": "Chicho o mientras el cuerpo aguante",
         "originalTitle": "Chicho o mientras el cuerpo aguante",
@@ -6305,31 +6377,6 @@ const movies = [
                 "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
                 "date": "2026-10-02",
                 "time": "17:00"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-27",
-                "time": "20:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-27",
-                "time": "22:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-28",
-                "time": "16:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-28",
-                "time": "20:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-28",
-                "time": "22:15"
             },
             {
                 "cinema": "Cines Golem",
@@ -6495,13 +6542,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Un acontecimiento fortuito y violento despierta en la protagonista recuerdos hasta ahora ocultos en su memoria. Al huir y volver a su origen, descubrirá que su madre, que la abandonó en el momento más difícil, es la única que puede ayudarla a salir del laberinto en el que se ha metido.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-27",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cabeza-borradora-1977",
@@ -6527,6 +6568,17 @@ const movies = [
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
         "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-05",
+                "time": "16:00",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-07",
+                "time": "15:45"
+            }
         ]
     },
     {
@@ -6899,11 +6951,6 @@ const movies = [
         ],
         "synopsis": "Años después de los extraños sucesos provocados por Patrick, un paciente en estado de coma que posee aterradores poderes mentales y telequinéticos, una misteriosa clínica privada acoge a un nuevo caso sospechoso. Pronto, una serie de muertes violentas y sádicas comienzan a sucederse entre el personal y los pacientes, demostrando que la mente de Patrick sigue muy activa y sedienta de venganza.",
         "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-27",
-                "time": "22:15"
-            },
             {
                 "cinema": "Artistic Metropol",
                 "date": "2026-10-01",
@@ -7674,6 +7721,1512 @@ const movies = [
                 "date": "2026-10-10",
                 "time": "21:00",
                 "version": "Versión original"
+            }
+        ]
+    },
+    {
+        "id": "canino-2009",
+        "title": "Canino",
+        "originalTitle": "Kynodontas",
+        "poster": "images/canino.jpg",
+        "director": "Yorgos Lanthimos",
+        "cast": [
+            "Christos Stergioglou",
+            "Michele Valley",
+            "Aggela Papaselia",
+            "Hristos Passalis",
+            "Marianna Tsoni",
+            "Mary Tsoni"
+        ],
+        "year": 2009,
+        "duration": 94,
+        "country": "Grecia",
+        "genres": [
+            "Drama",
+            "Thriller psicológico",
+            "Cine de autor"
+        ],
+        "synopsis": "Un matrimonio y sus tres hijos viven en una mansión rodeada por una gran valla. Los hijos nunca han salido de la propiedad y sus padres los educan bajo sus propias reglas y un vocabulario inventado, aislándolos por completo de la realidad exterior hasta que un día una grieta en su sistema empieza a alterar la dinámica familiar.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-05",
+                "time": "16:00",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-07",
+                "time": "15:00",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "los-brujos-inocentes-1960",
+        "title": "Los brujos inocentes",
+        "originalTitle": "Niewinni czarodzieje",
+        "poster": "images/los-brujos-inocentes.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "Tadeusz Łomnicki",
+            "Krystyna Stypułkowska",
+            "Wanda Koczeska",
+            "Kalina Jędrusik",
+            "Roman Polanski",
+            "Jerzy Skolimowski"
+        ],
+        "year": 1960,
+        "duration": 87,
+        "country": "Polonia",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Cine de autor"
+        ],
+        "synopsis": "Un joven médico deportista y una enigmática muchacha se conocen fortuitamente en un club de jazz de Varsovia durante una noche. A lo largo de las horas siguientes, ambos entablan un juego de seducción, ambigüedad y ocultamiento mutuo, reflejando las inquietudes y la mentalidad de la juventud urbana contemporánea.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-01",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-29",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "maspalomas-2025",
+        "title": "Maspalomas",
+        "originalTitle": "Maspalomas",
+        "poster": "images/maspalomas.jpg",
+        "director": "Jose Mari Goenaga",
+        "cast": [
+            "José Ramón Soroiz",
+            "Nagore Aranburu",
+            "Kandido Uranga"
+        ],
+        "year": 2025,
+        "duration": 115,
+        "country": "España",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Vicente es un septuagenario que disfruta de su jubilación viviendo en Maspalomas, Gran Canaria. Cuando sufre un ictus será trasladado a San Sebastián, en donde vive su hija Nerea, pero, como necesita muchos cuidados, su hija decide ingresarlo en una residencia. Allí Vicente decide ocultar su condición de homosexual, lo que no será fácil, especialmente con su extrovertido compañero de habitación.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-01",
+                "time": "20:00",
+                "version": "Presentación y coloquio con Aitor Arregi, Luis Freijo y Belén Vidal"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-15",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "vidas-errantes-1984",
+        "title": "Vidas errantes",
+        "originalTitle": "Vidas errantes",
+        "poster": "images/vidas-errantes.jpg",
+        "director": "Juan Antonio de la Riva",
+        "cast": [
+            "Salvador Sánchez",
+            "Patricia Reyes Spíndola",
+            "David Anguiano",
+            "Juan Salas",
+            "Josefina Echánove"
+        ],
+        "year": 1984,
+        "duration": 90,
+        "country": "México",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Un hombre recorre los pueblos de la sierra de Durango junto a su familia, cargando con un proyector de cine de 16 mm para ofrecer funciones ambulantes en plazas y salones parroquiales. La película muestra la vida cotidiana de esta familia y su relación con las comunidades que visitan a través del cine.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-02",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-14",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "katyn-2007",
+        "title": "Katyń",
+        "originalTitle": "Katyń",
+        "poster": "images/katyn.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "Andrzej Chyra",
+            "Maja Ostaszewska",
+            "Artur Żmijewski"
+        ],
+        "year": 2007,
+        "duration": 122,
+        "country": "Polonia",
+        "genres": [
+            "Drama",
+            "Bélico",
+            "Histórico"
+        ],
+        "synopsis": "En 1940, al inicio de la Segunda Guerra Mundial, miles de oficiales polacos hechos prisioneros por el ejército soviético son ejecutados en el bosque de Katyn. Wajda narra la masacre y sus décadas de silenciamiento desde el punto de vista de las mujeres que esperaron en vano el regreso de sus maridos e hijos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-02",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-11",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "sombras-en-el-paraiso-1986",
+        "title": "Sombras en el paraíso",
+        "originalTitle": "Varjoja paratiisissa",
+        "poster": "images/sombras-en-el-paraiso.jpg",
+        "director": "Aki Kaurismäki",
+        "cast": [
+            "Matti Pellonpää",
+            "Kati Outinen",
+            "Sakari Kuosmanen"
+        ],
+        "year": 1986,
+        "duration": 74,
+        "country": "Finlandia",
+        "genres": [
+            "Comedia romántica",
+            "Drama"
+        ],
+        "synopsis": "Nikander es un basurero, tímido y silencioso, que conduce un camión. Illona es una cajera de supermercado, con ambiciones y carácter, pero que no ha tenido suerte en la vida y ha perdido sus trabajos anteriores. Ambos se conocerán. Surgirá el amor y quién sabe si la felicidad.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-02",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "up-2009",
+        "title": "Up",
+        "originalTitle": "Up",
+        "poster": "images/up.jpg",
+        "director": "Pete Docter",
+        "cast": [
+            "Edward Asner",
+            "Jordan Nagai",
+            "Christopher Plummer",
+            "John Ratzenberger",
+            "Delroy Lindo"
+        ],
+        "year": 2009,
+        "duration": 96,
+        "country": "Estados Unidos",
+        "genres": [
+            "Animación",
+            "Aventuras",
+            "Comedia dramática"
+        ],
+        "synopsis": "Carl Fredricksen es un vendedor de globos jubilado de 78 años que, dispuesto a cumplir una promesa hecha a su difunta esposa, ata miles de globos a su casa y vuela hacia Sudamérica en busca de las Cataratas del Paraíso. Sin embargo, descubre demasiado tarde que viaja acompañado involuntariamente por Russell, un optimista niño explorador de ocho años.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-03",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "fin-de-la-jornada-1939",
+        "title": "Fin de jornada",
+        "originalTitle": "La Fin du jour",
+        "poster": "images/fin-de-la-jornada.jpg",
+        "director": "Julien Duvivier",
+        "cast": [
+            "Michel Simon",
+            "Victor Francen",
+            "Jules Raimu",
+            "Madeleine Ozeray",
+            "Pierre Magnier"
+        ],
+        "year": 1939,
+        "duration": 105,
+        "country": "Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "En un asilo subvencionado para actores teatrales retirados y sin recursos conviven varios veteranos de la escena que, alejados de los escenarios, continúan representando los papeles de su juventud, alimentando rivalidades del pasado y enfrentándose al olvido con dignidad y melancolía.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-04",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "allemagne-annee-90-neuf-zero-1991",
+        "title": "Allemagne année 90 neuf zéro",
+        "originalTitle": "Allemagne année 90 neuf zéro",
+        "poster": "images/allemagne-annee-90.jpg",
+        "director": "Jean-Luc Godard",
+        "cast": [
+            "Eddie Constantine",
+            "Hanns Zischler",
+            "Claudia Michelsen"
+        ],
+        "year": 1991,
+        "duration": 62,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Cine ensayo"
+        ],
+        "synopsis": "Recién caído el Muro de Berlín, el agente secreto Lemmy Caution —treinta años infiltrado como topo en Berlín Este— vaga sin rumbo por un país que ya no necesita espías, cruzando una Alemania reunificada sembrada de fantasmas de su propia historia. Godard reencuentra así, veintiséis años después de Alphaville, al mismo personaje interpretado por un envejecido Eddie Constantine, en la que sería su última actuación.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-04",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-10",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "esa-pareja-feliz-1951",
+        "title": "Esa pareja feliz",
+        "originalTitle": "Esa pareja feliz",
+        "poster": "images/esa-pareja-feliz.jpg",
+        "director": "Juan Antonio Bardem y Luis García Berlanga",
+        "cast": [
+            "Fernando Fernán Gómez",
+            "Elvira Quintillá",
+            "Félix Fernández",
+            "Antonio Riquelme",
+            "José Luis Ozores"
+        ],
+        "year": 1951,
+        "duration": 88,
+        "country": "España",
+        "genres": [
+            "Comedia dramática",
+            "Costumbrismo"
+        ],
+        "synopsis": "Juan, un modesto electricista de cine, y su esposa Carmen malviven en Madrid con grandes dificultades económicas. Un día, tras una serie de enredos fortuitos, son elegidos como «la pareja feliz» del año, lo que les concede una serie de regalos y premios de la época. Sin embargo, antes de poder disfrutarlos, tendrán que superar una jornada caótica y repleta de imprevistos que pondrá a prueba su relación y sus aspiraciones.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-06",
+                "time": "17:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-06",
+                "time": "18:25"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-06",
+                "time": "19:50"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-06",
+                "time": "21:15"
+            }
+        ]
+    },
+    {
+        "id": "el-inquilino-1958",
+        "title": "El inquilino",
+        "originalTitle": "El inquilino",
+        "poster": "images/el-inquilino.jpg",
+        "director": "José Antonio Nieves Conde",
+        "cast": [
+            "Fernando Fernán Gómez",
+            "María Rosa Salgado",
+            "Dieter Glasse",
+            "José Marco Davó",
+            "Aníbal Vela"
+        ],
+        "year": 1958,
+        "duration": 85,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine negro"
+        ],
+        "synopsis": "Don Pablo, un modesto empleado de banca con una numerosa familia, sufre un auténtico calvario cuando el propietario del piso de alquiler donde vive decide echarle. A partir de ese momento, y en medio de una severa crisis de vivienda en Madrid, emprende una desesperada y angustiosa búsqueda por encontrar un nuevo hogar asequible mientras el desahucio se cierne sobre los suyos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-06",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "angustia-1947",
+        "title": "Angustia",
+        "originalTitle": "Angustia",
+        "poster": "images/angustia-1947.jpg",
+        "director": "José Antonio Nieves Conde",
+        "cast": [
+            "Rafael Luis Calvo",
+            "Manolo Morán",
+            "Mara Garcés",
+            "Jesús Tordesillas",
+            "Julia Lajos"
+        ],
+        "year": 1947,
+        "duration": 85,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine negro",
+            "Thriller psicológico"
+        ],
+        "synopsis": "Un drama psicológico de atmósfera opresiva donde los conflictos morales, la culpa y las tensiones entre los personajes desencadenan una espiral de inquietud y suspense al límite.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-06",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "restauraciones-recientes-manuel-perez-sala",
+        "title": "Restauraciones recientes: Cortometrajes de Manuel Pérez Sala",
+        "originalTitle": "Restauraciones recientes: Cortometrajes de Manuel Pérez Sala",
+        "poster": "images/restauraciones-manuel-perez-sala.jpg",
+        "director": "Manuel Pérez-Sala",
+        "cast": [
+            "Eugenio Cotallo"
+        ],
+        "year": 2025,
+        "duration": 80,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cortometrajes",
+            "Patrimonio cinematográfico"
+        ],
+        "synopsis": "Sesión especial de cortometrajes restaurados de Manuel Pérez Sala que incluye tres obras clave: 'Montehermoso, boda extremeña' (1957), un documental etnográfico sobre las costumbres y ritos tradicionales; 'Norba Caesarina' (1959), un paseo fílmico y comedia costumbrista por el casco antiguo de Cáceres; y 'Éxodo de salvación (Ntra. Señora de la Montaña)' (1954), recreación de la vida del ermitaño Francisco Paniagua considerada su obra más relevante.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-07",
+                "time": "19:00",
+                "version": "Presentación a cargo de Antonio Gil Aparicio"
+            }
+        ]
+    },
+    {
+        "id": "el-hombre-de-hierro-1981",
+        "title": "El hombre de hierro",
+        "originalTitle": "Człowiek z żelaza",
+        "poster": "images/el-hombre-de-hierro.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "Jerzy Radziwiłowicz",
+            "Krystyna Janda",
+            "Marian Opania"
+        ],
+        "year": 1981,
+        "duration": 156,
+        "country": "Polonia",
+        "genres": [
+            "Drama",
+            "Cine político",
+            "Histórico"
+        ],
+        "synopsis": "En el Gdansk de 1980, en plena huelga de los astilleros que dará origen al sindicato Solidaridad, el periodista Winkel recibe el encargo de elaborar un reportaje que desacredite a Maciek Tomczyk, uno de los líderes de la protesta.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-07",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-24",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "angustia-1987",
+        "title": "Angustia",
+        "originalTitle": "Angustia",
+        "poster": "images/angustia-1987-bigas.jpg",
+        "director": "Bigas Luna",
+        "cast": [
+            "Zelda Rubinstein",
+            "Michael Lerner",
+            "Àngels Gonyalons",
+            "Nat Simons",
+            "Gustavo Salmerón"
+        ],
+        "year": 1987,
+        "duration": 80,
+        "country": "España",
+        "genres": [
+            "Terror",
+            "Thriller psicológico",
+            "Cine dentro del cine"
+        ],
+        "synopsis": "Un psiquiatra somete a sus pacientes a técnicas de control mental mediante mensajes subliminales. Paralelamente, en la sala de un cine de barrio, un acomodador psicópata y sumiso a los deseos de su autoritaria madre comienza una espiral de crímenes sangrientos, creando una estructura narrativa en la que los espectadores de la película dentro de la pantalla se convierten en víctimas del terror.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-08",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-31",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "ariel-1988",
+        "title": "Ariel",
+        "originalTitle": "Ariel",
+        "poster": "images/ariel.jpg",
+        "director": "Aki Kaurismäki",
+        "cast": [
+            "Turo Pajala",
+            "Susanna Haavisto",
+            "Eetu Hilkamo",
+            "Matti Pellonpää",
+            "Erkki Pajala"
+        ],
+        "year": 1988,
+        "duration": 73,
+        "country": "Finlandia",
+        "genres": [
+            "Drama",
+            "Cine negro",
+            "Comedia dramática"
+        ],
+        "synopsis": "Tras el cierre de la mina en la que trabajaba y el trágico suicidio de su padre, un minero finlandés empaca sus pocas pertenencias en un descapotable blanco y emprende camino hacia Helsinki en busca de una nueva vida. En la capital, entre empleos precarios y una serie de desafortunados encuentros, conoce a una madre soltera con la que intentará trazar un plan de huida hacia un futuro mejor.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-08",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "la-edad-de-oro-1930",
+        "title": "La edad de oro",
+        "originalTitle": "L'Âge d'or",
+        "poster": "images/la-edad-de-oro.jpg",
+        "director": "Luis Buñuel",
+        "cast": [
+            "Gaston Modot",
+            "Lya Lys",
+            "Caridad de Laberdesque",
+            "Max Ernst",
+            "Pierre Prévert",
+            "Lionel Salem"
+        ],
+        "year": 1930,
+        "duration": 63,
+        "country": "Francia",
+        "genres": [
+            "Surrealismo",
+            "Drama",
+            "Cine de autor"
+        ],
+        "synopsis": "A través de una estructura episódica y onírica, la película narra los desesperados y frustrados intentos de un hombre y una mujer por consumar su amor en un entorno social hostil, plagado de hipocresía burguesa, convencionalismos morales e instituciones religiosas que obstaculizan su pasión.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-09",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "marlene-1984",
+        "title": "Marlene",
+        "originalTitle": "Marlene",
+        "poster": "images/marlene.jpg",
+        "director": "Maximilian Schell",
+        "cast": [
+            "Marlene Dietrich"
+        ],
+        "year": 1984,
+        "duration": 126,
+        "country": "Alemania Occidental",
+        "genres": [
+            "Documental",
+            "Biografía"
+        ],
+        "synopsis": "Documental sobre la mítica actriz y cantante Marlene Dietrich. Reacia a dejarse filmar en su vejez, la propia Dietrich colabora en el proyecto únicamente a través de su voz, entablando un complejo duelo dialéctico con el director Maximilian Schell mientras se repasan fragmentos de sus películas, grabaciones de archivo y los mitos de su carrera cinematográfica.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-09",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "el-director-de-orquesta-1980",
+        "title": "El director de orquesta",
+        "originalTitle": "Dyrygent",
+        "poster": "images/el-director-de-orquesta.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "John Gielgud",
+            "Krystyna Janda",
+            "Andrzej Seweryn"
+        ],
+        "year": 1980,
+        "duration": 101,
+        "country": "Polonia",
+        "genres": [
+            "Drama",
+            "Cine de autor"
+        ],
+        "synopsis": "Jan Lasocki, anciano director de orquesta polaco afincado en Nueva York desde hace cincuenta años, conoce en la ciudad a Marta, una joven violinista becada que resulta ser hija de la mujer que rompió su corazón. Su visita al pueblo natal de ambos para dirigir a la orquesta local —cuyo titular es el propio marido de Marta— remueve viejos amores y nuevos celos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-09",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-15",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "un-verano-en-casa-del-abuelo-1984",
+        "title": "Un verano en casa del abuelo",
+        "originalTitle": "Dong-dong de jia qi",
+        "poster": "images/un-verano-en-casa-del-abuelo.jpg",
+        "director": "Hou Hsiao-hsien",
+        "cast": [
+            "Chi-Kuang Wang",
+            "Shu-Chen Li",
+            "Bor-Jeng Chen"
+        ],
+        "year": 1984,
+        "duration": 97,
+        "country": "Taiwán",
+        "genres": [
+            "Drama",
+            "Cine de autor",
+            "Coming-of-age"
+        ],
+        "synopsis": "Un niño y su hermana son enviados a casa de sus abuelos para pasar con ellos una temporada, debido a que su madre está enferma. Los abuelos viven una vida tranquila en la campiña de Taiwán. Al principio la vida será difícil para los recién llegados, porque las relaciones con sus abuelos son tensas. Sin embargo, poco a poco las cosas cambiarán y pasarán unos días inolvidables.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-10",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "throw-down-2004",
+        "title": "Throw Down",
+        "originalTitle": "Yau doh lung fu bong",
+        "poster": "images/throw-down.jpg",
+        "director": "Johnnie To",
+        "cast": [
+            "Louis Koo",
+            "Aaron Kwok",
+            "Cherrie Ying",
+            "Tony Leung Ka-fai",
+            "Eddie Cheung"
+        ],
+        "year": 2004,
+        "duration": 95,
+        "country": "Hong Kong",
+        "genres": [
+            "Drama",
+            "Acción",
+            "Cine negro"
+        ],
+        "synopsis": "En el mundo de los clubs nocturnos, casas de apuestas y locales de karaoke de Hong Kong, un ex campeón de judo convertido en dueño de club, alcoholizado y hundido por las deudas, un joven aspirante que reta a cualquiera a pelear y una cantante que sueña con ser estrella terminan uniendo sus destinos. Entre ellos se teje una amistad que les ayudará a levantarse, una y otra vez, de sus propias caídas.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-10",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-18",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "cortometrajes-fernando-villaverde",
+        "title": "Cortometrajes (1963, 1964, 1972)",
+        "originalTitle": "Cortometrajes de Fernando Villaverde",
+        "poster": "images/cortometrajes-fernando-villaverde.jpg",
+        "director": "Fernando Villaverde",
+        "cast": [],
+        "year": 1972,
+        "duration": 90,
+        "country": "Cuba / Estados Unidos",
+        "genres": [
+            "Cortometrajes",
+            "Documental",
+            "Comedia romántica",
+            "Cine experimental"
+        ],
+        "synopsis": "Programa de cortometrajes de Fernando Villaverde que incluye tres obras: 'El parque' (1963), un retrato documental de la vida en el Parque Central de La Habana; 'Elena' (1964), comedia romántica ambientada en los últimos años de la dictadura de Batista sobre una joven que intenta reunirse con su amante revolucionario; y 'A Lady's Home Journal' (1972), un recorrido por la vida real y/o imaginaria de una mujer dentro de su casa.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-13",
+                "time": "17:30",
+                "version": "Presentación a cargo de Fernando y Miñuca Villaverde, moderada por José Luis Aparicio"
+            }
+        ]
+    },
+    {
+        "id": "danton-1983",
+        "title": "Danton",
+        "originalTitle": "Danton",
+        "poster": "images/danton.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "Gérard Depardieu",
+            "Wojciech Pszoniak",
+            "Anne Alliger",
+            "Patrice Chéreau",
+            "Roland Blanche"
+        ],
+        "year": 1983,
+        "duration": 136,
+        "country": "Francia / Polonia",
+        "genres": [
+            "Drama",
+            "Histórico",
+            "Cine político"
+        ],
+        "synopsis": "En la primavera de 1794, Georges Danton regresa a París encontrándose con un clima de terror y ejecuciones masivas impuesto por el Comité de Salvación Pública liderado por Robespierre. Defensor de la moderación y de frenar la sangría revolucionaria, Danton se enfrentará dialéctica y políticamente a su antiguo aliado en un duelo a muerte donde se debate el destino de la Revolución.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-13",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-20",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "restauraciones-cortometrajes-setenta",
+        "title": "Restauraciones recientes, cortometrajes de los 70",
+        "originalTitle": "Restauraciones recientes, cortometrajes de los 70",
+        "poster": "images/restauraciones-cortometrajes-70.jpg",
+        "director": "Varios autores",
+        "cast": [
+            "Manoel Bermúdez",
+            "Miguel A. Saavedra",
+            "María Vilanova",
+            "Xosé Mauriño"
+        ],
+        "year": 1977,
+        "duration": 120,
+        "country": "España",
+        "genres": [
+            "Cortometrajes",
+            "Cine gallego",
+            "Patrimonio cinematográfico"
+        ],
+        "synopsis": "Programa doble de cortometrajes restaurados de los años setenta que incluye cinco obras clave del cine gallego: 'Fendetestas' (1975) de Antonio F. Simón, sobre un salteador de caminos en los años cuarenta; 'Illa' (1975) de Carlos A. López Piñeiro, testimonio de una isla marinera transformada en complejo turístico; 'O herdeiro' (1976) de Miguel Gato, sobre el legado rural; 'O cadaleito' (1976) de Enrique Baixeras, una venganza cruel en el medio rural gallego; y 'O pai de Migueliño' (1977) de Miguel Castelo, la memoria de la emigración europea. Sesión precedida de presentación a cargo de Jaime Pena, director de Filmoteca de Galicia (CGAI).",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-14",
+                "time": "20:00",
+                "version": "Presentación a cargo de Jaime Pena"
+            }
+        ]
+    },
+    {
+        "id": "la-chica-de-la-fabrica-de-cerillas-1990",
+        "title": "La chica de la fábrica de cerillas",
+        "originalTitle": "Tulitikkutehtaan tyttö",
+        "poster": "images/la-chica-de-la-fabrica-de-cerillas.jpg",
+        "director": "Aki Kaurismäki",
+        "cast": [
+            "Kati Outinen",
+            "Elina Salo",
+            "Esko Nikkari",
+            "Vesa Vierikko",
+            "Reino Alestalo"
+        ],
+        "year": 1990,
+        "duration": 69,
+        "country": "Finlandia",
+        "genres": [
+            "Drama",
+            "Cine de autor"
+        ],
+        "synopsis": "Iris es una joven gris y silenciosa que trabaja en una cadena de montaje de una fábrica de cerillas. Vive con su madre y su padrastro, quienes la explotan económicamente y la tratan con absoluta indiferencia. Su vida transcurre en una monotonía desoladora hasta que, tras una noche en la que cree encontrar una vía de escape, decide trazar una fría y meticulosa venganza contra todos aquellos que la han pisoteado.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-14",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "twenty-four-eyes-1954",
+        "title": "Twenty-Four Eyes",
+        "originalTitle": "Nijūshi no hitomi",
+        "poster": "images/twenty-four-eyes.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Hideko Takamine",
+            "Yujiro Ishigaki",
+            "Shizuko Azuma",
+            "Takahiro Tamura",
+            "Banjun Togure"
+        ],
+        "year": 1954,
+        "duration": 156,
+        "country": "Japón",
+        "genres": [
+            "Drama",
+            "Cine bélico",
+            "Melodrama"
+        ],
+        "synopsis": "En 1928, una idealista y moderna maestra recién llegada a una remota isla japonesa comienza a dar clase a un grupo de doce niños de primer curso (sus veinticuatro ojos). A lo largo de las siguientes dos décadas, marcadas por la creciente sombra del militarismo y la Segunda Guerra Mundial, la profesora y sus alumnos experimentarán los drásticos cambios de la historia y el dolor de la separación, manteniendo un profundo vínculo afectivo a través de los años.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-15",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "afterimage-2016",
+        "title": "Afterimage",
+        "originalTitle": "Powidoki",
+        "poster": "images/afterimage.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "Bogusław Linda",
+            "Zofia Wichłacz",
+            "Bronisława Zamachowska",
+            "Aleksandra Justa",
+            "Szymon Bobrowski"
+        ],
+        "year": 2016,
+        "duration": 98,
+        "country": "Polonia",
+        "genres": [
+            "Drama",
+            "Biografía",
+            "Cine histórico"
+        ],
+        "synopsis": "A comienzos de los años cincuenta, el pintor vanguardista Władysław Strzemiński, profesor muy querido en la Escuela Superior de Bellas Artes de Łódź pese a haber perdido un brazo y una pierna en la guerra, se niega a plegarse al realismo socialista impuesto por el régimen estalinista. Su desafío le costará el puesto, la posibilidad de exponer y, finalmente, la vida.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-16",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-27",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "granny-project-2017",
+        "title": "Granny Project",
+        "originalTitle": "Granny Project",
+        "poster": "images/granny-project.jpg",
+        "director": "Bálint Révész",
+        "cast": [
+            "Ágnes Nemes",
+            "Carl Levinson",
+            "Judith Shillman",
+            "Bálint Révész"
+        ],
+        "year": 2017,
+        "duration": 89,
+        "country": "Hungría / Reino Unido",
+        "genres": [
+            "Documental",
+            "Road movie"
+        ],
+        "synopsis": "Tres nietos emprenden un viaje con sus respectivas abuelas. Se trata de un documental que es un viaje anárquico al pasado, una road movie en donde saldrán a relucir temas clásicos y cuestiones prohibidas. Brilla la madurez de las mujeres mayores y también se experimenta un proceso de madurez en los más jóvenes a la vez que se retrata el espíritu de la juventud actual.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-16",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "lo-que-queda-de-ti-2024",
+        "title": "Lo que queda de ti",
+        "originalTitle": "Lo que queda de ti",
+        "poster": "images/lo-que-queda-de-ti.jpg",
+        "director": "Gala Gracia",
+        "cast": [
+            "Laia Manzanares",
+            "Ángela Cervantes",
+            "Anna Tenta"
+        ],
+        "year": 2024,
+        "duration": 91,
+        "country": "España",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Sara está a punto de cumplir su sueño de grabar un disco de jazz en Nueva York. Pero cuando su padre muere se ve obligada a regresar a España, a su pueblo del pirineo. Allí se reunirá con su hermana para hacer frente a la herencia: una granja con su rebaño. Sara se siente culpable por su ausencia y está dispuesta a seguir la vida sencilla que tuvo su padre, aún a costa de renunciar a sus sueños.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-16",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "en-el-estanque-dorado-1981",
+        "title": "En el estanque dorado",
+        "originalTitle": "On Golden Pond",
+        "poster": "images/en-el-estanque-dorado.jpg",
+        "director": "Mark Rydell",
+        "cast": [
+            "Henry Fonda",
+            "Katharine Hepburn",
+            "Jane Fonda",
+            "Doug McKeon",
+            "Dabney Coleman"
+        ],
+        "year": 1981,
+        "duration": 109,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Comedia dramática",
+            "Cine familiar"
+        ],
+        "synopsis": "Norman Thayer es un profesor retirado, cascarrabias y con problemas de memoria, que pasa el verano junto a su esposa Ethel en su casa de la oruga de un lago en Nueva England. La apacible rutina estival se altera con la llegada de su hija Chelsea, quien acude a dejar al hijo de su nuevo novio mientras ellos viajan a Europa, lo que obligará a padre e hija a enfrentarse a sus viejas asperezas y desencuentros pendientes.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-17",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "cuando-cae-el-otono-2024",
+        "title": "Cuando cae el otoño",
+        "originalTitle": "Quand vient l'automne",
+        "poster": "images/cuando-cae-el-otono.jpg",
+        "director": "François Ozon",
+        "cast": [
+            "Hélène Vincent",
+            "Josiane Balasko",
+            "Ludivine Sagnier",
+            "Pierre Lottin"
+        ],
+        "year": 2024,
+        "duration": 102,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Thriller psicológico"
+        ],
+        "synopsis": "Michelle, una mujer anciana y respetada, disfruta de su jubilación en un tranquilo pueblo borgoñón junto a su amiga Marie-Claude. Su apacible rutina se ve alterada cuando recibe la visita de su hija Valérie y de su nieto coincidiendo con el inicio de la temporada de caza, desenterrando viejos reproches, secretos inconfesables y una serie de tensiones ocultas que pondrán a prueba sus vínculos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-17",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "las-senoritas-de-wilko-1979",
+        "title": "Las señoritas de Wilko",
+        "originalTitle": "Panny z Wilka",
+        "poster": "images/las-senoritas-de-wilko.jpg",
+        "director": "Andrzej Wajda",
+        "cast": [
+            "Daniel Olbrychski",
+            "Anna Seniuk",
+            "Maja Komorowska",
+            "Krystyna Janda",
+            "Stanisława Celińska"
+        ],
+        "year": 1979,
+        "duration": 116,
+        "country": "Polonia",
+        "genres": [
+            "Drama",
+            "Cine de autor",
+            "Romántico"
+        ],
+        "synopsis": "A finales de la década de 1920, Viktor Wiktor es enviado a administrar una granja y decide visitar la finca de Wilko, un lugar donde pasó los felices veranos de su juventud y conoció a cinco hermanas. Su regreso, quince años después de la Primera Guerra Mundial y tras la muerte de una de ellas, remueve los afectos del pasado y despierta en las hermanas fantasías, reproches y nostalgias de un tiempo que ya no volverá.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-17",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-28",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "meseta-2019",
+        "title": "Meseta",
+        "originalTitle": "Meseta",
+        "poster": "images/meseta.jpg",
+        "director": "Juan Palacios",
+        "cast": [],
+        "year": 2019,
+        "duration": 89,
+        "country": "España",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "En algún lugar de la meseta española, un pastor de ovejas sueña con viajar al Titicaca, un dúo musical retirado recuerda su época dorada, dos niñas buscan pokémons sin suerte y un abuelo recuenta las casas vacías del pueblo para quedarse dormido. Los protagonistas de esta película configuran un mapa para navegar por el pasado, el presente y el futuro del medio rural y de un estilo de vida que parece desvanecerse en el tiempo.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-18",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-30",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "el-rio-fuefuki-1960",
+        "title": "El río Fuefuki",
+        "originalTitle": "Fuefukigawa",
+        "poster": "images/el-rio-fuefuki.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Takahiro Tamura",
+            "Kosuke Nozoe",
+            "Hideko Takamine",
+            "Shuji Oe",
+            "Shinji Tanaka"
+        ],
+        "year": 1960,
+        "duration": 118,
+        "country": "Japón",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Cine bélico"
+        ],
+        "synopsis": "A lo largo de cuatro generaciones, una familia campesina de la provincia de Kai vive a orillas del río Fuefuki mientras asiste a los devastadores conflictos bélicos que sacuden el Japón del periodo Sengoku, especialmente las campañas del clan Takeda. A través de los años, los hombres de la familia se ven abocados a marchar a la guerra, mientras las mujeres sufren el dolor de la pérdida y la crudeza de un destino marcado por la violencia.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-20",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-30",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "cortometrajes-minuca-villaverde",
+        "title": "Cortometrajes (1973-1981)",
+        "originalTitle": "Cortometrajes de Miñuca Villaverde",
+        "poster": "images/cortometrajes-minuca-villaverde.jpg",
+        "director": "Miñuca Villaverde",
+        "cast": [],
+        "year": 1981,
+        "duration": 74,
+        "country": "Estados Unidos / Cuba",
+        "genres": [
+            "Cortometrajes",
+            "Documental",
+            "Cine experimental"
+        ],
+        "synopsis": "Programa de cortometrajes de Miñuca Villaverde que incluye cuatro obras: 'To My Father' (1973), una carta visual de despedida a su padre exiliado en Texas y al país de origen; 'Blanca Putica (A Girl in Love)' (1973), codirigida junto a Fernando Villaverde sobre un crimen machista; 'Poor Cinderella, still ironing her husband shirt' (1978), ejercicio experimental a partir de descartes en celuloide; y 'Tent City' (1981), crónica documental sobre el campamento improvisado por los refugiados cubanos del Éxodo del Mariel en Miami.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-20",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "farewell-to-spring-1959",
+        "title": "Farewell to Spring",
+        "originalTitle": "Haru no yokan",
+        "poster": "images/farewell-to-spring.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Hideko Takamine",
+            "Keiji Sada",
+            "Bunjaku Hanabu",
+            "Chisué Ryû"
+        ],
+        "year": 1959,
+        "duration": 105,
+        "country": "Japón",
+        "genres": [
+            "Drama",
+            "Melodrama"
+        ],
+        "synopsis": "A través de las relaciones cotidianas y los silencios de una familia japonesa, la película retrata los conflictos íntimos, las expectativas sociales y los pequeños anhelos de sus protagonistas frente al inexorable paso del tiempo y los cambios en la sociedad nipona de la posguerra.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-21",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-27",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "torre-bela-1975",
+        "title": "Torre Bela",
+        "originalTitle": "Torre Bela",
+        "poster": "images/torre-bela.jpg",
+        "director": "Thomas Harlan",
+        "cast": [],
+        "year": 1975,
+        "duration": 107,
+        "country": "Portugal / Alemania occidental / Italia",
+        "genres": [
+            "Documental",
+            "Cine político",
+            "Cine histórico"
+        ],
+        "synopsis": "Crónica documental rodada sobre el terreno durante la Revolución de los Claveles en Portugal. La película sigue de cerca la histórica ocupación de la finca Torre Bela —perteneciente a los duques de Lafões— por parte de campesinos y jornaleros sin tierras apoyados por el Movimiento de las Fuerzas Armadas, quienes deciden colectivizar la propiedad y autogestionar la tierra en un ejercicio directo de transformación social.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-21",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-29",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "carmen-comes-home-1951",
+        "title": "Carmen Comes Home",
+        "originalTitle": "Karumen kokyō ni kaeru",
+        "poster": "images/carmen-comes-home.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Hideko Takamine",
+            "Takeshi Sakamoto",
+            "Shuji Sano",
+            "Kuniko Igawa",
+            "Keiji Sada"
+        ],
+        "year": 1951,
+        "duration": 86,
+        "country": "Japón",
+        "genres": [
+            "Comedia",
+            "Cine musical",
+            "Sátira"
+        ],
+        "synopsis": "Lily Carmen, una bailarina de striptease de Tokio, decide regresar triunfal y acompañada de su amiga artista a su pueblo natal en la zona rural de Japón. Su llegada provoca un enorme revuelo entre los aldeanos: mientras unos quedan escandalizados por sus modales modernos y atrevidos, otros intentan sacar provecho de su supuesta fama y sofisticación metropolitana, desatando una serie de enredos tan divertidos como reveladores.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-22",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-28",
+                "time": "19:00"
+            }
+        ]
+    },
+{
+        "id": "tierra-1930",
+        "title": "Tierra",
+        "originalTitle": "Zemlya",
+        "poster": "images/tierra.jpg",
+        "director": "Aleksandr Dovzhenko",
+        "cast": [
+            "Stepan Shkurat",
+            "Semyon Svashenko",
+            "Yuliya Solntseva"
+        ],
+        "year": 1930,
+        "duration": 95,
+        "country": "Unión Soviética",
+        "genres": [
+            "Drama",
+            "Cine mudo",
+            "Cine clásico"
+        ],
+        "synopsis": "Cuando un viejo campesino ucraniano se dispone a morir, su nieto Vasil decide proponer al colectivo de trabajadores que compren un tractor para, de esa manera, poder seguir cultivando la tierra sin depender de los terratenientes ni de las dificultades de la tierra. Sesión precedida de presentación a cargo de Marta García Larriu, directora de Another Way.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-22",
+                "time": "20:30",
+                "version": "Presentación a cargo de Marta García Larriu"
+            }
+        ]
+    },
+    {
+        "id": "un-amor-inmortal-1961",
+        "title": "Un amor inmortal",
+        "originalTitle": "Eien no hito",
+        "poster": "images/un-amor-inmortal.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Hideko Takamine",
+            "Tatsuya Nakadai",
+            "Akira Takarada",
+            "Keiji Sada",
+            "Chisué Ryû"
+        ],
+        "year": 1961,
+        "duration": 108,
+        "country": "Japón",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Melodrama"
+        ],
+        "synopsis": "Japón, años 30. Sadako y Heikichi son dos jóvenes campesinos profundamente enamorados cuyos planes de futuro se truncan cuando Sadako es obligada por su familia a casarse con el hijo del terrateniente local, un hombre déspota y desequilibrado. A lo largo de los años marcados por la guerra y los cambios sociales, el acoso implacable del marido y el dolor del amor prohibido desatarán una espiral de tragedia y venganza que perdurará décadas.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-23",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "ander-eta-yul-1988",
+        "title": "Ander eta Yul",
+        "originalTitle": "Ander eta Yul",
+        "poster": "images/ander-eta-yul.jpg",
+        "director": "Ana Díez",
+        "cast": [
+            "Miguel Munárriz",
+            "Isidoro Fernández",
+            "Carmen Pardo"
+        ],
+        "year": 1988,
+        "duration": 110,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine político"
+        ],
+        "synopsis": "Ander, excarcelado después de cumplir condena, vuelve a su casa paterna. El regreso le devuelve la nostalgia de una familia con la que había cortado cualquier tipo de relación y el paisaje urbano le sitúa ante un amor que llega a rozar. La vuelta le reencuentra con Yul, su mejor amigo, que probablemente le sustituyó en casa cuando él decidió marcharse. Sin embargo, la sociedad en la que viven les emplaza, sin que puedan hacer nada por impedirlo, ante un destino que se manifestará implacable. Sesión precedida de presentación a cargo de la directora Ana Díez y Joxean Fernández.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-23",
+                "time": "19:00",
+                "version": "Presentación a cargo de Ana Díez y Joxean Fernández"
+            }
+        ]
+    },
+    {
+        "id": "local-hero-1983",
+        "title": "Un tipo genial",
+        "originalTitle": "Local Hero",
+        "poster": "images/local-hero.jpg",
+        "director": "Bill Forsyth",
+        "cast": [
+            "Burt Lancaster",
+            "Peter Riegert",
+            "Denis Lawson",
+            "Fulton Mackay",
+            "Jenny Seagrove"
+        ],
+        "year": 1983,
+        "duration": 111,
+        "country": "Reino Unido",
+        "genres": [
+            "Comedia",
+            "Comedia dramática"
+        ],
+        "synopsis": "MacIntyre es un ambicioso y joven ejecutivo de una gran compañía petrolera en Houston que es enviado a un pequeño y pintoresco pueblo pesquero en la costa de Escocia. Su misión es comprar todo el territorio para construir una gigantesca refinería y una terminal petrolera. Sin embargo, a medida que se compenetra con los excéntricos y hospitalarios lugareños y se deja embriagar por la belleza y la tranquilidad del paisaje, sus prioridades y su visión del mundo empezarán a cambiar por completo.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-23",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "el-mal-no-existe-2023",
+        "title": "El mal no existe",
+        "originalTitle": "Aku wa sonzai shinai",
+        "poster": "images/el-mal-no-existe.jpg",
+        "director": "Ryusuke Hamaguchi",
+        "cast": [
+            "Hitoshi Omika",
+            "Ryo Nishikawa",
+            "Ryuji Kosaka",
+            "Ayaka Shibutani"
+        ],
+        "year": 2023,
+        "duration": 106,
+        "country": "Japón",
+        "genres": [
+            "Drama",
+            "Cine de autor"
+        ],
+        "synopsis": "Takumi y su hija pequeña viven en un apacible pueblo boscoso cercano a Tokio, manteniendo un estilo de vida profundamente conectado con los ciclos de la naturaleza. Su tranquilidad se ve amenazada cuando una empresa de Tokio planea construir un lujoso camping de caravanas en la zona, un proyecto que alterará el suministro de agua y el equilibrio ecológico del lugar, obligando a los representantes de la corporación a reunirse con los lugareños.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-24",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "el-duque-2020",
+        "title": "El duque",
+        "originalTitle": "The Duke",
+        "poster": "images/el-duque.jpg",
+        "director": "Roger Michell",
+        "cast": [
+            "Jim Broadbent",
+            "Helen Mirren",
+            "Fionn Whitehead",
+            "Anna Maxwell Martin",
+            "Matthew Goode"
+        ],
+        "year": 2020,
+        "duration": 96,
+        "country": "Reino Unido",
+        "genres": [
+            "Comedia",
+            "Comedia dramática",
+            "Basado en hechos reales"
+        ],
+        "synopsis": "En 1961, Kenton Bunton, un taxista jubilado de 60 años, robó el famoso retrato del duque de Wellington pintado por Goya de la Galería Nacional de Londres. Fue el primer y único robo en la historia de la pinacoteca. Keton envió cartas exigiendo un rescate bajo la condición de que el gobierno invirtiera más dinero en el cuidado de los ancianos y en la gratuidad de la televisión para los pensionistas, desencadenando una insólita y divertida persecución mediática y judicial.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-25",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "carmens-pure-love-1952",
+        "title": "Carmen's Pure Love",
+        "originalTitle": "Karumen junjō su",
+        "poster": "images/carmens-pure-love.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Hideko Takamine",
+            "Hiro Shiomi",
+            "Bunjaku Hanabu",
+            "Keiji Sada"
+        ],
+        "year": 1952,
+        "duration": 95,
+        "country": "Japón",
+        "genres": [
+            "Comedia",
+            "Cine musical",
+            "Sátira"
+        ],
+        "synopsis": "En esta nueva entrega centrada en la excéntrica bailarina Lily Carmen, la trama vuelve a incidir con ironía y ligereza en la fascinación y los malentendidos que provoca la modernidad occidental en la sociedad japonesa tradicional, combinando números musicales, enredos amorosos y una aguda crítica de las costumbres de la época.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-25",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "el-ultimo-1924",
+        "title": "El último",
+        "originalTitle": "Der letzte Mann",
+        "poster": "images/el-ultimo.jpg",
+        "director": "F.W. Murnau",
+        "cast": [
+            "Emil Jannings",
+            "Maly Delschaft",
+            "Max Hiller"
+        ],
+        "year": 1924,
+        "duration": 91,
+        "country": "Alemania",
+        "genres": [
+            "Drama",
+            "Cine mudo",
+            "Cine clásico"
+        ],
+        "synopsis": "Un anciano trabaja como portero en un lujoso hotel y siente un enorme orgullo por su empleo y, sobre todo, por el vistoso uniforme que representa su posición. En el humilde barrio donde vive, sus vecinos lo respetan precisamente por esa apariencia de autoridad y prestigio. Pero cuando sus superiores consideran que ya es demasiado mayor para desempeñar su tarea, lo relegan a trabajar como encargado de los lavabos. Incapaz de admitir su nueva situación ante quienes lo rodean, intenta mantener las apariencias.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-28",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "la-madrastra-1953",
+        "title": "La madrastra",
+        "originalTitle": "La madrastra",
+        "poster": "images/la-madrastra.jpg",
+        "director": "Roberto Gavaldón",
+        "cast": [
+            "Arturo de Córdova",
+            "María Elena Marqués",
+            "Marga López",
+            "Carlos López Moctezuma"
+        ],
+        "year": 1953,
+        "duration": 95,
+        "country": "México",
+        "genres": [
+            "Cine negro",
+            "Drama",
+            "Thriller"
+        ],
+        "synopsis": "Un complejo y sombrío relato de pasiones ocultas, celos y tensiones familiares en el que la llegada de una nueva figura materna a un hogar altera por completo la convivencia, desatando una atmósfera opresiva en la que los secretos del pasado y la culpa terminan por aflorar de manera implacable.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-29",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "la-novia-cadáver-2005",
+        "title": "La novia cadáver",
+        "originalTitle": "Corpse Bride",
+        "poster": "images/la-novia-cadaver.jpg",
+        "director": "Tim Burton",
+        "cast": [
+            "Johnny Depp",
+            "Helena Bonham Carter",
+            "Emily Watson",
+            "Tracey Ullman",
+            "Paul Whitehouse"
+        ],
+        "year": 2005,
+        "duration": 77,
+        "country": "Reino Unido / Estados Unidos",
+        "genres": [
+            "Animación",
+            "Fantasía",
+            "Romántico",
+            "Musical"
+        ],
+        "synopsis": "En un lúgubre pueblo de la época victoriana, Victor, un joven tímido e inseguro, ensaya nervioso los votos de su boda con Victoria, la joven de la que está enamorado y con quien sus padres planean casarle por conveniencia social. Al huir al bosque tras equivocarse en el ensayo, coloca por error el anillo de compromiso en una rama que resulta ser el dedo esquelético de Emily, una novia asesinada en su noche de bodas. Victor es arrastrado de repente al inframundo, un reino lleno de color y alegría macabra, donde se verá atrapado entre dos mundos.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-31",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "the-rocky-horror-picture-show-1975",
+        "title": "The Rocky Horror Picture Show",
+        "originalTitle": "The Rocky Horror Picture Show",
+        "poster": "images/the-rocky-horror-picture-show.jpg",
+        "director": "Jim Sharman",
+        "cast": [
+            "Tim Curry",
+            "Susan Sarandon",
+            "Barry Bostwick",
+            "Richard O'Brien",
+            "Meat Loaf",
+            "Patricia Quinn"
+        ],
+        "year": 1975,
+        "duration": 100,
+        "country": "Reino Unido / Estados Unidos",
+        "genres": [
+            "Musical",
+            "Comedia",
+            "Ciencia ficción",
+            "Cine de culto"
+        ],
+        "synopsis": "Una formal y recién comprometida pareja de jóvenes americanos, Brad y Janet, sufre una avería en su coche durante una tormenta nocturna. Buscando ayuda, llegan a un lúgubre y aislado castillo habitado por el excéntrico y seductor científico alienígena Dr. Frank-N-Furter. Allí se celebra una convención científica anual donde el doctor está a punto de dar vida a su última creación: un hombre musculoso y rubio llamado Rocky. La noche se convertirá en un viaje salvaje, liberador y lleno de excesos musicales que cambiará sus vidas para siempre.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-10-31",
+                "time": "20:00"
             }
         ]
     }
