@@ -67,12 +67,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-30",
-                "time": "20:00",
-                "version": "Doblada al español"
             }
         ]
     },
@@ -848,13 +842,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Durante la Guerra Civil estadounidense, un maquinista confederado intenta recuperar su locomotora, robada por espías de la Unión, mientras trata de rescatar también a la mujer que ama.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-09-29",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-silencio-de-los-corderos",
@@ -1544,6 +1532,12 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-08",
                 "time": "16:00",
+                "version": "Embajadores río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-06",
+                "time": "15:30",
                 "version": "Embajadores río"
             }
         ]
@@ -4922,13 +4916,7 @@ const movies = [
             "Fantasía"
         ],
         "synopsis": "Un joven cinéfilo recibe una entrada mágica que le permite entrar en la película de acción protagonizada por su héroe, Jack Slater. Juntos deberán impedir que un peligroso villano escape al mundo real y desate el caos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-30",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "un-lugar-en-el-mundo-1992",
@@ -5105,13 +5093,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En una vieja y decadente sala de cine de Taipéi que se dispone a cerrar definitivamente sus puertas, se proyecta una última sesión de un clásico de las artes marciales. Mientras fuera cae una intensa lluvia, un puñado de solitarios espectadores y los empleados del cine deambulan por los pasillos y butacas en una melancólica despedida a una época dorada de la gran pantalla.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-29",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-cameraman-1928",
@@ -5153,13 +5135,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "A finales del siglo XIX en la industrializada ciudad polaca de Łódź, tres jóvenes amigos de diferentes orígenes —un polaco, un alemán y un judío— se asocian con el propósito de construir una gran fábrica textil y amasar una fortuna durante el vertiginoso boom capitalista, enfrentándose a un entorno implacable marcado por la ambición, la explotación y la pérdida de valores éticos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-29",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-killer-1989",
@@ -5242,18 +5218,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-09-29",
-                "time": "22:20",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-09-30",
-                "time": "17:40",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-10-02",
                 "time": "23:10",
                 "version": "Embajadores Río"
@@ -5272,6 +5236,12 @@ const movies = [
                 "cinema": "Cine Doré",
                 "date": "2026-10-11",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-06",
+                "time": "22:55",
+                "version": "Embajadores Río"
             }
         ]
     },
@@ -5386,13 +5356,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "A un cardenal español le diagnostican una enfermedad incurable y decide abandonar Roma para regresar a España antes de morir. Su principal obsesión es dejarlo todo en orden y conseguir legitimar a su hija —que trabaja como prostituta de lujo—, para lo cual urde un insólito plan: convencer a su hermano, un ateo convencido, de que se case con ella.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-30",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "comrades-almost-a-love-story-1996",
@@ -5414,11 +5378,6 @@ const movies = [
         ],
         "synopsis": "A finales de la década de 1980, Xiaojun llega a Hong Kong desde la China continental con el objetivo de ganar suficiente dinero para casarse con su novia de toda la vida. Poco después de instalarse, conoce a Qiao, una ambiciosa joven que también intenta prosperar en la gran ciudad. La relación entre ambos evoluciona de la amistad al amor a lo largo de los años, marcada por las idas y venidas, el destino y la música de Teresa Teng.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-09-30",
-                "time": "19:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-10-07",
@@ -6097,13 +6056,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Un trágico accidente automovilístico en la Ciudad de México entrelaza las vidas de tres personas de diferentes estratos sociales: un joven que se involucra en peleas de perros para escapar con la novia de su hermano, un modelo maduro cuya vida cambia tras el choque, y un exguerrillero convertido en asesino a sueldo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-29",
-                "time": "18:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "gatos-encaramados-chats-perches",
@@ -6369,44 +6322,8 @@ const movies = [
             },
             {
                 "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
-                "date": "2026-09-30",
-                "time": "17:00",
-                "version": "Precio Reducido"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
                 "date": "2026-10-02",
                 "time": "17:00"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-29",
-                "time": "16:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-29",
-                "time": "20:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-29",
-                "time": "22:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-30",
-                "time": "16:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-30",
-                "time": "20:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-09-30",
-                "time": "22:15"
             },
             {
                 "cinema": "Cines Golem",
@@ -6681,12 +6598,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Sala Berlanga",
-                "date": "2026-09-29",
-                "time": "19:00",
-                "version": "Coloquio posterior (Inés París, Manuel Gutiérrez Aragón y Fernando Lara)"
-            },
-            {
-                "cinema": "Sala Berlanga",
                 "date": "2026-10-03",
                 "time": "20:30"
             }
@@ -6714,13 +6625,7 @@ const movies = [
             "Histórico"
         ],
         "synopsis": "Madrid, primavera de 1766. Leopoldo de Gregorio, marqués de Esquilache y ministro reformista de Carlos III, intenta modernizar las costumbres de la España de la época mediante un decreto sobre la indumentaria masculina que desata el descontento popular, los motines callejeros y las intrigas palaciegas de una corte hostil.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-09-30",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vera-un-cuento-cruel-1973",
@@ -6919,13 +6824,7 @@ const movies = [
             "Posesión"
         ],
         "synopsis": "Jessica Barrett, una mujer casada que espera su tercer hijo, comienza a sufrir extraños cambios de personalidad, visiones aterradoras y fenómenos de levitación. Un misterioso hombre vinculado a su pasado parece conocer el oscuro motivo por el cual una presencia demoníaca se ha propuesto poseerla a ella y a su futuro hijo.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-30",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "patrick-vive-todavia-1980",
@@ -7011,13 +6910,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Patrick es un paciente en estado de coma profundo tras matar a su madre y al amante de esta. Ingresado en una clínica privada aislada dirigida por un médico de métodos cuestionables, una joven enfermera comienza a notar que Patrick es capaz de comunicarse mediante la mente y desatar una poderosa y letal energía telequinética contra todo aquel que se acerque a ella.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-09-29",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "adulto-2024",
@@ -7066,18 +6959,7 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "Un viaje visual e histórico al corazón de la España del Siglo de Oro para examinar la figura de Diego Velázquez. El documental analiza no solo su técnica revolucionaria y su modernidad pictórica anticipada a su tiempo, sino también su compleja posición como cortesano y pintor de cámara al servicio del rey Felipe IV, donde el arte y el poder se entrelazaban peligrosamente.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-30",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-09-30",
-                "time": "18:20"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "memento-2000",
@@ -7139,13 +7021,7 @@ const movies = [
             "Acción"
         ],
         "synopsis": "Ambientada en Mar del Plata en 1985, la trama narra el vertiginoso ascenso y la compleja vida de Margarita Di Tullio (conocida como 'Pepita, la pistolera'), una trabajadora sexual embarazada que se abre paso en los oscuros y violentos bajos fondos del hampa argentino tras un suceso que cambiará su destino para siempre.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-09-30",
-                "time": "19:30",
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "glass-bottom-ferry-2025",
