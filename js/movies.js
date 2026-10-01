@@ -67,6 +67,29 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-05",
+                "time": "21:45"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-06",
+                "time": "19:50",
+                "version": "Doblada al español"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-07",
+                "time": "17:50",
+                "version": "Doblada al español"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-08",
+                "time": "20:00",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -223,13 +246,7 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Un joven encuentra una oreja humana en un campo y comienza a investigar un oscuro misterio relacionado con una cantante de club nocturno y un peligroso criminal.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-01",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "casablanca",
@@ -482,7 +499,9 @@ const movies = [
             "Familiar"
         ],
         "synopsis": "Sarah debe atravesar un laberinto poblado de criaturas fantásticas para rescatar a su hermano pequeño, secuestrado por el rey de los duendes Jareth, en un lugar donde nada es lo que parece.",
-        "screenings": []
+        "screenings": [
+            
+        ]
     },
     {
         "id": "desafio-total",
@@ -2089,9 +2108,15 @@ const movies = [
         "synopsis": "Una joven bailarina estadounidense llega a una prestigiosa academia de danza alemana y pronto descubre que tras sus elegantes paredes se esconde una presencia sobrenatural y aterradora.",
         "screenings": [
             {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-01",
-                "time": "20:00"
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-07",
+                "time": "21:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-07",
+                "time": "21:15",
+                "version": "Programa doble junto a Rojo oscuro"
             }
         ]
     },
@@ -2211,7 +2236,18 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Un poeta fracasado y desencantado encuentra una nueva oportunidad cuando conoce a una joven con talento para la poesía y decide convertirse en su mentor.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-10-02",
+                "time": "22:00"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-10-20",
+                "time": "22:00"
+            }
+        ]
     },
     {
         "id": "viridiana",
@@ -2429,7 +2465,7 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
+                "date": "2026-10-07",
                 "time": "22:35"
             }
         ]
@@ -3568,13 +3604,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Jasmine, una ama de casa rica de Nueva York que lo ha perdido todo tras la quiebra de su marido, se ve obligada a mudarse a San Francisco a vivir con su hermana Ginger, una mujer de clase trabajadora, e intentar rehacer su vida desde cero.",
-        "screenings": [
-            {
-                "cinema": "Kinépolis Ciudad de la Imagen",
-                "date": "2026-10-01",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "call-me-by-your-name",
@@ -4981,13 +5011,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Durante el verano, Miguel Ángel recorre distintas localidades proyectando películas al aire libre en 35 milímetros. Su oficio atraviesa un momento crítico debido a la inminente e implacable sustitución del celuloide tradicional por los nuevos sistemas de proyección digital.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-01",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "paisaje-despues-de-la-batalla-1970",
@@ -5797,7 +5821,18 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Una película sinfónica y ensayo fílmico acerca de la ciudad, el tiempo, sus flujos y sus contradicciones. Un gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruzan comercio y fauna, arquitectura, mercerías y poetas, constructores y destructores de la ciudad, transitando entre la nostalgia y la ironía.",
-    "screenings": []
+    "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-10-10",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-10-25",
+                "time": "17:00"
+            }
+        ]
     },
     {
     "id": "reversion-2025",
@@ -6328,16 +6363,6 @@ const movies = [
             {
                 "cinema": "Cines Golem",
                 "date": "2026-10-01",
-                "time": "16:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-10-01",
-                "time": "20:15"
-            },
-            {
-                "cinema": "Cines Golem",
-                "date": "2026-10-01",
                 "time": "22:15"
             }
         ]
@@ -6824,7 +6849,13 @@ const movies = [
             "Posesión"
         ],
         "synopsis": "Jessica Barrett, una mujer casada que espera su tercer hijo, comienza a sufrir extraños cambios de personalidad, visiones aterradoras y fenómenos de levitación. Un misterioso hombre vinculado a su pasado parece conocer el oscuro motivo por el cual una presencia demoníaca se ha propuesto poseerla a ella y a su futuro hijo.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-05",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "patrick-vive-todavia-1980",
@@ -6849,13 +6880,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Años después de los extraños sucesos provocados por Patrick, un paciente en estado de coma que posee aterradores poderes mentales y telequinéticos, una misteriosa clínica privada acoge a un nuevo caso sospechoso. Pronto, una serie de muertes violentas y sádicas comienzan a sucederse entre el personal y los pacientes, demostrando que la mente de Patrick sigue muy activa y sedienta de venganza.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-01",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-iniciacion-de-sarah-1978",
@@ -6884,6 +6909,11 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-10-01",
                 "time": "22:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-06",
+                "time": "16:00"
             }
         ]
     },
@@ -6984,18 +7014,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Leonard Shelby es un hombre que sufre de amnesia anterógrada tras un brutal ataque en el que su esposa fue asesinada; desde entonces, es incapaz de almacenar nuevos recuerdos y su memoria se reinicia cada pocos minutos. Para poder investigar el asesinato y vengar a su mujer, Leonard se vale de notas escritas, fotografías polaroid y tatuajes grabados en su propio cuerpo, en una historia narrada de forma inversa que desafía por completo al espectador.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-01",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-01",
-                "time": "20:05"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "pepita-la-pistolera-2026",
@@ -7664,11 +7683,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-01",
-                "time": "17:30"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-29",
                 "time": "20:00"
             }
@@ -7693,12 +7707,6 @@ const movies = [
         ],
         "synopsis": "Vicente es un septuagenario que disfruta de su jubilación viviendo en Maspalomas, Gran Canaria. Cuando sufre un ictus será trasladado a San Sebastián, en donde vive su hija Nerea, pero, como necesita muchos cuidados, su hija decide ingresarlo en una residencia. Allí Vicente decide ocultar su condición de homosexual, lo que no será fácil, especialmente con su extrovertido compañero de habitación.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-01",
-                "time": "20:00",
-                "version": "Presentación y coloquio con Aitor Arregi, Luis Freijo y Belén Vidal"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-10-15",
@@ -9103,6 +9111,310 @@ const movies = [
                 "cinema": "Cine Doré",
                 "date": "2026-10-31",
                 "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "amenaza-en-la-sombra-1973",
+        "title": "Amenaza en la sombra",
+        "originalTitle": "Don't Look Now",
+        "poster": "images/amenaza-en-la-sombra.jpg",
+        "director": "Nicolas Roeg",
+        "cast": [
+            "Donald Sutherland",
+            "Julie Christie",
+            "Hilary Mason",
+            "Clelia Matania",
+            "Massimo Serato"
+        ],
+        "year": 1973,
+        "duration": 110,
+        "country": "Reino Unido / Italia",
+        "genres": [
+            "Terror",
+            "Thriller psicológico",
+            "Drama"
+        ],
+        "synopsis": "Aún lidiando con la trágica muerte accidental de su hija pequeña, un matrimonio viaja a Venecia debido a un encargo de restauración arquitectónica. Allí conocen a dos hermanas ancianas, una de las cuales es ciega y asegura poseer facultades psíquicas, afirmando ver a la niña fallecida y advirtiéndoles de un peligro inminente. A medida que el marido comienza a experimentar extrañas visiones por los canales de la ciudad, la atmósfera se vuelve cada vez más opresiva y desasosegante.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-02",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "el-otro-1972",
+        "title": "El otro",
+        "originalTitle": "The Other",
+        "poster": "images/el-otro.jpg",
+        "director": "Robert Mulligan",
+        "cast": [
+            "Uta Hagen",
+            "Diana Muldaur",
+            "Chris Ury",
+            "Norma Connolly",
+            "Martin Brandt"
+        ],
+        "year": 1972,
+        "duration": 100,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Thriller psicológico",
+            "Drama"
+        ],
+        "synopsis": "En una granja rural de Connecticut durante la década de 1930, dos hermanos gemelos de doce años, Niles y Holland, comparten una complicidad extrema y un mundo de juegos secretos enseñados por su abuela. Sin embargo, tras una serie de trágicos y extraños accidentes que comienzan a golpear a su entorno familiar, la inquietante sospecha de que uno de los hermanos oculta una naturaleza profundamente macabra empieza a tomar forma.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-03",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "bride-of-re-animator-1990",
+        "title": "Re-Animator II",
+        "originalTitle": "Bride of Re-Animator",
+        "poster": "images/bride-of-re-animator.jpg",
+        "director": "Brian Yuzna",
+        "cast": [
+            "Jeffrey Combs",
+            "Bruce Abbott",
+            "Claude Earl Jones",
+            "Fabiana Udenio",
+            "David Gale"
+        ],
+        "year": 1990,
+        "duration": 96,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Comedia negra",
+            "Ciencia ficción",
+            "Cine de culto"
+        ],
+        "synopsis": "Varios años después de los truculentos sucesos en la universidad Miskatonic, los doctores Herbert West y Dan Cain continúan con sus experimentos clandestinos sobre la reanimación celular, perfeccionando un suero capaz de crear vida a partir de trozos de cadáveres. Obsesionado con el reto supremo de construir una mujer perfecta utilizando partes de diferentes cuerpos, West desatará de nuevo una caótica y sangrienta pesadilla repleta de humor negro y efectos prácticos memorables.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-04",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "la-ultima-casa-a-la-izquierda-1972",
+        "title": "La última casa a la izquierda",
+        "originalTitle": "The Last House on the Left",
+        "poster": "images/la-ultima-casa-a-la-izquierda.jpg",
+        "director": "Wes Craven",
+        "cast": [
+            "David Hess",
+            "Lucy Grantham",
+            "Sandra Cassel",
+            "Fred Lincoln",
+            "Jeramie Rain"
+        ],
+        "year": 1972,
+        "duration": 84,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Cine de culto"
+        ],
+        "synopsis": "Dos jóvenes adolescentes viajan a la ciudad para asistir a un concierto de rock. En el camino, son secuestradas, retenidas y brutalmente agredidas en un bosque cercano por una banda de sádicos fugitivos liderada por un despiadado criminal. Cuando los delincuentes buscan refugio por casualidad en la casa de los padres de una de las jóvenes, se desatará una noche de venganza implacable y sin retorno.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-05",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-08",
+                "time": "15:50"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-08",
+                "time": "15:50",
+                "version": "Programa doble junto a El vampiro de la noche"
+            }
+        ]
+    },
+    {
+        "id": "el-vampiro-de-la-noche-1972",
+        "title": "El vampiro de la noche",
+        "originalTitle": "The Night Stalker",
+        "poster": "images/el-vampiro-de-la-noche.jpg",
+        "director": "John Llewellyn Moxey",
+        "cast": [
+            "Darren McGavin",
+            "Carol Lynley",
+            "Simon Oakland",
+            "Ralph Meeker",
+            "Claude Akins"
+        ],
+        "year": 1972,
+        "duration": 74,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Ciencia ficción",
+            "Cine de culto"
+        ],
+        "synopsis": "Carl Kolchak es un cínico y astuto periodista de investigación en Las Vegas que comienza a seguir una serie de extraños y brutales asesinatos en los que las víctimas aparecen completamente desangradas. Mientras la policía y las autoridades locales intentan ocultar la verdad y restarle importancia al asunto para no dañar el turismo de la ciudad, Kolchak se adentra en una investigación clandestina que le llevará a una aterradora conclusión: el asesino es, irremediablemente, un vampiro real.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-06",
+                "time": "22:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-08",
+                "time": "17:15"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-08",
+                "time": "15:50",
+                "version": "Programa doble junto a La última casa a la izquierda"
+            }
+        ]
+    },
+    {
+        "id": "rojo-oscuro-1975",
+        "title": "Rojo oscuro",
+        "originalTitle": "Profondo rosso",
+        "poster": "images/rojo-oscuro.jpg",
+        "director": "Dario Argento",
+        "cast": [
+            "David Hemmings",
+            "Daria Nicolodi",
+            "Gabriele Lavia",
+            "Macha Méril",
+            "Glauco Mauri"
+        ],
+        "year": 1975,
+        "duration": 126,
+        "country": "Italia",
+        "genres": [
+            "Giallo",
+            "Terror",
+            "Thriller",
+            "Cine de culto"
+        ],
+        "synopsis": "Marcus Daly, un pianista británico afincado en Turín, presencia de manera casual desde la calle el brutal asesinato de una célebre médica y parapsicóloga en su propio apartamento. Movido por la intriga, Marcus decide unirse a una aguda y persistente periodista para investigar los crímenes por su cuenta. A medida que examinan las pistas y se adentran en un laberinto de indicios macabros y decorados perturbadores, se darán cuenta de que el asesino está siempre un paso por delante, dispuesto a eliminar a cualquiera que se acerque a descubrir su verdadera identidad.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-07",
+                "time": "22:50"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-07",
+                "time": "21:15",
+                "version": "Programa doble junto a Suspiria"
+            }
+        ]
+    },
+    {
+        "id": "los-crazies-1972",
+        "title": "Los Crazies",
+        "originalTitle": "The Crazies",
+        "poster": "images/los-crazies.jpg",
+        "director": "George A. Romero",
+        "cast": [
+            "Lane Carroll",
+            "Will Macmillan",
+            "Harold Wayne Jones",
+            "Lynn Lowry",
+            "Richard France"
+        ],
+        "year": 1972,
+        "duration": 103,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Ciencia ficción",
+            "Thriller",
+            "Cine de culto"
+        ],
+        "synopsis": "Un avión militar que transporta un arma bacteriológica secreta y altamente letal —un virus experimental conocido como 'la cruz' que provoca locura homicida y una muerte cerebral fulminante— se estrella por accidente en las inmediaciones de un pequeño pueblo rural en Pensilvania. El virus contamina rápidamente el suministro de agua potable de la comunidad. Para contener la epidemia, el ejército de los Estados Unidos interviene imponiendo una brutal ley marcial, desatando el pánico, el aislamiento y un enfrentamiento desesperado entre los ciudadanos y los soldados.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-08",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "mariposas-negras-2024",
+        "title": "Mariposas negras",
+        "originalTitle": "Mariposas negras",
+        "poster": "images/mariposas-negras.jpg",
+        "director": "David Baute",
+        "cast": [
+            "Iratxe Gómez",
+            "Marta Tur"
+        ],
+        "year": 2024,
+        "duration": 78,
+        "country": "España / Panamá",
+        "genres": [
+            "Animación",
+            "Drama",
+            "Cine social",
+            "Documental animado"
+        ],
+        "synopsis": "A través de las vivencias de tres mujeres en distintos puntos críticos del planeta, la película retrata la cruda realidad del cambio climático no como una amenaza lejana, sino como una devastadora urgencia que obliga a millones de personas a abandonar sus hogares. Desde una África asolada por la desertificación que empuja a una joven a cruzar fronteras, hasta el Caribe azotado por huracanes extremos o las islas del Pacífico devoradas por la crecida del mar, el filme explora la resistencia, la pérdida y la dignidad de las mujeres migrantes climáticas.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
+                "date": "2026-10-02",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "el-limpiabotas-1946",
+        "title": "El limpiabotas",
+        "originalTitle": "Sciuscià",
+        "poster": "images/el-limpiabotas.jpg",
+        "director": "Vittorio De Sica",
+        "cast": [
+            "Franco Interlenghi",
+            "Rinaldo Smordoni",
+            "Annio Campo",
+            "Bruno Ortensi"
+        ],
+        "year": 1946,
+        "duration": 93,
+        "country": "Italia",
+        "genres": [
+            "Drama",
+            "Neorrealismo",
+            "Cine clásico"
+        ],
+        "synopsis": "En la Roma arrasada y empobrecida de la posguerra, dos jóvenes amigos que trabajan como limpiabotas callejeros, Giuseppe y Pasquale, sueñan con comprarse un caballo blanco. Para conseguir el dinero rápido, se ven envueltos de manera inocente en un pequeño chanchullo de estafa. Tras ser descubiertos por la policía, son arrestados y encerrados en un reformatorio juvenil, un entorno opresivo y corrupto que pondrá a prueba su amistad y destruirá poco a poco su inocencia.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-08",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-08",
+                "time": "22:30"
             }
         ]
     }
