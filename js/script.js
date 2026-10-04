@@ -180,18 +180,12 @@ if (moviesGrid) {
             const matchesSearch =
                 searchableText.includes(searchTerm);
 
-            // 2. COMPROBAR LA FECHA Y EL CINE SOLO SOBRE LAS SESIONES FUTURAS
-            const matchesDate =
-                !selectedDate ||
-                futureScreenings.some(screening =>
-                    screening.date === selectedDate
-                );
-
-            const matchesCinema =
-                !selectedCinema ||
-                futureScreenings.some(screening =>
-                    screening.cinema === selectedCinema
-                );
+            // 2. COMPROBAR QUE EXISTA UNA SESIÓN QUE CUMPLA CINE Y FECHA A LA VEZ
+            const matchesCinemaAndDate = futureScreenings.some(screening => {
+                const matchesCinema = !selectedCinema || screening.cinema === selectedCinema;
+                const matchesDate = !selectedDate || screening.date === selectedDate;
+                return matchesCinema && matchesDate;
+            });
 
             const isDoc = movie.genres.includes("Documental");
             let matchesType = true;
@@ -204,8 +198,7 @@ if (moviesGrid) {
 
             return (
                 matchesSearch &&
-                matchesDate &&
-                matchesCinema &&
+                matchesCinemaAndDate &&
                 matchesType
             );
         });
