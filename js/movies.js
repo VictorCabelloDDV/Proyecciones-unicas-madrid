@@ -70,11 +70,6 @@ const movies = [
             },
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-10-05",
-                "time": "21:45"
-            },
-            {
-                "cinema": "Artistic Metropol",
                 "date": "2026-10-06",
                 "time": "19:50",
                 "version": "Doblada al español"
@@ -602,6 +597,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-08",
                 "time": "22:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-08",
+                "time": "21:00"
             }
         ]
     },
@@ -897,13 +897,7 @@ const movies = [
             "Drama psicológico"
         ],
         "synopsis": "Un caballero que regresa a Suecia tras las Cruzadas se encuentra con la Muerte y consigue aplazar su destino jugando una partida de ajedrez mientras busca respuestas sobre la vida, la muerte y Dios.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-05",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-viaje-de-chihiro",
@@ -1535,6 +1529,17 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-06",
                 "time": "15:30",
+                "version": "Embajadores río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-09",
+                "time": "16:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-14",
+                "time": "16:00",
                 "version": "Embajadores río"
             }
         ]
@@ -5196,6 +5201,17 @@ const movies = [
                 "version": "Embajadores Río"
             },
             {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-12",
+                "time": "15:45"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-09",
+                "time": "22:30",
+                "version": "Embajadores Río"
+            },
+            {
                 "cinema": "Cine Doré",
                 "date": "2026-10-11",
                 "time": "20:00"
@@ -6428,14 +6444,9 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-05",
-                "time": "16:00",
+                "date": "2026-10-15",
+                "time": "15:45",
                 "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-07",
-                "time": "15:45"
             }
         ]
     },
@@ -6747,13 +6758,7 @@ const movies = [
             "Posesión"
         ],
         "synopsis": "Jessica Barrett, una mujer casada que espera su tercer hijo, comienza a sufrir extraños cambios de personalidad, visiones aterradoras y fenómenos de levitación. Un misterioso hombre vinculado a su pasado parece conocer el oscuro motivo por el cual una presencia demoníaca se ha propuesto poseerla a ella y a su futuro hijo.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-05",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "patrick-vive-todavia-1980",
@@ -7371,6 +7376,12 @@ const movies = [
                 "date": "2026-10-15",
                 "time": "20:30",
                 "version": "Coloquio con Rodrigo Sorogoyen y Eduardo de Vicente"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-15",
+                "time": "20:30",
+                "version": "Coloquio online con Rodrigo Sorogoyen"
             }
         ]
     },
@@ -7522,14 +7533,14 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-05",
-                "time": "16:00",
+                "date": "2026-10-07",
+                "time": "15:00",
                 "version": "Embajadores Río"
             },
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-07",
-                "time": "15:00",
+                "date": "2026-10-15",
+                "time": "22:40",
                 "version": "Embajadores Río"
             }
         ]
@@ -9037,11 +9048,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-10-05",
-                "time": "22:15"
-            },
-            {
-                "cinema": "Artistic Metropol",
                 "date": "2026-10-08",
                 "time": "15:50"
             },
@@ -9685,6 +9691,68 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-01",
                 "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "memories-of-murder-2003",
+        "title": "Memories of Murder",
+        "originalTitle": "Salinui chueok",
+        "poster": "images/memories-of-murder.jpg",
+        "director": "Bong Joon-ho",
+        "cast": [
+            "Song Kang-ho",
+            "Kim Sang-kyung",
+            "Kim Roi-ha",
+            "Song Jae-ho",
+            "Byun Hee-bong"
+        ],
+        "year": 2003,
+        "duration": 132,
+        "country": "Corea del Sur",
+        "genres": [
+            "Thriller",
+            "Crimen",
+            "Drama",
+            "Cine de culto"
+        ],
+        "synopsis": "Corea del Sur, 1986. Los cuerpos de dos mujeres jóvenes aparecen violados y asesinados en un paraje rural. Para resolver el caso, que desconcierta a la policía local por completo, se asigna a un detective de la zona junto a un inspector enviado especialmente desde Seúl. Enmarcada en un contexto de tensiones políticas y sociales, la investigación se convierte en una obsesión asfixiante y frustrante ante la ausencia de pistas y métodos científicos avanzados.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-14",
+                "time": "22:35"
+            }
+        ]
+    },
+    {
+        "id": "mysterious-skin-2004",
+        "title": "Mysterious Skin",
+        "originalTitle": "Mysterious Skin",
+        "poster": "images/mysterious-skin.jpg",
+        "director": "Gregg Araki",
+        "cast": [
+            "Joseph Gordon-Levitt",
+            "Brady Corbet",
+            "Michelle Trachtenberg",
+            "Jeff Licon",
+            "Mary Lynn Rajskub",
+            "Elisabeth Shue"
+        ],
+        "year": 2004,
+        "duration": 105,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Cine independiente",
+            "Cine de culto"
+        ],
+        "synopsis": "A principios de los años ochenta en una pequeña ciudad de Kansas, dos niños de ocho años sufren un misterioso episodio de amnesia de cinco horas tras un supresor encuentro con su entrenador de béisbol. Una década más tarde, ya en la adolescencia, sus caminos divergen radicalmente: Brian se ha convertido en un joven solitario obsesionado con abducciones alienígenas, mientras que Neil sobrevive en Nueva York dedicándose a la prostitución masculina y arrastrando un doloroso vacío. Cuando sus vidas vuelven a cruzarse, saldrá a la luz una terrible y oscura verdad sobre su pasado común.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-15",
+                "time": "22:30"
             }
         ]
     }
