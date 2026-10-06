@@ -3169,7 +3169,13 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Un grupo de científicos e invitados llega a una remota isla del Mediterráneo donde un misterioso botánico ha creado una especie silvestre de planta carnívora mutante alimentada con sangre humana.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-15",
+                "time": "21:00"
+            }
+        ]
     },
     {
         "id": "pacto-de-silencio",
@@ -6287,13 +6293,13 @@ const movies = [
                 "time": "19:30"
             },
             {
-                "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-10-06",
                 "time": "17:30",
                 "version": "Precio Reducido"
             },
             {
-                "cinema": "Cine Estudio (Círculo de las Bellas Artes)",
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-10-09",
                 "time": "17:00"
             }
@@ -9753,6 +9759,300 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-15",
                 "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "portrait-dune-jeune-fille-1994",
+        "title": "Portrait d'une jeune fille de la fin des annees 60 à Bruxelles",
+        "originalTitle": "Portrait d'une jeune fille de la fin des annees 60 à Bruxelles",
+        "poster": "images/portrait-dune-jeune-fille.jpg",
+        "director": "Chantal Akerman",
+        "cast": [
+            "Circé Lethem",
+            "Julien Rassam",
+            "Joëlle Marlier",
+            "Cynthia Rodberg"
+        ],
+        "year": 1994,
+        "duration": 61,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Cine de autor",
+            "Cine independiente"
+        ],
+        "synopsis": "Michèle es una adolescente que decide saltarse las clases en Bruselas. En su deambular por la ciudad, conoce a Paul, un joven desertor con el que experimenta un fugaz romance. A través de una mirada íntima, urbana y profundamente personal, la película retrata la confusión de los deseos, la juventud y el discurrir de los sentimientos en vísperas del Mayo del 68.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-07",
+                "time": "20:15"
+            }
+        ]
+    },
+    {
+        "id": "news-from-home-1977",
+        "title": "News from Home",
+        "originalTitle": "News from Home",
+        "poster": "images/news-from-home.jpg",
+        "director": "Chantal Akerman",
+        "cast": [],
+        "year": 1977,
+        "duration": 89,
+        "country": "Bélgica, Francia",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine de autor"
+        ],
+        "synopsis": "A través de largos y estáticos planos fijos de las calles, el metro y las entrañas de Nueva York a mediados de los años setenta, la propia Chantal Akerman lee en voz alta las cartas que su madre le escribía religiosamente desde Bruselas, en las que combinaba noticias familiares cotidianas con la constante súplica de recibir noticias de su hija.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-08",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "alice-carino-2022",
+        "title": "Alice, cariño",
+        "originalTitle": "Alice, Darling",
+        "poster": "images/alice-carino.jpg",
+        "director": "Mary Nighy",
+        "cast": [
+            "Anna Kendrick",
+            "Wunmi Mosaku",
+            "Kaniehtiio Horn",
+            "Charlie Carrick"
+        ],
+        "year": 2022,
+        "duration": 89,
+        "country": "Canadá, Estados Unidos",
+        "genres": [
+            "Drama",
+            "Thriller psicológico",
+            "Cine social"
+        ],
+        "synopsis": "Alice se encuentra atrapada en una relación de maltrato psicológico con su novio, Simon. Durante unas vacaciones planeadas con sus dos mejores amigas, intenta desconectar y empezar a romper la fuerte dependencia emocional que su pareja ejerce sobre ella. Sin embargo, la situación se tensa cuando Simon aparece por sorpresa en el lugar, obligando a Alice a enfrentarse a la realidad de su situación.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-09",
+                "time": "19:00",
+                "version": "Acceso libre con invitación, disponible en web el lunes previo a la sesión."
+            }
+        ]
+    },
+    {
+        "id": "la-esfinge-1981",
+        "title": "La esfinge",
+        "originalTitle": "Sphinx",
+        "poster": "images/la-esfinge.jpg",
+        "director": "Franklin J. Schaffner",
+        "cast": [
+            "Lesley-Anne Down",
+            "Frank Langella",
+            "Maurice Ronet",
+            "John Gielgud",
+            "Vicente Gil"
+        ],
+        "year": 1981,
+        "duration": 118,
+        "country": "Estados Unidos",
+        "genres": [
+            "Aventura",
+            "Misterio",
+            "Cine de culto"
+        ],
+        "synopsis": "Erica Baron, una joven e intrépida egiptóloga estadounidense, viaja a El Cairo para estudiar la misteriosa tumba intacta del faraón Seti I. Sin embargo, su fascinación por el descubrimiento se convierte en una pesadilla cuando las personas a su alrededor comienzan a ser asesinadas de forma violenta y se ve envuelta en una red clandestina de contrabando de antigüedades y oscuras maldiciones milenarias.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-09",
+                "time": "21:45"
+            }
+        ]
+    },
+    {
+        "id": "coma-1978",
+        "title": "Coma",
+        "originalTitle": "Coma",
+        "poster": "images/coma-1978.jpg",
+        "director": "Michael Crichton",
+        "cast": [
+            "Geneviève Bujold",
+            "Michael Douglas",
+            "Richard Widmark",
+            "Rip Torn",
+            "Elizabeth Ashley"
+        ],
+        "year": 1978,
+        "duration": 113,
+        "country": "Estados Unidos",
+        "genres": [
+            "Thriller",
+            "Cine de culto",
+            "Suspense"
+        ],
+        "synopsis": "Susan Wheeler, una brillante doctora residente en un hospital de Boston, comienza a notar una estadística alarmante y sospechosa: un número inusualmente alto de pacientes jóvenes y sanos caen en un estado de coma irreversible durante intervenciones quirúrgicas rutinarias debido a fallos inexplicables en el suministro de gas. Cuando Susan decide investigar por su cuenta, descubre una siniestra conspiración médica que pone su propia vida en peligro.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-11",
+                "time": "21:45"
+            }
+        ]
+    },
+    {
+        "id": "el-fantasma-de-la-opera-1989",
+        "title": "El fantasma de la ópera",
+        "originalTitle": "The Phantom of the Opera",
+        "poster": "images/el-fantasma-de-la-opera-1989.jpg",
+        "director": "Dwight H. Little",
+        "cast": [
+            "Robert Englund",
+            "Jill Schoelen",
+            "Alex Hyde-White",
+            "Bill Nighy",
+            "Stephanie Lawrence"
+        ],
+        "year": 1989,
+        "duration": 93,
+        "country": "Estados Unidos, Hungría",
+        "genres": [
+            "Terror",
+            "Cine de culto",
+            "Thriller"
+        ],
+        "synopsis": "Una joven y ambiciosa estudiante de música en el Londres actual descubre en los sótanos de la Ópera un manuscrito perdido compuesto por un autor desconocido. Al interpretarlo, viaja en el tiempo hasta el París del siglo XIX, donde se encuentra cara a cara con el mismísimo Fantasma de la Ópera, un sádico compositor que hizo un pacto con el diablo y que está dispuesto a desatar una sangrienta carnicería para que ella cante sus canciones.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-12",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "ghost-ship-2002",
+        "title": "Ghost Ship. Barco fantasma",
+        "originalTitle": "Ghost Ship",
+        "poster": "images/ghost-ship.jpg",
+        "director": "Steve Beck",
+        "cast": [
+            "Gabriel Byrne",
+            "Julianna Margulies",
+            "Ron Eldard",
+            "Desmond Harrington",
+            "Isaiah Washington",
+            "Karl Urban"
+        ],
+        "year": 2002,
+        "duration": 91,
+        "country": "Estados Unidos, Australia",
+        "genres": [
+            "Terror",
+            "Sobrenatural",
+            "Cine de culto"
+        ],
+        "synopsis": "Un equipo de rescate marítimo especializado localiza en medio del mar de Bering un transatlántico italiano de lujo, el Antonia Graza, que llevaba desaparecido y dado por perdido desde hacía más de cuarenta años. Sin embargo, al subir a bordo para saquearlo y remolcarlo hasta la costa, la tripulación descubre que el buque está maldito y habitado por fuerzas sobrenaturales vengativas y los oscuros espíritus de los pasajeros masacrados en el pasado.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-13",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "la-lavadora-asesina-1993",
+        "title": "La lavadora asesina",
+        "originalTitle": "The Mangler",
+        "poster": "images/la-lavadora-asesina.jpg",
+        "director": "Tobe Hooper",
+        "cast": [
+            "Robert Englund",
+            "Ted Levine",
+            "Daniel Matmor",
+            "Vanessa Pike",
+            "Jeremy Crutchley"
+        ],
+        "year": 1993,
+        "duration": 106,
+        "country": "Estados Unidos, Sudáfrica, Reino Unido",
+        "genres": [
+            "Terror",
+            "Comedia negra",
+            "Cine de culto"
+        ],
+        "synopsis": "En una aparente y gris tintorería industrial de un pueblo, una gigantesca y vetusta máquina dobladora y lavadora industrial cobra vida propia tras sufrir un accidente impregnado de fluidos y un pacto oscuro. Cuando los trabajadores empiezan a ser triturados y devorados de forma macabra por el aparato, un policía local y un experto en ocultismo unirán fuerzas para detener a la sanguinaria máquina antes de que desate una masacre total.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-14",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "jack-el-destripador-1944",
+        "title": "Jack, el destripador",
+        "originalTitle": "The Lodger",
+        "poster": "images/jack-el-destripador-1944.jpg",
+        "director": "John Brahm",
+        "cast": [
+            "Laird Cregar",
+            "Merle Oberon",
+            "George Sanders",
+            "Sir Cedric Hardwicke",
+            "Sara Allgood"
+        ],
+        "year": 1944,
+        "duration": 84,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine negro",
+            "Thriller psicológico",
+            "Clásico"
+        ],
+        "synopsis": "En el Londres victoriano de finales del siglo XIX, un brutal asesino en serie conocido como Jack el Destripador aterroriza las nieblosas calles masacrando a jóvenes actrices. En medio de este clima de pánico, un misterioso y excéntrico caballero llamado Sr. Slade alquila una habitación en la casa de un matrimonio anciano. A medida que los crímenes continúan y Slade muestra una conducta cada vez más extraña y nocturna, la propietaria y un inspector de policía empiezan a sospechar que el inquilino oculta una macabra identidad.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-15",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "el-fantasma-de-la-opera-1925",
+        "title": "El fantasma de la ópera",
+        "originalTitle": "The Phantom of the Opera",
+        "poster": "images/el-fantasma-de-la-opera-1925.jpg",
+        "director": "Rupert Julian",
+        "cast": [
+            "Lon Chaney",
+            "Mary Philbin",
+            "Norman Kerry",
+            "Gibson Gowland"
+        ],
+        "year": 1925,
+        "duration": 106,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine mudo",
+            "Cine de terror",
+            "Clásico"
+        ],
+        "synopsis": "En los sótanos de la Ópera de París vive oculto el misterioso Erik, un hombre con el rostro desfigurado y una voz de ángel que está obsesionado con la joven soprano Christine Daaé, a la que promete convertir en la estrella de la compañía mediante métodos aterradores y despiadados.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-31",
+                "time": "20:00",
+                "version": "Cine mudo con piano en directo (Federico Lechner)"
             }
         ]
     }
