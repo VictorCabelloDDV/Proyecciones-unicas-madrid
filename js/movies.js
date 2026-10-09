@@ -70,20 +70,8 @@ const movies = [
             },
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-10-06",
-                "time": "19:50",
-                "version": "Doblada al español"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-07",
-                "time": "17:50",
-                "version": "Doblada al español"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-08",
-                "time": "20:00",
+                "date": "2026-10-12",
+                "time": "16:00",
                 "version": "Doblada al español"
             }
         ]
@@ -592,18 +580,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Después de escapar de un extraño accidente, un adolescente comienza a tener visiones de una misteriosa figura con disfraz de conejo que parece conocer el futuro y le empuja hacia una serie de acontecimientos inquietantes.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "et",
@@ -1132,13 +1109,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "isla-de-perros",
@@ -1162,13 +1133,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "En un futuro Japón, todos los perros son desterrados a una isla de basura. Un niño viaja hasta allí para encontrar a su mascota y acaba contando con la ayuda de una peculiar manada de perros.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-08",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "kill-bill-the-whole-bloody-affair",
@@ -1521,18 +1486,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
-                "time": "16:00",
-                "version": "Embajadores río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-06",
-                "time": "15:30",
-                "version": "Embajadores río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-10-09",
                 "time": "16:00"
             },
@@ -1758,19 +1711,7 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Una aspirante a actriz llega a Los Ángeles y conoce a una mujer que ha perdido la memoria tras un accidente. Juntas intentan descubrir su identidad mientras se adentran en una misteriosa red de secretos.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-08",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
-                "time": "16:10",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mágico-el-enviado-de-los-dioses",
@@ -2078,19 +2019,7 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Una joven bailarina estadounidense llega a una prestigiosa academia de danza alemana y pronto descubre que tras sus elegantes paredes se esconde una presencia sobrenatural y aterradora.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-07",
-                "time": "21:15"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-07",
-                "time": "21:15",
-                "version": "Programa doble junto a Rojo oscuro"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "taxi-driver",
@@ -2429,13 +2358,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-07",
-                "time": "22:35"
-            }
-        ]
+        "screenings": []
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -4029,13 +3952,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Julián regresa a Toronto tras un apasionado romance en Barcelona con Sundra, una modelo a la que decide enviar vídeocartas diarias para mantener viva la relación. Al descubrir que ella tiene otro amante, Sundra le propone mantener el contacto a distancia enviándose las grabaciones de sus nuevas experiencias íntimas.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-07",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "runa-simi-2026",
@@ -4241,14 +4158,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Francia, 1770. Marianne, una pintora, recibe un encargo que consiste en realizar el retrato de bodas de Héloïse, una joven que acaba de dejar el convento y que tiene serias dudas respecto a su próximo matrimonio. Marianne tiene que retratarla sin su conocimiento, por lo que se dedica a investigarla a diario.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-08",
-                "time": "22:35",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "copying-beethoven",
@@ -5197,17 +5107,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-07",
-                "time": "15:45"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-06",
-                "time": "22:55",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-10-12",
                 "time": "15:45"
             },
@@ -5302,13 +5201,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Ambientada a principios del siglo XX, la película narra el enlace matrimonial entre un intelectual de la burguesía de Cracovia y una joven de origen campesino. A la celebración acude una heterogénea concurrencia que representa a todas las clases sociales de la Polonia de la época. Entre bailes, alcohol y discusiones, la fiesta se transforma en un profundo y fantasmagórico examen sobre la identidad nacional, la historia y los traumas políticos del país.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-08",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "padre-nuestro-1985",
@@ -5350,13 +5243,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "A finales de la década de 1980, Xiaojun llega a Hong Kong desde la China continental con el objetivo de ganar suficiente dinero para casarse con su novia de toda la vida. Poco después de instalarse, conoce a Qiao, una ambiciosa joven que también intenta prosperar en la gran ciudad. La relación entre ambos evoluciona de la amistad al amor a lo largo de los años, marcada por las idas y venidas, el destino y la música de Teresa Teng.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-07",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
     "id": "porco-rosso",
@@ -5484,22 +5371,6 @@ const movies = [
     ],
     "synopsis": "El 27 de julio de 1986, la banda británica de rock Queen marcó un hito al tocar por primera vez en Hungría, un país que aún se encontraba bajo una dictadura comunista tras el Telón de Acero. Hungarian Rhapsody: Queen Live in Budapest es una película del concierto que Queen ofreció en Budapest durante su última gira con Freddie Mercury, The Magic Tour, siendo una de las pocas bandas de Europa Occidental en actuar en el Bloque del Este durante la Guerra Fría.",
     "screenings": [
-            {
-            "cinema": "Cines Verdi",
-            "date": "2026-10-07",
-            "time": "20:30"
-        },
-            {
-            "cinema": "Cines Embajadores",
-            "date": "2026-10-07",
-            "time": "22:30",
-            "version": "Embajadores Río"
-        },
-            {
-            "cinema": "Kinépolis Ciudad de la Imagen",
-            "date": "2026-10-07",
-            "time": "19:30"
-        },
             {
             "cinema": "Kinépolis Ciudad de la Imagen",
             "date": "2026-10-10",
@@ -5702,13 +5573,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Un recorrido por la fascinante y arrolladora vida de Raquel Meller, una de las grandes estrellas de la canción y el cine mudo de principios del siglo XX, cuya fama traspasó fronteras internacionales antes de caer en el injusto olvido. El documental reivindica su figura como una mujer independiente, moderna e insumisa para su época.",
-    "screenings": [
-            {
-            "cinema": "Cineteca Madrid",
-            "date": "2026-10-08",
-            "time": "19:30"
-        }
-        ]
+    "screenings": []
     },
     {
     "id": "natividad-zaro-en-voz-alta-2024",
@@ -5896,13 +5761,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Durante la Primera Guerra Mundial, en el África Oriental alemana, una puritana misionera británica y un rudo capitán de un maltrecho barco de vapor remontan un río peligroso para intentar torpedear un cañonero enemigo.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-06",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "gilda",
@@ -6288,15 +6147,9 @@ const movies = [
         "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad. La película vuelve a las salas tras una restauración llevada a cabo por la ECAM, bajo la supervisión de Javier Mosqueda, a partir del negativo original en 16 mm.",
         "screenings": [
             {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-06",
-                "time": "19:30"
-            },
-            {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-06",
-                "time": "17:30",
-                "version": "Precio Reducido"
+                "date": "2026-10-16",
+                "time": "17:00"
             },
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
@@ -6813,13 +6666,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Sarah Goodwin es una joven tímida y retraída con una poderosa e incontrolable habilidad telequinética que ingresa en la universidad junto a su hermana gemela. Mientras su hermana es aceptada en la hermandad más popular y snob del campus, Sarah es acogida por una misteriosa decana (Shelley Winters) en una hermandad marginada, desencadenando una espiral de venganza sobrenatural durante la fiesta de graduación.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-06",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "patrick-1978",
@@ -6984,13 +6831,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "Un literato se encierra en una casa solitaria para escribir una novela acerca de la vida religiosa durante la colonia. El hombre es interrumpido, primero por su hijo, activista político, y después por su mujer. Su obra narra las dificultades que tienen unas monjas con el señor obispo; el autor se involucra tanto en su texto que llega a vivir un romance con una de las protagonistas de la novela. Todo lo anterior forma parte, a su vez, de una película que filma.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-06",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "en-el-balcon-vacio-1962",
@@ -7380,6 +7221,11 @@ const movies = [
             {
                 "cinema": "Cines Verdi",
                 "date": "2026-10-15",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-15",
                 "time": "20:30",
                 "version": "Coloquio con Rodrigo Sorogoyen y Eduardo de Vicente"
             },
@@ -7537,12 +7383,6 @@ const movies = [
         ],
         "synopsis": "Un matrimonio y sus tres hijos viven en una mansión rodeada por una gran valla. Los hijos nunca han salido de la propiedad y sus padres los educan bajo sus propias reglas y un vocabulario inventado, aislándolos por completo de la realidad exterior hasta que un día una grieta en su sistema empieza a alterar la dinámica familiar.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-07",
-                "time": "15:00",
-                "version": "Embajadores Río"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-15",
@@ -7804,13 +7644,7 @@ const movies = [
             "Cine negro"
         ],
         "synopsis": "Don Pablo, un modesto empleado de banca con una numerosa familia, sufre un auténtico calvario cuando el propietario del piso de alquiler donde vive decide echarle. A partir de ese momento, y en medio de una severa crisis de vivienda en Madrid, emprende una desesperada y angustiosa búsqueda por encontrar un nuevo hogar asequible mientras el desahucio se cierne sobre los suyos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-06",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "angustia-1947",
@@ -7834,13 +7668,7 @@ const movies = [
             "Thriller psicológico"
         ],
         "synopsis": "Un drama psicológico de atmósfera opresiva donde los conflictos morales, la culpa y las tensiones entre los personajes desencadenan una espiral de inquietud y suspense al límite.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-06",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "restauraciones-recientes-manuel-perez-sala",
@@ -7860,14 +7688,7 @@ const movies = [
             "Patrimonio cinematográfico"
         ],
         "synopsis": "Sesión especial de cortometrajes restaurados de Manuel Pérez Sala que incluye tres obras clave: 'Montehermoso, boda extremeña' (1957), un documental etnográfico sobre las costumbres y ritos tradicionales; 'Norba Caesarina' (1959), un paseo fílmico y comedia costumbrista por el casco antiguo de Cáceres; y 'Éxodo de salvación (Ntra. Señora de la Montaña)' (1954), recreación de la vida del ermitaño Francisco Paniagua considerada su obra más relevante.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-07",
-                "time": "19:00",
-                "version": "Presentación a cargo de Antonio Gil Aparicio"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-hombre-de-hierro-1981",
@@ -7890,11 +7711,6 @@ const movies = [
         ],
         "synopsis": "En el Gdansk de 1980, en plena huelga de los astilleros que dará origen al sindicato Solidaridad, el periodista Winkel recibe el encargo de elaborar un reportaje que desacredite a Maciek Tomczyk, uno de los líderes de la protesta.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-07",
-                "time": "20:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-10-24",
@@ -7927,11 +7743,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-08",
-                "time": "17:30"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-31",
                 "time": "19:00"
             }
@@ -7959,13 +7770,7 @@ const movies = [
             "Comedia dramática"
         ],
         "synopsis": "Tras el cierre de la mina en la que trabajaba y el trágico suicidio de su padre, un minero finlandés empaca sus pocas pertenencias en un descapotable blanco y emprende camino hacia Helsinki en busca de una nueva vida. En la capital, entre empleos precarios y una serie de desafortunados encuentros, conoce a una madre soltera con la que intentará trazar un plan de huida hacia un futuro mejor.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-08",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-edad-de-oro-1930",
@@ -8978,7 +8783,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Aún lidiando con la trágica muerte accidental de su hija pequeña, un matrimonio viaja a Venecia debido a un encargo de restauración arquitectónica. Allí conocen a dos hermanas ancianas, una de las cuales es ciega y asegura poseer facultades psíquicas, afirmando ver a la niña fallecida y advirtiéndoles de un peligro inminente. A medida que el marido comienza a experimentar extrañas visiones por los canales de la ciudad, la atmósfera se vuelve cada vez más opresiva y desasosegante.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-13",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "el-otro-1972",
@@ -9002,7 +8813,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En una granja rural de Connecticut durante la década de 1930, dos hermanos gemelos de doce años, Niles y Holland, comparten una complicidad extrema y un mundo de juegos secretos enseñados por su abuela. Sin embargo, tras una serie de trágicos y extraños accidentes que comienzan a golpear a su entorno familiar, la inquietante sospecha de que uno de los hermanos oculta una naturaleza profundamente macabra empieza a tomar forma.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-15",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "bride-of-re-animator-1990",
@@ -9051,19 +8868,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Dos jóvenes adolescentes viajan a la ciudad para asistir a un concierto de rock. En el camino, son secuestradas, retenidas y brutalmente agredidas en un bosque cercano por una banda de sádicos fugitivos liderada por un despiadado criminal. Cuando los delincuentes buscan refugio por casualidad en la casa de los padres de una de las jóvenes, se desatará una noche de venganza implacable y sin retorno.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-08",
-                "time": "15:50"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-08",
-                "time": "15:50",
-                "version": "Programa doble junto a El vampiro de la noche"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-vampiro-de-la-noche-1972",
@@ -9088,24 +8893,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Carl Kolchak es un cínico y astuto periodista de investigación en Las Vegas que comienza a seguir una serie de extraños y brutales asesinatos en los que las víctimas aparecen completamente desangradas. Mientras la policía y las autoridades locales intentan ocultar la verdad y restarle importancia al asunto para no dañar el turismo de la ciudad, Kolchak se adentra en una investigación clandestina que le llevará a una aterradora conclusión: el asesino es, irremediablemente, un vampiro real.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-06",
-                "time": "22:15"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-08",
-                "time": "17:15"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-08",
-                "time": "15:50",
-                "version": "Programa doble junto a La última casa a la izquierda"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "rojo-oscuro-1975",
@@ -9130,19 +8918,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Marcus Daly, un pianista británico afincado en Turín, presencia de manera casual desde la calle el brutal asesinato de una célebre médica y parapsicóloga en su propio apartamento. Movido por la intriga, Marcus decide unirse a una aguda y persistente periodista para investigar los crímenes por su cuenta. A medida que examinan las pistas y se adentran en un laberinto de indicios macabros y decorados perturbadores, se darán cuenta de que el asesino está siempre un paso por delante, dispuesto a eliminar a cualquiera que se acerque a descubrir su verdadera identidad.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-07",
-                "time": "22:50"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-07",
-                "time": "21:15",
-                "version": "Programa doble junto a Suspiria"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-crazies-1972",
@@ -9170,8 +8946,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-10-08",
-                "time": "22:15"
+                "date": "2026-10-09",
+                "time": "16:00"
             }
         ]
     },
@@ -9218,18 +8994,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "En la Roma arrasada y empobrecida de la posguerra, dos jóvenes amigos que trabajan como limpiabotas callejeros, Giuseppe y Pasquale, sueñan con comprarse un caballo blanco. Para conseguir el dinero rápido, se ven envueltos de manera inocente en un pequeño chanchullo de estafa. Tras ser descubiertos por la policía, son arrestados y encerrados en un reformatorio juvenil, un entorno opresivo y corrupto que pondrá a prueba su amistad y destruirá poco a poco su inocencia.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-08",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-08",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "rec-2007",
@@ -9295,7 +9060,7 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-21",
+                "date": "2026-10-29",
                 "time": "19:30",
                 "version": "Coloquio con Emilio Doménech - Embajadores Río"
             }
@@ -9357,13 +9122,7 @@ const movies = [
             "Historia"
         ],
         "synopsis": "A través de una cuidada mirada guiada por el actor Jeremy Irons, el documental explora la ambivalente relación de Napoleón Bonaparte con el arte y la cultura. Desde el expolio sistemático de obras maestras en toda Europa hasta la modernización de los grandes museos como el Louvre y la transformación urbanística de capitales como Milán y París, la película analiza cómo el emperador utilizó la estética, el neoclásico y el mecenazgo como un instrumento político definitivo de poder y propaganda.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-07",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "frontera-2025",
@@ -9783,13 +9542,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Michèle es una adolescente que decide saltarse las clases en Bruselas. En su deambular por la ciudad, conoce a Paul, un joven desertor con el que experimenta un fugaz romance. A través de una mirada íntima, urbana y profundamente personal, la película retrata la confusión de los deseos, la juventud y el discurrir de los sentimientos en vísperas del Mayo del 68.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-07",
-                "time": "20:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "news-from-home-1977",
@@ -9807,13 +9560,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "A través de largos y estáticos planos fijos de las calles, el metro y las entrañas de Nueva York a mediados de los años setenta, la propia Chantal Akerman lee en voz alta las cartas que su madre le escribía religiosamente desde Bruselas, en las que combinaba noticias familiares cotidianas con la constante súplica de recibir noticias de su hija.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-08",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "alice-carino-2022",
@@ -10053,6 +9800,1242 @@ const movies = [
                 "date": "2026-10-31",
                 "time": "20:00",
                 "version": "Cine mudo con piano en directo (Federico Lechner)"
+            }
+        ]
+    },
+    {
+        "id": "munch-y-sus-criaturas-fantasticas-2023",
+        "title": "Munch y sus criaturas fantásticas",
+        "originalTitle": "Munch: Love, Ghosts, and Lady Vampires",
+        "poster": "images/munch-y-sus-criaturas-fantasticas.jpg",
+        "director": "Michele Mally",
+        "cast": [],
+        "year": 2023,
+        "duration": 90,
+        "country": "Italia",
+        "genres": [
+            "Documental",
+            "Arte",
+            "Cine biográfico"
+        ],
+        "synopsis": "Un recorrido fascinante a través de la vida, el genio y los rincones más oscuros de la mente de Edvard Munch, analizando las criaturas fantásticas, los fantasmas y las musas que poblaron sus icónicas obras y marcaron un antes y un después en la historia del arte moderno.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-14",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-14",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "deux-femmes-en-or-2025",
+        "title": "Deux femmes en or",
+        "originalTitle": "Deux femmes en or",
+        "poster": "images/deux-femmes-en-or.jpg",
+        "director": "Chloé Robichaud",
+        "cast": [
+            "Karine Gonthier-Hyndman",
+            "Laurence Leboeuf",
+            "Mani Soleymanlou",
+            "Félix Moati",
+            "Sophie Nélisse"
+        ],
+        "year": 2025,
+        "duration": 100,
+        "country": "Canadá",
+        "genres": [
+            "Comedia dramática",
+            "Cine independiente"
+        ],
+        "synopsis": "Violette y Florence ya no logran comprender lo que les está sucediendo. Ambas vecinas están atormentadas por una sensación de fracaso: a pesar de tener carreras profesionales exitosas y familias consolidadas, no son felices. ¿Y si la felicidad consistiera en rebelarse contra una sociedad rígida, obsesionada con el rendimiento, eligiendo a veces la satisfacción inmediata en lugar del éxito, y la libertad en lugar de hacer siempre lo correcto? En un mundo donde divertirse está muy lejos de ocupar los primeros puestos en la lista de prioridades, vivir una aventura con el repartidor puede convertirse en un acto revolucionario. Para Violette y Florence, es ese soplo de aire fresco que tanto tiempo llevaban esperando.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-04",
+                "time": "19:00",
+                "version": "Coloquio posterior con Vanessa-Tatjana Beerli"
+            }
+        ]
+    },
+    {
+        "id": "the-pupil-2025",
+        "title": "The Pupil",
+        "originalTitle": "De Pupil",
+        "poster": "images/the-pupil.jpg",
+        "director": "Karin Junger",
+        "cast": [
+            "Bart de Wilde",
+            "Gijs Naber",
+            "Hadewych Minis",
+            "Marcel Hensema",
+            "Joost Meuwsen"
+        ],
+        "year": 2025,
+        "duration": 105,
+        "country": "Países Bajos, Bélgica",
+        "genres": [
+            "Drama",
+            "Cine social"
+        ],
+        "synopsis": "A medida que la línea que separa la mentoría de la manipulación empieza a desdibujarse, Daan, de 12 años, se enfrenta al desafío más aterrador de su joven vida: distinguir el afecto de su entrenador de fútbol del abuso.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid", 
+                "date": "2026-11-05",
+                "time": "20:00",
+                "version": " Coloquio posterior con la directora Karin Junger."
+            }
+        ]
+    },
+    {
+        "id": "the-last-resort-2025",
+        "title": "The Last Resort",
+        "originalTitle": "Paradis",
+        "poster": "images/the-last-resort.jpg",
+        "director": "Maria Sødahl",
+        "cast": [
+            "Esben Smed",
+            "Danica Curcic",
+            "Sif Lucca Gersby",
+            "Chili Olivia Jensen",
+            "Aziz Çapkurt",
+            "Antonio Estrada",
+            "Claes Ljungmark",
+            "Rosa Nicolas"
+        ],
+        "year": 2025,
+        "duration": 100,
+        "country": "Dinamarca",
+        "genres": [
+            "Drama",
+            "Thriller psicológico"
+        ],
+        "synopsis": "Mikkel y Louise se van de merecidas vacaciones con todo incluido junto a sus dos hijas. Pero la realidad da un giro inesperado cuando, accidentalmente, atropellan con su coche a un hombre. Cuando este aparece más tarde en el hotel y les pide ayuda, deciden echarle una mano. Sin embargo, a medida que se involucran en la situación, sus buenas intenciones y sus valores se ponen a prueba, y pronto se ven obligados a enfrentarse a preguntas fundamentales: ¿Qué significa realmente ser una buena persona y hasta dónde estamos dispuestos a llegar para ayudar a alguien que lo necesita?",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-05",
+                "time": "20:30",
+                "version": "Coloquio posterior con la directora Maria Sødahl."
+            }
+        ]
+    },
+    {
+        "id": "the-girls-from-above-2025",
+        "title": "The Girls From Above",
+        "originalTitle": "Les filles du ciel",
+        "poster": "images/the-girls-from-above.jpg",
+        "director": "Bérangère McNeese",
+        "cast": [
+            "Héloïse Volle",
+            "Shirel Nataf",
+            "Yowa-Angélys Tshikaya",
+            "Mona Berard"
+        ],
+        "year": 2025,
+        "duration": 96,
+        "country": "Bélgica, Francia",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Héloïse no tiene adónde ir. Conoce a Mallorie, quien le ofrece quedarse en el piso que comparte con otras dos jóvenes. Allí, Héloïse encuentra un nuevo hogar y una nueva familia. Pero las heridas del pasado amenazan el frágil equilibrio entre estas mujeres que, en apariencia, parecen tan fuertes.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-06",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "vidas-en-la-orilla-2025",
+        "title": "Vidas en la orilla",
+        "originalTitle": "Vidas en la orilla",
+        "poster": "images/vidas-en-la-orilla.jpg",
+        "director": "Lucía Gajá",
+        "cast": [],
+        "year": 2025,
+        "duration": 107,
+        "country": "México",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Derechos humanos"
+        ],
+        "synopsis": "A casi 20 años de la cinta Mi vida dentro, la cineasta mexicana Lucía Gajá retoma el caso de Rosa Estela Olvera Jiménez, una migrante mexicana acusada de asesinar a un menor de edad. A una década y media de distancia, esta secuela muestra la forma en la que tanto los familiares de Rosa como distintos colectivos sociales lograron regresarle la libertad que se le arrebató injustamente.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-06",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "jimpa-2025",
+        "title": "Jimpa",
+        "originalTitle": "Jimpa",
+        "poster": "images/jimpa.jpg",
+        "director": "Sophie Hyde",
+        "cast": [
+            "Olivia Colman",
+            "John Lithgow",
+            "Aud Mason-Hyde",
+            "Daniel Henshall",
+            "Kate Box"
+        ],
+        "year": 2025,
+        "duration": 113,
+        "country": "Australia, Países Bajos, Finlandia",
+        "genres": [
+            "Drama",
+            "Cine familiar",
+            "LGTBIQ+"
+        ],
+        "synopsis": "Hannah lleva a su hije adolescente no binarie, Frances, a Ámsterdam para visitar a su abuelo gay, Jim, conocido cariñosamente como Jimpa. Pero el deseo de Frances de quedarse en el extranjero con Jimpa durante un año obliga a Hannah a reconsiderar sus creencias sobre la crianza de los hijos y a afrontar viejas heridas del pasado.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-06",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "dont-call-me-mama-2025",
+        "title": "Don't Call Me Mama",
+        "originalTitle": "Se meg",
+        "poster": "images/dont-call-me-mama.jpg",
+        "director": "Nina Knag",
+        "cast": [
+            "Pia Tjelta",
+            "Tarek Zayat",
+            "Kristoffer Joner",
+            "Kathrine Thorborg Johansen",
+            "Ragnhild Gudbrandsen",
+            "Nina Ellen Ødegård",
+            "Benjamin Ebbesen",
+            "Selma Brattabø"
+        ],
+        "year": 2025,
+        "duration": 105,
+        "country": "Noruega",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Una mujer de un pequeño pueblo noruego se encuentra en el dilema más difícil de su vida cuando se enamora de un joven solicitante de asilo e inicia un romance clandestino que acaba teniendo consecuencias devastadoras para ambos. La historia se mueve en las zonas grises entre la ingenuidad y la explotación, el poder y la impotencia, donde la simpatía cambia de un lado a otro constantemente. ",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-07",
+                "time": "18:00",
+                "version": "Coloquio posterior con la directora Nina Knag"
+            }
+        ]
+    },
+    {
+        "id": "postumo-2025",
+        "title": "Póstumo",
+        "originalTitle": "Póstumo",
+        "poster": "images/postumo.jpg",
+        "director": "Lucía Carreras",
+        "cast": [
+            "Diana Sedano",
+            "Adrián Ladrón",
+            "Diego Jáuregui",
+            "Cecilia Cantú"
+        ],
+        "year": 2025,
+        "duration": 101,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Realismo mágico"
+        ],
+        "synopsis": "Dolores y Luis tienen un encuentro que solo el realismo mágico permite. Al descubrir uno quién es el otro, tienen la oportunidad de conocer su vínculo familiar y esa parte dolorosa que los une.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-07",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "tangles-2026",
+        "title": "Tangles",
+        "originalTitle": "Tangles",
+        "poster": "images/tangles.jpg",
+        "director": "Leah Nelson",
+        "cast": [
+            "Abbi Jacobson",
+            "Julia Louis-Dreyfus",
+            "Bryan Cranston",
+            "Beanie Feldstein",
+            "Seth Rogen",
+            "Samira Wiley",
+            "Wanda Sykes",
+            "Bowen Yang"
+        ],
+        "year": 2026,
+        "duration": 101,
+        "country": "Canadá, Estados Unidos",
+        "genres": [
+            "Animación",
+            "Drama",
+            "Cine biográfico"
+        ],
+        "synopsis": "Sarah deja atrás su apasionante vida como activista y artista en el San Francisco de los noventa cuando se ve obligada a regresar a su pequeña y conservadora ciudad, de la que huyó hace unos años, al enterarse de que el Alzheimer ha empezado a socavar la vibrante personalidad de su madre. Obligada a madurar a toda velocidad, deberá compaginar una nueva relación, sus ambiciones profesionales y una familia de lo más excéntrica, con la que hace un viaje de ida y vuelta a México en un último esfuerzo para convencerles de que se tomen la situación en serio. Frente a una realidad desconcertante que no puede controlar, Sarah no tendrá más remedio que encontrar un equilibrio aceptando el deterioro de su madre y la maravillosa imperfección de su familia, si quiere ser la hija que necesitan.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-07",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "woman-unknown-2026",
+        "title": "Woman Unknown",
+        "originalTitle": "Kvinde Ukendt",
+        "poster": "images/woman-unknown.jpg",
+        "director": "May el-Toukhy",
+        "cast": [
+            "Mathilde Arcel",
+            "Carsten Bjørnlund",
+            "Thorbjørn Hedegaard",
+            "Marina Bouras",
+            "Mia Plantin",
+            "Sofia Nolsøe",
+            "Flora Yde Sander",
+            "Mikael Birkkjær"
+        ],
+        "year": 2026,
+        "duration": 126,
+        "country": "Dinamarca, Suecia, Letonia",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Thriller psicológico"
+        ],
+        "synopsis": "Marie, una joven niñera y criada, está a punto de casarse con Christian, un rico viudo de mayor edad para quien trabaja. Pero Marie guarda un secreto vergonzoso. Durante la Segunda Guerra Mundial, mantuvo una relación íntima con un soldado alemán. Ahora, el pasado de Marie amenaza con alcanzarla y se ve obligada a hacer todo lo que esté en su mano para conservar su nueva posición como señora de la casa en medio de la anarquía de la posguerra.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-07",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "timestamp-2025",
+        "title": "Timestamp",
+        "originalTitle": "Timestamp",
+        "poster": "images/timestamp.jpg",
+        "director": "Kateryna Gornostai",
+        "cast": [],
+        "year": 2025,
+        "duration": 125,
+        "country": "Ucrania, Luxemburgo, Países Bajos, Francia",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Bélico"
+        ],
+        "synopsis": "Mantener las escuelas abiertas en Ucrania es un intento de recuperar, al menos en parte, la normalidad que tenían antes de la guerra. Sin entrevistas, narración ni recreaciones, Timestamp ofrece una mirada a cómo la guerra está afectando a la vida cotidiana de estudiantes y profesores. La película tiene una estructura de mosaico: explora cómo funciona una escuela, tanto presencialmente como en línea, en estos tiempos terribles, tanto en el frente como lejos de él, y cómo la vida cotidiana está entrelazada con un peligro constante.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-08",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "gentle-monster-2026",
+        "title": "Gentle Monster",
+        "originalTitle": "Gentle Monster",
+        "poster": "images/gentle-monster.jpg",
+        "director": "Marie Kreutzer",
+        "cast": [
+            "Léa Seydoux",
+            "Catherine Deneuve",
+            "Jella Haase",
+            "Sylvester Groth",
+            "Laurence Rupp",
+            "Anton Rubtsov",
+            "Katharina Lorenz",
+            "Jeanne Werner"
+        ],
+        "year": 2026,
+        "duration": 115,
+        "country": "Austria, Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Lucy, cantante y pianista, acaba de trasladar a su familia de un piso en la ciudad a una casa en el campo con la esperanza de que se recupere de un profundo desgaste y agotamiento profesional.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-08",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "la-deriva-2026",
+        "title": "La deriva",
+        "originalTitle": "Dust",
+        "poster": "images/la-deriva.jpg",
+        "director": "Tsai Ming-Liang",
+        "cast": [
+            "Lee Kang-sheng"
+        ],
+        "year": 2026,
+        "duration": 80,
+        "country": "España, Taiwán",
+        "genres": [
+            "Cine de autor",
+            "Experimental",
+            "Documental"
+        ],
+        "synopsis": "La undécima película de la serie El Caminante sigue al caminante por San Sebastián. Deambula por el Peine del Viento, donde el mar se alza y rompe contra la orilla. En el camino se cruza con un viejo caserío vasco, un hombre silencioso, una mujer que bebe agua, una mujer que fuma, punks reunidos en un bar de rock, y gente en el barrio antiguo al atardecer. El Sutra del Diamante habla de todos los seres vivos con estas palabras: «Las motas de polvo no son motas de polvo; por eso se llaman motas de polvo».",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-09",
+                "time": "18:30"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-10",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-11",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "erem-una-gran-familia-2026",
+        "title": "Érem una gran família",
+        "originalTitle": "Érem una gran família",
+        "poster": "images/erem-una-gran-familia.jpg",
+        "director": "Cristina Rosselló",
+        "cast": [],
+        "year": 2026,
+        "duration": 80,
+        "country": "España, Colombia",
+        "genres": [
+            "Documental",
+            "Cine histórico",
+            "Memoria"
+        ],
+        "synopsis": "Miquelina, Josep y, más tarde, su hijo Pattet, filmaron sus vidas entre 1942 y 1999 sin otro propósito que crear recuerdos para el futuro. Sin saberlo, capturaron una cara del siglo XX próxima a los poderes del Estado.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-15",
+                "time": "20:00",
+                "version": "Presentación a cargo de Cristina Rosselló, Ricard Sales y Pedro Palacios. "
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-16",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-17",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-18",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "derek-vs-derek-2026",
+        "title": "Derek vs Derek",
+        "originalTitle": "Derek vs Derek",
+        "poster": "images/derek-vs-derek.jpg",
+        "director": "James Damer Dawson",
+        "cast": [],
+        "year": 2026,
+        "duration": 88,
+        "country": "Reino Unido",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Comedia"
+        ],
+        "synopsis": "Dos granjeros vecinos, ambos llamados Derek, encarnan dos formas opuestas de imaginar el futuro del campo. Mientras uno defiende la agricultura intensiva como garantía para producir alimentos, el otro transforma sus tierras en un refugio para la vida salvaje. Entre animales fugados, discusiones y mucho humor, su rivalidad convierte un conflicto vecinal en una pregunta urgente: ¿Cómo podemos alimentar a una población creciente y, al mismo tiempo, devolver espacio a una naturaleza cada vez más amenazada?",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-20",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-20",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "la-pieta-2026",
+        "title": "La Pietà",
+        "originalTitle": "La Pietà",
+        "poster": "images/la-pieta.jpg",
+        "director": "Pepe Andreu, Rafa Molés",
+        "cast": [],
+        "year": 2026,
+        "duration": 82,
+        "country": "España, Islandia, Lituania",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Naturaleza"
+        ],
+        "synopsis": "En una remota granja al pie del mayor glaciar de Islandia, los recuerdos de una familia se entrelazan con un paisaje que está desapareciendo. A través de fotografías, voces y una poderosa memoria íntima, La Pietà convierte el retroceso del hielo en una historia sobre el paso del tiempo, la pérdida y nuestra relación con la naturaleza. Un relato bello y conmovedor que nos recuerda que, cuando un paisaje desaparece, también se desvanece parte de la memoria de quienes aprendieron a vivir junto a él.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-21",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "let-our-mountains-live-2026",
+        "title": "Let Our Mountains Live",
+        "originalTitle": "Let Our Mountains Live",
+        "poster": "images/let-our-mountains-live.jpg",
+        "director": "Håvard Bustnes",
+        "cast": [],
+        "year": 2026,
+        "duration": 100,
+        "country": "Noruega, Finlandia",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Ecología"
+        ],
+        "synopsis": "En las montañas de Noruega, uno de los mayores proyectos eólicos de Europa amenaza las tierras de pastoreo de las que dependen las comunidades sami y su cultura ancestral. Aunque el Tribunal Supremo reconoce que la instalación vulnera sus derechos, las turbinas permanecen. Let Our Mountains Live acompaña su lucha frente al Estado y plantea una incómoda paradoja: ¿puede construirse una transición verde sacrificando a quienes llevan generaciones protegiendo el territorio? Un relato sobre justicia climática, poder y resistencia indígena.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-21",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "christiania-2026",
+        "title": "Christiania",
+        "originalTitle": "Christiania",
+        "poster": "images/christiania.jpg",
+        "director": "Karl Friis Forchhammer",
+        "cast": [],
+        "year": 2026,
+        "duration": 93,
+        "country": "Dinamarca",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Historia"
+        ],
+        "synopsis": "Christiania es uno de los experimentos comunitarios más singulares de Europa: una comuna autogestionada que durante más de cinco décadas ha intentado construir una forma de vida basada en la libertad, la creatividad y la democracia por consenso. A través de un extraordinario archivo y una mirada cercana y llena de humor, el documental recorre sus ideales, tensiones y transformaciones, preguntándose hasta qué punto una comunidad puede cambiar para sobrevivir sin renunciar a aquello que la hizo única.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-22",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "elements-of-balance-2025",
+        "title": "Elements of(f) Balance",
+        "originalTitle": "Elements of(f) Balance",
+        "poster": "images/elements-of-balance.jpg",
+        "director": "Othmar Schmiderer",
+        "cast": [],
+        "year": 2025,
+        "duration": 100,
+        "country": "Austria, Alemania",
+        "genres": [
+            "Documental",
+            "Ecología",
+            "Cine social"
+        ],
+        "synopsis": "Elements of(f) Balance nos invita a adentrarnos en ecosistemas apenas explorados que emergen entre las ruinas de un modelo basado en la explotación de la naturaleza. Lejos de plantear una visión distópica del futuro, el documental dirige la mirada hacia otras formas posibles de habitar el mundo: relaciones basadas en la interdependencia, la cooperación y la recuperación de vínculos que parecían olvidados. Una película que propone repensar nuestra relación con el entorno y descubrir, en medio de la crisis ecológica, nuevas posibilidades de equilibrio entre los seres humanos y los ecosistemas de los que formamos parte.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-23",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "vanishing-tracks-2026",
+        "title": "Vanishing Tracks",
+        "originalTitle": "Vanishing Tracks",
+        "poster": "images/vanishing-tracks.jpg",
+        "director": "Hamed Zolfaghari",
+        "cast": [],
+        "year": 2026,
+        "duration": 93,
+        "country": "Francia, Irán, Noruega, Corea del Sur, Catar",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Antropológico"
+        ],
+        "synopsis": "En Irán, Valiollah y Dorna viven los últimos años de una existencia nómada amenazada por la sedentarización y por un mundo que cambia demasiado deprisa. Mientras sus hijos miran hacia la ciudad, ellos intentan mantener un vínculo con el territorio, el rebaño y una forma de vida heredada durante generaciones. El robo de parte de sus animales acentúa una distancia que ya estaba creciendo. Íntimo y contemplativo, el documental reflexiona sobre todo aquello que se pierde cuando el progreso rompe los lazos entre comunidad, memoria y paisaje.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-23",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "yanuni-2025",
+        "title": "Yanuni",
+        "originalTitle": "Yanuni",
+        "poster": "images/yanuni.jpg",
+        "director": "Richard Ladkani",
+        "cast": [
+            "Juma Xipaia"
+        ],
+        "year": 2025,
+        "duration": 112,
+        "country": "Austria, Brasil, Estados Unidos, Canadá, Alemania",
+        "genres": [
+            "Documental",
+            "Cine social",
+            "Ecología"
+        ],
+        "synopsis": "En la Amazonia brasileña, la líder indígena Juma Xipaia lleva años defendiendo su territorio frente a la minería ilegal, la violencia y los intereses que amenazan la selva. Yanuni acompaña de cerca una lucha que es política, ambiental y profundamente personal, especialmente cuando la maternidad introduce una nueva dimensión de futuro. Íntima y urgente, la película conecta la defensa de los pueblos indígenas con la protección de uno de los ecosistemas esenciales del planeta y recuerda que cuidar la Amazonia es también decidir qué mundo dejamos a quienes vienen detrás.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-24",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "durmiendo-con-lobos-2026",
+        "title": "Durmiendo con lobos",
+        "originalTitle": "Durmiendo con lobos",
+        "poster": "images/durmiendo-con-lobos.jpg",
+        "director": "Andoni Canela",
+        "cast": [
+            "Andoni Canela",
+            "Amaia Canela"
+        ],
+        "year": 2026,
+        "duration": 93,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Naturaleza",
+            "Cine familiar"
+        ],
+        "synopsis": "Durante cinco años, Andoni Canela y su hija Amaia comparten un mismo sueño: ver lobos en libertad. Entre montañas, noches bajo las estrellas y mucha paciencia, descubrirán que encontrar al lobo es solo el principio. Un viaje para comprender que el futuro del lobo es también el futuro de nuestros bosques y montañas.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-25",
+                "time": "12:00"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-10-11",
+                "time": "12:15"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-10-12",
+                "time": "12:15"
+            }
+        ]
+    },
+    {
+        "id": "hijas-del-bosque-2026",
+        "title": "Hijas del Bosque",
+        "originalTitle": "Hijas del Bosque",
+        "poster": "images/hijas-del-bosque.jpg",
+        "director": "Otilia Portillo",
+        "cast": [],
+        "year": 2026,
+        "duration": 95,
+        "country": "México",
+        "genres": [
+            "Documental",
+            "Naturaleza",
+            "Científico"
+        ],
+        "synopsis": "En los bosques de México, dos micólogas indígenas se adentran en el fascinante universo de los hongos, donde saberes ancestrales y ciencia contemporánea se encuentran. Hijas del bosque es una experiencia cautivadora, tierna y sorprendente que combina documental, ciencia y especulación para descubrir las conexiones invisibles que sostienen la vida. Un viaje sensorial y casi mágico que invita a mirar la naturaleza de otra manera y a imaginar futuros basados en el cuidado, la interdependencia y la colaboración entre especies.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-25",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "gallega-invernal-avenida-saenz-1073-2026",
+        "title": "Gallega invernal + Avenida Saenz 1073",
+        "originalTitle": "Gallega invernal + Avenida Saenz 1073",
+        "poster": "images/gallega-invernal-avenida-saenz-1073.jpg",
+        "director": "Lucía Seles",
+        "cast": [],
+        "year": 2026,
+        "duration": 130,
+        "country": "Argentina, España",
+        "genres": [
+            "Cine de autor",
+            "Documental",
+            "Experimental"
+        ],
+        "synopsis": "Programa doble compuesto por dos obras de Lucía Seles. Gallega invernal (2026, 65'): Cuando una mujer ama a una confitería. Avenida Saenz 1073 - video dedicado a la enfermedad de mi padre (2025, 65'): Una de las personas que aparecían al final de The Urgency of Death visita la casa donde vivía de pequeña y hablan de muchas cosas que destruyeron a su padre.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-10-30",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "el-deshielo-2026",
+        "title": "El deshielo",
+        "originalTitle": "The Meltdown",
+        "poster": "images/el-deshielo.jpg",
+        "director": "Manuela Martelli",
+        "cast": [
+            "Maya O'Rourke",
+            "Maia Rae Domagala",
+            "Saskia Rosendahl",
+            "Jakub Gierszał",
+            "Paulina Urrutia",
+            "Mauricio Pesutic"
+        ],
+        "year": 2026,
+        "duration": 108,
+        "country": "Chile, Estados Unidos, España, México",
+        "genres": [
+            "Drama",
+            "Thriller"
+        ],
+        "synopsis": "Chile, 1992. Mientras se aloja en el remoto hotel de sus abuelos, cerca de una estación de esquí de los Andes, Inés (9) entabla amistad con Hanna (15), una esquiadora alemana. Cuando Hanna desaparece sin dejar rastro, la búsqueda de la joven saca a la luz verdades ocultas.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-04",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "se-busca-2026",
+        "title": "Se busca",
+        "originalTitle": "Se busca",
+        "poster": "images/se-busca.jpg",
+        "director": "Kenya Márquez",
+        "cast": [
+            "Rocío Guzmán",
+            "Camila Calónico",
+            "Eileen Yañez",
+            "Fabián Corres"
+        ],
+        "year": 2026,
+        "duration": 97,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "René, una adolescente solitaria, insegura y rebelde, huye de sus sofocantes padres ante el mar de dudas en que se ahoga. Eso la llevará a recorrer un trayecto de dos mil kilómetros hacia Ciudad Juárez donde presiente que algo la llama y que supondrá también un revelador viaje interior.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-04",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "ah-girl-2026",
+        "title": "Ah Girl",
+        "originalTitle": "Ah Girl",
+        "poster": "images/ah-girl.jpg",
+        "director": "Ang Geck Geck Priscilla",
+        "cast": [
+            "Ong Xuan Jing",
+            "Sydney Wong",
+            "Doreen Toh",
+            "James Seah",
+            "Carrie Wong",
+            "Benjamin Heng"
+        ],
+        "year": 2026,
+        "duration": 99,
+        "country": "Singapur",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Singapur, 1994: Ah Girl, de siete años, vive con su hermana pequeña, Ah Tian, su padre y su abuela tras la separación de sus padres. Su madre las visita los fines de semana y colma a las niñas de comida y juguetes. Cuando Mamá le pide a Ah Girl que elija si quiere vivir con ella, la niña se debate entre complacerla y quedarse con su padre y su hermana. A lo largo del año, Ah Girl empieza a comprender lo inusual y frágil que es su situación familiar. Sus padres inician nuevas relaciones, el dinero escasea y existe la posibilidad de que Ah Tian tenga que marcharse. Entre aventuras infantiles, travesuras, accidentes, momentos felices y momentos de tristeza, Ah Girl lucha con la incertidumbre sobre el futuro de su familia y sobre cuál será, finalmente, su lugar.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-05",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "kairos-2026",
+        "title": "Kaïros",
+        "originalTitle": "Kaïros",
+        "poster": "images/kairos.jpg",
+        "director": "Jennifer Alleyn",
+        "cast": [
+            "Emmanuel Schwartz",
+            "Olivia Palacci",
+            "Elsa Guedj",
+            "Jennifer Alleyn",
+            "Philippe-Audrey Larrue-St-Jacques"
+        ],
+        "year": 2026,
+        "duration": 90,
+        "country": "Canadá",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Tras un año rodando en el extranjero, Manu, un actor de 39 años que en su día gozó de gran reconocimiento, regresa a su ciudad natal e intenta abrirse de nuevo camino en la industria. Contra todo pronóstico, consigue un trabajo como presentador de un programa nocturno de radio con llamadas en directo. En plena crisis existencial, Manu utiliza ese espacio para dar voz a las preguntas filosóficas que lo atormentan durante las largas noches. A través de sus conversaciones con los oyentes, un grupo de almas solitarias, su vida comienza a cobrar un nuevo sentido.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-05",
+                "time": "19:00",
+                "version": "Coloquio posterior con Jennifer Alleyn"
+            }
+        ]
+    },
+    {
+        "id": "la-gradiva-2026",
+        "title": "La Gradiva",
+        "originalTitle": "La Gradiva",
+        "poster": "images/la-gradiva.jpg",
+        "director": "Marine Atlan",
+        "cast": [
+            "Colas Quignard",
+            "Suzanne Gerin",
+            "Mitia Capellier",
+            "Antonia Buresi"
+        ],
+        "year": 2026,
+        "duration": 145,
+        "country": "Francia, Italia",
+        "genres": [
+            "Drama",
+            "Cine de autor",
+            "Misterio"
+        ],
+        "synopsis": "Un pequeño grupo de estudiantes de secundaria franceses se embarca en un viaje escolar a Pompeya para explorar sus ruinas y los cuerpos petrificados por el Vesubio en el año 79 d.C. En esta ciudad fantasma, de repente se ven invadidos por una sensación de vértigo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-06",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "metropolis-live-morales-2027",
+        "title": "Metrópolis (Live by Morales)",
+        "originalTitle": "Metropolis",
+        "poster": "images/metropolis.jpg",
+        "director": "Fritz Lang",
+        "cast": [
+            "Brigitte Helm",
+            "Alfred Abel",
+            "Gustav Fröhlich",
+            "Rudolf Klein-Rogge"
+        ],
+        "year": 1927,
+        "duration": 153,
+        "country": "Alemania",
+        "genres": [
+            "Ciencia ficción",
+            "Cine mudo",
+            "Cine clásico",
+            "Cine-concierto"
+        ],
+        "synopsis": "mk2 y Café Kino celebran el Centenario de Metrópolis con la proyección en 35 mm y la música electrónica en directo de Morales. Basada en la novela de Thea von Harbou, cuenta la historia de una ciudad, la ciudad del futuro, donde la máquina es dios. Los obreros, criados de la máquina, viven en una ciudad subterránea, sostenidos en su resignación por una joven pura, enamorada del hijo de su patrón que les presenta como su futuro liberador. Metrópolis es sin duda la obra maestra del expresionismo alemán. La música original, tocada en directo, ha sido creada para la ocasión por el pianista y compositor de música electrónica Morales: tan vibrante como juguetona, con sonidos sintéticos, experimentales y aroma a dreampop.",
+        "screenings": [
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2027-02-06",
+                "time": "20:00",
+                "version": "35mm con música electrónica en directo"
+            }
+        ]
+    },
+    {
+        "id": "chivalric-tornado-1989",
+        "title": "Chivalric Tornado",
+        "originalTitle": "Chivalric Tornado",
+        "poster": "images/chivalric-tornado.jpg",
+        "director": "",
+        "cast": [
+            "Jack Long",
+            "Mark Long"
+        ],
+        "year": 1989,
+        "duration": 90,
+        "country": "Taiwán",
+        "genres": [
+            "Comedia",
+            "Acción",
+            "Terror",
+            "Trash"
+        ],
+        "synopsis": "Los Jiang Shi, también conocidos como vampiros chinos, protagonizan esta sesión de jarana, desmadre y caos sobrenatural, que reinventa y trasciende el concepto de vergüenza ajena. La película cuenta las desopilantes aventuras de un inocente niño vampiro que emprende la búsqueda de sus padres mientras encadena los sucesos más insólitos y se enfrenta a zombis, hechiceros excéntricos, criaturas imposibles y hasta toros de lidia mutantes. Supuestamente concebida para el público infantil, está atiborrada de violencia descarnada, palabrotas, chistes pervertidos y peleas prácticamente ininterrumpidas.",
+        "screenings": [
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-11-13",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "quien-engano-a-roger-rabbit-1988",
+        "title": "¿Quién engañó a Roger Rabbit?",
+        "originalTitle": "Who Framed Roger Rabbit",
+        "poster": "images/quien-engano-a-roger-rabbit.jpg",
+        "director": "Robert Zemeckis",
+        "cast": [
+            "Bob Hoskins",
+            "Christopher Lloyd",
+            "Joanna Cassidy",
+            "Charles Fleischer",
+            "Kathleen Turner"
+        ],
+        "year": 1988,
+        "duration": 104,
+        "country": "Estados Unidos",
+        "genres": [
+            "Animación",
+            "Comedia",
+            "Cine negro",
+            "Fantasía"
+        ],
+        "synopsis": "Hollywood, 1947. Eddie Valiant, un detective privado cínico y alcohólico, es contratado para investigar un caso de celos que involucra a Jessica Rabbit, la sensual esposa de la estrella de dibujos animados Roger Rabbit. Cuando el dueño del club nocturno en el que trabaja Jessica aparece asesinado, todas las pruebas apuntan a Roger, desatando una divertida e ingeniosa conspiración entre el mundo real y el de los 'toons'.",
+        "screenings": [
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-12-12",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "la-donna-scimmia-1964",
+        "title": "Se acabó el negocio",
+        "originalTitle": "La donna scimmia",
+        "poster": "images/la-donna-scimmia.jpg",
+        "director": "Marco Ferreri",
+        "cast": [
+            "Ugo Tognazzi",
+            "Annie Girardot",
+            "Ernesto Grassi",
+            "Ugo Rossi",
+            "Federico von Ruffin"
+        ],
+        "year": 1964,
+        "duration": 89,
+        "country": "Italia, Francia",
+        "genres": [
+            "Drama",
+            "Comedia dramática",
+            "Cine clásico"
+        ],
+        "synopsis": "En Nápoles, un hombre sin escrúpulos llamado Antonio descubre en un asilo a María, una joven joven cuyo cuerpo está completamente cubierto de vello. Viendo una oportunidad lucrativa, decide sacarla de allí, casarse con ella y exhibirla en público como si fuera una atracción de feria, un eslabón perdido. La película retrata con crudeza y acidez la crueldad de la sociedad y la explotación humana.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-20",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "peppermint-frappe-1967",
+        "title": "Peppermint Frappé",
+        "originalTitle": "Peppermint Frappé",
+        "poster": "images/peppermint-frappe.jpg",
+        "director": "Carlos Saura",
+        "cast": [
+            "Geraldine Chaplin",
+            "José Luis López Vázquez",
+            "Alfredo Mayo",
+            "Amelia de la Torre",
+            "María Rosa Salgado"
+        ],
+        "year": 1967,
+        "duration": 92,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine psicológico",
+            "Cine clásico"
+        ],
+        "synopsis": "Julián, un médico conservador y solitario de provincias, se reencuentra tras muchos años con su amigo de la infancia Pablo, un hombre moderno y cosmopolita que regresa de viajar por el mundo acompañado de su misteriosa y exótica esposa, Elena. Julián queda obsesionado con Elena, una fijación que le evoca un amor de juventud y que poco a poco se irá convirtiendo en una turbia y peligrosa obsesión.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-20",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "belle-epoque-1992",
+        "title": "Belle Époque",
+        "originalTitle": "Belle Époque",
+        "poster": "images/belle-epoque.jpg",
+        "director": "Fernando Trueba",
+        "cast": [
+            "Jorge Sanz",
+            "Maribel Verdú",
+            "Penélope Cruz",
+            "Miriam Díaz-Aroca",
+            "Ariadna Gil",
+            "Gabino Diego",
+            "Fernando Fernán Gómez"
+        ],
+        "year": 1992,
+        "duration": 102,
+        "country": "España",
+        "genres": [
+            "Comedia romántica",
+            "Comedia dramática",
+            "Cine clásico español"
+        ],
+        "synopsis": "En el invierno de 1931, poco antes de que se proclame la Segunda República española, Fernando, un joven soldado desertor, llega a un apacible paraje rural donde es acogido por Manolo, un artista bohemio y cínico que vive retirado del mundo. La tranquilidad del lugar se altera cuando las cuatro hermosas y muy diferentes hijas de Manolo —Clara, Violeta, Rocío y Luz— llegan a la casa familiar. Fernando, con su encanto natural, terminará enamorándose y manteniendo idilios sucesivos con todas ellas, en un ambiente idílico lleno de libertad y belleza.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-21",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "la-esposa-americana-1965",
+        "title": "La esposa americana",
+        "originalTitle": "Il magnifico cornuto",
+        "poster": "images/la-esposa-americana.jpg",
+        "director": "Gian Luigi Polidoro",
+        "cast": [
+            "Ugo Tognazzi",
+            "Claudia Cardinale",
+            "Michèle Girard",
+            "Salvo Randone",
+            "Gianrico Tedeschi"
+        ],
+        "year": 1965,
+        "duration": 115,
+        "country": "Italia, Francia",
+        "genres": [
+            "Comedia",
+            "Sátira",
+            "Cine clásico"
+        ],
+        "synopsis": "Riccardo Vanzi (Ugo Tognazzi) trabaja en una empresa de zapatos en Italia cuando recibe el encargo de viajar a Nueva York. Al llegar a la Gran Manzana quedará maravillado con el confortable nivel de vida y con el famoso Sueño Americano, por lo que decidirá conseguir la ciudadanía a toda costa. Su primera idea es lograrla mediante un matrimonio, pero parece que el sex appeal del hombre latino está en decaída...",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-21",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "los-girasoles-ciegos-2008",
+        "title": "Los girasoles ciegos",
+        "originalTitle": "Los girasoles ciegos",
+        "poster": "images/los-girasoles-ciegos.jpg",
+        "director": "José Luis Cuerda",
+        "cast": [
+            "Maribel Verdú",
+            "Javier Cámara",
+            "Raúl Arévalo",
+            "Roger Príncep",
+            "José Ángel Egido"
+        ],
+        "year": 2008,
+        "duration": 95,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Guerra civil española",
+            "Cine dramático"
+        ],
+        "synopsis": "Ourense, 1940. En plena posguerra española, la represión franquista asfixia el país. Salvador, un diácono que ha renunciado a los votos, se obsesiona enfermizamente con Elena, una mujer casada cuyo marido, un republicano huido y derrotado, se esconde clandestinamente en un hueco excavado en el dormitorio de la propia casa. Una historia claustrofóbica y llena de tensión sobre el miedo, los secretos y la pérdida de la inocencia.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-22",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "que-dulce-es-morir-asi-1967",
+        "title": "Qué dulce es morir así",
+        "originalTitle": "Il fischio al naso",
+        "poster": "images/que-dulce-es-morir-asi.jpg",
+        "director": "Ugo Tognazzi",
+        "cast": [
+            "Ugo Tognazzi",
+            "Tina Louise",
+            "Olga Villi",
+            "Franca Bettoia",
+            "Alicia Brandet",
+            "Gildo Tognazzi",
+            "Marco Ferreri"
+        ],
+        "year": 1967,
+        "duration": 108,
+        "country": "Italia",
+        "genres": [
+            "Comedia",
+            "Comedia negra",
+            "Cine clásico"
+        ],
+        "synopsis": "Un empresario dedicado a la fabricación de productos elaborados en papel acude a visitar y mostrar su producto al director de una sofisticada clínica. Allí le detectan un extraño ruido en la nariz, lo que le obliga a quedarse ingresado en un centro médico que poco a poco se va convirtiendo en una kafkiana y delirante trampa.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-22",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "el-verdugo-1963",
+        "title": "El verdugo",
+        "originalTitle": "El verdugo",
+        "poster": "images/el-verdugo.jpg",
+        "director": "Luis García Berlanga",
+        "cast": [
+            "Nino Manfredi",
+            "Emma Penella",
+            "José Isbert",
+            "Guillermo Marín",
+            "Ángel Álvarez",
+            "José Luis López Vázquez"
+        ],
+        "year": 1963,
+        "duration": 137,
+        "country": "España, Italia",
+        "genres": [
+            "Comedia negra",
+            "Cine clásico",
+            "Sátira"
+        ],
+        "synopsis": "José Luis, un empleado de pompas fúnebres, tiene planes de marchar a Alemania para convertirse en un mecánico respetable. Su novia Carmen es hija de Amadeo, un verdugo oficial que está a punto de jubilarse. Cuando las circunstancias obligan a José Luis a aceptar el puesto de verdugo de su suegro para conseguir una vivienda oficial de protección, se verá atrapado de manera tragicómica en un mecanismo social implacable del que no podrá escapar.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-23",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "el-anacoreta-1976",
+        "title": "El anacoreta",
+        "originalTitle": "El anacoreta",
+        "poster": "images/el-anacoreta.jpg",
+        "director": "Juan Estelrich",
+        "cast": [
+            "Fernando Fernán Gómez",
+            "Martine Audard",
+            "Claude Dauphin",
+            "Maria Asquerino",
+            "José María Mompín",
+            "Audrey Mestre"
+        ],
+        "year": 1976,
+        "duration": 104,
+        "country": "España, Francia",
+        "genres": [
+            "Comedia dramática",
+            "Cine de autor",
+            "Cine clásico español"
+        ],
+        "synopsis": "Fernando Tobajas es un hombre de extrañas costumbres que decide instalarse en el piso superior de un edificio elegante, aislándose voluntariamente del mundo exterior y negándose a salir de la vivienda. Desde su particular encierro, contempla la vida de sus vecinos y mantiene una peculiar relación con ellos, especialmente con la hija de su casero, convirtiendo su excentricidad en una profunda y satírica reflexión sobre la soledad y la libertad en la sociedad moderna.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-24",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "los-muertos-no-se-tocan-nene-2011",
+        "title": "Los muertos no se tocan, nene",
+        "originalTitle": "Los muertos no se tocan, nene",
+        "poster": "images/los-muertos-no-se-tocan-nene.jpg",
+        "director": "José Luis García Sánchez",
+        "cast": [
+            "Carlos Iglesias",
+            "Silvia Marsó",
+            "Mariola Fuentes",
+            "Airas Fernández",
+            "Manuel Manquiña",
+            "Javier Albalá"
+        ],
+        "year": 2011,
+        "duration": 90,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Cine costumbrista",
+            "Sátira"
+        ],
+        "synopsis": "Logroño, años 40. A la muerte de un acaudalado patriarca familiar, se desencadena una serie de enredos, tensiones y situaciones rocambolescas en torno al velatorio y al riguroso luto que debe guardar la familia. Basada en la obra póstuma de Rafael Azcona, la película retrata con ironía y cariño las costumbres, la hipocresía social y la picaresca de una época.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-10-24",
+                "time": "21:00"
             }
         ]
     }
