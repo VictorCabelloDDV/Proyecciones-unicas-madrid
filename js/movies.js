@@ -11267,5 +11267,44 @@ const movies = [
                 "version": "Presentación y coloquio con SoyUnaPringada - Embajadores Río"
             }
         ]
+    },
+    {
+        "id": "jujutsu-kaisen-0-2021",
+        "title": "Jujutsu Kaisen 0: La película",
+        "originalTitle": "Gekijô-ban Jujutsu Kaisen 0",
+        "poster": "images/jujutsu-kaisen-0.jpg",
+        "director": "Sunghoo Park",
+        "cast": [
+            "Chinatsu Akasaki",
+            "Aya Endô",
+            "Kana Hanazawa",
+            "Show Hayami",
+            "Yu Hayashi",
+            "Satoshi Hino",
+            "Marina Inoue",
+            "Shizuka Itô"
+        ],
+        "year": 2021,
+        "duration": 105,
+        "country": "Japón",
+        "genres": [
+            "Animación",
+            "Acción",
+            "Fantasía",
+            "Anime"
+        ],
+        "synopsis": "Yuta Okkotsu es un chico de instituto bastante nervioso con un grave problema: su amiga Rika se ha convertido en una maldición y no le deja a solas. Ya que Rika no es una maldición ordinaria, capta la atención de Satoru Gojo, un profesor del Instituto de Hechicería de Tokio, donde los exorcistas aprenden a combatir a las maldiciones. Gojo convence a Yuta para enrolarse en la academia... ¿Podrá aprender Yuta a controlar a la maldición que le atormenta? Precuela de la serie anime «Jujutsu Kaisen».",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-30",
+                "time": "20:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-31",
+                "time": "11:30"
+            }
+        ]
     }
 ]
