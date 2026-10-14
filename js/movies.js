@@ -67,6 +67,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-20",
+                "time": "20:00",
+                "version": "Doblada al español"
             }
         ]
     },
@@ -1474,8 +1480,8 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-10-14",
-                "time": "16:00",
+                "date": "2026-10-16",
+                "time": "22:15",
                 "version": "Embajadores río"
             }
         ]
@@ -2131,13 +2137,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Viridiana, una joven novicia a punto de tomar los hábitos, visita a su tío antes de ingresar definitivamente en el convento. La visita desencadena una serie de acontecimientos que cambiarán por completo su vida y sus convicciones.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-12",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vértigo",
@@ -5679,13 +5679,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En un casino de Buenos Aires, un tahúr se reencuentra inesperadamente con su antiguo amor, que ahora es la deslumbrante y esquiva esposa de su jefe.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-13",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-paraguas-de-cherburgo",
@@ -6394,11 +6388,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Sala Berlanga",
-                "date": "2026-10-13",
-                "time": "19:00"
-            },
-            {
-                "cinema": "Sala Berlanga",
                 "date": "2026-10-14",
                 "time": "21:00"
             }
@@ -6418,18 +6407,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Un emotivo y reflexivo recorrido documental que explora los espacios de convivencia, las luchas sociales y la evolución de la memoria colectiva a través de una mirada profundamente humana a los márgenes y las identidades que construyen nuestra sociedad.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-13",
-                "time": "21:00"
-            },
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-14",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ruibal-por-libre-2022",
@@ -6744,14 +6722,7 @@ const movies = [
             "Memoria Histórica"
         ],
         "synopsis": "La Guerra Civil española vista a través de los ojos de una niña: Gabriela, quien ya adulta y exiliada en México, recuerda los acontecimientos que la marcaron profundamente durante aquella etapa de ruptura y pérdida. Versión restaurada en 2K en Elías Querejeta Zine Eskola (2025) en colaboración con Filmoteca UNAM y TV UNAM.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-14",
-                "time": "19:00",
-                "version": "Versión restaurada 2K"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-wisdom-of-wonder-eugenia-balcells-2024",
@@ -7339,13 +7310,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un hombre recorre los pueblos de la sierra de Durango junto a su familia, cargando con un proyector de cine de 16 mm para ofrecer funciones ambulantes en plazas y salones parroquiales. La película muestra la vida cotidiana de esta familia y su relación con las comunidades que visitan a través del cine.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-14",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "katyn-2007",
@@ -7771,14 +7736,7 @@ const movies = [
             "Cine experimental"
         ],
         "synopsis": "Programa de cortometrajes de Fernando Villaverde que incluye tres obras: 'El parque' (1963), un retrato documental de la vida en el Parque Central de La Habana; 'Elena' (1964), comedia romántica ambientada en los últimos años de la dictadura de Batista sobre una joven que intenta reunirse con su amante revolucionario; y 'A Lady's Home Journal' (1972), un recorrido por la vida real y/o imaginaria de una mujer dentro de su casa.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-13",
-                "time": "17:30",
-                "version": "Presentación a cargo de Fernando y Miñuca Villaverde, moderada por José Luis Aparicio"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "danton-1983",
@@ -7803,11 +7761,6 @@ const movies = [
         ],
         "synopsis": "En la primavera de 1794, Georges Danton regresa a París encontrándose con un clima de terror y ejecuciones masivas impuesto por el Comité de Salvación Pública liderado por Robespierre. Defensor de la moderación y de frenar la sangría revolucionaria, Danton se enfrentará dialéctica y políticamente a su antiguo aliado en un duelo a muerte donde se debate el destino de la Revolución.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-13",
-                "time": "20:00"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-10-30",
@@ -7836,14 +7789,7 @@ const movies = [
             "Patrimonio cinematográfico"
         ],
         "synopsis": "Programa doble de cortometrajes restaurados de los años setenta que incluye cinco obras clave del cine gallego: 'Fendetestas' (1975) de Antonio F. Simón, sobre un salteador de caminos en los años cuarenta; 'Illa' (1975) de Carlos A. López Piñeiro, testimonio de una isla marinera transformada en complejo turístico; 'O herdeiro' (1976) de Miguel Gato, sobre el legado rural; 'O cadaleito' (1976) de Enrique Baixeras, una venganza cruel en el medio rural gallego; y 'O pai de Migueliño' (1977) de Miguel Castelo, la memoria de la emigración europea. Sesión precedida de presentación a cargo de Jaime Pena, director de Filmoteca de Galicia (CGAI).",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-14",
-                "time": "19:00",
-                "version": "Presentación a cargo de Jaime Pena"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-chica-de-la-fabrica-de-cerillas-1990",
@@ -7866,13 +7812,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Iris es una joven gris y silenciosa que trabaja en una cadena de montaje de una fábrica de cerillas. Vive con su madre y su padrastro, quienes la explotan económicamente y la tratan con absoluta indiferencia. Su vida transcurre en una monotonía desoladora hasta que, tras una noche en la que cree encontrar una vía de escape, decide trazar una fría y meticulosa venganza contra todos aquellos que la han pisoteado.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-14",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "twenty-four-eyes-1954",
@@ -8614,13 +8554,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Aún lidiando con la trágica muerte accidental de su hija pequeña, un matrimonio viaja a Venecia debido a un encargo de restauración arquitectónica. Allí conocen a dos hermanas ancianas, una de las cuales es ciega y asegura poseer facultades psíquicas, afirmando ver a la niña fallecida y advirtiéndoles de un peligro inminente. A medida que el marido comienza a experimentar extrañas visiones por los canales de la ciudad, la atmósfera se vuelve cada vez más opresiva y desasosegante.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-13",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-otro-1972",
@@ -9485,13 +9419,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Una joven y ambiciosa estudiante de música en el Londres actual descubre en los sótanos de la Ópera un manuscrito perdido compuesto por un autor desconocido. Al interpretarlo, viaja en el tiempo hasta el París del siglo XIX, donde se encuentra cara a cara con el mismísimo Fantasma de la Ópera, un sádico compositor que hizo un pacto con el diablo y que está dispuesto a desatar una sangrienta carnicería para que ella cante sus canciones.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-12",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ghost-ship-2002",
@@ -9516,13 +9444,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Un equipo de rescate marítimo especializado localiza en medio del mar de Bering un transatlántico italiano de lujo, el Antonia Graza, que llevaba desaparecido y dado por perdido desde hacía más de cuarenta años. Sin embargo, al subir a bordo para saquearlo y remolcarlo hasta la costa, la tripulación descubre que el buque está maldito y habitado por fuerzas sobrenaturales vengativas y los oscuros espíritus de los pasajeros masacrados en el pasado.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-13",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-lavadora-asesina-1993",
@@ -9630,18 +9552,7 @@ const movies = [
             "Cine biográfico"
         ],
         "synopsis": "Un recorrido fascinante a través de la vida, el genio y los rincones más oscuros de la mente de Edvard Munch, analizando las criaturas fantásticas, los fantasmas y las musas que poblaron sus icónicas obras y marcaron un antes y un después en la historia del arte moderno.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-14",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-14",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "deux-femmes-en-or-2025",
@@ -10840,14 +10751,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "Una profunda y paciente mirada a las obras de derribo y construcción en el barrio del Chino (el Raval) de Barcelona. A través del seguimiento de los obreros de la construcción y de los vecinos del barrio, el director José Luis Guerin traza un fascinante fresco humano sobre el paso del tiempo, la gentrificación, las raíces y la transformación de la ciudad y sus gentes.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-14",
-                "time": "19:00",
-                "version": "Entrada libre hasta completar aforo - Coloquio con Júlia de Paz"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "poet-2021",
@@ -11233,6 +11137,134 @@ const movies = [
                 "date": "2026-11-04",
                 "time": "20:00",
                 "version": "Coloquio posterior con la directora"
+            }
+        ]
+    },
+    {
+        "id": "sangre-facil-1984",
+        "title": "Sangre fácil",
+        "originalTitle": "Blood Simple",
+        "poster": "images/sangre-facil.jpg",
+        "director": "Joel Coen, Ethan Coen",
+        "cast": [
+            "John Getz",
+            "Frances McDormand",
+            "Dan Hedaya",
+            "M. Emmet Walsh",
+            "Samm-Art Williams"
+        ],
+        "year": 1984,
+        "duration": 99,
+        "country": "Estados Unidos",
+        "genres": [
+            "Thriller",
+            "Cine negro",
+            "Cine clásico"
+        ],
+        "synopsis": "En un polvoriento pueblo de Texas, un celoso dueño de un bar descubre que su mujer mantiene una relación con uno de sus camareros. Decide entonces contratar a un sádico detective privado para que los asesine a ambos. Sin embargo, en el mundo de los hermanos Coen nada sale según lo previsto, y una cadena de equívocos, dobles intenciones y mala fortuna desata una espiral de violencia y suspense claustrofóbico.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-16",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "vlad-el-principe-de-la-oscuridad-2000",
+        "title": "Vlad, el príncipe de la oscuridad",
+        "originalTitle": "Dark Prince: The True Story of Dracula",
+        "poster": "images/vlad-el-principe-de-la-oscuridad.jpg",
+        "director": "Joe Chappelle",
+        "cast": [
+            "Rudolf Martin",
+            "Jane March",
+            "Christopher Brand",
+            "Peter Weller",
+            "Roger Daltrey"
+        ],
+        "year": 2000,
+        "duration": 92,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Drama histórico",
+            "Biopic"
+        ],
+        "synopsis": "La verdadera historia de Vlad el Empalador, el príncipe rumano de Valaquia cuya legendaria y implacable brutalidad sirvió de inspiración para dar forma al mito literario de Drácula. Una mirada cruda a las intrigas políticas, las guerras y los fantasmas que rodearon su turbulenta vida en el siglo XV.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-20",
+                "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "very-bad-things-1998",
+        "title": "Very Bad Things",
+        "originalTitle": "Very Bad Things",
+        "poster": "images/very-bad-things.jpg",
+        "director": "Peter Berg",
+        "cast": [
+            "Jon Favreau",
+            "Christian Slater",
+            "Cameron Diaz",
+            "Daniel Stern",
+            "Jeremy Piven",
+            "Jeanne Tripplehorn"
+        ],
+        "year": 1998,
+        "duration": 100,
+        "country": "Estados Unidos",
+        "genres": [
+            "Comedia negra",
+            "Thriller",
+            "Sátira"
+        ],
+        "synopsis": "Un grupo de amigos viaja a Las Vegas para celebrar la despedida de soltero de Kyle. La fiesta se desmadra cuando una stripper muere accidentalmente en la habitación del hotel tras una broma pesada. En lugar de avisar a la policía, deciden enterrar el cuerpo en el desierto y guardar el secreto a toda costa. Sin embargo, la culpa, el pánico y las ambiciones desmedidas de algunos de ellos convertirán sus vidas en una auténtica pesadilla con toques de humor negro implacable.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-21",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "the-end-of-the-tour-2015",
+        "title": "The end of the tour",
+        "originalTitle": "The End of the Tour",
+        "poster": "images/the-end-of-the-tour.jpg",
+        "director": "James Ponsoldt",
+        "cast": [
+            "Jesse Eisenberg",
+            "Jason Segel",
+            "Anna Chlumsky",
+            "Joan Cusack",
+            "Mamie Gummer"
+        ],
+        "year": 2015,
+        "duration": 106,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Biopic",
+            "Cine independiente"
+        ],
+        "synopsis": "En 1996, poco después de la publicación de la monumental novela «La broma infinita» (Infinite Jest), el periodista de la revista Rolling Stone David Lipsky acompaña al escritor David Foster Wallace durante los últimos días de su gira de promoción. A lo largo del viaje en coche, ambos mantienen largas, profundas y reveladoras conversaciones sobre la fama, la depresión, la literatura y el sentido de la vida. Sesión especial doble con presentación y coloquio con SoyUnaPringada en Embajadores Río.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-18",
+                "time": "18:10",
+                "version": "Presentación y coloquio con SoyUnaPringada - Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-18",
+                "time": "20:45",
+                "version": "Presentación y coloquio con SoyUnaPringada - Embajadores Río"
             }
         ]
     }
