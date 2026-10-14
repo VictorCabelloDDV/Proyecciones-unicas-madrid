@@ -1355,11 +1355,7 @@ const movies = [
         ],
         "synopsis": "Guido, un judío italiano de espíritu alegre, conquista a Dora y forma con ella una familia, pero cuando él y su pequeño hijo son deportados a un campo de concentración nazi, recurre a su imaginación para convertir el horror en un juego y así proteger al niño.",
         "screenings": [
-            {
-                "cinema": "Kinépolis Ciudad de la Imagen",
-                "date": "2026-10-15",
-                "time": "19:00"
-            }
+
         ]
     },
     {
