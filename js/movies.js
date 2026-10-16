@@ -71,7 +71,7 @@ const movies = [
             {
                 "cinema": "Artistic Metropol",
                 "date": "2026-10-20",
-                "time": "20:00",
+                "time": "16:00",
                 "version": "Doblada al español"
             }
         ]
@@ -147,13 +147,7 @@ const movies = [
             "Terror"
         ],
         "synopsis": "Una pareja de fantasmas intenta expulsar de su antigua casa a los nuevos habitantes y recurre a Beetlejuice, un excéntrico espíritu especializado en causar problemas.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-15",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "big-fish",
@@ -1270,11 +1264,6 @@ const movies = [
         ],
         "synopsis": "El joven Ashitaka viaja hacia el oeste para encontrar una cura a una maldición y queda atrapado en el conflicto entre los habitantes de una ciudad industrial y los espíritus del bosque liderados por la princesa Mononoke.",
         "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-15",
-                "time": "20:30"
-            },
             {
                 "cinema": "Cines Verdi",
                 "date": "2026-10-16",
@@ -3055,13 +3044,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Un grupo de científicos e invitados llega a una remota isla del Mediterráneo donde un misterioso botánico ha creado una especie silvestre de planta carnívora mutante alimentada con sangre humana.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-15",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "pacto-de-silencio",
@@ -6033,8 +6016,15 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-16",
-                "time": "17:00"
+                "date": "2026-10-20",
+                "time": "17:30",
+                "version": "Precio Reducido"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-21",
+                "time": "17:00",
+                "version": "Precio Reducido"
             }
         ]
     },
@@ -6180,14 +6170,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-15",
-                "time": "15:45",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ring-zero-birthday-2000",
@@ -6381,13 +6364,7 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "Un retrato íntimo y profundo de Ana Isabel García Llorente, conocida artísticamente como Gata Cattana, la prematuramente fallecida rapera, poeta, feminista y politóloga andaluza. A través de testimonios de familiares, amigos y compañeros de profesión, el documental recorre su legado artístico y humano, mostrando cómo su voz adelantada a su tiempo se convirtió en un auténtico icono de la cultura underground y el activismo poético.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-14",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-ciudad-del-arco-iris-2025",
@@ -6427,13 +6404,7 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "Un recorrido íntimo y luminoso por la vida y la obra del cantautor gaditano Javier Ruibal. A través de sus canciones, conversaciones íntimas y las intervenciones de compañeros de profesión y familiares, el documental retrata a un artista independiente, creador de un universo musical único que fusiona el flamenco, el jazz, la copla y los ritmos de id a y vuelta con una poesía de altísimo vuelo.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-15",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-chico-1921-en-directo",
@@ -7074,25 +7045,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Un chico se enamora de una chica en una fiesta y hace todo lo posible por conquistarla durante una larga noche por las calles de Madrid. Lo que empieza como un juego de seducción nocturno da un giro totalmente inesperado al amanecer, desvelando capas mucho más oscuras y complejas en la relación.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-15",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-15",
-                "time": "20:30",
-                "version": "Coloquio con Rodrigo Sorogoyen y Eduardo de Vicente"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-15",
-                "time": "20:30",
-                "version": "Coloquio online con Rodrigo Sorogoyen"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "re-animator-1985",
@@ -7220,14 +7173,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Un matrimonio y sus tres hijos viven en una mansión rodeada por una gran valla. Los hijos nunca han salido de la propiedad y sus padres los educan bajo sus propias reglas y un vocabulario inventado, aislándolos por completo de la realidad exterior hasta que un día una grieta en su sistema empieza a alterar la dinámica familiar.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-15",
-                "time": "22:40",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-brujos-inocentes-1960",
@@ -7278,13 +7224,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Vicente es un septuagenario que disfruta de su jubilación viviendo en Maspalomas, Gran Canaria. Cuando sufre un ictus será trasladado a San Sebastián, en donde vive su hija Nerea, pero, como necesita muchos cuidados, su hija decide ingresarlo en una residencia. Allí Vicente decide ocultar su condición de homosexual, lo que no será fácil, especialmente con su extrovertido compañero de habitación.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-15",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vidas-errantes-1984",
@@ -7655,13 +7595,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Jan Lasocki, anciano director de orquesta polaco afincado en Nueva York desde hace cincuenta años, conoce en la ciudad a Marta, una joven violinista becada que resulta ser hija de la mujer que rompió su corazón. Su visita al pueblo natal de ambos para dirigir a la orquesta local —cuyo titular es el propio marido de Marta— remueve viejos amores y nuevos celos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-15",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "un-verano-en-casa-del-abuelo-1984",
@@ -7832,13 +7766,7 @@ const movies = [
             "Melodrama"
         ],
         "synopsis": "En 1928, una idealista y moderna maestra recién llegada a una remota isla japonesa comienza a dar clase a un grupo de doce niños de primer curso (sus veinticuatro ojos). A lo largo de las siguientes dos décadas, marcadas por la creciente sombra del militarismo y la Segunda Guerra Mundial, la profesora y sus alumnos experimentarán los drásticos cambios de la historia y el dolor de la separación, manteniendo un profundo vínculo afectivo a través de los años.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-15",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "afterimage-2016",
@@ -8574,13 +8502,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En una granja rural de Connecticut durante la década de 1930, dos hermanos gemelos de doce años, Niles y Holland, comparten una complicidad extrema y un mundo de juegos secretos enseñados por su abuela. Sin embargo, tras una serie de trágicos y extraños accidentes que comienzan a golpear a su entorno familiar, la inquietante sospecha de que uno de los hermanos oculta una naturaleza profundamente macabra empieza a tomar forma.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-15",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "bride-of-re-animator-1990",
@@ -9242,13 +9164,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Corea del Sur, 1986. Los cuerpos de dos mujeres jóvenes aparecen violados y asesinados en un paraje rural. Para resolver el caso, que desconcierta a la policía local por completo, se asigna a un detective de la zona junto a un inspector enviado especialmente desde Seúl. Enmarcada en un contexto de tensiones políticas y sociales, la investigación se convierte en una obsesión asfixiante y frustrante ante la ausencia de pistas y métodos científicos avanzados.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-14",
-                "time": "22:35"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mysterious-skin-2004",
@@ -9273,13 +9189,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "A principios de los años ochenta en una pequeña ciudad de Kansas, dos niños de ocho años sufren un misterioso episodio de amnesia de cinco horas tras un supresor encuentro con su entrenador de béisbol. Una década más tarde, ya en la adolescencia, sus caminos divergen radicalmente: Brian se ha convertido en un joven solitario obsesionado con abducciones alienígenas, mientras que Neil sobrevive en Nueva York dedicándose a la prostitución masculina y arrastrando un doloroso vacío. Cuando sus vidas vuelven a cruzarse, saldrá a la luz una terrible y oscura verdad sobre su pasado común.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-15",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "portrait-dune-jeune-fille-1994",
@@ -9464,13 +9374,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "En una aparente y gris tintorería industrial de un pueblo, una gigantesca y vetusta máquina dobladora y lavadora industrial cobra vida propia tras sufrir un accidente impregnado de fluidos y un pacto oscuro. Cuando los trabajadores empiezan a ser triturados y devorados de forma macabra por el aparato, un policía local y un experto en ocultismo unirán fuerzas para detener a la sanguinaria máquina antes de que desate una masacre total.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-14",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "jack-el-destripador-1944",
@@ -9494,13 +9398,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "En el Londres victoriano de finales del siglo XIX, un brutal asesino en serie conocido como Jack el Destripador aterroriza las nieblosas calles masacrando a jóvenes actrices. En medio de este clima de pánico, un misterioso y excéntrico caballero llamado Sr. Slade alquila una habitación en la casa de un matrimonio anciano. A medida que los crímenes continúan y Slade muestra una conducta cada vez más extraña y nocturna, la propietaria y un inspector de policía empiezan a sospechar que el inquilino oculta una macabra identidad.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-15",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-fantasma-de-la-opera-1925",
@@ -9944,12 +9842,6 @@ const movies = [
         ],
         "synopsis": "Miquelina, Josep y, más tarde, su hijo Pattet, filmaron sus vidas entre 1942 y 1999 sin otro propósito que crear recuerdos para el futuro. Sin saberlo, capturaron una cara del siglo XX próxima a los poderes del Estado.",
         "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-15",
-                "time": "20:00",
-                "version": "Presentación a cargo de Cristina Rosselló, Ricard Sales y Pedro Palacios. "
-            },
             {
                 "cinema": "Cineteca Madrid",
                 "date": "2026-10-16",
@@ -10769,13 +10661,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Darezhan Omirbayev presenta la historia de Aidar, un modesto profesor de literatura y poeta que vive en Kazajistán y que lucha por mantener su integridad artística y su pasión por la creación literaria en un mundo indiferente a la cultura. Paralelamente, la película entrelaza su destino con la trágica figura histórica del célebre poeta kazajo Isatay Taimanov, explorando la soledad del creador a través de distintas épocas.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-15",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-ahogados-2020",
@@ -11300,6 +11186,193 @@ const movies = [
                 "cinema": "Cines Verdi",
                 "date": "2026-10-31",
                 "time": "11:30"
+            }
+        ]
+    },
+    {
+        "id": "la-ley-del-silencio-1954",
+        "title": "La ley del silencio",
+        "originalTitle": "On the Waterfront",
+        "poster": "images/la-ley-del-silencio.jpg",
+        "director": "Elia Kazan",
+        "cast": [
+            "Marlon Brando",
+            "Eva Marie Saint",
+            "Karl Malden",
+            "Lee J. Cobb"
+        ],
+        "year": 1954,
+        "duration": 108,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine clásico",
+            "Drama",
+            "Cine negro"
+        ],
+        "synopsis": "Terry Malloy es un estibador portuario y antiguo boxeador fracasado que trabaja para Johnny Friendly, un corrupto jefe mafioso que controla el sindicato del puerto. Cuando Terry se enamora de Edie Doyle, la hermana de un hombre asesinado por los matones del sindicato por intentar denunciar la corrupción, experimenta una profunda crisis de conciencia. Dividido entre la lealtad al código del silencio y su deseo de justicia, Terry tendrá que decidir si se atreve a testificar.",
+        "screenings": []
+    },
+    {
+        "id": "sospecha-1941",
+        "title": "Sospecha",
+        "originalTitle": "Suspicion",
+        "poster": "images/sospecha.jpg",
+        "director": "Alfred Hitchcock",
+        "cast": [
+            "Cary Grant",
+            "Joan Fontaine",
+            "Cedric Hardwicke",
+            "Nigel Bruce"
+        ],
+        "year": 1941,
+        "duration": 99,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine clásico",
+            "Thriller psicológico",
+            "Suspense"
+        ],
+        "synopsis": "Lina McLaidlaw es una joven formal, rica y tímida que se casa impulsivamente con Johnnie Aysgarth, un hombre encantador, seductor y refinado pero totalmente irresponsable y sin un céntimo. Poco después de la boda, Lina empieza a descubrir la verdadera naturaleza de su marido —llena de mentiras, deudas y negocios turbios— y, llevada por una creciente y angustiosa paranoia, comienza a sospechar que Johnnie planea asesinarla para quedarse con su herencia.",
+        "screenings": []
+    },
+    {
+        "id": "todo-sobre-mi-madre-1999",
+        "title": "Todo sobre mi madre",
+        "originalTitle": "Todo sobre mi madre",
+        "poster": "images/todo-sobre-mi-madre.jpg",
+        "director": "Pedro Almodóvar",
+        "cast": [
+            "Cecilia Roth",
+            "Marisa Paredes",
+            "Penélope Cruz",
+            "Antonia San Juan"
+        ],
+        "year": 1999,
+        "duration": 101,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine español",
+            "Cine de autor"
+        ],
+        "synopsis": "Manuela es una enfermera madrileña que pierde a su único hijo, Esteban, el día en que cumple 17 años, atropellado al intentar conseguir el autógrafo de la actriz Huma Rojo. Destrozada por el dolor, Manuela decide viajar a Barcelona en busca del padre del muchacho, un hombre que ahora se identifica como Lola. En su camino, se reencuentra con viejas conocidas y forma una nueva y heterogénea familia elegida compuesta por una monja idealista, una gran actriz teatral y unas mujeres que luchan por salir adelante en los márgenes de la sociedad.",
+        "screenings": []
+    },
+    {
+        "id": "dersu-uzala-1975",
+        "title": "Dersu Uzala (El cazador)",
+        "originalTitle": "Дерсу Узала",
+        "poster": "images/dersu-uzala.jpg",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Maksim Munzuk",
+            "Yuri Solomin",
+            "Svetlana Danilchenko",
+            "Suimenkul Chokmorov"
+        ],
+        "year": 1975,
+        "duration": 144,
+        "country": "Unión Soviética, Japón",
+        "genres": [
+            "Aventura",
+            "Drama",
+            "Cine clásico",
+            "Naturaleza"
+        ],
+        "synopsis": "A principios del siglo XX, un explorador y topógrafo ruso del ejército imperial es enviado a realizar un reconocimiento geográfico en la inhóspita y salvaje región de Sikhote-Alín, en Siberia oriental. Durante la expedición, el grupo conoce a Dersu Uzala, un cazador nombrosa nativo de la taiga que vive en total armonía con la naturaleza. A través de los ojos de Dersu, el capitán y sus hombres aprenden a sobrevivir y a comprender la inmensidad y el espíritu del bosque, forjando una profunda e inolvidable amistad que cruza las fronteras del tiempo y la civilización.",
+        "screenings": []
+    },
+    {
+        "id": "erase-una-vez-en-hollywood-2019",
+        "title": "Érase una vez en... Hollywood",
+        "originalTitle": "Once Upon a Time... in Hollywood",
+        "poster": "images/erase-una-vez-en-hollywood.jpg",
+        "director": "Quentin Tarantino",
+        "cast": [
+            "Leonardo DiCaprio",
+            "Brad Pitt",
+            "Margot Robbie",
+            "Al Pacino"
+        ],
+        "year": 2019,
+        "duration": 161,
+        "country": "Estados Unidos, Reino Unido, China",
+        "genres": [
+            "Comedia dramática",
+            "Cine dentro del cine",
+            "Años 60"
+        ],
+        "synopsis": "Los Ángeles, 1969. Rick Dalton, una otrora estrella de la televisión western que atraviesa horas bajas, y Cliff Booth, su fiel doble de acción y mejor amigo, intentan abrirse camino en una industria cinematográfica que cambia a velocidad de vértigo y que ya apenas reconocen. Paralelamente, Rick vive muy cerca de la prometedora actriz Sharon Tate y del director Roman Polanski, en una época marcada por el fin de una era dorada y la sombra de la familia Manson.",
+        "screenings": []
+    },
+    {
+        "id": "incendies-2010",
+        "title": "Incendies",
+        "originalTitle": "Incendies",
+        "poster": "images/incendies.jpg",
+        "director": "Denis Villeneuve",
+        "cast": [
+            "Lubna Azabal",
+            "Mélissa Désormeaux-Poulin",
+            "Maxim Gaudette",
+            "Rémy Girard"
+        ],
+        "year": 2010,
+        "duration": 131,
+        "country": "Canadá, Francia",
+        "genres": [
+            "Drama",
+            "Cine bélico",
+            "Misterio"
+        ],
+        "synopsis": "Tras la muerte de su madre, Nawal Marwan, los mellizos Jeanne y Simon reciben un extraño testamento con dos sobres sellados que deben entregar: uno a un padre al que creían muerto y otro a un hermano cuya existencia desconocían. Para cumplir la última voluntad de su madre, Jeanne viaja a Oriente Medio para desenterrar un pasado marcado por la guerra civil, el dolor y el silencio, descubriendo una historia familiar de una fuerza devastadora.",
+        "screenings": []
+    },
+    {
+        "id": "telefono-rojo-volamos-hacia-moscu-1964",
+        "title": "¿Teléfono rojo? Volamos hacia Moscú",
+        "originalTitle": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+        "poster": "images/telefono-rojo-volamos-hacia-moscu.jpg",
+        "director": "Stanley Kubrick",
+        "cast": [
+            "Peter Sellers",
+            "George C. Scott",
+            "Sterling Hayden",
+            "Slim Pickens"
+        ],
+        "year": 1964,
+        "duration": 95,
+        "country": "Reino Unido, Estados Unidos",
+        "genres": [
+            "Comedia negra",
+            "Sátira",
+            "Cine clásico"
+        ],
+        "synopsis": "Un general estadounidense desquiciado y anticomunista ordena por iniciativa propia que un escuadrón de bombarderos nucleares ataque la Unión Soviética, convencido de que los comunistas están corrompiendo los 'fluidos vitales' de América. Al enterarse de la inminente catástrofe, el presidente de los Estados Unidos convoca de urgencia a sus asesores en la Sala de Guerra del Pentágono —incluido el excéntrico científico nazi Dr. Strangelove—, mientras intenta contactar desesperadamente con el líder soviético para evitar una aniquilación nuclear accidental.",
+        "screenings": []
+    },
+    {
+        "id": "cine-a-ciegas-2026",
+        "title": "Cine a ciegas",
+        "originalTitle": "Cine a ciegas",
+        "poster": "images/cine-a-ciegas.jpg",
+        "director": "Varios / Sorpresa",
+        "cast": [],
+        "year": 2026,
+        "duration": 120,
+        "country": "España",
+        "genres": [
+            "Cine a ciegas",
+            "Evento especial",
+            "Sorpresa"
+        ],
+        "synopsis": "¿Recuerdas aquel día que fuiste al cine sin saber qué película ibas a ver? Al final resultó ser una que jamás has podido olvidar. Queremos proponerte una cita a ciegas con el cine, una película de la que no sepas nada de nada, ni siquiera su título. Una experiencia en la que vas a depositar tu confianza en nosotrxs viendo una película de próximo estreno o un gran clásico contemporáneo o antiguo. ¿Te atreves?",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-17",
+                "time": "12:10",
+                "version": "Embajadores Río"
             }
         ]
     }
