@@ -792,13 +792,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Un boxeador estadounidense retirado regresa al pueblo irlandés donde nació y se enamora de Mary Kate Danaher, una mujer de fuerte carácter cuyo hermano se opone a su relación.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-18",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-maquinista-de-la-general",
@@ -914,18 +908,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Jiro Horikoshi sueña con diseñar aviones y acaba convirtiéndose en uno de los ingenieros aeronáuticos más importantes de Japón, mientras vive una historia de amor marcada por la guerra y la enfermedad.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-17",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-18",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "fargo",
@@ -1263,18 +1246,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "El joven Ashitaka viaja hacia el oeste para encontrar una cura a una maldición y queda atrapado en el conflicto entre los habitantes de una ciudad industrial y los espíritus del bosque liderados por la princesa Mononoke.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-16",
-                "time": "20:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-17",
-                "time": "11:30"
-            }
-        ]
+        "screenings": []
     },
 //50
     {
@@ -1462,14 +1434,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Durante las veinticuatro horas posteriores a un violento enfrentamiento con la policía, tres jóvenes de los suburbios de París afrontan la tensión, la frustración y la violencia de su entorno.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-16",
-                "time": "22:15",
-                "version": "Embajadores río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-400-golpes",
@@ -3554,14 +3519,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Pieza histórica de videoarte mudo (sin sonido ni música). Un montaje rítmico e hipnótico de fragmentos en 16mm grabados en viajes por todo el mundo, explorando el lenguaje visual y el movimiento sin narrativa tradicional.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-16",
-                "time": "20:30",
-                "version": "Muda / Videoarte"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-sexta-parte-del-mundo-1926",
@@ -3578,14 +3536,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Obra cumbre del cine documental mudo soviético. A través de un montaje innovador y sinfónico de noticiarios y archivos de viajes, explora la inmensa diversidad de pueblos, culturas, paisajes e industrias que componían la antigua URSS en la década de 1920.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-16",
-                "time": "18:00",
-                "version": "Cine Mudo"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "marnie-la-ladrona-1964",
@@ -3609,13 +3560,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Marnie es una ladrona compulsiva que aprovecha su trabajo como secretaria para robar. Cuando Mark Rutland la contrata y descubre su secreto, cede a un impulso inexplicable: decide casarse con ella para desentrañar los oscuros traumas del pasado que provocan su comportamiento.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-17",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "escrito-sobre-el-viento-1956",
@@ -3638,13 +3583,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Kyle Hadley, un magnate del petróleo, y Mitch Wayne, su mejor amigo, se enamoran de la secretaria Lucy Moore. Aunque Kyle es un alcohólico irresponsable, se casa con ella. Tras un año, Kyle parece transformado, pero los celos y pasiones no tardarán en desatarse.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-18",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "smog-en-tu-corazon-2022",
@@ -6710,14 +6649,7 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "A través de una mirada sofisticada y llena de asombro, Eugènia Balcells, la célebre videoartista española, comparte su secreto mejor guardado: la curva de la vida. Presentación a cargo del director, Luis Felipe Ruiz. Selección oficial en el Festival Dart 2024 y el Festival de Málaga 2025.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-16",
-                "time": "19:00",
-                "version": "Presentación del director"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "of-mud-and-blood-2024",
@@ -7017,14 +6949,7 @@ const movies = [
             "Cine negro"
         ],
         "synopsis": "Jung-ho, un antiguo detective convertido en proxeneta, descubre que varias de sus chicas han desaparecido tras acudir a los servicios de un mismo cliente. Cuando una de sus empleadas actuales desaparece de la misma forma, decide investigar por su cuenta, desatando una carrera contrarreloj desesperada y violenta por atrapar a un sádico asesino en serie antes de que sea demasiado tarde.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-17",
-                "time": "11:45",
-                "version": "Presentación + proyección + coloquio - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "stockholm-2013",
@@ -7641,13 +7566,7 @@ const movies = [
             "Cine negro"
         ],
         "synopsis": "En el mundo de los clubs nocturnos, casas de apuestas y locales de karaoke de Hong Kong, un ex campeón de judo convertido en dueño de club, alcoholizado y hundido por las deudas, un joven aspirante que reta a cualquiera a pelear y una cantante que sueña con ser estrella terminan uniendo sus destinos. Entre ellos se teje una amistad que les ayudará a levantarse, una y otra vez, de sus propias caídas.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-18",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cortometrajes-fernando-villaverde",
@@ -7793,11 +7712,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-16",
-                "time": "17:30"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-27",
                 "time": "17:30"
             }
@@ -7823,13 +7737,7 @@ const movies = [
             "Road movie"
         ],
         "synopsis": "Tres nietos emprenden un viaje con sus respectivas abuelas. Se trata de un documental que es un viaje anárquico al pasado, una road movie en donde saldrán a relucir temas clásicos y cuestiones prohibidas. Brilla la madurez de las mujeres mayores y también se experimenta un proceso de madurez en los más jóvenes a la vez que se retrata el espíritu de la juventud actual.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-16",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "lo-que-queda-de-ti-2024",
@@ -7849,13 +7757,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Sara está a punto de cumplir su sueño de grabar un disco de jazz en Nueva York. Pero cuando su padre muere se ve obligada a regresar a España, a su pueblo del pirineo. Allí se reunirá con su hermana para hacer frente a la herencia: una granja con su rebaño. Sara se siente culpable por su ausencia y está dispuesta a seguir la vida sencilla que tuvo su padre, aún a costa de renunciar a sus sueños.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-16",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "en-el-estanque-dorado-1981",
@@ -7879,13 +7781,7 @@ const movies = [
             "Cine familiar"
         ],
         "synopsis": "Norman Thayer es un profesor retirado, cascarrabias y con problemas de memoria, que pasa el verano junto a su esposa Ethel en su casa de la oruga de un lago en Nueva England. La apacible rutina estival se altera con la llegada de su hija Chelsea, quien acude a dejar al hijo de su nuevo novio mientras ellos viajan a Europa, lo que obligará a padre e hija a enfrentarse a sus viejas asperezas y desencuentros pendientes.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-17",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cuando-cae-el-otono-2024",
@@ -7907,13 +7803,7 @@ const movies = [
             "Thriller psicológico"
         ],
         "synopsis": "Michelle, una mujer anciana y respetada, disfruta de su jubilación en un tranquilo pueblo borgoñón junto a su amiga Marie-Claude. Su apacible rutina se ve alterada cuando recibe la visita de su hija Valérie y de su nieto coincidiendo con el inicio de la temporada de caza, desenterrando viejos reproches, secretos inconfesables y una serie de tensiones ocultas que pondrán a prueba sus vínculos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-17",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "las-senoritas-de-wilko-1979",
@@ -7940,11 +7830,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-17",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-28",
                 "time": "17:30"
             }
@@ -7965,11 +7850,6 @@ const movies = [
         ],
         "synopsis": "En algún lugar de la meseta española, un pastor de ovejas sueña con viajar al Titicaca, un dúo musical retirado recuerda su época dorada, dos niñas buscan pokémons sin suerte y un abuelo recuenta las casas vacías del pueblo para quedarse dormido. Los protagonistas de esta película configuran un mapa para navegar por el pasado, el presente y el futuro del medio rural y de un estilo de vida que parece desvanecerse en el tiempo.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-18",
-                "time": "17:30"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-10-30",
@@ -9082,13 +8962,7 @@ const movies = [
             "Biográfico"
         ],
         "synopsis": "A principios del siglo XIX en los acantilados de Lyme Regis, en la costa de Dorset, la joven Mary Anning recorre incansable las playas en busca de 'piedras de rayo' y extraños fósiles marinos junto a su padre. Tras un trágico suceso, Mary continúa explorando por su cuenta la costa, realizando descubrimientos paleontológicos revolucionarios que sacudirán los cimientos de la ciencia y la comunidad científica oficial, dominada por hombres, demostrando que la Tierra esconde un pasado inmenso y fascinante.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-18",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "crossroads-el-viaje-circular-de-boa-mistura-2022",
@@ -9841,23 +9715,7 @@ const movies = [
             "Memoria"
         ],
         "synopsis": "Miquelina, Josep y, más tarde, su hijo Pattet, filmaron sus vidas entre 1942 y 1999 sin otro propósito que crear recuerdos para el futuro. Sin saberlo, capturaron una cara del siglo XX próxima a los poderes del Estado.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-16",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-17",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-18",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "derek-vs-derek-2026",
@@ -11044,13 +10902,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "En un polvoriento pueblo de Texas, un celoso dueño de un bar descubre que su mujer mantiene una relación con uno de sus camareros. Decide entonces contratar a un sádico detective privado para que los asesine a ambos. Sin embargo, en el mundo de los hermanos Coen nada sale según lo previsto, y una cadena de equívocos, dobles intenciones y mala fortuna desata una espiral de violencia y suspense claustrofóbico.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-16",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vlad-el-principe-de-la-oscuridad-2000",
@@ -11136,12 +10988,6 @@ const movies = [
         ],
         "synopsis": "En 1996, poco después de la publicación de la monumental novela «La broma infinita» (Infinite Jest), el periodista de la revista Rolling Stone David Lipsky acompaña al escritor David Foster Wallace durante los últimos días de su gira de promoción. A lo largo del viaje en coche, ambos mantienen largas, profundas y reveladoras conversaciones sobre la fama, la depresión, la literatura y el sentido de la vida. Sesión especial doble con presentación y coloquio con SoyUnaPringada en Embajadores Río.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-18",
-                "time": "18:10",
-                "version": "Presentación y coloquio con SoyUnaPringada - Embajadores Río"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-10-18",
@@ -11367,13 +11213,6 @@ const movies = [
             "Sorpresa"
         ],
         "synopsis": "¿Recuerdas aquel día que fuiste al cine sin saber qué película ibas a ver? Al final resultó ser una que jamás has podido olvidar. Queremos proponerte una cita a ciegas con el cine, una película de la que no sepas nada de nada, ni siquiera su título. Una experiencia en la que vas a depositar tu confianza en nosotrxs viendo una película de próximo estreno o un gran clásico contemporáneo o antiguo. ¿Te atreves?",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-17",
-                "time": "12:10",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     }
 ]
