@@ -10987,14 +10987,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "En 1996, poco después de la publicación de la monumental novela «La broma infinita» (Infinite Jest), el periodista de la revista Rolling Stone David Lipsky acompaña al escritor David Foster Wallace durante los últimos días de su gira de promoción. A lo largo del viaje en coche, ambos mantienen largas, profundas y reveladoras conversaciones sobre la fama, la depresión, la literatura y el sentido de la vida. Sesión especial doble con presentación y coloquio con SoyUnaPringada en Embajadores Río.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-18",
-                "time": "20:45",
-                "version": "Presentación y coloquio con SoyUnaPringada - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "jujutsu-kaisen-0-2021",
@@ -11214,5 +11207,204 @@ const movies = [
         ],
         "synopsis": "¿Recuerdas aquel día que fuiste al cine sin saber qué película ibas a ver? Al final resultó ser una que jamás has podido olvidar. Queremos proponerte una cita a ciegas con el cine, una película de la que no sepas nada de nada, ni siquiera su título. Una experiencia en la que vas a depositar tu confianza en nosotrxs viendo una película de próximo estreno o un gran clásico contemporáneo o antiguo. ¿Te atreves?",
         "screenings": []
+    },
+    {
+        "id": "warren-sonbert-sesion-especial-1967-1997",
+        "title": "The Tenth Legion / Whiplash / Noblesse Oblige",
+        "originalTitle": "The Tenth Legion / Whiplash / Noblesse Oblige",
+        "poster": "images/warren-sonbert-shorts.jpg",
+        "director": "Warren Sonbert",
+        "cast": [],
+        "year": 1997,
+        "duration": 75,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine experimental",
+            "Documental",
+            "Vanguardia"
+        ],
+        "synopsis": "Programa triple de cortometrajes de Warren Sonbert en formato original de 16 mm. Incluye «The Tenth Legion» (1967, 30 min), que recorre la cotidianidad y el ocio de los jóvenes neoyorquinos con elegancia coreográfica; «Whiplash» (1995-1997, 20 min), materializada póstumamente por Jeff Scher con un sorprendente cambio de ritmo en el montaje; y «Noblesse Oblige» (1981, 25 min), una espectacular composición asociativa sobre las protestas tras los asesinatos de George Moscone y Harvey Milk, introduciendo una dimensión políticamente explícita.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-20",
+                "time": "19:30",
+                "version": "16 mm."
+            }
+        ]
+    },
+    {
+        "id": "warren-sonbert-sesion-2-1966-1989",
+        "title": "Hall of Mirrors / The Tuxedo Theatre / Friendly Witness",
+        "originalTitle": "Hall of Mirrors / The Tuxedo Theatre / Friendly Witness",
+        "poster": "images/warren-sonbert-shorts-2.jpg",
+        "director": "Warren Sonbert",
+        "cast": [],
+        "year": 1989,
+        "duration": 50,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine experimental",
+            "Cortometrajes",
+            "Vanguardia"
+        ],
+        "synopsis": "Nuevo programa de cortometrajes de Warren Sonbert en formato original de 16 mm. Incluye «Hall of Mirrors» (1966, 7 min), con retratos de las superestrellas warholianas Rene Ricard y Gerard Malanga; «The Tuxedo Theatre» (1968, 21 min), considerada la primera puesta en práctica de su original estilo de montaje asociativo; y «Friendly Witness» (1989, 22 min), un tour de force pletórico que sintetiza su repertorio formal, poético y temático a partir de imágenes de toda su filmografía anterior.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-21",
+                "time": "19:00",
+                "version": "16 mm."
+            }
+        ]
+    },
+    {
+        "id": "blue-heron-2026",
+        "title": "Blue Heron",
+        "originalTitle": "Blue Heron",
+        "poster": "images/blue-heron.jpg",
+        "director": "Sophy Romvari",
+        "cast": [
+            "Eylul Guven",
+            "Amy Zimmer",
+            "Iringó Réti",
+            "Ádám Tompa",
+            "Edik Beddoes"
+        ],
+        "year": 2026,
+        "duration": 91,
+        "country": "Hungría, Canadá",
+        "genres": [
+            "Drama",
+            "Cine independiente",
+            "Drama familiar"
+        ],
+        "synopsis": "A finales de los años 90, Sasha, una niña de ocho años, y su familia se mudan a una nueva casa en la isla de Vancouver. Esta nueva vida se verá afectada por el comportamiento cada vez más impredecible de Jeremy, el hijo mayor. Desesperados, sus padres se enfrentarán a una decisión complicada.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-24",
+                "time": "17:00"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-25",
+                "time": "21:30"
+            }
+        ]
+    },
+    {
+        "id": "nosferatu-cine-con-piano-1922",
+        "title": "Nosferatu (Cine con piano en directo)",
+        "originalTitle": "Nosferatu, eine Symphonie des Grauens",
+        "poster": "images/nosferatu.jpg",
+        "director": "F.W. Murnau",
+        "cast": [
+            "Max Schreck",
+            "Gustav von Wangenheim",
+            "Greta Schröder",
+            "Alexander Granach"
+        ],
+        "year": 1922,
+        "duration": 94,
+        "country": "Alemania",
+        "genres": [
+            "Cine clásico",
+            "Terror",
+            "Cine mudo",
+            "Cine con música en directo"
+        ],
+        "synopsis": "Año 1838. En la ciudad de Wisborg viven felices el joven Hutter y su mujer Ellen, hasta que el oscuro agente inmobiliario Knock decide enviar a Hutter a Transilvania para cerrar un negocio con el conde Orlok. Una vez en el castillo, Hutter descubre que el conde es, en realidad, un vampiro. Al verle partir hacia su nuevo hogar, Hutter teme por Ellen.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-31",
+                "time": "12:00",
+                "version": "Piano en directo por Adrián Begoña - Embajadores Río"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-10-29",
+                "time": "19:30",
+                "version": "Piano en directo por Adrián Begoña - Renoir Retiro"
+            }
+        ]
+    },
+    {
+        "id": "tokyo-godfathers-2003",
+        "title": "Tokyo Godfathers",
+        "originalTitle": "Tokyo Godfathers",
+        "poster": "images/tokyo-godfathers.jpg",
+        "director": "Satoshi Kon",
+        "cast": [
+            "Toru Emori",
+            "Yoshiaki Umegaki",
+            "Aya Okamoto"
+        ],
+        "year": 2003,
+        "duration": 92,
+        "country": "Japón",
+        "genres": [
+            "Animación",
+            "Comedia",
+            "Drama",
+            "Aventura",
+            "Cine de culto"
+        ],
+        "synopsis": "En pleno invierno en Tokio, tres personas sin hogar —Gin, un alcohólico cascarrabias; Hana, una mujer trans que antaño fue corista; y Miyuki, una joven que huyó de su casa— rebuscan en la basura durante la Nochebuena. Inesperadamente, encuentran a un bebé abandonado entre los desperdicios junto a una nota y algunas pistas sobre su madre. Deciden entonces emprender una delirante y entrañable aventura por toda la ciudad para encontrar a los padres de la criatura, enfrentándose en el camino a los fantasmas de su propio pasado.",
+        "screenings": []
+    },
+    {
+        "id": "fanny-y-alexander-1982",
+        "title": "Fanny y Alexander",
+        "originalTitle": "Fanny och Alexander",
+        "poster": "images/fanny-y-alexander.jpg",
+        "director": "Ingmar Bergman",
+        "cast": [
+            "Bertil Guve",
+            "Pernilla Allwin",
+            "Ewa Fröling",
+            "Jan Malmsjö"
+        ],
+        "year": 1982,
+        "duration": 188,
+        "country": "Suecia, Francia, Alemania Occidental",
+        "genres": [
+            "Drama",
+            "Fantasía",
+            "Cine clásico",
+            "Cine de autor"
+        ],
+        "synopsis": "En la Upsala de principios del siglo XX, los hermanos Fanny y Alexander Ekdahl viven felices en el seno de una gran, teatral y acomodada familia dirigida por la matriarca Helena. Sin embargo, tras la repentina muerte de su padre, su madre Emilie contrae matrimonio con un austero, rígido y puritano obispo. Los niños se mudan a la sombriza residencia episcopal, donde el férreo control y los castigos del padrastro sumergen sus vidas en una pesadilla de la que intentarán escapar con la ayuda de la magia y el amor de los suyos.",
+        "screenings": []
+    },
+    {
+        "id": "sesion-cortometrajes-terror-renoir-2026",
+        "title": "Sesión de cortometrajes de terror",
+        "originalTitle": "Sesión de cortometrajes de terror",
+        "poster": "images/cortos-terror-renoir.jpg",
+        "director": "Lucas Paulino, Nacho Solana, Raúl Monje, Raúl Cerezo, Carlos Moriana, Kiko Prada, Pablo S. Pastor",
+        "cast": [
+            "Beatriz Martínez",
+            "José Luis Palacios"
+        ],
+        "year": 2026,
+        "duration": 80,
+        "country": "España",
+        "genres": [
+            "Terror",
+            "Cortometrajes",
+            "Cine español",
+            "Coloquio"
+        ],
+        "synopsis": "Los Cines Renoir Princesa se suman al apoyo al cine español y al cortometraje con una sesión especial de terror compuesta por seis obras: «El cuento» de Lucas Paulino, «Tenéis que verlo» de Nacho Solana, «Hopes» de Raúl Monje, «Tinieblas» de Raúl Cerezo y Carlos Moriana, «The Call» de Kiko Prada y «Bye Bye Baby» de Pablo S. Pastor. Al finalizar la proyección, la sesión incluye un coloquio y análisis con el público y los equipos de los directores, presentado por Beatriz Martínez y José Luis Palacios (JL&BEA).",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-05",
+                "time": "20:30",
+                "version": "Presentación y coloquio con JL&BEA y directores"
+            }
+        ]
     }
 ]
