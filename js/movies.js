@@ -67,12 +67,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-20",
-                "time": "16:00",
-                "version": "Doblada al español"
             }
         ]
     },
@@ -1830,7 +1824,13 @@ const movies = [
             "Drama psicológico"
         ],
         "synopsis": "Cuatro personas persiguen sus propios sueños y esperanzas, pero sus adicciones y obsesiones les llevan progresivamente hacia una espiral de aislamiento y destrucción.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-05",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "romeo-y-julieta",
@@ -2060,13 +2060,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Un poeta fracasado y desencantado encuentra una nueva oportunidad cuando conoce a una joven con talento para la poesía y decide convertirse en su mentor.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-10-20",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "viridiana",
@@ -3009,7 +3003,13 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Un grupo de científicos e invitados llega a una remota isla del Mediterráneo donde un misterioso botánico ha creado una especie silvestre de planta carnívora mutante alimentada con sangre humana.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-28",
+                "time": "22:00"
+            }
+        ]
     },
     {
         "id": "pacto-de-silencio",
@@ -5955,12 +5955,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-20",
-                "time": "17:30",
-                "version": "Precio Reducido"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-10-21",
                 "time": "17:00",
                 "version": "Precio Reducido"
@@ -6366,8 +6360,14 @@ const movies = [
             "Cine mudo",
             "Clásico"
         ],
-        "synopsis": "Un bondadoso cristalero vagabundo adopta a un bebé abandonado por su madre en un coche de lujo. Cinco años después, el niño se ha convertido en su entrañable cómplice en pequeñas pillerías para sobrevivir en los suburbios, hasta que un giro inesperado amenaza con separarlos. (Proyección especial con música de piano en directo interpretada por Federico Lechner).",
-        "screenings": []
+        "synopsis": "Un bondadoso cristalero vagabundo adopta a un bebé abandonado por su madre en un coche de lujo. Cinco años después, el niño se ha convertido en su entrañable cómplice en pequeñas pillerías para sobrevivir en los suburbios, hasta que un giro inesperado amenaza con separarlos.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-26",
+                "time": "17:30"
+            }
+        ]
     },
     {
         "id": "poder-malefico-1974",
@@ -7882,11 +7882,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-20",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-30",
                 "time": "20:00"
             }
@@ -7908,13 +7903,7 @@ const movies = [
             "Cine experimental"
         ],
         "synopsis": "Programa de cortometrajes de Miñuca Villaverde que incluye cuatro obras: 'To My Father' (1973), una carta visual de despedida a su padre exiliado en Texas y al país de origen; 'Blanca Putica (A Girl in Love)' (1973), codirigida junto a Fernando Villaverde sobre un crimen machista; 'Poor Cinderella, still ironing her husband shirt' (1978), ejercicio experimental a partir de descartes en celuloide; y 'Tent City' (1981), crónica documental sobre el campamento improvisado por los refugiados cubanos del Éxodo del Mariel en Miami.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-20",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "farewell-to-spring-1959",
@@ -9151,7 +9140,13 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Erica Baron, una joven e intrépida egiptóloga estadounidense, viaja a El Cairo para estudiar la misteriosa tumba intacta del faraón Seti I. Sin embargo, su fascinación por el descubrimiento se convierte en una pesadilla cuando las personas a su alrededor comienzan a ser asesinadas de forma violenta y se ve envuelta en una red clandestina de contrabando de antigüedades y oscuras maldiciones milenarias.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-27",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "coma-1978",
@@ -9175,7 +9170,13 @@ const movies = [
             "Suspense"
         ],
         "synopsis": "Susan Wheeler, una brillante doctora residente en un hospital de Boston, comienza a notar una estadística alarmante y sospechosa: un número inusualmente alto de pacientes jóvenes y sanos caen en un estado de coma irreversible durante intervenciones quirúrgicas rutinarias debido a fallos inexplicables en el suministro de gas. Cuando Susan decide investigar por su cuenta, descubre una siniestra conspiración médica que pone su propia vida en peligro.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-25",
+                "time": "22:00"
+            }
+        ]
     },
     {
         "id": "el-fantasma-de-la-opera-1989",
@@ -9733,18 +9734,7 @@ const movies = [
             "Comedia"
         ],
         "synopsis": "Dos granjeros vecinos, ambos llamados Derek, encarnan dos formas opuestas de imaginar el futuro del campo. Mientras uno defiende la agricultura intensiva como garantía para producir alimentos, el otro transforma sus tierras en un refugio para la vida salvaje. Entre animales fugados, discusiones y mucho humor, su rivalidad convierte un conflicto vecinal en una pregunta urgente: ¿Cómo podemos alimentar a una población creciente y, al mismo tiempo, devolver espacio a una naturaleza cada vez más amenazada?",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-20",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-20",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-pieta-2026",
@@ -10226,13 +10216,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "En Nápoles, un hombre sin escrúpulos llamado Antonio descubre en un asilo a María, una joven joven cuyo cuerpo está completamente cubierto de vello. Viendo una oportunidad lucrativa, decide sacarla de allí, casarse con ella y exhibirla en público como si fuera una atracción de feria, un eslabón perdido. La película retrata con crudeza y acidez la crueldad de la sociedad y la explotación humana.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-20",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "peppermint-frappe-1967",
@@ -10256,13 +10240,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Julián, un médico conservador y solitario de provincias, se reencuentra tras muchos años con su amigo de la infancia Pablo, un hombre moderno y cosmopolita que regresa de viajar por el mundo acompañado de su misteriosa y exótica esposa, Elena. Julián queda obsesionado con Elena, una fijación que le evoca un amor de juventud y que poco a poco se irá convirtiendo en una turbia y peligrosa obsesión.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-20",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "belle-epoque-1992",
@@ -10926,13 +10904,7 @@ const movies = [
             "Biopic"
         ],
         "synopsis": "La verdadera historia de Vlad el Empalador, el príncipe rumano de Valaquia cuya legendaria y implacable brutalidad sirvió de inspiración para dar forma al mito literario de Drácula. Una mirada cruda a las intrigas políticas, las guerras y los fantasmas que rodearon su turbulenta vida en el siglo XV.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-20",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "very-bad-things-1998",
@@ -11049,7 +11021,13 @@ const movies = [
             "Cine negro"
         ],
         "synopsis": "Terry Malloy es un estibador portuario y antiguo boxeador fracasado que trabaja para Johnny Friendly, un corrupto jefe mafioso que controla el sindicato del puerto. Cuando Terry se enamora de Edie Doyle, la hermana de un hombre asesinado por los matones del sindicato por intentar denunciar la corrupción, experimenta una profunda crisis de conciencia. Dividido entre la lealtad al código del silencio y su deseo de justicia, Terry tendrá que decidir si se atreve a testificar.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-03",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "sospecha-1941",
@@ -11072,7 +11050,13 @@ const movies = [
             "Suspense"
         ],
         "synopsis": "Lina McLaidlaw es una joven formal, rica y tímida que se casa impulsivamente con Johnnie Aysgarth, un hombre encantador, seductor y refinado pero totalmente irresponsable y sin un céntimo. Poco después de la boda, Lina empieza a descubrir la verdadera naturaleza de su marido —llena de mentiras, deudas y negocios turbios— y, llevada por una creciente y angustiosa paranoia, comienza a sospechar que Johnnie planea asesinarla para quedarse con su herencia.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-10",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "todo-sobre-mi-madre-1999",
@@ -11095,7 +11079,13 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Manuela es una enfermera madrileña que pierde a su único hijo, Esteban, el día en que cumple 17 años, atropellado al intentar conseguir el autógrafo de la actriz Huma Rojo. Destrozada por el dolor, Manuela decide viajar a Barcelona en busca del padre del muchacho, un hombre que ahora se identifica como Lola. En su camino, se reencuentra con viejas conocidas y forma una nueva y heterogénea familia elegida compuesta por una monja idealista, una gran actriz teatral y unas mujeres que luchan por salir adelante en los márgenes de la sociedad.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-12",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "dersu-uzala-1975",
@@ -11119,7 +11109,13 @@ const movies = [
             "Naturaleza"
         ],
         "synopsis": "A principios del siglo XX, un explorador y topógrafo ruso del ejército imperial es enviado a realizar un reconocimiento geográfico en la inhóspita y salvaje región de Sikhote-Alín, en Siberia oriental. Durante la expedición, el grupo conoce a Dersu Uzala, un cazador nombrosa nativo de la taiga que vive en total armonía con la naturaleza. A través de los ojos de Dersu, el capitán y sus hombres aprenden a sobrevivir y a comprender la inmensidad y el espíritu del bosque, forjando una profunda e inolvidable amistad que cruza las fronteras del tiempo y la civilización.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-17",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "erase-una-vez-en-hollywood-2019",
@@ -11142,7 +11138,13 @@ const movies = [
             "Años 60"
         ],
         "synopsis": "Los Ángeles, 1969. Rick Dalton, una otrora estrella de la televisión western que atraviesa horas bajas, y Cliff Booth, su fiel doble de acción y mejor amigo, intentan abrirse camino en una industria cinematográfica que cambia a velocidad de vértigo y que ya apenas reconocen. Paralelamente, Rick vive muy cerca de la prometedora actriz Sharon Tate y del director Roman Polanski, en una época marcada por el fin de una era dorada y la sombra de la familia Manson.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-19",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "incendies-2010",
@@ -11165,7 +11167,13 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Tras la muerte de su madre, Nawal Marwan, los mellizos Jeanne y Simon reciben un extraño testamento con dos sobres sellados que deben entregar: uno a un padre al que creían muerto y otro a un hermano cuya existencia desconocían. Para cumplir la última voluntad de su madre, Jeanne viaja a Oriente Medio para desenterrar un pasado marcado por la guerra civil, el dolor y el silencio, descubriendo una historia familiar de una fuerza devastadora.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-26",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "telefono-rojo-volamos-hacia-moscu-1964",
@@ -11188,7 +11196,13 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Un general estadounidense desquiciado y anticomunista ordena por iniciativa propia que un escuadrón de bombarderos nucleares ataque la Unión Soviética, convencido de que los comunistas están corrompiendo los 'fluidos vitales' de América. Al enterarse de la inminente catástrofe, el presidente de los Estados Unidos convoca de urgencia a sus asesores en la Sala de Guerra del Pentágono —incluido el excéntrico científico nazi Dr. Strangelove—, mientras intenta contactar desesperadamente con el líder soviético para evitar una aniquilación nuclear accidental.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-24",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "cine-a-ciegas-2026",
@@ -11224,14 +11238,7 @@ const movies = [
             "Vanguardia"
         ],
         "synopsis": "Programa triple de cortometrajes de Warren Sonbert en formato original de 16 mm. Incluye «The Tenth Legion» (1967, 30 min), que recorre la cotidianidad y el ocio de los jóvenes neoyorquinos con elegancia coreográfica; «Whiplash» (1995-1997, 20 min), materializada póstumamente por Jeff Scher con un sorprendente cambio de ritmo en el montaje; y «Noblesse Oblige» (1981, 25 min), una espectacular composición asociativa sobre las protestas tras los asesinatos de George Moscone y Harvey Milk, introduciendo una dimensión políticamente explícita.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-20",
-                "time": "19:30",
-                "version": "16 mm."
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "warren-sonbert-sesion-2-1966-1989",
@@ -11404,6 +11411,65 @@ const movies = [
                 "date": "2026-11-05",
                 "time": "20:30",
                 "version": "Presentación y coloquio con JL&BEA y directores"
+            }
+        ]
+    },
+    {
+        "id": "panico-en-el-hospital-1994",
+        "title": "Pánico en el hospital",
+        "originalTitle": "Mortal Fear",
+        "poster": "images/panico-en-el-hospital.jpg",
+        "director": "Larry Shaw",
+        "cast": [
+            "Joanna Kerns",
+            "Gregory Harrison",
+            "Max Gail",
+            "Tobin Bell",
+            "Katherine LaNasa"
+        ],
+        "year": 1994,
+        "duration": 86,
+        "country": "Estados Unidos",
+        "genres": [
+            "Thriller",
+            "Suspense",
+            "Telefilm / Intriga médica"
+        ],
+        "synopsis": "Basada en la novela de Robin Cook. La doctora Jennifer Kessler comienza a investigar una extraña y alarmante serie de muertes repentinas e inexplicables de pacientes en su hospital. Su búsqueda de la verdad la sumerge en una peligrosa red de investigación médica secreta, conspiraciones y ambición desmedida, convirtiéndola en el objetivo a batir mientras intenta frenar una catástrofe.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-26",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "formula-for-death-1995",
+        "title": "Formula for Death",
+        "originalTitle": "Critical Choices",
+        "poster": "images/formula-for-death.jpg",
+        "director": "Donald Wrye",
+        "cast": [
+            "Betty Buckley",
+            "Bridget Fonda",
+            "Mili Avital",
+            "Kathleen Chalfant"
+        ],
+        "year": 1995,
+        "duration": 90,
+        "country": "Estados Unidos",
+        "genres": [
+            "Thriller",
+            "Suspense",
+            "Drama médico"
+        ],
+        "synopsis": "Un intenso drama de suspense médico que explora dilemas éticos y conspiraciones en el ámbito de la salud, donde las decisiones críticas de los profesionales médicos se cruzan con intereses ocultos y situaciones límite.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-27",
+                "time": "22:15"
             }
         ]
     }
