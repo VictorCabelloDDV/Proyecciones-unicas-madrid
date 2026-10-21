@@ -67,6 +67,12 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-28",
+                "time": "16:00",
+                "version": "Doblada al español"
             }
         ]
     },
