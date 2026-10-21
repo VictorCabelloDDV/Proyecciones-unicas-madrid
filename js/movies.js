@@ -1080,7 +1080,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-26",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "isla-de-perros",
@@ -1337,6 +1343,11 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-16",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-12-06",
+                "time": "12:00"
             }
         ]
     },
@@ -1428,7 +1439,20 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Durante las veinticuatro horas posteriores a un violento enfrentamiento con la policía, tres jóvenes de los suburbios de París afrontan la tensión, la frustración y la violencia de su entorno.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-24",
+                "time": "22:45",
+                "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-26",
+                "time": "16:00",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "los-400-golpes",
@@ -1644,7 +1668,14 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Una aspirante a actriz llega a Los Ángeles y conoce a una mujer que ha perdido la memoria tras un accidente. Juntas intentan descubrir su identidad mientras se adentran en una misteriosa red de secretos.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-25",
+                "time": "20:45",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "mágico-el-enviado-de-los-dioses",
@@ -1988,7 +2019,14 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Una niña de seis años vive con su madre en un motel barato cercano a Disney World. Mientras juega y explora los alrededores con sus amigos, su madre lucha por salir adelante.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-29",
+                "time": "22:15",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "the-freshman",
@@ -2269,7 +2307,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-26",
+                "time": "22:35"
+            }
+        ]
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -5952,14 +5996,7 @@ const movies = [
             "Música"
         ],
         "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad. La película vuelve a las salas tras una restauración llevada a cabo por la ECAM, bajo la supervisión de Javier Mosqueda, a partir del negativo original en 16 mm.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-21",
-                "time": "17:00",
-                "version": "Precio Reducido"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "scanners-ii-the-new-order",
@@ -9052,7 +9089,13 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "A principios de los años ochenta en una pequeña ciudad de Kansas, dos niños de ocho años sufren un misterioso episodio de amnesia de cinco horas tras un supresor encuentro con su entrenador de béisbol. Una década más tarde, ya en la adolescencia, sus caminos divergen radicalmente: Brian se ha convertido en un joven solitario obsesionado con abducciones alienígenas, mientras que Neil sobrevive en Nueva York dedicándose a la prostitución masculina y arrastrando un doloroso vacío. Cuando sus vidas vuelven a cruzarse, saldrá a la luz una terrible y oscura verdad sobre su pasado común.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-28",
+                "time": "22:30"
+            }
+        ]
     },
     {
         "id": "portrait-dune-jeune-fille-1994",
@@ -11470,6 +11513,257 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-10-27",
                 "time": "22:15"
+            }
+        ]
+    },
+    {
+        "id": "chungking-express-1994",
+        "title": "Chungking Express",
+        "originalTitle": "Chung Hing Sam Lam",
+        "poster": "images/chungking-express.jpg",
+        "director": "Wong Kar-wai",
+        "cast": [
+            "Brigitte Lin",
+            "Takeshi Kaneshiro",
+            "Tony Leung Chiu-wai",
+            "Faye Wong"
+        ],
+        "year": 1994,
+        "duration": 102,
+        "country": "Hong Kong",
+        "genres": [
+            "Romance",
+            "Drama",
+            "Cine independiente",
+            "Cine asiático"
+        ],
+        "synopsis": "Dos historias de amor paralelas ambientadas en el bullicioso y melancólico distrito de Tsim Sha Tsui, en Hong Kong. La primera sigue a un joven policía obsesionado con su expareja que conoce a una misteriosa mujer fatal con peluca rubia y gabardina. La segunda se centra en otro apático agente de policía cuya novia azafata le ha dejado, y cuya vida da un giro cuando una peculiar y alegre empleada de un puesto de comida rápida se obsesiona discretamente con él, colándose clandestinamente en su apartamento.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-27",
+                "time": "22:40"
+            }
+        ]
+    },
+    {
+        "id": "lawrence-de-arabia-1962",
+        "title": "Lawrence de Arabia",
+        "originalTitle": "Lawrence of Arabia",
+        "poster": "images/lawrence-de-arabia.jpg",
+        "director": "David Lean",
+        "cast": [
+            "Peter O'Toole",
+            "Alec Guinness",
+            "Anthony Quinn",
+            "Jack Hawkins",
+            "Omar Sharif"
+        ],
+        "year": 1962,
+        "duration": 227,
+        "country": "Reino Unido",
+        "genres": [
+            "Cine clásico",
+            "Aventura",
+            "Drama",
+            "Cine bélico"
+        ],
+        "synopsis": "Durante la Primera Guerra Mundial, el coronel británico T.E. Lawrence es enviado a Arabia por sus superiores para evaluar las posibilidades del líder árabe Faisal en su revuelta contra el Imperio otomano. Dotado de un profundo conocimiento de la cultura y el desierto beduino, Lawrence logra unificar a las tribus árabes dispersas, conduciéndolas a través de campañas militares imposibles y cruzando el implacable desierto de Nefud para tomar puertos estratégicos. Sin embargo, a medida que avanza la guerra y la política internacional interfiere, Lawrence experimenta una profunda transformación personal y una trágica pérdida de ideales.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-08",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "alien-el-octavo-pasajero-1979",
+        "title": "Alien, el octavo pasajero",
+        "originalTitle": "Alien",
+        "poster": "images/alien.jpg",
+        "director": "Ridley Scott",
+        "cast": [
+            "Sigourney Weaver",
+            "Tom Skerritt",
+            "Veronica Cartwright",
+            "Harry Dean Stanton",
+            "John Hurt",
+            "Ian Holm",
+            "Yaphet Kotto"
+        ],
+        "year": 1979,
+        "duration": 116,
+        "country": "Reino Unido, Estados Unidos",
+        "genres": [
+            "Ciencia ficción",
+            "Terror",
+            "Cine clásico"
+        ],
+        "synopsis": "De regreso a la Tierra, la nave de carga comercial Nostromo intercepta una transmisión de socorro desconocida procedente de un planeta cercano y desolado. Siguiendo las directrices de la compañía, la tripulación decide investigar el origen de la señal. Durante la exploración, uno de los tripulantes es atacado por una extraña criatura con forma de parásito que se adhiere a su rostro. Aunque inicialmente parece recuperarse, un terrorífico organismo alienígena estalla de su pecho durante una comida, sembrando el pánico y convirtiendo la nave en una trampa mortal claustrofóbica donde nadie está a salvo.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-01",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "esencia-de-mujer-1992",
+        "title": "Esencia de mujer",
+        "originalTitle": "Scent of a Woman",
+        "poster": "images/esencia-de-mujer.jpg",
+        "director": "Martin Brest",
+        "cast": [
+            "Al Pacino",
+            "Chris O'Donnell",
+            "James Rebhorn",
+            "Philip Seymour Hoffman",
+            "Gabrielle Anwar"
+        ],
+        "year": 1992,
+        "duration": 156,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Cine clásico",
+            "Comedia dramática"
+        ],
+        "synopsis": "Frank Slade es un malhumorado coronel en la reserva del ejército norteamericano, retirado tras sufrir un accidente que le dejó ciego. Durante el fin de semana de Acción de Gracias, el joven estudiante Charlie Simms, contratado por la familia de Slade, se queda en su casa para servirle de lazarillo y procurar que no beba mucho. Pero Frank tiene otros planes: viajar a Nueva York para disfrutar por todo lo alto de un fin de semana inolvidable. Remake de la aclamada película italiana «Profumo di donna» (1974).",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-15",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "my-fair-lady-1964",
+        "title": "My Fair Lady",
+        "originalTitle": "My Fair Lady",
+        "poster": "images/my-fair-lady.jpg",
+        "director": "George Cukor",
+        "cast": [
+            "Audrey Hepburn",
+            "Rex Harrison",
+            "Stanley Holloway",
+            "Wilfrid Hyde-White",
+            "Gladys Cooper"
+        ],
+        "year": 1964,
+        "duration": 170,
+        "country": "Estados Unidos",
+        "genres": [
+            "Musical",
+            "Cine clásico",
+            "Comedia romántica",
+            "Drama romántico"
+        ],
+        "synopsis": "Versión cinematográfica del mito de Pigmalión, inspirada en la obra teatral homónima del escritor irlandés G.B. Shaw. En una lluviosa noche de 1912, el excéntrico y snob lingüista Henry Higgins conoce a Eliza Doolittle, una harapienta y ordinaria vendedora de violetas. El vulgar lenguaje de la florista despierta tanto su interés que hace una arriesgada apuesta con su amigo el coronel Pickering: se compromete a enseñarle a hablar correctamente el inglés y a hacerla pasar por una dama de la alta sociedad en un plazo de seis meses.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-22",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "muerte-entre-las-flores-1990",
+        "title": "Muerte entre las flores",
+        "originalTitle": "Miller's Crossing",
+        "poster": "images/muerte-entre-las-flores.jpg",
+        "director": "Joel Coen",
+        "cast": [
+            "Gabriel Byrne",
+            "Marcia Gay Harden",
+            "John Turturro",
+            "Jon Polito",
+            "Albert Finney",
+            "J.E. Freeman"
+        ],
+        "year": 1990,
+        "duration": 115,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine negro",
+            "Thriller",
+            "Crimen",
+            "Cine clásico"
+        ],
+        "synopsis": "Durante la época de la Ley Seca, Leo es el capo irlandés que controla una ciudad norteamericana gracias a su astucia y a la ayuda de su mano derecha y consejero, Tom Reagan. Sin embargo, la frágil paz entre bandas se tambalea cuando Leo y Tom se disputan los favores de la misma mujer, la enigmática Verna, y estalla una guerra abierta contra el clan del gánster italiano Johnny Caspar. En medio de un laberinto de dobles juegos, chantajes y lealtades cruzadas, Tom tendrá que caminar por la cuerda floja para sobrevivir.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-29",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "salvar-al-soldado-ryan-1998",
+        "title": "Salvar al soldado Ryan",
+        "originalTitle": "Saving Private Ryan",
+        "poster": "images/salvar-al-soldado-ryan.jpg",
+        "director": "Steven Spielberg",
+        "cast": [
+            "Tom Hanks",
+            "Edward Burns",
+            "Matt Damon",
+            "Tom Sizemore",
+            "Barry Pepper",
+            "Vin Diesel",
+            "Giovanni Ribisi",
+            "Jeremy Davies"
+        ],
+        "year": 1998,
+        "duration": 169,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine bélico",
+            "Drama",
+            "Acción",
+            "Cine clásico"
+        ],
+        "synopsis": "June de 1944, desembarco de Normandía. Tras la sangrienta toma de la playa de Omaha, al capitán John Miller se le encomienda una peligrosa misión especial junto a su escuadrón: adentrarse en territorio enemigo en Francia para buscar al soldado James Ryan, cuyos tres hermanos han muerto en combate en el frente. El alto mando militar ha decidido licenciar al último superviviente de la familia para enviarlo de vuelta a casa con su madre. Mientras avanzan por los campos franceses asolados por la guerra, los soldados comienzan a cuestionarse el sentido de arriesgar sus propias vidas para salvar la de un solo hombre.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-12-13",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "que-bello-es-vivir-1946",
+        "title": "¡Qué bello es vivir!",
+        "originalTitle": "It's a Wonderful Life",
+        "poster": "images/que-bello-es-vivir.jpg",
+        "director": "Frank Capra",
+        "cast": [
+            "James Stewart",
+            "Donna Reed",
+            "Lionel Barrymore",
+            "Thomas Mitchell",
+            "Henry Travers"
+        ],
+        "year": 1946,
+        "duration": 130,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine clásico",
+            "Drama",
+            "Fantasía",
+            "Cine navideño"
+        ],
+        "synopsis": "Durante la Nochebuena, las súplicas y oraciones de sus seres queridos llegan al cielo en favor de George Bailey, un hombre bondadoso y generoso que ha dedicado toda su vida a ayudar a los habitantes de Bedford Falls, pero que se encuentra al borde del abismo y de la desesperación tras una terrible crisis económica y personal. Para evitar que cometa una locura, Clarence, un ángel de la guarda en prácticas que aún no ha ganado sus alas, es enviado a la Tierra con la misión de mostrarle cómo habría sido el mundo si él nunca hubiera existido.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-12-27",
+                "time": "12:00"
             }
         ]
     }
