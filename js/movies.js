@@ -11772,5 +11772,31 @@ const movies = [
                 "time": "12:00"
             }
         ]
+    },
+    {
+        "id": "ya-veras-nu-pogodi-1969",
+        "title": "¡Ya verás!",
+        "originalTitle": "Nu, pogodi!",
+        "poster": "images/ya-veras-nu-pogodi.jpg",
+        "director": "Viacheslav Kotiónochkin",
+        "cast": [],
+        "year": 1986,
+        "duration": 158,
+        "country": "URSS",
+        "genres": [
+            "Animación",
+            "Clásico",
+            "Comedia",
+            "Cortometrajes"
+        ],
+        "synopsis": "El Lobo tiene una idea fija: atrapar a la Liebre. Pero sus planes nunca salen como espera. Desde parques de atracciones y playas hasta pistas de patinaje y escenarios de circo, cada persecución se convierte en un torbellino de caídas espectaculares, disfraces, música y situaciones absurdas. Astuta, ágil y siempre un paso por delante, la Liebre logra escapar una y otra vez, mientras el Lobo se mete en líos cada vez más divertidos. Esta sesión especial reúne los 16 episodios clásicos dirigidos por Viacheslav Kotiónochkin entre 1969 y 1986.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-12-09",
+                "time": "19:00",
+                "version": "Sesión especial (16 episodios clásicos)"
+            }
+        ]
     }
 ]
