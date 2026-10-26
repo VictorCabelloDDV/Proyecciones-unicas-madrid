@@ -321,13 +321,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Un reconocido cineasta recuerda su infancia en un pueblo siciliano, donde nació su pasión por el cine gracias a Alfredo, el proyeccionista del cine local que se convirtió en su mentor y figura paterna.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-24",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ciudad-de-dios",
@@ -648,11 +642,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-30",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-22",
-                "time": "17:30"
             }
         ]
     },
@@ -756,18 +745,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Tras la muerte de su madre, el joven Mahito se muda al campo con su padre. Allí entra en un mundo fantástico guiado por una misteriosa garza gris y comienza un viaje entre vivos y muertos.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-24",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-25",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
 //30
     {
@@ -957,13 +935,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "La actriz Alba Flores se adentra en la memoria de su padre, el músico Antonio Flores, fallecido cuando ella tenía ocho años, a través de vídeos caseros, cintas inéditas y entrevistas a familiares y amigos para entender quién fue de verdad.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-23",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "gangs-of-new-york",
@@ -1086,13 +1058,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-26",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "isla-de-perros",
@@ -1445,20 +1411,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Durante las veinticuatro horas posteriores a un violento enfrentamiento con la policía, tres jóvenes de los suburbios de París afrontan la tensión, la frustración y la violencia de su entorno.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-24",
-                "time": "22:45",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-26",
-                "time": "16:00",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-400-golpes",
@@ -1674,14 +1627,7 @@ const movies = [
             "Misterio"
         ],
         "synopsis": "Una aspirante a actriz llega a Los Ángeles y conoce a una mujer que ha perdido la memoria tras un accidente. Juntas intentan descubrir su identidad mientras se adentran en una misteriosa red de secretos.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-25",
-                "time": "20:45",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mágico-el-enviado-de-los-dioses",
@@ -2229,13 +2175,7 @@ const movies = [
             "Épico"
         ],
         "synopsis": "Un antiguo gánster de Nueva York regresa a la ciudad después de décadas de ausencia y se enfrenta a los recuerdos, amistades, traiciones y decisiones que marcaron su ascenso durante la época de la Ley Seca.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-25",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "amarga-navidad",
@@ -2704,13 +2644,7 @@ const movies = [
             "Crimen"
         ],
         "synopsis": "Un policía en su primera noche de servicio debe unir fuerzas con los prisioneros de una comisaría a punto de cerrar para defenderse del asedio inminente de una sangrienta banda callejera.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-24",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "depredador-2",
@@ -4987,13 +4921,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En la Polonia de los años setenta, una joven estudiante de cine realiza un documental sobre Mateusz Birkut, un albañil que en la década de 1950 fue aclamado como héroe del trabajo socialista y estajanovista, pero que posteriormente cayó en desgracia y fue marginado por el régimen. A través de su investigación, destapa las contradicciones y los abusos del sistema político comunista.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-21",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
 //210
     {
@@ -5017,7 +4945,14 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Hipnótico y estilizadísimo retrato urbano de Hong Kong que entrelaza las historias de varios personajes solitarios en los márgenes de la noche: un asesino a sueldo que busca abandonar su peligrosa profesión, su misteriosa socia que organiza sus contratos desde la sombra, un joven mudo que se dedica a allanar locales ajenos por las noches y una chica desconsolada por un desamor que busca desesperadamente un contacto humano.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-10-26",
+                "time": "20:00",
+                "version": "Embajadores Río"
+            }
+        ]
     },
     {
         "id": "roma-2004",
@@ -5503,13 +5438,7 @@ const movies = [
         "Documental"
     ],
     "synopsis": "Una película sinfónica y ensayo fílmico acerca de la ciudad, el tiempo, sus flujos y sus contradicciones. Un gran archivo visual y sonoro de sus habitantes y localizaciones donde se cruzan comercio y fauna, arquitectura, mercerías y poetas, constructores y destructores de la ciudad, transitando entre la nostalgia y la ironía.",
-    "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-10-25",
-                "time": "17:00"
-            }
-        ]
+    "screenings": []
     },
     {
     "id": "reversion-2025",
@@ -6002,7 +5931,18 @@ const movies = [
             "Música"
         ],
         "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad. La película vuelve a las salas tras una restauración llevada a cabo por la ECAM, bajo la supervisión de Javier Mosqueda, a partir del negativo original en 16 mm.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-30",
+                "time": "17:00"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-10-31",
+                "time": "22:00"
+            }
+        ]
     },
     {
         "id": "scanners-ii-the-new-order",
@@ -6194,6 +6134,11 @@ const movies = [
         ],
         "synopsis": "Jack Torrance acepta un empleo como cuidador de invierno en el aislado Hotel Overlook, en Colorado, con la esperanza de superar su bloqueo mental y escribir una novela. Se traslada allí junto a su mujer y su hijo pequeño, Danny, quien posee unas facultades extrasensoriales llamadas 'resplandor'. A medida que la nieve los aísla por completo del exterior, la maligna presencia del hotel se apodera poco a poco de la mente de Jack, arrastrándolo a una espiral de locura y violencia homicida.",
         "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-10-29",
+                "time": "11:30"
+            },
             {
                 "cinema": "Cines Verdi",
                 "date": "2026-10-29",
@@ -6404,13 +6349,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Un bondadoso cristalero vagabundo adopta a un bebé abandonado por su madre en un coche de lujo. Cinco años después, el niño se ha convertido en su entrañable cómplice en pequeñas pillerías para sobrevivir en los suburbios, hasta que un giro inesperado amenaza con separarlos.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-26",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "poder-malefico-1974",
@@ -6710,13 +6649,7 @@ const movies = [
             "Investigación"
         ],
         "synopsis": "En las montañas del Congo, Numbi parece estar lejos de nuestro mundo, pero guarda bajo tierra uno de los minerales que lo mantienen conectado. Allí, hombres y mujeres extraen coltán a mano, atrapados entre la precariedad, los intereses económicos y un conflicto que se alimenta de esa riqueza. La película se sumerge en su vida cotidiana para revelar el reverso de nuestra comodidad digital y plantearnos una pregunta incómoda: ¿qué parte de este sistema nos corresponde cuando encendemos cada día nuestros dispositivos?",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-21",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "silver-2025",
@@ -6733,13 +6666,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "A casi 5.000 metros de altura, la vida en Cerro Rico gira alrededor de una mina que da sustento y, al mismo tiempo, amenaza a quienes dependen de ella. A través de la mirada de Juvi, un niño de doce años, la película se acerca con enorme intimidad a una comunidad marcada por el trabajo extremo, la espiritualidad y una herencia extractiva que atraviesa generaciones, enfrentándonos al coste humano de un modelo que sigue midiendo la riqueza por todo aquello que somos capaces de extraer de la tierra.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-22",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-suenos-que-compartimos-2025",
@@ -6757,13 +6684,7 @@ const movies = [
             "Ecología"
         ],
         "synopsis": "¿Qué tendría que ocurrir para que en 2050 hubiéramos conseguido frenar el deterioro del planeta? Desde ese futuro posible, la película mira hacia las luchas que ya están transformando el presente. A partir del viaje transatlántico de comunidades mayas zapatistas, conecta resistencias de México, España y Alemania que defienden sus territorios frente a la destrucción industrial, en un relato colectivo sobre organización, solidaridad y cuidado de la vida.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-22",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "super-nature-2025",
@@ -6781,14 +6702,7 @@ const movies = [
             "Naturaleza"
         ],
         "synopsis": "Filmado íntegramente en Super 8 por colaboradores de 25 países, Super Nature compone una carta de amor al planeta que celebra nuestra conexión con la naturaleza y nos invita a mirar de nuevo todo aquello que podemos perder. Una comunidad global captura momentos íntimos de la naturaleza con cámaras compartidas, entretejiendo sus observaciones personales en un impresionante tapiz visual.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-24",
-                "time": "19:30",
-                "version": "Versión original en Super 8"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "power-station-2025",
@@ -6806,13 +6720,7 @@ const movies = [
             "Ecología"
         ],
         "synopsis": "¿Puede una calle cualquiera convertirse en el inicio de una revolución energética? En Walthamstow, dos artistas convencen a sus vecinos para transformar sus tejados en una central solar comunitaria. Entre obstáculos, campañas disparatadas, humor y mucha perseverancia, la película convierte la transición energética en una aventura colectiva, cercana y contagiosa, mostrando el poder de la acción local.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-24",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "a-life-illuminated-2025",
@@ -6832,13 +6740,7 @@ const movies = [
             "Ciencia"
         ],
         "synopsis": "A Life Illuminated nos acerca a la figura de la pionera bióloga marina Edie Widder y a una vida dedicada a explorar aquello que el océano todavía oculta. Sus investigaciones sobre la bioluminiscencia y las profundidades marinas revelan un mundo tan extraordinario como vulnerable. A través de la ciencia, el asombro y unas imágenes excepcionales, la película nos invita a comprender mejor estos ecosistemas y a reconocer que proteger lo desconocido también forma parte de proteger el futuro del planeta.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-25",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-mujer-sin-cabeza-2008",
@@ -7438,13 +7340,7 @@ const movies = [
             "Histórico"
         ],
         "synopsis": "En el Gdansk de 1980, en plena huelga de los astilleros que dará origen al sindicato Solidaridad, el periodista Winkel recibe el encargo de elaborar un reportaje que desacredite a Maciek Tomczyk, uno de los líderes de la protesta.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-24",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "angustia-1987",
@@ -7971,11 +7867,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-21",
-                "time": "17:30"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-27",
                 "time": "20:00"
             }
@@ -7998,11 +7889,6 @@ const movies = [
         ],
         "synopsis": "Crónica documental rodada sobre el terreno durante la Revolución de los Claveles en Portugal. La película sigue de cerca la histórica ocupación de la finca Torre Bela —perteneciente a los duques de Lafões— por parte de campesinos y jornaleros sin tierras apoyados por el Movimiento de las Fuerzas Armadas, quienes deciden colectivizar la propiedad y autogestionar la tierra en un ejercicio directo de transformación social.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-21",
-                "time": "20:30"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-10-29",
@@ -8035,11 +7921,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-10-22",
-                "time": "19:00"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-10-28",
                 "time": "19:00"
             }
@@ -8065,14 +7946,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Cuando un viejo campesino ucraniano se dispone a morir, su nieto Vasil decide proponer al colectivo de trabajadores que compren un tractor para, de esa manera, poder seguir cultivando la tierra sin depender de los terratenientes ni de las dificultades de la tierra. Sesión precedida de presentación a cargo de Marta García Larriu, directora de Another Way.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-22",
-                "time": "20:30",
-                "version": "Presentación a cargo de Marta García Larriu"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "un-amor-inmortal-1961",
@@ -8096,13 +7970,7 @@ const movies = [
             "Melodrama"
         ],
         "synopsis": "Japón, años 30. Sadako y Heikichi son dos jóvenes campesinos profundamente enamorados cuyos planes de futuro se truncan cuando Sadako es obligada por su familia a casarse con el hijo del terrateniente local, un hombre déspota y desequilibrado. A lo largo de los años marcados por la guerra y los cambios sociales, el acoso implacable del marido y el dolor del amor prohibido desatarán una espiral de tragedia y venganza que perdurará décadas.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-23",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ander-eta-yul-1988",
@@ -8123,14 +7991,7 @@ const movies = [
             "Cine político"
         ],
         "synopsis": "Ander, excarcelado después de cumplir condena, vuelve a su casa paterna. El regreso le devuelve la nostalgia de una familia con la que había cortado cualquier tipo de relación y el paisaje urbano le sitúa ante un amor que llega a rozar. La vuelta le reencuentra con Yul, su mejor amigo, que probablemente le sustituyó en casa cuando él decidió marcharse. Sin embargo, la sociedad en la que viven les emplaza, sin que puedan hacer nada por impedirlo, ante un destino que se manifestará implacable. Sesión precedida de presentación a cargo de la directora Ana Díez y Joxean Fernández.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-23",
-                "time": "19:00",
-                "version": "Presentación a cargo de Ana Díez y Joxean Fernández"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "local-hero-1983",
@@ -8153,13 +8014,7 @@ const movies = [
             "Comedia dramática"
         ],
         "synopsis": "MacIntyre es un ambicioso y joven ejecutivo de una gran compañía petrolera en Houston que es enviado a un pequeño y pintoresco pueblo pesquero en la costa de Escocia. Su misión es comprar todo el territorio para construir una gigantesca refinería y una terminal petrolera. Sin embargo, a medida que se compenetra con los excéntricos y hospitalarios lugareños y se deja embriagar por la belleza y la tranquilidad del paisaje, sus prioridades y su visión del mundo empezarán a cambiar por completo.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-23",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-mal-no-existe-2023",
@@ -8181,13 +8036,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Takumi y su hija pequeña viven en un apacible pueblo boscoso cercano a Tokio, manteniendo un estilo de vida profundamente conectado con los ciclos de la naturaleza. Su tranquilidad se ve amenazada cuando una empresa de Tokio planea construir un lujoso camping de caravanas en la zona, un proyecto que alterará el suministro de agua y el equilibrio ecológico del lugar, obligando a los representantes de la corporación a reunirse con los lugareños.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-24",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-duque-2020",
@@ -8211,13 +8060,7 @@ const movies = [
             "Basado en hechos reales"
         ],
         "synopsis": "En 1961, Kenton Bunton, un taxista jubilado de 60 años, robó el famoso retrato del duque de Wellington pintado por Goya de la Galería Nacional de Londres. Fue el primer y único robo en la historia de la pinacoteca. Keton envió cartas exigiendo un rescate bajo la condición de que el gobierno invirtiera más dinero en el cuidado de los ancianos y en la gratuidad de la televisión para los pensionistas, desencadenando una insólita y divertida persecución mediática y judicial.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-25",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "carmens-pure-love-1952",
@@ -8240,13 +8083,7 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "En esta nueva entrega centrada en la excéntrica bailarina Lily Carmen, la trama vuelve a incidir con ironía y ligereza en la fascinación y los malentendidos que provoca la modernidad occidental en la sociedad japonesa tradicional, combinando números musicales, enredos amorosos y una aguda crítica de las costumbres de la época.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-25",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-ultimo-1924",
@@ -8608,20 +8445,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Ángela es una joven reportera de una televisión local que, junto a su camarógrafo, cubre el turno nocturno de los bomberos. Cuando reciben la llamada de una anciana encerrada en su apartamento en un edificio del centro de Barcelona, acuden al lugar junto a los bomberos y dos policías. Una vez dentro, descubren que la mujer ha enloquecido de forma rabiosa y violenta. Las autoridades sanitarias bloquean y ponen en cuarentena el edificio de forma imprevista, sin dejar salir a nadie y atrapando a los vecinos y al equipo de televisión con una creciente y sanguinaria amenaza infectada.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-22",
-                "time": "20:00",
-                "version": "Coloquio con Paco Plaza y Javier Botet - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-22",
-                "time": "22:30",
-                "version": "Presentación con Paco Plaza y Javier Botet - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "it-follows-2014",
@@ -9219,13 +9043,7 @@ const movies = [
             "Suspense"
         ],
         "synopsis": "Susan Wheeler, una brillante doctora residente en un hospital de Boston, comienza a notar una estadística alarmante y sospechosa: un número inusualmente alto de pacientes jóvenes y sanos caen en un estado de coma irreversible durante intervenciones quirúrgicas rutinarias debido a fallos inexplicables en el suministro de gas. Cuando Susan decide investigar por su cuenta, descubre una siniestra conspiración médica que pone su propia vida en peligro.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-25",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-fantasma-de-la-opera-1989",
@@ -9801,13 +9619,7 @@ const movies = [
             "Naturaleza"
         ],
         "synopsis": "En una remota granja al pie del mayor glaciar de Islandia, los recuerdos de una familia se entrelazan con un paisaje que está desapareciendo. A través de fotografías, voces y una poderosa memoria íntima, La Pietà convierte el retroceso del hielo en una historia sobre el paso del tiempo, la pérdida y nuestra relación con la naturaleza. Un relato bello y conmovedor que nos recuerda que, cuando un paisaje desaparece, también se desvanece parte de la memoria de quienes aprendieron a vivir junto a él.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-21",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "let-our-mountains-live-2026",
@@ -9825,13 +9637,7 @@ const movies = [
             "Ecología"
         ],
         "synopsis": "En las montañas de Noruega, uno de los mayores proyectos eólicos de Europa amenaza las tierras de pastoreo de las que dependen las comunidades sami y su cultura ancestral. Aunque el Tribunal Supremo reconoce que la instalación vulnera sus derechos, las turbinas permanecen. Let Our Mountains Live acompaña su lucha frente al Estado y plantea una incómoda paradoja: ¿puede construirse una transición verde sacrificando a quienes llevan generaciones protegiendo el territorio? Un relato sobre justicia climática, poder y resistencia indígena.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-21",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "christiania-2026",
@@ -9849,13 +9655,7 @@ const movies = [
             "Historia"
         ],
         "synopsis": "Christiania es uno de los experimentos comunitarios más singulares de Europa: una comuna autogestionada que durante más de cinco décadas ha intentado construir una forma de vida basada en la libertad, la creatividad y la democracia por consenso. A través de un extraordinario archivo y una mirada cercana y llena de humor, el documental recorre sus ideales, tensiones y transformaciones, preguntándose hasta qué punto una comunidad puede cambiar para sobrevivir sin renunciar a aquello que la hizo única.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-22",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "elements-of-balance-2025",
@@ -9873,13 +9673,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "Elements of(f) Balance nos invita a adentrarnos en ecosistemas apenas explorados que emergen entre las ruinas de un modelo basado en la explotación de la naturaleza. Lejos de plantear una visión distópica del futuro, el documental dirige la mirada hacia otras formas posibles de habitar el mundo: relaciones basadas en la interdependencia, la cooperación y la recuperación de vínculos que parecían olvidados. Una película que propone repensar nuestra relación con el entorno y descubrir, en medio de la crisis ecológica, nuevas posibilidades de equilibrio entre los seres humanos y los ecosistemas de los que formamos parte.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-23",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vanishing-tracks-2026",
@@ -9897,13 +9691,7 @@ const movies = [
             "Antropológico"
         ],
         "synopsis": "En Irán, Valiollah y Dorna viven los últimos años de una existencia nómada amenazada por la sedentarización y por un mundo que cambia demasiado deprisa. Mientras sus hijos miran hacia la ciudad, ellos intentan mantener un vínculo con el territorio, el rebaño y una forma de vida heredada durante generaciones. El robo de parte de sus animales acentúa una distancia que ya estaba creciendo. Íntimo y contemplativo, el documental reflexiona sobre todo aquello que se pierde cuando el progreso rompe los lazos entre comunidad, memoria y paisaje.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-23",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "yanuni-2025",
@@ -9923,13 +9711,7 @@ const movies = [
             "Ecología"
         ],
         "synopsis": "En la Amazonia brasileña, la líder indígena Juma Xipaia lleva años defendiendo su territorio frente a la minería ilegal, la violencia y los intereses que amenazan la selva. Yanuni acompaña de cerca una lucha que es política, ambiental y profundamente personal, especialmente cuando la maternidad introduce una nueva dimensión de futuro. Íntima y urgente, la película conecta la defensa de los pueblos indígenas con la protección de uno de los ecosistemas esenciales del planeta y recuerda que cuidar la Amazonia es también decidir qué mundo dejamos a quienes vienen detrás.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-24",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "durmiendo-con-lobos-2026",
@@ -9950,13 +9732,7 @@ const movies = [
             "Cine familiar"
         ],
         "synopsis": "Durante cinco años, Andoni Canela y su hija Amaia comparten un mismo sueño: ver lobos en libertad. Entre montañas, noches bajo las estrellas y mucha paciencia, descubrirán que encontrar al lobo es solo el principio. Un viaje para comprender que el futuro del lobo es también el futuro de nuestros bosques y montañas.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-25",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "hijas-del-bosque-2026",
@@ -9974,13 +9750,7 @@ const movies = [
             "Científico"
         ],
         "synopsis": "En los bosques de México, dos micólogas indígenas se adentran en el fascinante universo de los hongos, donde saberes ancestrales y ciencia contemporánea se encuentran. Hijas del bosque es una experiencia cautivadora, tierna y sorprendente que combina documental, ciencia y especulación para descubrir las conexiones invisibles que sostienen la vida. Un viaje sensorial y casi mágico que invita a mirar la naturaleza de otra manera y a imaginar futuros basados en el cuidado, la interdependencia y la colaboración entre especies.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-25",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "gallega-invernal-avenida-saenz-1073-2026",
@@ -10236,11 +10006,6 @@ const movies = [
         ],
         "synopsis": "Hollywood, 1947. Eddie Valiant, un detective privado cínico y alcohólico, es contratado para investigar un caso de celos que involucra a Jessica Rabbit, la sensual esposa de la estrella de dibujos animados Roger Rabbit. Cuando el dueño del club nocturno en el que trabaja Jessica aparece asesinado, todas las pruebas apuntan a Roger, desatando una divertida e ingeniosa conspiración entre el mundo real y el de los 'toons'.",
         "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-12-12",
-                "time": "12:00"
-            }
         ]
     },
     {
@@ -10315,13 +10080,7 @@ const movies = [
             "Cine clásico español"
         ],
         "synopsis": "En el invierno de 1931, poco antes de que se proclame la Segunda República española, Fernando, un joven soldado desertor, llega a un apacible paraje rural donde es acogido por Manolo, un artista bohemio y cínico que vive retirado del mundo. La tranquilidad del lugar se altera cuando las cuatro hermosas y muy diferentes hijas de Manolo —Clara, Violeta, Rocío y Luz— llegan a la casa familiar. Fernando, con su encanto natural, terminará enamorándose y manteniendo idilios sucesivos con todas ellas, en un ambiente idílico lleno de libertad y belleza.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-21",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-esposa-americana-1965",
@@ -10345,13 +10104,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Riccardo Vanzi (Ugo Tognazzi) trabaja en una empresa de zapatos en Italia cuando recibe el encargo de viajar a Nueva York. Al llegar a la Gran Manzana quedará maravillado con el confortable nivel de vida y con el famoso Sueño Americano, por lo que decidirá conseguir la ciudadanía a toda costa. Su primera idea es lograrla mediante un matrimonio, pero parece que el sex appeal del hombre latino está en decaída...",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-21",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-girasoles-ciegos-2008",
@@ -10375,13 +10128,7 @@ const movies = [
             "Cine dramático"
         ],
         "synopsis": "Ourense, 1940. En plena posguerra española, la represión franquista asfixia el país. Salvador, un diácono que ha renunciado a los votos, se obsesiona enfermizamente con Elena, una mujer casada cuyo marido, un republicano huido y derrotado, se esconde clandestinamente en un hueco excavado en el dormitorio de la propia casa. Una historia claustrofóbica y llena de tensión sobre el miedo, los secretos y la pérdida de la inocencia.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-22",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "que-dulce-es-morir-asi-1967",
@@ -10407,13 +10154,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Un empresario dedicado a la fabricación de productos elaborados en papel acude a visitar y mostrar su producto al director de una sofisticada clínica. Allí le detectan un extraño ruido en la nariz, lo que le obliga a quedarse ingresado en un centro médico que poco a poco se va convirtiendo en una kafkiana y delirante trampa.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-22",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-verdugo-1963",
@@ -10438,13 +10179,7 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "José Luis, un empleado de pompas fúnebres, tiene planes de marchar a Alemania para convertirse en un mecánico respetable. Su novia Carmen es hija de Amadeo, un verdugo oficial que está a punto de jubilarse. Cuando las circunstancias obligan a José Luis a aceptar el puesto de verdugo de su suegro para conseguir una vivienda oficial de protección, se verá atrapado de manera tragicómica en un mecanismo social implacable del que no podrá escapar.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-23",
-                "time": "18:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-anacoreta-1976",
@@ -10469,13 +10204,7 @@ const movies = [
             "Cine clásico español"
         ],
         "synopsis": "Fernando Tobajas es un hombre de extrañas costumbres que decide instalarse en el piso superior de un edificio elegante, aislándose voluntariamente del mundo exterior y negándose a salir de la vivienda. Desde su particular encierro, contempla la vida de sus vecinos y mantiene una peculiar relación con ellos, especialmente con la hija de su casero, convirtiendo su excentricidad en una profunda y satírica reflexión sobre la soledad y la libertad en la sociedad moderna.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-24",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-muertos-no-se-tocan-nene-2011",
@@ -10500,13 +10229,7 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "Logroño, años 40. A la muerte de un acaudalado patriarca familiar, se desencadena una serie de enredos, tensiones y situaciones rocambolescas en torno al velatorio y al riguroso luto que debe guardar la familia. Basada en la obra póstuma de Rafael Azcona, la película retrata con ironía y cariño las costumbres, la hipocresía social y la picaresca de una época.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-24",
-                "time": "21:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "en-construccion-2001",
@@ -10568,13 +10291,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Cuando Marcela, una novelista emergente, regresa a casa con su familia, descubre que su joven empleada doméstica ha sido encontrada muerta en la piscina del patio trasero. Días después, se confirma que la muerte fue un homicidio. La familia de Marcela se convierte entonces en blanco de un acoso anónimo y ella comienza a volverse cada vez más paranoica. Mientras investiga la verdad detrás de la misteriosa muerte, su percepción entre la realidad y la ilusión comienza a desdibujarse.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-23",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "laca-y-palomitas-halloween-2026",
@@ -10592,14 +10309,7 @@ const movies = [
             "Especial / Sesión Golfa"
         ],
         "synopsis": "Una colaboración especial de La Caneli con Cines Embajadores. Presentación de La Caneli y proyección. En esta ocasión déjate sorprender por la terrorífica elección de La Caneli para esta sesión especial de Halloween. ¡Anímate y ven con tu mejor disfraz porque puede que salgas con un premio! Llévate unas palomitas pequeñas gratis con tu entrada.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-24",
-                "time": "12:00",
-                "version": "Sesión especial sorpresa con presentación - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "nunkui-2026",
@@ -10623,13 +10333,7 @@ const movies = [
             "Ficción"
         ],
         "synopsis": "Nunkui es el espíritu femenino de la huerta y también el nombre de una niña shuar que crece en un mundo exuberante de plantas, animales, espíritus y una extensa familia. Entre sueños premonitorios y el avance de la minería en la cordillera amazónica, Nunkui busca su lugar en el mundo, guiada por su abuelo, un antiguo líder shuar.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-24",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "hiedra-2025",
@@ -10653,13 +10357,7 @@ const movies = [
             "Adolescencia"
         ],
         "synopsis": "Azucena, una mujer de 30 años, espía a los adolescentes de un hogar para menores. Busca en sus juegos y en sus vínculos algo de su pasado, impulsada por un suceso que marcó su propia adolescencia y la detuvo en el tiempo. Su interés se centra principalmente en Julio, de 17 años. Aunque sus universos sociales los distancian, sus heridas y el descubrimiento del otro guían su viaje hacia las rocas de un volcán, donde ambos personajes, marcados por la ausencia, se transforman en otra cosa.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-25",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "por-el-camino-de-en-medio-2026",
@@ -10978,13 +10676,7 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "Un grupo de amigos viaja a Las Vegas para celebrar la despedida de soltero de Kyle. La fiesta se desmadra cuando una stripper muere accidentalmente en la habitación del hotel tras una broma pesada. En lugar de avisar a la policía, deciden enterrar el cuerpo en el desierto y guardar el secreto a toda costa. Sin embargo, la culpa, el pánico y las ambiciones desmedidas de algunos de ellos convertirán sus vidas en una auténtica pesadilla con toques de humor negro implacable.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-21",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-end-of-the-tour-2015",
@@ -11037,16 +10729,7 @@ const movies = [
         ],
         "synopsis": "Yuta Okkotsu es un chico de instituto bastante nervioso con un grave problema: su amiga Rika se ha convertido en una maldición y no le deja a solas. Ya que Rika no es una maldición ordinaria, capta la atención de Satoru Gojo, un profesor del Instituto de Hechicería de Tokio, donde los exorcistas aprenden a combatir a las maldiciones. Gojo convence a Yuta para enrolarse en la academia... ¿Podrá aprender Yuta a controlar a la maldición que le atormenta? Precuela de la serie anime «Jujutsu Kaisen».",
         "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-30",
-                "time": "20:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-31",
-                "time": "11:30"
-            }
+
         ]
     },
     {
@@ -11305,14 +10988,7 @@ const movies = [
             "Vanguardia"
         ],
         "synopsis": "Nuevo programa de cortometrajes de Warren Sonbert en formato original de 16 mm. Incluye «Hall of Mirrors» (1966, 7 min), con retratos de las superestrellas warholianas Rene Ricard y Gerard Malanga; «The Tuxedo Theatre» (1968, 21 min), considerada la primera puesta en práctica de su original estilo de montaje asociativo; y «Friendly Witness» (1989, 22 min), un tour de force pletórico que sintetiza su repertorio formal, poético y temático a partir de imágenes de toda su filmografía anterior.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-21",
-                "time": "19:00",
-                "version": "16 mm."
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "blue-heron-2026",
@@ -11336,18 +11012,7 @@ const movies = [
             "Drama familiar"
         ],
         "synopsis": "A finales de los años 90, Sasha, una niña de ocho años, y su familia se mudan a una nueva casa en la isla de Vancouver. Esta nueva vida se verá afectada por el comportamiento cada vez más impredecible de Jeremy, el hijo mayor. Desesperados, sus padres se enfrentarán a una decisión complicada.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-24",
-                "time": "17:00"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-25",
-                "time": "21:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "nosferatu-cine-con-piano-1922",
@@ -11796,6 +11461,71 @@ const movies = [
                 "date": "2026-12-09",
                 "time": "19:00",
                 "version": "Sesión especial (16 episodios clásicos)"
+            }
+        ]
+    },
+    {
+        "id": "bailar-en-la-oscuridad-2000",
+        "title": "Bailar en la oscuridad",
+        "originalTitle": "Dancer in the Dark",
+        "poster": "images/bailar-en-la-oscuridad.jpg",
+        "director": "Lars von Trier",
+        "cast": [
+            "Björk",
+            "Catherine Deneuve",
+            "David Morse",
+            "Peter Stormare"
+        ],
+        "year": 2000,
+        "duration": 140,
+        "country": "Dinamarca",
+        "genres": [
+            "Drama",
+            "Musical",
+            "Cine independiente",
+            "Cine de autor"
+        ],
+        "synopsis": "Selma, inmigrante checa y madre soltera, trabaja en la fábrica de un pueblo de los Estados Unidos. La única vía de escape a tan rutinaria vida es su pasión por la música, especialmente por las canciones y los números de baile de los musicales clásicos de Hollywood. Selma esconde un triste secreto: está perdiendo la vista, pero lo peor es que su hijo también se quedará ciego si ella no consigue, a tiempo, el dinero suficiente para que se opere.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-12-20",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "un-verano-con-monica-1953",
+        "title": "Un verano con Mónica",
+        "originalTitle": "Sommaren med Monika",
+        "poster": "images/un-verano-con-monica.jpg",
+        "director": "Ingmar Bergman",
+        "cast": [
+            "Harriet Andersson",
+            "Lars Ekborg",
+            "Dagmar Ebbesen",
+            "Åke Fridell",
+            "Naemi Briese",
+            "Åke Grönberg",
+            "Sigge Fürst",
+            "John Harryson"
+        ],
+        "year": 1953,
+        "duration": 96,
+        "country": "Suecia",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Cine clásico",
+            "Cine de autor"
+        ],
+        "synopsis": "Harry, un mozo de almacén de 19 años, y Mónica, una chica temperamental y rebelde de 17 que trabaja en un mercado de verduras, se conocen casualmente y se enamoran. Insatisfechos con sus vidas, se escapan de la ciudad a bordo del pequeño bote del padre de Harry y viajan por las islas del archipiélago sueco. Juntos viven un verano idílico… hasta que Mónica queda embarazada.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-12",
+                "time": "20:30",
+                "version": "Sesión de tarde con presentación del libro de Lucía Tello Díaz"
             }
         ]
     }
