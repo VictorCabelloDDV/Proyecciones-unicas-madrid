@@ -70,8 +70,8 @@ const movies = [
             },
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-10-28",
-                "time": "16:00",
+                "date": "2026-11-04",
+                "time": "22:00",
                 "version": "Doblada al español"
             }
         ]
@@ -365,13 +365,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Por un malentendido, un ejecutivo publicitario neoyorquino es confundido con un agente del gobierno por una organización de espías, lo que lo obliga a huir a través de todo el país mientras intenta desentrañar la conspiración.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-26",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cuenta-conmigo",
@@ -2253,13 +2247,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-26",
-                "time": "22:35"
-            }
-        ]
+        "screenings": []
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -3589,13 +3577,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Cinco personas trabajan en un club de tenis argentino: el dueño, la profesora, un nuevo empleado, el contador y el tímido gerente. Las tensiones y el caos estallan cuando deciden organizar una peregrinación omitiendo invitar a uno de ellos en este melodrama anárquico de culto.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-27",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
 //150
     {
@@ -3619,13 +3601,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En esta secuela de 'Smog en tu corazón', Luján se emprende en una surrealista peregrinación llena de rarezas urbanas. Mientras tanto, en el club de tenis local se intenta organizar un torneo donde insólitamente solo se han inscrito dos participantes.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-28",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "weak-rangers-2022",
@@ -4945,14 +4921,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Hipnótico y estilizadísimo retrato urbano de Hong Kong que entrelaza las historias de varios personajes solitarios en los márgenes de la noche: un asesino a sueldo que busca abandonar su peligrosa profesión, su misteriosa socia que organiza sus contratos desde la sombra, un joven mudo que se dedica a allanar locales ajenos por las noches y una chica desconsolada por un desamor que busca desesperadamente un contacto humano.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-26",
-                "time": "20:00",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "roma-2004",
@@ -5599,13 +5568,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Geneviève y Guy están profundamente enamorados y planean casarse, pero él es reclutado para luchar en la guerra de Argelia. La dolorosa separación y el paso del tiempo pondrán a prueba su promesa de amor eterno en este icónico melodrama musical cantado en su totalidad.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-27",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "dracula-de-bram-stoker",
@@ -5941,6 +5904,12 @@ const movies = [
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-10-31",
                 "time": "22:00"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-04",
+                "time": "17:00",
+                "version": "Precio Reducido"
             }
         ]
     },
@@ -6764,13 +6733,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Vero, una mujer burguesa de provincia, sufre un despiste al volante y atropella algo (o a alguien) en una carretera solitaria. A partir de ese momento, un extraño estado de aturdimiento, alienación y mutismo se apodera de ella, mientras su entorno familiar intenta protegerla y disimular un posible crimen.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-28",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-endemoniada-1975",
@@ -7648,13 +7611,7 @@ const movies = [
             "Cine histórico"
         ],
         "synopsis": "A comienzos de los años cincuenta, el pintor vanguardista Władysław Strzemiński, profesor muy querido en la Escuela Superior de Bellas Artes de Łódź pese a haber perdido un brazo y una pierna en la guerra, se niega a plegarse al realismo socialista impuesto por el régimen estalinista. Su desafío le costará el puesto, la posibilidad de exponer y, finalmente, la vida.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-27",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "granny-project-2017",
@@ -7766,13 +7723,7 @@ const movies = [
             "Romántico"
         ],
         "synopsis": "A finales de la década de 1920, Viktor Wiktor es enviado a administrar una granja y decide visitar la finca de Wilko, un lugar donde pasó los felices veranos de su juventud y conoció a cinco hermanas. Su regreso, quince años después de la Primera Guerra Mundial y tras la muerte de una de ellas, remueve los afectos del pasado y despierta en las hermanas fantasías, reproches y nostalgias de un tiempo que ya no volverá.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-28",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "meseta-2019",
@@ -7864,13 +7815,7 @@ const movies = [
             "Melodrama"
         ],
         "synopsis": "A través de las relaciones cotidianas y los silencios de una familia japonesa, la película retrata los conflictos íntimos, las expectativas sociales y los pequeños anhelos de sus protagonistas frente al inexorable paso del tiempo y los cambios en la sociedad nipona de la posguerra.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-27",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "torre-bela-1975",
@@ -7918,13 +7863,7 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "Lily Carmen, una bailarina de striptease de Tokio, decide regresar triunfal y acompañada de su amiga artista a su pueblo natal en la zona rural de Japón. Su llegada provoca un enorme revuelo entre los aldeanos: mientras unos quedan escandalizados por sus modales modernos y atrevidos, otros intentan sacar provecho de su supuesta fama y sofisticación metropolitana, desatando una serie de enredos tan divertidos como reveladores.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-28",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
 {
         "id": "tierra-1930",
@@ -8587,13 +8526,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Mientras trata de adaptarse a su nueva situación tras la separación de sus padres, Carmela anhela pasar más tiempo en casa de su padre, un artista plástico a quien admira e idolatra. Sin embargo, la sombra de este llevará a las tres generaciones de mujeres de la familia a enfrentarse a su pasado ya decidir el futuro que realmente merecen.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-28",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "pioneras-solo-querian-jugar-2026",
@@ -8762,11 +8695,6 @@ const movies = [
                 "cinema": "Sala Berlanga", 
                 "date": "2026-11-04",
                 "time": "18:00"
-            },
-            {
-                "cinema": "Sala Equis", 
-                "date": "2026-10-27",
-                "time": "19:30"
             }
         ]
     },
@@ -9013,13 +8941,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Erica Baron, una joven e intrépida egiptóloga estadounidense, viaja a El Cairo para estudiar la misteriosa tumba intacta del faraón Seti I. Sin embargo, su fascinación por el descubrimiento se convierte en una pesadilla cuando las personas a su alrededor comienzan a ser asesinadas de forma violenta y se ve envuelta en una red clandestina de contrabando de antigüedades y oscuras maldiciones milenarias.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-27",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "coma-1978",
@@ -9169,6 +9091,12 @@ const movies = [
                 "date": "2026-10-31",
                 "time": "20:00",
                 "version": "Cine mudo con piano en directo (Federico Lechner)"
+            },
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-10-31",
+                "time": "20:00",
+                "version": "Cine mudo con intertitulos en español"
             }
         ]
     },
@@ -10567,14 +10495,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "Las ciudades, lejos de retóricas tradicionalistas, identitarias, exotizantes o romantizadoras, son espacios para el control y la dominación. «Quién vio los templos caer» y «Mitología de barrio» son dos películas realizadas en paralelo que proponen un visionado conjunto como una sesión continua para vislumbrar un diagnóstico de nuestro tiempo urbano.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-28",
-                "time": "19:00",
-                "version": "Encuentro posterior con los cineastas del colectivo espírituescalera y Lucía Selva"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mecenaten-2026",
@@ -11150,13 +11071,7 @@ const movies = [
             "Telefilm / Intriga médica"
         ],
         "synopsis": "Basada en la novela de Robin Cook. La doctora Jennifer Kessler comienza a investigar una extraña y alarmante serie de muertes repentinas e inexplicables de pacientes en su hospital. Su búsqueda de la verdad la sumerge en una peligrosa red de investigación médica secreta, conspiraciones y ambición desmedida, convirtiéndola en el objetivo a batir mientras intenta frenar una catástrofe.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-26",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "formula-for-death-1995",
@@ -11179,13 +11094,7 @@ const movies = [
             "Drama médico"
         ],
         "synopsis": "Un intenso drama de suspense médico que explora dilemas éticos y conspiraciones en el ámbito de la salud, donde las decisiones críticas de los profesionales médicos se cruzan con intereses ocultos y situaciones límite.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-27",
-                "time": "22:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "chungking-express-1994",
@@ -11209,13 +11118,7 @@ const movies = [
             "Cine asiático"
         ],
         "synopsis": "Dos historias de amor paralelas ambientadas en el bullicioso y melancólico distrito de Tsim Sha Tsui, en Hong Kong. La primera sigue a un joven policía obsesionado con su expareja que conoce a una misteriosa mujer fatal con peluca rubia y gabardina. La segunda se centra en otro apático agente de policía cuya novia azafata le ha dejado, y cuya vida da un giro cuando una peculiar y alegre empleada de un puesto de comida rápida se obsesiona discretamente con él, colándose clandestinamente en su apartamento.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-27",
-                "time": "22:40"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "lawrence-de-arabia-1962",
@@ -11526,6 +11429,664 @@ const movies = [
                 "date": "2026-11-12",
                 "time": "20:30",
                 "version": "Sesión de tarde con presentación del libro de Lucía Tello Díaz"
+            }
+        ]
+    },
+    {
+        "id": "halloween-el-origen-2007",
+        "title": "Halloween: El origen",
+        "originalTitle": "Halloween",
+        "poster": "images/halloween-2007.jpg",
+        "director": "Rob Zombie",
+        "cast": [
+            "Malcolm McDowell",
+            "Scout Taylor-Compton",
+            "Tyler Mane",
+            "Daeg Faerch",
+            "Sheri Moon Zombie",
+            "William Forsythe"
+        ],
+        "year": 2007,
+        "duration": 109,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Slasher",
+            "Remake"
+        ],
+        "synopsis": "Una revisión cruda y visceral del clásico de terror de John Carpenter dirigida por Rob Zombie. La película explora con mayor profundidad los oscuros y traumáticos años de infancia de Michael Myers en Haddonfield, desde su brutal asesinato en la noche de Halloween siendo un niño de diez años hasta su posterior fuga del sanatorio psiquiátrico quince años más tarde, dispuesto a regresar a casa para encontrar a su hermana pequeña.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-01",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "halloween-ii-2009",
+        "title": "Halloween II",
+        "originalTitle": "Halloween II",
+        "poster": "images/halloween-2-2009.jpg",
+        "director": "Rob Zombie",
+        "cast": [
+            "Scout Taylor-Compton",
+            "Malcolm McDowell",
+            "Tyler Mane",
+            "Sheri Moon Zombie",
+            "Brad Dourif",
+            "Danielle Harris"
+        ],
+        "year": 2009,
+        "duration": 119,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Slasher",
+            "Secuela"
+        ],
+        "synopsis": "Secuela directa de la versión de Rob Zombie. Tras los sangrientos acontecimientos de la noche de Halloween anterior, Michael Myers regresa a Haddonfield obsesionado con reunirse con su hermana Laurie Strode. Mientras Laurie intenta lidiar con el profundo trauma psicológico y las secuelas de la masacre, un nuevo ciclo de terror y violencia desmedida se desata con el misterioso y sangriento retorno del asesino enmascarado.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-01",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "la-maldicion-cursed-2005",
+        "title": "La maldición",
+        "originalTitle": "Cursed",
+        "poster": "images/la-maldicion-cursed.jpg",
+        "director": "Wes Craven",
+        "cast": [
+            "Christina Ricci",
+            "Jesse Eisenberg",
+            "Joshua Jackson",
+            "Judy Greer",
+            "Portia de Rossi",
+            "Mya"
+        ],
+        "year": 2005,
+        "duration": 96,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Comedia de terror",
+            "Hombres lobo"
+        ],
+        "synopsis": "Los Ángeles. En una noche de luna llena, algo que surge de entre las tinieblas hace que los hermanos Ellie y Jimmy Myers caigan por un barranco con su coche. Aunque logran salvar la vida, ya no volverán a ser los mismos: de repente descubren que poseen una fuerza sobrehumana, unos sentidos hiperpotenciados y que experimentan nuevos e insaciables impulsos que les obligarán a luchar contra una maldición licántropa.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-02",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "la-noche-de-los-muertos-vivientes-1968",
+        "title": "La noche de los muertos vivientes",
+        "originalTitle": "Night of the Living Dead",
+        "poster": "images/la-noche-de-los-muertos-vivientes.jpg",
+        "director": "George A. Romero",
+        "cast": [
+            "Duane Jones",
+            "Judith O'Dea",
+            "Karl Hardman",
+            "Marilyn Eastman",
+            "Keith Wayne",
+            "Kyra Schon"
+        ],
+        "year": 1968,
+        "duration": 96,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Zombis",
+            "Cine clásico",
+            "Cine independiente"
+        ],
+        "synopsis": "A consecuencia de la radiación procedente de un satélite destruido en Venus, los muertos resucitan y se convierten en hambrientos zombis devoradores de carne humana. Atrapados por una aterrorizada horda de muertos vivientes, un grupo de personas muy diversas se refugia en una granja abandonada en Pensilvania. Confinados entre cuatro paredes, la tensión psicológica, el miedo y los desacuerdos internos entre los supervivientes pronto se convertirán en una amenaza tan peligrosa como los propios monstruos que acechan fuera.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-05",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "sanjuro-1962",
+        "title": "Sanjuro",
+        "originalTitle": "Tsubaki Sanjûrô",
+        "poster": "images/sanjuro.jpg",
+        "director": "Akira Kurosawa",
+        "cast": [
+            "Toshirō Mifune",
+            "Tatsuya Nakadai",
+            "Keiju Kobayashi",
+            "Yûzô Kayama",
+            "Reiko Dan",
+            "Takashi Shimura",
+            "Kamatari Fujiwara"
+        ],
+        "year": 1962,
+        "duration": 96,
+        "country": "Japón",
+        "genres": [
+            "Acción",
+            "Drama",
+            "Thriller",
+            "Cine clásico",
+            "Jidaigeki"
+        ],
+        "synopsis": "En el Japón de la era Tokugawa, Sanjuro es un samurái errante y hastiado que ayuda a un grupo idealista de jóvenes guerreros a eliminar la corrupción y las malas influencias de su clan. Están enormemente superados en número, por lo que se requerirá toda la astucia, el ingenio y el imbatible arte de la espada de Sanjuro para garantizar su victoria.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-05",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-05",
+                "time": "20:25"
+            }
+        ]
+    },
+    {
+        "id": "cobijo-2026",
+        "title": "Cobijo",
+        "originalTitle": "Cobijo",
+        "poster": "images/cobijo.jpg",
+        "director": "Adrián Silvestre",
+        "cast": [
+            "Madaí",
+            "Chanel",
+            "Rosmer",
+            "Victoria"
+        ],
+        "year": 2026,
+        "duration": 92,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine queer",
+            "Cine español",
+            "Drama social"
+        ],
+        "synopsis": "Madaí, Chanel, Rosmer y Victoria son cuatro personas queer que huyeron de sus países de origen en busca de un futuro mejor en Estados Unidos. Sin embargo, sus sueños chocaron con las duras políticas migratorias y terminaron en un albergue de Guatemala, donde se vieron obligadas a reinventarse y a construir juntas una nueva idea de hogar.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-10",
+                "time": "19:30"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-11",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "les-matins-merveilleux-2026",
+        "title": "Les matins merveilleux",
+        "originalTitle": "Les matins merveilleux",
+        "poster": "images/les-matins-merveilleux.jpg",
+        "director": "Avril Besson",
+        "cast": [
+            "India Hair",
+            "Raya Martigny",
+            "Eric Cantona",
+            "Mathias Minne",
+            "Laure Rivaud-Pearce",
+            "Jean Vincentelli"
+        ],
+        "year": 2026,
+        "duration": 87,
+        "country": "Francia",
+        "genres": [
+            "Comedia dramática",
+            "Road movie",
+            "Cine independiente"
+        ],
+        "synopsis": "Charlie conduce hacia el sur con una colección de viejos discos de vinilo de música disco en el maletero de su Twingo, apenas recuperándose del fallecimiento de su abuela. Lo que aún no sabe es que estos discos le traerán a la memoria los pasos de baile de su madre a Titou, un comerciante de vinos soñador y nostálgico, ni que una playa desierta del Mediterráneo será el escenario de su encuentro con Marina, quien sueña con escapar de la pizzería del pueblo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-10",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "two-mothers-meine-muetter-2007",
+        "title": "Two Mothers",
+        "originalTitle": "Meine Mütter – Spurensuche in Riga",
+        "poster": "images/two-mothers.jpg",
+        "director": "Rosa von Praunheim",
+        "cast": [
+            "Rosa von Praunheim"
+        ],
+        "year": 2007,
+        "duration": 87,
+        "country": "Alemania",
+        "genres": [
+            "Documental",
+            "Cine autobiográfico",
+            "Cine LGTBIQ+",
+            "Cine de autor"
+        ],
+        "synopsis": "Cuando se enteró de que era un hijo adoptado, el cineasta Rosa von Praunheim, importante activista del movimiento gay en Alemania, emprendió la búsqueda de su madre biológica. Tras una larga investigación, averiguó que había muerto en 1946 en un hospital psiquiátrico de Berlín.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-11",
+                "time": "19:30"
+            },
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-12",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "uchronia-2026",
+        "title": "Uchronia",
+        "originalTitle": "Uchronia",
+        "poster": "images/uchronia.jpg",
+        "director": "Fil Ieropoulos",
+        "cast": [
+            "Kristof Lamp",
+            "Flomaria Papadaki",
+            "Marisha Triantafyllidou",
+            "Alexander Voulgaris",
+            "Rea Wallden",
+            "Macklin Kowal"
+        ],
+        "year": 2026,
+        "duration": 97,
+        "country": "Grecia",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine queer",
+            "Ensayo"
+        ],
+        "synopsis": "Docu-ensayo psicodélico inspirado en el visionario poema de Arthur Rimbaud, ''Una temporada en el infierno''. El fantasma del poeta viaja a través de la historia para encontrarse con revolucionarios como Emma Goldman, David Wojnarowicz o Marsha P. Johnson, celebrando la disidencia mientras referencia el cine experimental queer del siglo XX.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-12",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "cortos-nacionales-i-2026",
+        "title": "Cortos Nacionales I",
+        "originalTitle": "Cortos Nacionales I",
+        "poster": "images/cortos-nacionales-i.jpg",
+        "director": "Varios autores",
+        "cast": [],
+        "year": 2026,
+        "duration": 74,
+        "country": "España",
+        "genres": [
+            "Cortometrajes",
+            "Cine español",
+            "Drama",
+            "Cine queer",
+            "Cine independiente"
+        ],
+        "synopsis": "Programa de cortometrajes españoles que incluye: 'Onades' (Andoni Martínez, 15'), una fábula contemporánea sobre identidad y nostalgia en el Mediterráneo; 'La plaza acuática' (Teresa Carril, Diego Lillo, 22'), donde una fotógrafa descubre las historias ocultas de un pueblo navarro; 'Flotar' (Alexia Corrales, 12'), sobre los adioses y los sentimientos no confesados en un último verano juntos; 'Només el mar' (Jordi Estapé Montserrat, 16'), el viaje de vuelta a la costa catalana tras una trágica pérdida; y 'La habitación de Eva' (Daniela Rey Faraldo, 9'), una cita íntima que se complica inesperadamente.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-12",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "barbara-forever-2026",
+        "title": "Barbara Forever",
+        "originalTitle": "Barbara Forever",
+        "poster": "images/barbara-forever.jpg",
+        "director": "Brydie O'Connor",
+        "cast": [
+            "Barbara Hammer"
+        ],
+        "year": 2026,
+        "duration": 102,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine LGTBIQ+",
+            "Biografía"
+        ],
+        "synopsis": "Conocida por su valentía, urgencia creativa y capacidad de transformar el cine, Barbara Hammer creó películas que eran extensiones de sí misma: sensuales, experimentales y abiertamente lesbianas. A partir de más de ochenta films, materiales de archivo inéditos y entrevistas en audio, este documental es un homenaje y una prolongación de su legado.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-12",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "ueberleben-in-new-york-1989",
+        "title": "Überleben in New York",
+        "originalTitle": "Überleben in New York",
+        "poster": "images/ueberleben-in-new-york.jpg",
+        "director": "Rosa von Praunheim",
+        "cast": [
+            "Claudia",
+            "Anna",
+            "Ulli"
+        ],
+        "year": 1989,
+        "duration": 90,
+        "country": "Alemania",
+        "genres": [
+            "Documental",
+            "Cine independiente",
+            "Cine de autor"
+        ],
+        "synopsis": "Tres mujeres alemanas, Claudia, Anna y Ulli, llegan a Nueva York a principios de los años 80 e intentan hacerse un hueco en una ciudad fascinante pero implacable que atrapa a sus habitantes.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-13",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "cortos-disidentes-2026",
+        "title": "Cortos disidentes",
+        "originalTitle": "Cortos disidentes",
+        "poster": "images/cortos-disidentes.jpg",
+        "director": "Varios autores",
+        "cast": [],
+        "year": 2026,
+        "duration": 74,
+        "country": "España, Francia, Brasil",
+        "genres": [
+            "Cortometrajes",
+            "Cine LGTBIQ+",
+            "Cine experimental",
+            "Documental",
+            "Drama"
+        ],
+        "synopsis": "Programa especial de cortometrajes disidentes que incluye: 'Cairo Streets' (Abdellah Taïa, 18'), una búsqueda íntima, nocturna y urgente a través de la memoria y el deseo en las calles de El Cairo en enero de 2007; 'Las Damas' (Camille Zéhenne, 19'), donde una artista residente en la Casa de Velázquez canaliza su crisis de identidad y corporalidad a través de una intensa y magnética obsesión con la Dama de Elche; 'Nos Fins Joyeuses' (La Fille Renne, Levon Babayan, 9'), un diario íntimo sobre la transición transmasculina que explora con honestidad los cambios corporales, el deseo, los miedos y el consuelo de la comunidad compartida; 'Tendrá tus ojos' (Gonzalo Cámara, 13'), un relato de suspense y tensión nocturna ambientado en una darkroom donde la búsqueda de un desconocido se convierte en una trampa de obsesión mutua; 'Les femmes en feu' (Alina Titorenko, 20'), una radiografía irónica y tierna sobre la soltería contemporánea en París y la decisión de consultar a tres brujas para descifrar el misterio del amor; y 'Morfeu e Caronte' (Luiz Ulian, 13'), una bellísima y desgarradora despedida vital donde un trío de hombres mayores queer afronta el diagnóstico de demencia de uno de ellos transformando la realidad en un último y luminoso número musical de samba.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-13",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "los-dias-posibles-la-moto-2026",
+        "title": "Los días posibles + La moto",
+        "originalTitle": "Los días posibles + La moto",
+        "poster": "images/los-dias-posibles-la-moto.jpg",
+        "director": "Matteo Giampetruzzi, Rodrigo Guerrero",
+        "cast": [],
+        "year": 2026,
+        "duration": 85,
+        "country": "España, Argentina",
+        "genres": [
+            "Mediometraje",
+            "Largometraje",
+            "Cine LGTBIQ+",
+            "Drama"
+        ],
+        "synopsis": "Sesión doble que incluye: 'La moto' (Matteo Giampetruzzi, España, 2026, 20'), un relato veraniego sobre el despertar del deseo, la atracción y los límites entre el placer y la violencia entre dos jóvenes en el sur de Italia; y 'Los días posibles' (Rodrigo Guerrero, Argentina, 2026, 65'), la primera entrega de la 'Trilogía de la ternura', que narra el emotivo reencuentro de dos amigos de la adolescencia tras más de 25 años sin contacto, iluminando los vínculos a través de pequeños gestos cotidianos.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-13",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "corren-las-liebres-2026",
+        "title": "Corren las liebres",
+        "originalTitle": "Corren las liebres",
+        "poster": "images/corren-las-liebres.jpg",
+        "director": "Lorena Ros",
+        "cast": [],
+        "year": 2026,
+        "duration": 71,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine español",
+            "Drama social",
+            "Cine LGTBIQ+"
+        ],
+        "synopsis": "Noa, mujer gitana trans de 48 años, intenta empezar de nuevo tras diez años de condena, y recuperar la custodia de sus hijos, tutelados por el Estado. Para lograrlo necesita una casa... y está a punto de ser desahuciada. La solidaridad, la amistad, el arte y el humor la ayudan a sobrevivir y celebrar la vida.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-13",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "cortos-internacionales-i-2026",
+        "title": "Cortos Internacionales I",
+        "originalTitle": "Cortos Internacionales I",
+        "poster": "images/cortos-internacionales-i.jpg",
+        "director": "Varios autores",
+        "cast": [],
+        "year": 2026,
+        "duration": 81,
+        "country": "Francia, Turquía, China, Colombia, Reino Unido",
+        "genres": [
+            "Cortometrajes",
+            "Cine LGTBIQ+",
+            "Drama",
+            "Cine internacional"
+        ],
+        "synopsis": "Programa internacional de cortometrajes que incluye: 'Esprits tranquilles' (Julien Lecat, Francia, 29'), un tórrido y sofocante encuentro estival en un camping durante una ola de calor, donde un adolescente solitario que se libra por poco de ahogarse entabla una conexión magnética y desafiante con un chico extraño; 'Krizalit' (Naz Tokgöz, Arantxa Ibarra, Turquía, 16'), una mirada íntima a la identidad y la pertenencia a través de la enigmática Deniz, atrapada entre la euforia de su compleja relación amorosa con otra mujer y el sentimiento constante de ser una extraña en la Turquía moderna; 'The Wind in Ash' (Sun Kun, China, 18'), un emotivo viaje de autodescubrimiento y reconciliación familiar protagonizado por una joven 'tomboy' que regresa a su ciudad natal para asistir a un funeral, transformando por completo la percepción que tiene de su madre; 'Refracción' (Isabella Palacio Mesa, Colombia, 11'), el recorrido nocturno y catártico en bicicleta por las calles de Medellín de una joven de 20 años que, tras descubrirse engañada en sus dos relaciones sentimentales simultáneas, comprende que necesita dejar de huir para encontrarse a sí misma; y 'Vocabulary' (Zhizi Hao, Reino Unido, 16'), una original y cercana aproximación a la soledad urbana y el arraigo donde un joven chino recién llegado a la gran ciudad, gay y de complexión robusta, aprende las claves del idioma inglés de un modo muy particular.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-14",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "lo-que-haciamos-en-las-sombras-2026",
+        "title": "Lo que hacíamos en las sombras",
+        "originalTitle": "Lo que hacíamos en las sombras",
+        "poster": "images/lo-que-haciamos-en-las-sombras.jpg",
+        "director": "Sara Moralo",
+        "cast": [],
+        "year": 2026,
+        "duration": 94,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine español",
+            "Cine LGTBIQ+",
+            "Memoria histórica",
+            "Drama social"
+        ],
+        "synopsis": "Tras una vida de brutal represión, un grupo de ancianos LGTBIAQ+ se encuentra en un centro social de mayores especializado, donde reciben ayuda y encuentran un espacio seguro en el que relacionarse. Allí, rodeados de cuidados y comprensión, logran recuperar su dignidad y compartir las historias de un pasado vivido en la clandestinidad.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-14",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "elles-2026",
+        "title": "Elles",
+        "originalTitle": "Elles",
+        "poster": "images/elles.jpg",
+        "director": "Natalia González",
+        "cast": [
+            "Lola"
+        ],
+        "year": 2026,
+        "duration": 72,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine fantástico",
+            "Cine LGTBIQ+",
+            "Cine independiente",
+            "Cine español"
+        ],
+        "synopsis": "Lola empieza su transición de género sin una red que la entienda. Una travesti le ayudará a buscar su sitio en una mágica comunidad trans y no binarie donde ciertas hormonas producen metamorfosis animales. Esta ópera prima es una película autofinanciada y producida por un equipo íntegramente compuesto por personas LGTBIQ+.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-14",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "a-paixao-segundo-ghb-a-cupula-dos-prazeres-2026",
+        "title": "A Paixão Segundo G.H.B. + A Cúpula dos Prazeres",
+        "originalTitle": "A Paixão Segundo G.H.B. + A Cúpula dos Prazeres",
+        "poster": "images/a-paixao-segundo-ghb-a-cupula-dos-prazeres.jpg",
+        "director": "Valter Pereira, Gustavo Vinagre, Vinícius Couto",
+        "cast": [],
+        "year": 2026,
+        "duration": 109,
+        "country": "Brasil",
+        "genres": [
+            "Mediometraje",
+            "Largometraje",
+            "Cine LGTBIQ+",
+            "Cine experimental",
+            "Drama"
+        ],
+        "synopsis": "Sesión doble brasileña que incluye: 'A Cúpula dos Prazeres' (Valter Pereira, Brasil, 2026, 17'), donde Ruan sigue a un hombre extraño por las calles del centro de São Paulo hasta un baño público, adentrándose en un viaje onírico de placer y descubrimiento; y 'A Paixão Segundo G.H.B.' (Gustavo Vinagre, Vinícius Couto, Brasil, 2026, 92'), un cuento queer de realismo mágico en el que la relación de un hombre con la obra de la escritora Clarice Lispector evoluciona hacia encuentros en grupo mientras reflexiona sobre su pasado romántico y su futuro. Incluye coloquio posterior con Apoyo Positivo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-14",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "cortos-internacionales-ii-2026",
+        "title": "Cortos Internacionales II",
+        "originalTitle": "Cortos Internacionales II",
+        "poster": "images/cortos-internacionales-ii.jpg",
+        "director": "Varios autores",
+        "cast": [],
+        "year": 2026,
+        "duration": 91,
+        "country": "Alemania, Francia, Nicaragua, Paraguay, Reino Unido, Noruega",
+        "genres": [
+            "Cortometrajes",
+            "Cine LGTBIQ+",
+            "Drama",
+            "Cine internacional"
+        ],
+        "synopsis": "Programa internacional de cortometrajes que incluye: 'Selma' (Christina Maria Schmid, Alemania, 29'), el dilema de una aspirante a escritora en el Berlín de los años 30 entre la seguridad y sus convicciones lésbicas; 'Bolero Rojo' (Ángel Molina, Francia-Nicaragua-Paraguay, 16'), donde una drag queen se enfrenta a sus propios miedos tras la revelación de su pareja sobre el VIH; 'Queer & Confused' (Zoe Black, Reino Unido, 9'), una fría noche londinense de 1980 marcada por una audición teatral y el amor platónico entre amigos; 'Sand i tissen' (Ingrid Runde Saxegaard, Noruega, 13'), una jornada de intimidad y conversaciones sobre el sexo y el amor entre una joven y su madre en una playa desierta; y 'Xylella Fastidiosa' (Colineau Thomas, Francia, 22'), el viaje introspectivo de un joven entre plantas y ausencias en un centro de jardinería tras sufrir 'ghosting'.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-15",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "harte-roughing-it-2015",
+        "title": "Härte",
+        "originalTitle": "Härte",
+        "poster": "images/harte.jpg",
+        "director": "Rosa von Praunheim",
+        "cast": [],
+        "year": 2015,
+        "duration": 89,
+        "country": "Alemania",
+        "genres": [
+            "Drama",
+            "Biografía",
+            "Cine LGTBIQ+",
+            "Cine alemán"
+        ],
+        "synopsis": "Un experto en karate habla sobre sus primeros años de vida, su turbulenta infancia marcada por el abuso sexual y su posterior y compleja carrera como proxeneta, en un crudo retrato de superación y trauma.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-15",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "cinemania-2026",
+        "title": "Cinemanía",
+        "originalTitle": "Cinemanía",
+        "poster": "images/cinemania.jpg",
+        "director": "Marc Ferrer",
+        "cast": [],
+        "year": 2026,
+        "duration": 101,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Cine español",
+            "Cine LGTBIQ+",
+            "Cine independiente"
+        ],
+        "synopsis": "Un director de cine al que todo le va mal, una psicóloga obsesionada con su exnovio, una familia amenazada por una plaga de ratas, una productora con un oscuro secreto, monjas y agentes de la CIA... Cinemanía es una comedia coral sobre varios personajes que tratan de encontrar la felicidad.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-15",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "a-song-without-home-2026",
+        "title": "A Song Without Home",
+        "originalTitle": "სიმღერა სახლის გარეშე",
+        "poster": "images/a-song-without-home.jpg",
+        "director": "Rati Tsiteladze",
+        "cast": [
+            "Adelina"
+        ],
+        "year": 2026,
+        "duration": 75,
+        "country": "Georgia",
+        "genres": [
+            "Documental",
+            "Cine LGTBIQ+",
+            "Drama social",
+            "Cine internacional"
+        ],
+        "synopsis": "Tras haber estado once años encerrada en casa por su propia familia, Adelina, una joven trans de Georgia, huye a Viena en busca de libertad. Continuación del inolvidable corto Prisoner of Society, un duro relato que, gracias a su poesía visual y la determinada fuerza de Adelina, encuentra belleza y esperanza en las situaciones más difíciles.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-15",
+                "time": "21:00"
             }
         ]
     }
