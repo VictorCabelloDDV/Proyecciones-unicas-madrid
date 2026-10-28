@@ -1052,7 +1052,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-04",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "isla-de-perros",
@@ -6055,7 +6061,13 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-03",
+                "time": "22:10"
+            }
+        ]
     },
     {
         "id": "ring-zero-birthday-2000",
@@ -12087,6 +12099,95 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-15",
                 "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "una-historia-verdadera-1999",
+        "title": "Una historia verdadera",
+        "originalTitle": "The Straight Story",
+        "poster": "images/una-historia-verdadera.jpg",
+        "director": "David Lynch",
+        "cast": [
+            "Richard Farnsworth",
+            "Sissy Spacek",
+            "Harry Dean Stanton"
+        ],
+        "year": 1999,
+        "duration": 111,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Cine independiente",
+            "Basado en hechos reales",
+            "Road movie"
+        ],
+        "synopsis": "Alvin Straight (Richard Farnsworth) es un achacoso anciano que vive en Iowa con una hija discapacitada (Sissy Spacek). Además de sufrir un enfisema y pérdida de visión, tiene graves problemas de cadera que casi le impiden permanecer de pie. Cuando recibe la noticia de que su hermano Lyle, con el que está enemistado desde hace diez años, ha sufrido un infarto, a pesar de su precario estado de salud, decide ir a verlo a Wisconsin. Para ello tendrá que recorrer unos 500 kilómetros, y lo hace en el único medio de transporte del que dispone: una máquina cortacésped.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-05",
+                "time": "22:20"
+            }
+        ]
+    },
+    {
+        "id": "inocencia-interrumpida-1999",
+        "title": "Inocencia interrumpida",
+        "originalTitle": "Girl, Interrupted",
+        "poster": "images/inocencia-interrumpida.jpg",
+        "director": "James Mangold",
+        "cast": [
+            "Winona Ryder",
+            "Angelina Jolie",
+            "Clea DuVall",
+            "Brittany Murphy",
+            "Elisabeth Moss",
+            "Vanessa Redgrave",
+            "Whoopi Goldberg"
+        ],
+        "year": 1999,
+        "duration": 127,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Drama psicológico",
+            "Basado en hechos reales"
+        ],
+        "synopsis": "Año 1967. Susanna Kaysen, como la mayoría de las chicas de su edad, se siente confusa, insegura y lucha por entender el mundo que la rodea. Tras diagnosticarle un trastorno de la personalidad, su psiquiatra decide ingresarla en el Hospital Claymoore. Allí, Susanna conoce a Lisa, Georgina, Polly y Janet, un grupo de chicas inadaptadas con las que entabla una estrecha amistad y que, además, le muestran el camino para encontrarse a sí misma.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-04",
+                "time": "22:20"
+            }
+        ]
+    },
+    {
+        "id": "llueve-sobre-babel-2026",
+        "title": "Llueve sobre Babel",
+        "originalTitle": "Llueve sobre Babel",
+        "poster": "images/llueve-sobre-babel.jpg",
+        "director": "Gala del Sol",
+        "cast": [
+            "Celina Biurrun"
+        ],
+        "year": 2026,
+        "duration": 90,
+        "country": "España",
+        "genres": [
+            "Cine fantástico",
+            "Drama",
+            "Cine LGTBIQ+",
+            "Cine español"
+        ],
+        "synopsis": "Un grupo de inadaptados se reúne en Babel, un legendario bar de mala muerte que hace las veces de purgatorio, donde preside La Flaca, la Parca de la ciudad. Aquí, las almas se juegan años de sus vidas con ella, atreviéndose a burlar a la mismísima Muerte. La sesión especial del 9 de noviembre incluye un coloquio posterior con la directora Gala del Sol y la actriz Celina Biurrun.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-09",
+                "time": "19:30",
+                "version": "Embajadores Río - Sesión especial con coloquio con directora, Gala del Sol, y actriz, Celina Biurrun."
             }
         ]
     }
