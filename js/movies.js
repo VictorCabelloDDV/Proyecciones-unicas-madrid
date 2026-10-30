@@ -365,7 +365,13 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Por un malentendido, un ejecutivo publicitario neoyorquino es confundido con un agente del gobierno por una organización de espías, lo que lo obliga a huir a través de todo el país mientras intenta desentrañar la conspiración.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-26",
+                "time": "20:30"
+            }
+        ]
     },
     {
         "id": "cuenta-conmigo",
@@ -12033,5 +12039,656 @@ const movies = [
                 "version": "Embajadores Río - Sesión especial con coloquio con directora, Gala del Sol, y actriz, Celina Biurrun."
             }
         ]
+    },
+    {
+        "id": "perugino-el-renacimiento-eterno-2023",
+        "title": "Perugino. El Renacimiento eterno",
+        "originalTitle": "Perugino. Rinascimento immortale",
+        "poster": "images/perugino-el-renacimiento-eterno.jpg",
+        "director": "Giovanni Piscaglia",
+        "cast": [
+            "Marco Bocci",
+            "Franco Cardini",
+            "Franco Farinelli",
+            "Emanuela Ferretti",
+            "Veruska Picchiarelli",
+            "Marco Pierini",
+            "Virgilio Sieni"
+        ],
+        "year": 2023,
+        "duration": 82,
+        "country": "Italia",
+        "genres": [
+            "Documental",
+            "Arte",
+            "Biografía"
+        ],
+        "synopsis": "Documental que narra la evolución de Perugino a caballo entre la arquitectura de Piero della Francesca y su aprendizaje en el taller de Verrocchio en Florencia. La película busca devolver al artista al lugar que le corresponde en la historia del arte con motivo del 500 aniversario de su muerte, mostrando además la creación de dos salas dedicadas a su obra en la Galería Nacional de Umbría y el proceso de restauración de sus pinturas.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-04",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-04",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "la-carn-2025",
+        "title": "La Carn",
+        "originalTitle": "La Carn",
+        "poster": "images/la-carn.jpg",
+        "director": "Joan Porcel",
+        "cast": [
+            "Lluís Garau"
+        ],
+        "year": 2025,
+        "duration": 83,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine experimental",
+            "Cine independiente",
+            "Cine LGTBIQ+"
+        ],
+        "synopsis": "Lluís Garau, un joven bailarín, crea una performance inspirada en una plataforma que conecta aleatoriamente a desconocidos a través de videollamadas. Pero cuando su vida online y su vida real comienzan a entrelazarse, los límites entre lo virtual y lo tangible se difuminan, dejando una huella irreversible en su obra final: La Carn.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-10",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "sesion-de-cine-y-vih-2026",
+        "title": "Sesión de cine y VIH",
+        "originalTitle": "Sesión de cine y VIH",
+        "poster": "images/sesion-cine-y-vih.jpg",
+        "director": "Varios autores",
+        "cast": [],
+        "year": 2026,
+        "duration": 76,
+        "country": "Canadá, Francia, España, Filipinas",
+        "genres": [
+            "Cortometrajes",
+            "Documental",
+            "Cine LGTBIQ+",
+            "Cine social"
+        ],
+        "synopsis": "Programa especial de cortometrajes sobre cine y VIH que incluye: 'Eroded' (Diego Abbati, Canadá, 17'), un recorrido por la memoria y el arte ante la desaparición de una histórica playa queer en Toronto; 'Amours Chimiques' (Claudia BB, Francia, 26'), un seguimiento íntimo a Corentin Hennebert mientras dirige una obra de teatro inspirada en su pasado vinculado al chemsex; y piezas de ficción y concienciación como 'La evidencia' (serie Indetectables, Apoyo Positivo, 5'), 'Baby, Proyect Red Ribbon' (Vicks, Filipinas, 4'), 'Siempre que lo cuento' (serie Indetectables, Apoyo Positivo, 6'), 'Yo también' (serie Indetectables, Apoyo Positivo, 16') y la píldora documental 'Estigma' (Fast-Track Jerez, 2').",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-11",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "oca-2025",
+        "title": "Oca",
+        "originalTitle": "Oca",
+        "poster": "images/oca.jpg",
+        "director": "Karla Badillo",
+        "cast": [
+            "Enrique Arreola",
+            "Raúl Briones",
+            "Cristel Guadalupe Nuñez"
+        ],
+        "year": 2025,
+        "duration": 109,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine fantástico",
+            "Cine independiente"
+        ],
+        "synopsis": "Rafaela es una joven monja que pertenece a una congregación precaria, casi extinta. Desde hace tiempo tiene ensoñaciones que, eventualmente, se hacen realidad, pero hay un sueño incompleto y recurrente que le ronda en la cabeza. Al tiempo, es enviada a un pueblo cercano en busca del nuevo arzobispo con la encomienda de exponer la situación del convento y orientarse respecto a sus sueños. En el camino, vivirá encuentros extraordinarios que la harán avanzar o retroceder de su objetivo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-17",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "un-hombre-en-un-puente-2026",
+        "title": "Un hombre en un puente",
+        "originalTitle": "Un hombre en un puente",
+        "poster": "images/un-hombre-en-un-puente.jpg",
+        "director": "David Martin de los Santos",
+        "cast": [
+            "Roger Casamajor",
+            "Belén Cuesta",
+            "Juanfra Juárez",
+            "Font García",
+            "Nidia Bermejo"
+        ],
+        "year": 2026,
+        "duration": 117,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Andrés, un hombre de mediana edad, atraviesa una crisis vital acentuada por su fracaso profesional. Tras quedarse sin hogar y verse obligado a dormir en su coche, regresa a su pueblo natal después de muchos años. Entre reencuentros con amores del pasado, amistades de la adolescencia y conflictos familiares sin resolver, Andrés oculta su realidad mientras busca un refugio desde el que rehacer su vida.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-17",
+                "time": "20:00",
+                "version": "Presentación y coloquio posterior con David Martín de los Santos y Rodrigo Sorogoyen"
+            }
+        ]
+    },
+    {
+        "id": "ghost-in-the-machine-2026",
+        "title": "Ghost in the Machine",
+        "originalTitle": "Ghost in the Machine",
+        "poster": "images/ghost-in-the-machine.jpg",
+        "director": "Valerie Veatch",
+        "cast": [],
+        "year": 2026,
+        "duration": 110,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine independiente"
+        ],
+        "synopsis": "Ghost in the Machine es un fascinante documental de investigación que expone la historia oculta de la inteligencia artificial, no como un sistema neutral de algoritmos, sino como una tecnología moldeada por el racismo, la misoginia, la eugenesia y estructuras de poder arraigadas. Estructurado en ocho capítulos, analiza quién construyó estos sistemas, qué valores codifican y a quién benefician realmente.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-17",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "cuento-de-verano-2025",
+        "title": "Cuento de verano",
+        "originalTitle": "Cuento de verano",
+        "poster": "images/cuento-de-verano.jpg",
+        "director": "Matías Szulanski",
+        "cast": [
+            "Fabián Arenillas",
+            "Inés Urdinez",
+            "Anamá Ferreira",
+            "Lara Szlain"
+        ],
+        "year": 2025,
+        "duration": 79,
+        "country": "Argentina",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Jorge, un ejecutivo tosco y caótico del distrito financiero de Buenos Aires que ha quemado todos sus puentes personales, sufre un infarto casi mortal que lo impulsa a intentar convertirse en un hombre mejor —o al menos aparentarlo— para recuperar la confianza de su hija distanciada. Impulsado por la culpa, la comida basura y decisiones cuestionables, demostrará que los viejos hábitos son muy difíciles de abandonar. La sesión incluirá la proyección del cortometraje 'Vagar' (Eduardo de Armiñán, España, 15’), con la presencia de su director",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-18",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "los-dias-libres-2026",
+        "title": "Los días libres",
+        "originalTitle": "Los días libres",
+        "poster": "images/los-dias-libres.jpg",
+        "director": "Lucila Mariani",
+        "cast": [
+            "Antonia Robolini",
+            "Laura Paredes",
+            "Luiza Quinteiro",
+            "Guillermo Berthold",
+            "Jenni Merla"
+        ],
+        "year": 2026,
+        "duration": 84,
+        "country": "Argentina",
+        "genres": [
+            "Drama",
+            "Ciencia ficción",
+            "Cine independiente"
+        ],
+        "synopsis": "En un futuro cercano, durante unas vacaciones de verano interminables y ante la inminente llegada de un eclipse solar, Bego, de 12 años, lucha por encontrar su lugar en su familia y entre las chicas de su edad. Mientras la luna eclipsa a su entorno, Bego conoce a REN__, una amiga virtual, y a través de ella descubre el 'shifting', una práctica para acceder a otras realidades mediante sueños lúcidos. La sesión incluirá la proyección del cortometraje 'Incubo' (Chloe Cazorla, España, 2025, 12’), con la presencia de la directora",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-18",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "hermanas-2026",
+        "title": "Hermanas",
+        "originalTitle": "Hermanas",
+        "poster": "images/hermanas.jpg",
+        "director": "Ione Hernández Sáenz",
+        "cast": [
+            "Elena Anaya",
+            "Emma Suárez",
+            "Carlota Keiko",
+            "Leon Martínez",
+            "Josean Bengoetxea"
+        ],
+        "year": 2026,
+        "duration": 102,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Drama social",
+            "Cine independiente"
+        ],
+        "synopsis": "Chelo quiere divorciarse de su marido para empezar de nuevo, mientras que Marta es una periodista superada por las exigencias de su día a día y un pasado doloroso. Las vidas de ambas colisionan cuando Lucas, el hijo de 18 años de Marta, es denunciado por Chelo —su propia tía— tras ser acusado de agredir sexualmente a su prima menor de edad. Una denuncia que romperá los lazos familiares y pondrá sobre la mesa la dureza de proteger la integridad de una parte de la familia frente a la otra.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-18",
+                "time": "20:30",
+                "version": "Presentación y coloquio posterior con Ione Hernández Sáenz"
+            }
+        ]
+    },
+    {
+        "id": "the-tree-of-knowledge-2025",
+        "title": "The Tree of Knowledge",
+        "originalTitle": "A Árvore do Conhecimento",
+        "poster": "images/the-tree-of-knowledge.jpg",
+        "director": "Eugène Green",
+        "cast": [
+            "Rui Pedro Silva",
+            "Ana Moreira",
+            "Diogo Dória",
+            "João Arrais",
+            "Leonor Silveira"
+        ],
+        "year": 2025,
+        "duration": 101,
+        "country": "Francia, Portugal",
+        "genres": [
+            "Drama",
+            "Cine fantástico",
+            "Cine independiente"
+        ],
+        "synopsis": "Gaspard, un adolescente de las afueras de Lisboa, cae en manos del Ogro, un hombre que ha hecho un pacto con el Diablo. El Ogro utiliza al muchacho para atraer turistas, a quienes transforma en animales y luego asesina. Gaspard escapa con un burro y un perro al que ha llegado a querer, y en una mansión encantada se encuentra con el espíritu de la reina D. Maria I. La sesión incluye la proyección del cortometraje 'Parque Automotor' (Diego Cendra, Perú-España, 2025, 17') con presencia de su director.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-19",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "calada-2025",
+        "title": "Calada",
+        "originalTitle": "Calada",
+        "poster": "images/calada.jpg",
+        "director": "Beatriz Freire, Adán Aliaga",
+        "cast": [
+            "Beatriz Freire"
+        ],
+        "year": 2025,
+        "duration": 94,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine independiente"
+        ],
+        "synopsis": "María ha tenido una revelación que le ha cambiado la vida. Se obsesiona con la tejeduría tradicional y comienza un particular viaje, visitando diferentes tejedoras en Galicia y Portugal, con el objetivo de conocer los secretos de esta labor artesanal que ella quiere dar a conocer a todo el mundo. Descubrirá que los hilos de la tejeduría lo conectan todo, todo son códigos que se pueden tejer.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-19",
+                "time": "20:00",
+                "version": "Coloquio posterior con Beatriz Freire y Adán Aliaga"
+            }
+        ]
+    },
+    {
+        "id": "filipinana-2026",
+        "title": "Filipiñana",
+        "originalTitle": "Filipiñana",
+        "poster": "images/filipinana.jpg",
+        "director": "Rafael Manuel",
+        "cast": [
+            "Jorybell Agoto",
+            "Teroy Guzman",
+            "Angeli Bayani",
+            "Agot Isidro"
+        ],
+        "year": 2026,
+        "duration": 100,
+        "country": "Filipinas",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "En medio de un calor sofocante y una sequía generalizada, Isabel, una joven ilocana de 17 años, trabaja en un lujoso club de campo a las afueras de Manila preparando pelotas de golf para hombres influyentes. Al intentar devolver un palo extraviado a su director, Isabel se adentra en los rincones más exclusivos del complejo, descubriendo las violentas verdades ocultas tras sus impolutas instalaciones.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-19",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "las-mantis-2026",
+        "title": "Las mantis",
+        "originalTitle": "Las mantis",
+        "poster": "images/las-mantis.jpg",
+        "director": "Dídac Gimeno",
+        "cast": [
+            "Venecia Franco",
+            "Iván García",
+            "Maria Caballero",
+            "Ruth Díaz",
+            "José Luis García-Pérez"
+        ],
+        "year": 2026,
+        "duration": 102,
+        "country": "Argentina, España",
+        "genres": [
+            "Drama",
+            "Cine fantástico",
+            "Cine independiente"
+        ],
+        "synopsis": "Aitana es una niña de trece años que pasará el verano en casa de su tío en el pueblo tras la muerte de su madre. Allí conoce a su primo Lope, un chico introvertido obsesionado con los insectos y los fantasmas, y a Cecilia, una misteriosa niña muda que ayuda en la casa. A través de juegos escalofriantes y escapadas al bosque, los primos reviven un verano en el que dejan atrás la infancia y se convierten en niños salvajes, mientras Aitana comprende la muerte de su madre gracias al espíritu guía conocido como el Dios del bosque.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-20",
+                "time": "19:00",
+                "version": "Coloquio posterior con Dídac Gimeno"
+            }
+        ]
+    },
+    {
+        "id": "hoxe-e-o-resto-do-mundo-2026",
+        "title": "Hoxe e o resto do mundo",
+        "originalTitle": "Hoxe e o resto do mundo",
+        "poster": "images/hoxe-e-o-resto-do-mundo.jpg",
+        "director": "Cecilia Díaz Betz",
+        "cast": [
+            "Isaac Díaz Pardo",
+            "Mimina Arias de Castro"
+        ],
+        "year": 2026,
+        "duration": 93,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine independiente"
+        ],
+        "synopsis": "Una película que nos sumerge en el periplo vital y artístico de Isaac Díaz Pardo y Mimina Arias de Castro, fundadores del Laboratorio de Formas (Sargadelos). A través de infinidad de archivos, viajamos entre Galicia y el exilio por el arte, la memoria histórica, el diseño, la arquitectura y el pensamiento de vanguardia y, por encima de todo, el humanismo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-20",
+                "time": "20:00",
+                "version": "Coloquio posterior con Cecilia Díaz Betz"
+            }
+        ]
+    },
+    {
+        "id": "yastay-2026",
+        "title": "Yastay",
+        "originalTitle": "Yastay",
+        "poster": "images/yastay.jpg",
+        "director": "Paula Gaetano Adi",
+        "cast": [],
+        "year": 2026,
+        "duration": 69,
+        "country": "Argentina",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine independiente"
+        ],
+        "synopsis": "Dos siglos después del histórico cruce de los Andes que condujo a la liberación de Sudamérica de la colonización española, un grupo de ingenieros y arrieros andinos emprende una expedición a través de la cordillera para liberar a un robot.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-20",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "la-gran-fiesta-del-cine-2026",
+        "title": "La gran fiesta del cine",
+        "originalTitle": "La gran fiesta del cine",
+        "poster": "images/la-gran-fiesta-del-cine.jpg",
+        "director": "Toni Agustí, María S. Torregrosa",
+        "cast": [
+            "Marta Belenguer",
+            "Amparo Fernández",
+            "Carlos Gorbe",
+            "Lorena López",
+            "Carles Sanjaime"
+        ],
+        "year": 2026,
+        "duration": 82,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Cinco años después de rodar una película experimental sin presupuesto, el equipo de artistas y técnicos se reúne para celebrar su inesperado éxito y decidir qué hacer con los beneficios generados en salas y plataformas.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-20",
+                "time": "21:00",
+                "version": "Coloquio posterior con Toni Agustí, María S. Torregrosa y Hugo Serra, distribuidor"
+            }
+        ]
+    },
+    {
+        "id": "la-muerte-de-dracula-2026",
+        "title": "La muerte de Drácula",
+        "originalTitle": "La muerte de Drácula",
+        "poster": "images/la-muerte-de-dracula.jpg",
+        "director": "Burnin’ Percebes (Fernando Martínez y Juan González)",
+        "cast": [
+            "Javier Botet",
+            "Laura Weissmahr",
+            "Anna Herms",
+            "David Pantaleón",
+            "Pol Cortecans"
+        ],
+        "year": 2026,
+        "duration": 64,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Cine fantástico",
+            "Cine independiente"
+        ],
+        "synopsis": "Mina está enferma y, al intentar ganar dinero vendiendo su sangre, conoce a Drácula. Juntos recorren la ciudad de noche compartiendo confesiones en una última jornada donde él busca el fin de su condena y ella escapar de la muerte. Sin embargo, Mina descubre que el vampiro encarna siglos de violencia y un patriarcado en ruinas, viendo en su transformación la oportunidad de acabar con el viejo monstruo y representar un mito renovado. La sesión incluirá la proyección del cortometraje 'Ultra Todo' (Marina Maesso, Casandra Macías Gago, España, 15').",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-21",
+                "time": "18:30",
+                "version": "Coloquio posterior con Fernando Martínez (Burnin' Percebes), Marina Maesso y Casandra Macías Gago (Ultra Todo)"
+            }
+        ]
+    },
+    {
+        "id": "un-eclipse-y-el-caos-2025",
+        "title": "Un eclipse y el caos",
+        "originalTitle": "Un eclipse y el caos",
+        "poster": "images/un-eclipse-y-el-caos.jpg",
+        "director": "Dubi Cano, Samantha Cabrera",
+        "cast": [],
+        "year": 2025,
+        "duration": 70,
+        "country": "Chile",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine independiente"
+        ],
+        "synopsis": "En medio de la noche, las directoras se adentran en un bosque oscuro donde unas risas infantiles las conducen hacia el día. Tras los juegos de los niños en la naturaleza, un presagio de la abuela se cumple con un eclipse total de sol y un incendio. Poco después llega el confinamiento por el COVID-19, sumergiendo a los menores en pantallas. Un segundo sueño de la abuela y la llegada de la primavera rompen el ciclo oscuro, celebrando el regreso de la luz y la persistencia intacta de la infancia.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-21",
+                "time": "19:00",
+                "version": "Presentación y coloquio posterior con Dubi Cano y Samantha Cabrera"
+            }
+        ]
+    },
+    {
+        "id": "simulacro-2026",
+        "title": "Simulacro",
+        "originalTitle": "Simulacro",
+        "poster": "images/simulacro.jpg",
+        "director": "Nitya López Saitua",
+        "cast": [
+            "Miguel Garcés",
+            "Iraia Elias",
+            "Nitya López Saitua"
+        ],
+        "year": 2026,
+        "duration": 73,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine independiente"
+        ],
+        "synopsis": "Un director regresa a la casa de su infancia para recrear, con actores, la discusión que provocó la ruptura de sus padres cuando él tenía cuatro años. A través de la improvisación y un rodaje que revela su propio artificio, construye recuerdos a los que nunca tuvo acceso. Pero a medida que repite la escena, las indicaciones se vuelven inestables y la frontera entre reconstrucción y deseo comienza a desdibujarse.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-21",
+                "time": "19:00",
+                "version": "Coloquio posterior con Nitya López Saitua"
+            }
+        ]
+    },
+    {
+        "id": "cristina-y-los-otros-mundos-2026",
+        "title": "Cristina y Los otros mundos",
+        "originalTitle": "Cristina y Los otros mundos",
+        "poster": "images/cristina-y-los-otros-mundos.jpg",
+        "director": "Cristina Andreu",
+        "cast": [
+            "Cristina Fernández Cubas"
+        ],
+        "year": 2026,
+        "duration": 45,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine independiente"
+        ],
+        "synopsis": "Retrato complejo, irreverente y lúcido de la escritora y periodista Cristina Fernández Cubas —Premio Nacional de Narrativa y Premio Nacional de las Letras Españolas—, una figura clave cuya trayectoria configura uno de los universos literarios más singulares de la cultura española contemporánea, defendiendo siempre la intensidad frente a la extensión.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-22",
+                "time": "17:30",
+                "version": "Coloquio posterior con Cristina Andreu y Cristina Fernández Cubas, moderado por Isabel Coixet, productora del documental"
+            }
+        ]
+    },
+    {
+        "id": "cantics-a-la-penombra-2026",
+        "title": "Càntics a la penombra",
+        "originalTitle": "Càntics a la penombra",
+        "poster": "images/cantics-a-la-penombra.jpg",
+        "director": "Claudia Romeu",
+        "cast": [],
+        "year": 2026,
+        "duration": 62,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine experimental",
+            "Cine independiente"
+        ],
+        "synopsis": "Carme se muda a un pueblo del interior de Cataluña donde aún perdura la memoria de las mujeres ajusticiadas como brujas, que en realidad eran curanderas y parteras. A través de Joana, la niña de ocho años a la que cuida, Carme comienza a transitar umbrales invisibles mediante sueños compartidos, conectando el presente con los ecos de aquellas mujeres que caminaban hacia la resistencia y el saber colectivo.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-22",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "rose-2026",
+        "title": "Rose",
+        "originalTitle": "Rose",
+        "poster": "images/rose.jpg",
+        "director": "Markus Schleinzer",
+        "cast": [
+            "Sandra Hüller",
+            "Caro Braun",
+            "Marisa Growaldt",
+            "Godehard Giese",
+            "Robert Gwisdek"
+        ],
+        "year": 2026,
+        "duration": 93,
+        "country": "Austria, Alemania",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Cine independiente"
+        ],
+        "synopsis": "Siglo XVII en un aislado pueblo en el corazón de Europa. La verdadera historia de una estafadora e impostora que, pese a haber nacido mujer, adoptó la apariencia de un hombre y con un nombre falso cometió toda clase de abyectas infamias.",
+        "screenings": [
+            {
+                "cinema": "Cineteca Madrid",
+                "date": "2026-11-22",
+                "time": "19:30"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-22",
+                "time": "19:30",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "pinito-del-oro-a-ras-de-cielo-2026",
+        "title": "Pinito del Oro. A ras de cielo",
+        "originalTitle": "Pinito del Oro. A ras de cielo",
+        "poster": "images/pinito-del-oro-a-ras-de-cielo.jpg",
+        "director": "Núria Barreiro, Pilar Ruiz",
+        "cast": [
+            "Pinito del Oro"
+        ],
+        "year": 2026,
+        "duration": 60,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine biográfico",
+            "Cine independiente"
+        ],
+        "synopsis": "Repaso a la trayectoria de Pinito del Oro, considerada la mejor trapecista del mundo. Desde su formación familiar en el alambre y el trapecio hasta su triunfo durante casi una década en los Estados Unidos como estrella del circo Ringling y su regreso para finalizar su carrera en el circo Price de Madrid, arriesgando la vida al actuar a más de 14 metros de altura y sin red.",
+        "screenings": [
+        ]
     }
+
 ]
