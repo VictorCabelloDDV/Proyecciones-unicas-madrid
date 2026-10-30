@@ -6065,7 +6065,14 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Jack Torrance acepta un empleo como cuidador de invierno en el aislado Hotel Overlook, en Colorado, con la esperanza de superar su bloqueo mental y escribir una novela. Se traslada allí junto a su mujer y su hijo pequeño, Danny, quien posee unas facultades extrasensoriales llamadas 'resplandor'. A medida que la nieve los aísla por completo del exterior, la maligna presencia del hotel se apodera poco a poco de la mente de Jack, arrastrándolo a una espiral de locura y violencia homicida.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Yelmo Ideal",
+                "date": "2026-10-31",
+                "time": "20:00",
+                "version": "Versión Extendida"
+            }
+        ]
     },
     {
         "id": "rufufu-1958",
