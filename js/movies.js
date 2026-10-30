@@ -12851,6 +12851,39 @@ const movies = [
                 "version": "Coloquio posterior"
             }
         ]
+    },
+    {
+        "id": "one-cut-of-the-dead-2017",
+        "title": "One Cut of the Dead",
+        "originalTitle": "Kamera o tomeru na!",
+        "poster": "images/one-cut-of-the-dead.jpg",
+        "director": "Shinichirô Ueda",
+        "cast": [
+            "Takayuki Hamatsu",
+            "Yuzuki Akiyama",
+            "Harumi Shuhama",
+            "Kazuaki Nagaya",
+            "Hiroshi Ichihara",
+            "Manabu Hosoi",
+            "Yoshiko Takehara"
+        ],
+        "year": 2017,
+        "duration": 96,
+        "country": "Japón",
+        "genres": [
+            "Comedia",
+            "Cine fantástico",
+            "Cine de terror"
+        ],
+        "synopsis": "Un equipo de rodaje de bajo presupuesto rueda una película de zombis en una antigua instalación militar japonesa de la Segunda Guerra Mundial. Mientras intentan sacar adelante una exigente toma continua de treinta minutos sin cortes, la situación se desborda cuando auténticos zombis irrumpen en el set de filmación.",
+        "screenings": [
+            {
+                "cinema": "Palacio de la Prensa",
+                "date": "2026-10-30",
+                "time": "20:00",
+                "version": "Coloquio posterior con @huetemuchacho, @starringedu_ y @guillevandrai"
+            }
+        ]
     }
 
 ]
