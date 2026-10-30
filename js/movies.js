@@ -1505,13 +1505,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Un fotógrafo de National Geographic llega al condado de Madison para fotografiar sus famosos puentes y conoce a Francesca, una ama de casa con la que vivirá un intenso romance durante cuatro días.",
-        "screenings": [
-            {
-                "cinema": "Kinépolis Ciudad de la Imagen",
-                "date": "2026-10-29",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "los-siete-samurais",
@@ -1707,13 +1701,7 @@ const movies = [
             "Slasher"
         ],
         "synopsis": "Un grupo de adolescentes comienza a ser perseguido en sus sueños por Freddy Krueger, un asesino sobrenatural capaz de convertir sus pesadillas en una amenaza mortal.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-29",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
 //70
     {
@@ -1971,14 +1959,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Una niña de seis años vive con su madre en un motel barato cercano a Disney World. Mientras juega y explora los alrededores con sus amigos, su madre lucha por salir adelante.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-29",
-                "time": "22:15",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-freshman",
@@ -2981,13 +2962,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Un grupo de científicos e invitados llega a una remota isla del Mediterráneo donde un misterioso botánico ha creado una especie silvestre de planta carnívora mutante alimentada con sangre humana.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-28",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "pacto-de-silencio",
@@ -3630,13 +3605,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "El partido final de la 'trilogía del tenis' afila al máximo el humor y desencadena todos los dramas entre el propietario y los empleados del complejo, sumando notas de melancolía y nuevos personajes a este insólito viacrucis.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-28",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-urgency-of-death-2023",
@@ -3713,13 +3682,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un joven de la provincia de San Juan descubre la admiración que su madre siente por el dueño de una pista de patinaje sobre hielo y la invita a Buenos Aires para conocerlo, desencadenando nuevos enredos en esta cómica entrega de Lucía Seles.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-29",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "terminal-young-2023",
@@ -3742,13 +3705,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Una mujer que sufrió un incidente del pasado mantiene una relación con un inseguro músico de jazz de Ramos Mejía. Pese a las tensiones y peculiaridades de su entorno, afronta la vida con renovada fuerza en esta particular comedia de enredos urbanos.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-29",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "lejos-de-los-arboles-1972",
@@ -5597,13 +5554,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "El conde Drácula viaja desde Transilvania hasta Londres del siglo XIX en busca de Mina Harker, una mujer idéntica a su difunta esposa, desatando el terror y la pasión a su paso.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-29",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "phenomena",
@@ -5665,14 +5616,7 @@ const movies = [
             "Ensayo"
         ],
         "synopsis": "Tras el 11 de septiembre, un gato amarillo dibujado comienza a aparecer en los muros de París, observando la ciudad con una enigmática sonrisa. Chris Marker emprende un viaje visual y reflexivo a través de la capital francesa, explorando el arte urbano, las protestas sociales y el estado del mundo. Coloquio posterior con los arquitectos Aritz González y David García-Asenjo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-29",
-                "time": "19:00",
-                "version": "Coloquio posterior"
-            }
-        ]
+        "screenings": []
     },
 {
         "id": "return-of-the-living-dead-part-ii",
@@ -5903,11 +5847,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-30",
-                "time": "17:00"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-10-31",
                 "time": "22:00"
             },
@@ -6114,18 +6053,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Jack Torrance acepta un empleo como cuidador de invierno en el aislado Hotel Overlook, en Colorado, con la esperanza de superar su bloqueo mental y escribir una novela. Se traslada allí junto a su mujer y su hijo pequeño, Danny, quien posee unas facultades extrasensoriales llamadas 'resplandor'. A medida que la nieve los aísla por completo del exterior, la maligna presencia del hotel se apodera poco a poco de la mente de Jack, arrastrándolo a una espiral de locura y violencia homicida.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-29",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-10-29",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "rufufu-1958",
@@ -6915,13 +6843,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Herbert West, un brillante y megalómano estudiante de medicina con teorías más que cuestionables sobre la reanimación de tejidos muertos, se muda a la Universidad de Miskatonic. Allí convence a su compañero de piso para probar su suero fluorescente experimental con cadáveres humanos, desatando una espiral de desastres grotescos, hilarantes y sanguinolentos.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-29",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-arreglo-1983",
@@ -7043,13 +6965,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Un joven médico deportista y una enigmática muchacha se conocen fortuitamente en un club de jazz de Varsovia durante una noche. A lo largo de las horas siguientes, ambos entablan un juego de seducción, ambigüedad y ocultamiento mutuo, reflejando las inquietudes y la mentalidad de la juventud urbana contemporánea.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-29",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "maspalomas-2025",
@@ -7523,13 +7439,7 @@ const movies = [
             "Cine político"
         ],
         "synopsis": "En la primavera de 1794, Georges Danton regresa a París encontrándose con un clima de terror y ejecuciones masivas impuesto por el Comité de Salvación Pública liderado por Robespierre. Defensor de la moderación y de frenar la sangría revolucionaria, Danton se enfrentará dialéctica y políticamente a su antiguo aliado en un duelo a muerte donde se debate el destino de la Revolución.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-30",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "restauraciones-cortometrajes-setenta",
@@ -7845,13 +7755,7 @@ const movies = [
             "Cine histórico"
         ],
         "synopsis": "Crónica documental rodada sobre el terreno durante la Revolución de los Claveles en Portugal. La película sigue de cerca la histórica ocupación de la finca Torre Bela —perteneciente a los duques de Lafões— por parte de campesinos y jornaleros sin tierras apoyados por el Movimiento de las Fuerzas Armadas, quienes deciden colectivizar la propiedad y autogestionar la tierra en un ejercicio directo de transformación social.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-29",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "carmen-comes-home-1951",
@@ -8056,13 +7960,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Un anciano trabaja como portero en un lujoso hotel y siente un enorme orgullo por su empleo y, sobre todo, por el vistoso uniforme que representa su posición. En el humilde barrio donde vive, sus vecinos lo respetan precisamente por esa apariencia de autoridad y prestigio. Pero cuando sus superiores consideran que ya es demasiado mayor para desempeñar su tarea, lo relegan a trabajar como encargado de los lavabos. Incapaz de admitir su nueva situación ante quienes lo rodean, intenta mantener las apariencias.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-28",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-madrastra-1953",
@@ -8085,13 +7983,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Un complejo y sombrío relato de pasiones ocultas, celos y tensiones familiares en el que la llegada de una nueva figura materna a un hogar altera por completo la convivencia, desatando una atmósfera opresiva en la que los secretos del pasado y la culpa terminan por aflorar de manera implacable.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-29",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-novia-cadáver-2005",
@@ -8421,14 +8313,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Para Jay, una joven de 19 años, el otoño debería consistir en chicos, clases y salidas con sus amigos. Sin embargo, tras un aparente encuentro sexual inocente con su nuevo ligue, la situación cambia de forma radical. Comienza a experimentar visiones inquietantes y la sensación constante de que alguien, o algo, la persigue implacablemente paso a paso. Una presencia invisible pero letal que solo ella puede ver y que se desplaza hacia su objetivo a ritmo humano; si la alcanza, su vida llegará a su fin.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-29",
-                "time": "19:30",
-                "version": "Coloquio con Emilio Doménech - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "hereditary-2018",
@@ -8556,13 +8441,7 @@ const movies = [
             "Deporte"
         ],
         "synopsis": "Un emocionante recorrido documental que rescata la historia de las primeras mujeres que, desafiando los prejuicios, las prohibiciones y la censura de principios de los años setenta en España, se atrevieron a romper barreras para jugar al fútbol y abrir el camino al deporte femenino en el país.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-28",
-                "time": "20:10"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "corredora-2026",
@@ -8583,13 +8462,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "Cris, una corredora de élite, sufre un brote psicótico que la obliga a alejarse de la alta competición. Ante la incomprensión y la incapacidad de su entorno para saber cómo ayudarla, su hermana Natàlia se convierte en su refugio principal para aprender a aceptar su condición y redefinir por completo su ritmo de vida.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-29",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "despues-de-kim-2026",
@@ -8612,13 +8485,7 @@ const movies = [
             "Crimen"
         ],
         "synopsis": "Juan y Gloria, un matrimonio divorciado y completamente distanciado desde hace veinte años, se ven obligados a viajar a España al recibir la trágica noticia de que su hija Kim ha aparecido muerta. A su llegada, descubren un giro inesperado: su hija ha dejado un hijo, su nieto, que se encuentra en paradero desconocido. Decididos a encontrarlo, emprenderán un camino conjunto que pondrá a prueba sus viejos reproches y el dolor del pasado.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-29",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "viva-2026",
@@ -8859,13 +8726,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "A principios de los años ochenta en una pequeña ciudad de Kansas, dos niños de ocho años sufren un misterioso episodio de amnesia de cinco horas tras un supresor encuentro con su entrenador de béisbol. Una década más tarde, ya en la adolescencia, sus caminos divergen radicalmente: Brian se ha convertido en un joven solitario obsesionado con abducciones alienígenas, mientras que Neil sobrevive en Nueva York dedicándose a la prostitución masculina y arrastrando un doloroso vacío. Cuando sus vidas vuelven a cruzarse, saldrá a la luz una terrible y oscura verdad sobre su pasado común.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-28",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "portrait-dune-jeune-fille-1994",
@@ -9106,8 +8967,8 @@ const movies = [
             },
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-10-31",
-                "time": "20:00",
+                "date": "2026-11-03",
+                "time": "22:00",
                 "version": "Cine mudo con intertitulos en español"
             }
         ]
@@ -9708,13 +9569,7 @@ const movies = [
             "Experimental"
         ],
         "synopsis": "Programa doble compuesto por dos obras de Lucía Seles. Gallega invernal (2026, 65'): Cuando una mujer ama a una confitería. Avenida Saenz 1073 - video dedicado a la enfermedad de mi padre (2025, 65'): Una de las personas que aparecían al final de The Urgency of Death visita la casa donde vivía de pequeña y hablan de muchas cosas que destruyeron a su padre.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-30",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-deshielo-2026",
@@ -10321,13 +10176,7 @@ const movies = [
             "Humor negro"
         ],
         "synopsis": "Un hombre maduro de Carabanchel intenta salir adelante entre trabajos eventuales y dificultades que nunca cesan. La repentina muerte de su madre le lleva a replantearse la vida, hasta que algo insólito sucede en su barrio y decide tirar por el camino de en medio. Es una comedia dramática de humor negro y tono surrealista, a la manera de Azcona y Berlanga, rodada casi íntegramente en Carabanchel con más de un centenar de vecinos y entidades culturales del distrito.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-29",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ciudad-sin-sueno-2025",
@@ -10975,12 +10824,6 @@ const movies = [
                 "date": "2026-10-31",
                 "time": "12:00",
                 "version": "Piano en directo por Adrián Begoña - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-10-29",
-                "time": "19:30",
-                "version": "Piano en directo por Adrián Begoña - Renoir Retiro"
             }
         ]
     },
@@ -11190,7 +11033,7 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-11-01",
+                "date": "2026-11-22",
                 "time": "12:00"
             }
         ]
