@@ -6599,7 +6599,13 @@ const movies = [
             "Ecología"
         ],
         "synopsis": "¿Qué tendría que ocurrir para que en 2050 hubiéramos conseguido frenar el deterioro del planeta? Desde ese futuro posible, la película mira hacia las luchas que ya están transformando el presente. A partir del viaje transatlántico de comunidades mayas zapatistas, conecta resistencias de México, España y Alemania que defienden sus territorios frente a la destrucción industrial, en un relato colectivo sobre organización, solidaridad y cuidado de la vida.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-07",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "super-nature-2025",
@@ -9604,6 +9610,11 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-04",
                 "time": "18:30"
+            },
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-05",
+                "time": "18:00"
             }
         ]
     },
@@ -12882,6 +12893,309 @@ const movies = [
                 "date": "2026-10-30",
                 "time": "20:00",
                 "version": "Coloquio posterior con @huetemuchacho, @starringedu_ y @guillevandrai"
+            }
+        ]
+    },
+    {
+        "id": "willow-1988",
+        "title": "Willow",
+        "originalTitle": "Willow",
+        "poster": "images/willow.jpg",
+        "director": "Ron Howard",
+        "cast": [
+            "Warwick Davis",
+            "Val Kilmer",
+            "Joanne Whalley",
+            "Jean Marsh",
+            "Billy Barty",
+            "Pat Roach",
+            "Gavin Willow"
+        ],
+        "year": 1988,
+        "duration": 126,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine fantástico",
+            "Aventuras"
+        ],
+        "synopsis": "Un bebé marcado por la profecía es encontrado por un pacífico campesino y aspirante a mago de la raza Nelwyn llamado Willow. Para proteger a la niña de una malvada reina oscura dispuesta a arrasar con todo, Willow emprenderá un peligroso viaje junto a un espadachín fanfarrón y un singular grupo de aliados en una inolvidable aventura de espada y brujería.",
+        "screenings": [
+            {
+                "cinema": "Palacio de la Prensa",
+                "date": "2026-11-15",
+                "time": "19:00",
+                "version": "Coloquio previo con Genís Benavent, Vic Mcklein y Óscar Cavaller"
+            }
+        ]
+    },
+    {
+        "id": "las-locas-del-obelisco-2026",
+        "title": "Las locas del Obelisco",
+        "originalTitle": "Las locas del Obelisco",
+        "poster": "images/las-locas-del-obelisco.jpg",
+        "director": "Pablo Moreno",
+        "cast": [
+            "Paula Iglesias",
+            "Javier Godino",
+            "Assumpta Serna",
+            "Jasmina G. Pizarro",
+            "Carmen Izquierdo",
+            "Carlos Iglesias",
+            "Elisa Hipólito"
+        ],
+        "year": 2026,
+        "duration": 113,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Cine independiente"
+        ],
+        "synopsis": "A finales del siglo XIX, Teresa y Candela llegan a Madrid buscando una vida mejor, enfrentándose a la dureza de una sociedad sin recursos para las mujeres. Paralelamente, Mariana Allsopp, una joven acomodada, toma conciencia de esta realidad y, junto al sacerdote Francisco de Asís Méndez, decide ayudar a las olvidadas desafiando las convenciones de la época. Inspirada en hechos reales sobre mujeres que se atrevieron a cambiar su destino.",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-10",
+                "time": "18:00",
+                "version": "Presentación previa con Pablo Moreno (director) y Paula Iglesias (actriz)"
+            }
+        ]
+    },
+    {
+        "id": "chicogrande-2010",
+        "title": "Chicogrande",
+        "originalTitle": "Chicogrande",
+        "poster": "images/chicogrande.jpg",
+        "director": "Felipe Cazals",
+        "cast": [
+            "Damián Alcázar",
+            "Daniel Martínez",
+            "Juan Manuel Bernal",
+            "Bruno Bichir",
+            "Jorge Zárate",
+            "Liza Owen",
+            "Patricia Reyes Spíndola"
+        ],
+        "year": 2010,
+        "duration": 95,
+        "country": "México",
+        "genres": [
+            "Western",
+            "Drama",
+            "Cine histórico",
+            "Cine bélico"
+        ],
+        "synopsis": "Pancho Villa, tras la frustrada invasión a Columbus, se refugia herido en la sierra de Chihuahua mientras tropas carrancistas y estadounidenses inician una persecución masiva para capturarlo. Chicogrande, un joven villista, recibe el encargo de conseguir asistencia médica, arriesgando y dispuesto a sacrificar su propia vida para lograrlo.",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-25",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "el-tres-de-copas-1986",
+        "title": "El tres de copas",
+        "originalTitle": "El tres de copas",
+        "poster": "images/el-tres-de-copas.jpg",
+        "director": "Felipe Cazals",
+        "cast": [
+            "Humberto Zurita",
+            "Alejandro Camacho",
+            "Gabriela Roel",
+            "Pedro Armendáriz hijo",
+            "José Carlos Ruíz"
+        ],
+        "year": 1986,
+        "duration": 117,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Cine independiente"
+        ],
+        "synopsis": "Una voz en off narra las andanzas de dos amigos y chinacos juaristas conocidos como 'los Güeros'. En una casa de juego compran a Casilda, una prostituta, y se la llevan con ellos a Nochistlán, Zacatecas, donde la mujer juega con el amor de ambos hasta enfrentarlos en una rivalidad que termina con la muerte de los dos.",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-18",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "las-poquianchis-1976",
+        "title": "Las Poquianchis",
+        "originalTitle": "Las Poquianchis",
+        "poster": "images/las-poquianchis.jpg",
+        "director": "Felipe Cazals",
+        "cast": [
+            "Jorge Martínez de Hoyos",
+            "Diana Bracho",
+            "María Rojo",
+            "Ana Ofelia Murguía",
+            "Leonor Llausás"
+        ],
+        "year": 1976,
+        "duration": 110,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Cine de terror"
+        ],
+        "synopsis": "En 1950, en Guanajuato (México), tres hermanas conocidas como 'Las Poquianchis' engañaban a jóvenes de familias necesitadas prometiéndoles trabajo doméstico para secuestrarlas, someterlas a agresiones y forzarlas a la prostitución. Basada en hechos reales tras el descubrimiento de fosas con cadáveres en los prostíbulos, convirtiéndose en uno de los casos más estremecedores de la crónica negra y el abuso contra las mujeres en México.",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-12",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "sus-hijos-2026",
+        "title": "Sus hijos",
+        "originalTitle": "&Sons",
+        "poster": "images/sus-hijos.jpg",
+        "director": "Pablo Trapero",
+        "cast": [
+            "Bill Nighy",
+            "Noah Jupe",
+            "George MacKay",
+            "Imelda Staunton",
+            "Johnny Flynn"
+        ],
+        "year": 2026,
+        "duration": 119,
+        "country": "Reino Unido, Argentina, Estados Unidos",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Andrew Dyer es un autor de fama mundial, pero lleva casi veinte años sin escribir, sin salir de casa y sin dirigir la palabra ni a sus hijos mayores Richard y Jamie, ni a su exmujer. Y el motivo es Andy, el pequeño, una “sorpresa” extramatrimonial. Tras la muerte de un viejo amigo y agravado su alcoholismo, Andrew siente que su tiempo en la Tierra se está acabando y convoca a los dos mayores para reunirse con él urgentemente. Cuando llegan, lejos de buscar la reconciliación, les revela algo tan increíble que no puede ser cierto. ¿O quizá sí?",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-10-31",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-06",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-07",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "ciudadano-buelna-2013",
+        "title": "Ciudadano Buelna",
+        "originalTitle": "Ciudadano Buelna",
+        "poster": "images/ciudadano-buelna.jpg",
+        "director": "Felipe Cazals",
+        "cast": [
+            "Sebastián Zurita",
+            "Marimar Vega",
+            "Damián Alcázar",
+            "Tenoch Huerta",
+            "Jorge Zárate"
+        ],
+        "year": 2013,
+        "duration": 102,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine histórico",
+            "Cine biográfico"
+        ],
+        "synopsis": "Biografía de Rafael Buelna Tenorio, un joven estudiante de Derecho que se unió a la Revolución mexicana luchando junto a Pancho Villa y Emiliano Zapata por un país más justo, hasta morir en combate a los 33 años junto a su esposa María Luisa Sarria. La película rescata la figura de este héroe olvidado por el relato oficial.",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-12-02",
+                "time": "18:00"
+            }
+        ]
+    },
+    {
+        "id": "los-dias-mas-oscuros-de-nosotras-2017",
+        "title": "Los días más oscuros de nosotras",
+        "originalTitle": "Los días más oscuros de nosotras",
+        "poster": "images/los-dias-mas-oscuros-de-nosotras.jpg",
+        "director": "Astrid Rondero",
+        "cast": [
+            "Sophie Alexander-Katz",
+            "Florencia Ríos",
+            "Adolfo Madera",
+            "Yeray Albelda",
+            "Felipe Tututi",
+            "Francesco Roder"
+        ],
+        "year": 2017,
+        "duration": 99,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Ana regresa a su ciudad natal en Tijuana después de muchos años de ausencia. Si la muerte de su hermana es sólo una memoria fragmentada, su casa de la infancia es una presencia real y conflictiva.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-10-31",
+                "time": "19:00",
+                "version": "Presentación por Estrella Araiza"
+            }
+        ]
+    },
+    {
+        "id": "say-goodbye-2025",
+        "title": "Say Goodbye",
+        "originalTitle": "Say Goodbye",
+        "poster": "images/say-goodbye.jpg",
+        "director": "Paloma López Carrillo",
+        "cast": [],
+        "year": 2025,
+        "duration": 103,
+        "country": "México",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "En la gélida extensión de las montañas de Utah, una familia llora la desaparición de su marido y padre. Rosa, Sol y el joven Javier se aferran el uno al calor del otro, su amor es una frágil llama contra la dura y silenciosa naturaleza que se cierne como un recordatorio constante de su pérdida y de las persistentes preguntas que rodean su misteriosa desaparición.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-05",
+                "time": "19:00",
+                "version": "Coloquio posterior con la directora Paloma López Carrillo"
+            }
+        ]
+    },
+    {
+        "id": "papa-melissa-2025",
+        "title": "Papá Melissa",
+        "originalTitle": "Papá Melissa",
+        "poster": "images/papa-melissa.jpg",
+        "director": "Sophia Stieglitz",
+        "cast": [],
+        "year": 2025,
+        "duration": 102,
+        "country": "México",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "En el corazón de Ciudad de México, Melissa y Claudia, una pareja casada desde hace más de 20 años y orgullosos padres de cinco hijos, navegan por la propia versión de Melissa de la identidad de género. A través de la risa, el conflicto y el amor incondicional, desafían el pensamiento binario y abrazan el paradójico yo evolutivo de Melissa: una audaz y extraña celebración de la identidad, la resiliencia y los retos del camino para convertirse en el verdadero yo.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-06",
+                "time": "19:00"
             }
         ]
     }
