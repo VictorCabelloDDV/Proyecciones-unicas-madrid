@@ -1707,7 +1707,13 @@ const movies = [
             "Slasher"
         ],
         "synopsis": "Un grupo de adolescentes comienza a ser perseguido en sus sueños por Freddy Krueger, un asesino sobrenatural capaz de convertir sus pesadillas en una amenaza mortal.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Yelmo Ideal",
+                "date": "2026-11-01",
+                "time": "20:00"
+            }
+        ]
     },
 //70
     {
@@ -12745,6 +12751,21 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-02",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cine Yelmo Ideal",
+                "date": "2026-10-30",
+                "time": "20:00"
+            },
+            {
+                "cinema": "Cine Yelmo Ideal",
+                "date": "2026-10-31",
+                "time": "18:00"
+            },
+            {
+                "cinema": "Cine Yelmo Ideal",
+                "date": "2026-11-01",
+                "time": "18:00"
             }
         ]
     },
@@ -13196,6 +13217,37 @@ const movies = [
                 "cinema": "Casa de México",
                 "date": "2026-11-06",
                 "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "los-cazafantasmas-1984",
+        "title": "Los cazafantasmas",
+        "originalTitle": "Ghostbusters",
+        "poster": "images/los-cazafantasmas.jpg",
+        "director": "Ivan Reitman",
+        "cast": [
+            "Bill Murray",
+            "Dan Aykroyd",
+            "Sigourney Weaver",
+            "Harold Ramis",
+            "Rick Moranis",
+            "Ernie Hudson"
+        ],
+        "year": 1984,
+        "duration": 105,
+        "country": "Estados Unidos",
+        "genres": [
+            "Comedia",
+            "Fantástico",
+            "Sobrenatural"
+        ],
+        "synopsis": "A los doctores Venkman, Stantz y Spengler, expertos en parapsicología, no les conceden una beca de investigación que habían solicitado. Al encontrarse sin trabajo, deciden fundar la empresa 'Los Cazafantasmas', dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la ciudad será el presagio de la llegada de un peligroso y poderoso demonio.",
+        "screenings": [
+            {
+                "cinema": "Cine Yelmo Ideal",
+                "date": "2026-11-02",
+                "time": "18:00"
             }
         ]
     }
