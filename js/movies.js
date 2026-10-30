@@ -9807,6 +9807,11 @@ const movies = [
         ],
         "synopsis": "Hollywood, 1947. Eddie Valiant, un detective privado cínico y alcohólico, es contratado para investigar un caso de celos que involucra a Jessica Rabbit, la sensual esposa de la estrella de dibujos animados Roger Rabbit. Cuando el dueño del club nocturno en el que trabaja Jessica aparece asesinado, todas las pruebas apuntan a Roger, desatando una divertida e ingeniosa conspiración entre el mundo real y el de los 'toons'.",
         "screenings": [
+             {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-12-12",
+                "time": "12:00"
+            }
         ]
     },
     {
@@ -12688,6 +12693,163 @@ const movies = [
         ],
         "synopsis": "Repaso a la trayectoria de Pinito del Oro, considerada la mejor trapecista del mundo. Desde su formación familiar en el alambre y el trapecio hasta su triunfo durante casi una década en los Estados Unidos como estrella del circo Ringling y su regreso para finalizar su carrera en el circo Price de Madrid, arriesgando la vida al actuar a más de 14 metros de altura y sin red.",
         "screenings": [
+        ]
+    },
+    {
+        "id": "pesadilla-antes-de-navidad-1993",
+        "title": "Pesadilla antes de Navidad",
+        "originalTitle": "The Nightmare Before Christmas",
+        "poster": "images/pesadilla-antes-de-navidad.jpg",
+        "director": "Henry Selick",
+        "cast": [
+            "Danny Elfman",
+            "Chris Sarandon",
+            "Catherine O'Hara",
+            "William Hickey",
+            "Glenn Shadix",
+            "Ken Page"
+        ],
+        "year": 1993,
+        "duration": 76,
+        "country": "Estados Unidos",
+        "genres": [
+            "Animación",
+            "Cine fantástico",
+            "Musical",
+            "Cine independiente"
+        ],
+        "synopsis": "Jack Skellington, el Rey de la Ciudad de Halloween, se aburre de hacer lo mismo año tras año. Por casualidad descubre la Ciudad de Navidad y queda tan fascinado que decide secuestrar a Santa Claus y asumir su papel para celebrar una Navidad muy particular y tétrica.",
+        "screenings": [
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-10-31",
+                "time": "12:00"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-11-01",
+                "time": "12:00"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-11-02",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "cooking-up-democracy-2025",
+        "title": "Cooking Up Democracy",
+        "originalTitle": "Cooking Up Democracy",
+        "poster": "images/cooking-up-democracy.jpg",
+        "director": "Monika Treut",
+        "cast": [
+            "Audrey Tang",
+            "Tiffany Lay",
+            "Zo Lin",
+            "Yo-Ling Chen",
+            "Ping An Tung",
+            "Tsai Cheng-Yun",
+            "Brian Hioe",
+            "Yi-Chien Chen",
+            "Victoria Hsu"
+        ],
+        "year": 2025,
+        "duration": 82,
+        "country": "Taiwán, Estados Unidos",
+        "genres": [
+            "Documental",
+            "Cine independiente"
+        ],
+        "synopsis": "En el laboratorio de la democracia digital de Taiwán, un territorio bajo amenaza geopolítica, estudiantes activistas y creadores de código abierto diseñan recetas democráticas difundidas a nivel internacional por la ministra Audrey Tang. El núcleo de la película lo conforman los artistas de la comunidad LGBTQI+ y del movimiento ecologista.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-12",
+                "time": "18:15"
+            }
+        ]
+    },
+    {
+        "id": "eva-2026",
+        "title": "Eva",
+        "originalTitle": "Eva",
+        "poster": "images/eva.jpg",
+        "director": "William Reyes",
+        "cast": [
+            "Endry Cardeño",
+            "Jancel Aguilar",
+            "Dennis Mencia"
+        ],
+        "year": 2026,
+        "duration": 90,
+        "country": "Honduras, Colombia",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Eva, una mujer trans, asume el cuidado de su nieta tras el repentino fallecimiento de su nuera, intentando en el proceso de duelo que su hijo conecte emocionalmente con la bebé. En medio de tensiones, reproches y silencios, madre e hijo emprenden un camino hacia la comprensión mutua y la reconstrucción del vínculo familiar.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-12",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "apolo-2025",
+        "title": "Apolo",
+        "originalTitle": "Apolo",
+        "poster": "images/apolo.jpg",
+        "director": "Ísis Broken, Tainá Müller",
+        "cast": [
+            "Ana Celma Andrade",
+            "Maria do Carmo Andrade",
+            "Maricelma Andrade"
+        ],
+        "year": 2025,
+        "duration": 83,
+        "country": "Brasil",
+        "genres": [
+            "Drama",
+            "Cine independiente"
+        ],
+        "synopsis": "Tras concebir un hijo de forma natural durante la pandemia de la COVID-19, una pareja transgénero emprende un viaje por Brasil en busca de una atención prenatal respetuosa y especializada.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-13",
+                "time": "18:15"
+            }
+        ]
+    },
+    {
+        "id": "mineshaft-the-cruising-murders-2025",
+        "title": "Mineshaft: The Cruising Murders",
+        "originalTitle": "Mineshaft: The Cruising Murders",
+        "poster": "images/mineshaft-the-cruising-murders.jpg",
+        "director": "Jeffrey Schwarz",
+        "cast": [
+            "Drusilla Adeline",
+            "Steve Ashkinazy",
+            "Adam Baran"
+        ],
+        "year": 2025,
+        "duration": 85,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental",
+            "Cine independiente"
+        ],
+        "synopsis": "Un asesino en serie acecha a hombres homosexuales en el Nueva York de los años 70 mientras un periodista busca advertir a sus lectores y un famoso director de Hollywood prepara su próximo thriller. El documental desvela la controversia en torno a la realización de la película 'A la caza' (1980) de William Friedkin, las feroces protestas de la comunidad LGBTQ+ por su retrato de los bares de cuero y el brutal asesinato real del reportero de Variety Addison Verrill que inspiró la historia, difuminando los límites entre la ficción y la tragedia.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-13",
+                "time": "20:30",
+                "version": "Coloquio posterior"
+            }
         ]
     }
 
