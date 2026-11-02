@@ -787,7 +787,14 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Durante la Guerra Civil estadounidense, un maquinista confederado intenta recuperar su locomotora, robada por espías de la Unión, mientras trata de rescatar también a la mujer que ama.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-26",
+                "time": "19:30",
+                "version": "Renoir Retiro - Con música en directo compuesta e interpretada por el pianista Adrián Begoña"
+            }
+        ]
     },
     {
         "id": "el-silencio-de-los-corderos",
@@ -3809,7 +3816,20 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Pelu, treintañero y proyeccionista de un cineclub municipal, es degradado a sereno nocturno. Tras perder su casa, se muda al cine en secreto. Poco a poco, forma una comunidad con un grupo de cuidadores de autos y su mejor amiga, mientras una crisis generalizada amenaza con cerrar el cine y destruir su pequeño refugio.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-07",
+                "time": "22:00",
+                "version": "Precio reducido"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-08",
+                "time": "19:00",
+                "version": "Precio reducido"
+            }
+        ]
     },
     {
         "id": "as-cidades-e-as-trocas-2014",
@@ -11003,13 +11023,7 @@ const movies = [
             "Drama romántico"
         ],
         "synopsis": "Versión cinematográfica del mito de Pigmalión, inspirada en la obra teatral homónima del escritor irlandés G.B. Shaw. En una lluviosa noche de 1912, el excéntrico y snob lingüista Henry Higgins conoce a Eliza Doolittle, una harapienta y ordinaria vendedora de violetas. El vulgar lenguaje de la florista despierta tanto su interés que hace una arriesgada apuesta con su amigo el coronel Pickering: se compromete a enseñarle a hablar correctamente el inglés y a hacerla pasar por una dama de la alta sociedad en un plazo de seis meses.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "muerte-entre-las-flores-1990",
@@ -14371,6 +14385,95 @@ const movies = [
                 "cinema": "Cine Doré",
                 "date": "2026-11-29",
                 "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "piscina-por-la-tarde-2026",
+        "title": "Piscina por la tarde",
+        "originalTitle": "Piscina por la tarde",
+        "poster": "images/piscina-por-la-tarde.jpg",
+        "director": "Pablo Llorca",
+        "cast": [],
+        "year": 2026,
+        "duration": 82,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Ensayo"
+        ],
+        "synopsis": "Tras su reciente presentación en el festival Doclisboa, se estrena la última película de Pablo Llorca sobre urbanismo madrileño y los habitantes de los nuevos barrios. La obra sigue el regreso del narrador a España tras una ausencia de cinco años. A través de un recorrido pausado por los paisajes y las realidades urbanas del extrarradio de Madrid, la cinta construye un espacio de reflexión compartida sobre el aislamiento social y la transformación de una urbe marcada por el individualismo contemporáneo.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-04",
+                "time": "19:00",
+                "version": "Presentación y coloquio"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-05",
+                "time": "22:00",
+                "version": "Precio reducido"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-06",
+                "time": "19:00",
+                "version": "Coloquio"
+            }
+        ]
+    },
+    {
+        "id": "isla-indomita-2026",
+        "title": "Isla indómita",
+        "originalTitle": "Isla indómita",
+        "poster": "images/isla-indomita.jpg",
+        "director": "Pablo García Sanz",
+        "cast": [],
+        "year": 2026,
+        "duration": 83,
+        "country": "España",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "En el corazón de la Montaña Palentina, nace Piedad Isla en 1926. Una mujer atípica en su época que, en los años 50 del siglo pasado, con tan solo una pequeña Kodak y una motocicleta comenzó a recorrer la comarca para retratar sus costumbres y modos de vida. Sin saberlo y sin referencia alguna, Piedad se convirtió en una figura clave de la fotografía neorrealista española. Esta es la historia de una mujer pionera y todo un referente en el territorio que la vio crecer.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-05",
+                "time": "19:30",
+                "version": "Presentación y coloquio con Pablo García Sanz (director), Jose Maria Pérez González “Peridis”, Esteban Sainz Vidal y Sonia Frías."
+            }
+        ]
+    },
+    {
+        "id": "el-hombre-mosca-1923",
+        "title": "El hombre mosca",
+        "originalTitle": "Safety Last!",
+        "poster": "images/el-hombre-mosca.jpg",
+        "director": "Fred C. Newmeyer, Sam Taylor",
+        "cast": [
+            "Harold Lloyd",
+            "Mildred Davis",
+            "Bill Strother",
+            "Noah Young",
+            "Westcott Besserer"
+        ],
+        "year": 1923,
+        "duration": 77,
+        "country": "Estados Unidos",
+        "genres": [
+            "Comedia",
+            "Cine mudo"
+        ],
+        "synopsis": "Un joven provinciano se marcha a la gran ciudad para triunfar y poder casarse con su novia, a la que hace creer que es un importante directivo. Sin embargo, trabaja como dependiente en unos grandes almacenes. Para ganar un buen dinero extra, concibe un arriesgado plan publicitario que consiste en escalar la fachada del edificio.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-12",
+                "time": "19:30",
+                "version": "Renoir Retiro - Con música en directo compuesta e interpretada por el pianista Adrián Begoña"
             }
         ]
     }
