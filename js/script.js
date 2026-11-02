@@ -345,7 +345,7 @@ if (moviePage) {
 
             <div class="technical-item">
                 <strong>Año</strong>
-                <span>${movie.year}</span>
+                <span>${movie.yearText || movie.year}</span>
             </div>
 
             <div class="technical-item">

@@ -414,13 +414,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un matrimonio de ancianos viaja desde su pueblo hasta Tokio para visitar a sus hijos, que apenas tienen tiempo para atenderlos, salvo Noriko, la viuda de su hijo fallecido, que les muestra el afecto que sus propios hijos ya no les dan.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-11-02",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "delitos-y-faltas",
@@ -1456,15 +1450,22 @@ const movies = [
             "Ke Huy Quan"
         ],
         "year": 1985,
-        "duration": 114,
+        "duration": 113,
         "country": "Estados Unidos",
         "genres": [
             "Aventura",
             "Comedia",
             "Familia"
         ],
-        "synopsis": "Un grupo de amigos descubre un antiguo mapa del tesoro y se embarca en una aventura para encontrar el legendario tesoro del pirata Willy el Tuerto y salvar sus hogares.",
-        "screenings": []
+        "synopsis": "Mikey es un niño de trece años que, junto con su hermano mayor y sus amigos, forma la pandilla de los Goonies. Un buen día suben al desván de su casa y descubren por casualidad el mapa de un tesoro pirata del siglo XVII. Los Goonies deciden salir a buscarlo, adentrándose en una emocionante y peligrosa aventura. Duración total de la sesión 140'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-15",
+                "time": "17:30",
+                "version": "Presentación y coloquio a cargo de Pablo López"
+            }
+        ]
     },
 //60
     {
@@ -1707,13 +1708,7 @@ const movies = [
             "Slasher"
         ],
         "synopsis": "Un grupo de adolescentes comienza a ser perseguido en sus sueños por Freddy Krueger, un asesino sobrenatural capaz de convertir sus pesadillas en una amenaza mortal.",
-        "screenings": [
-            {
-                "cinema": "Cine Yelmo Ideal",
-                "date": "2026-11-01",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
 //70
     {
@@ -3640,13 +3635,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un relato singular e inclasificable en una ciudad de La Plata nada convencional. Seles despliega de nuevo sus diálogos anárquicos, tensiones cotidianas y humor excéntrico en torno a la memoria, las obsesiones y los vínculos humanos.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-31",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "rezar-como-queria",
@@ -3665,13 +3654,7 @@ const movies = [
             "Experimental"
         ],
         "synopsis": "Obra íntima e inclasificable articulada a través de archivos, recuerdos y narraciones particulares sobre la memoria, la música y las vivencias personales, presentada dentro del ciclo dedicado a la cineasta argentina.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-30",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "fire-supply-2024",
@@ -3804,13 +3787,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Un hombre de Lugo termina caminando solo por la estación ferroviaria de La Plata. Su deriva errante se convierte en el hilo conductor para retratar distintas escenas, personajes y momentos cotidianos de la vida en esta ciudad argentina.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-31",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
 //160
     {
@@ -5859,11 +5836,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-10-31",
-                "time": "22:00"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-11-04",
                 "time": "17:00",
                 "version": "Precio Reducido"
@@ -6065,14 +6037,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "Jack Torrance acepta un empleo como cuidador de invierno en el aislado Hotel Overlook, en Colorado, con la esperanza de superar su bloqueo mental y escribir una novela. Se traslada allí junto a su mujer y su hijo pequeño, Danny, quien posee unas facultades extrasensoriales llamadas 'resplandor'. A medida que la nieve los aísla por completo del exterior, la maligna presencia del hotel se apodera poco a poco de la mente de Jack, arrastrándolo a una espiral de locura y violencia homicida.",
-        "screenings": [
-            {
-                "cinema": "Cine Yelmo Ideal",
-                "date": "2026-10-31",
-                "time": "20:00",
-                "version": "Versión Extendida"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "rufufu-1958",
@@ -6397,14 +6362,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Antonio, de catorce años, vive junto a su padre en una situación de inestabilidad económica y habitacional en Buenos Aires. Cuando son desalojados de su hogar, Antonio debe afrontar un presente lleno de incertidumbres y sortear duras pruebas de la vida adulta prematura, descubriendo por el camino verdades ocultas que cambiarán su perspectiva de la relación con su padre.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-30",
-                "time": "20:00",
-                "version": "Coloquio online con Mariano González"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "velazquez-el-poder-y-el-arte-2024",
@@ -6724,14 +6682,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Una anciana gitana es detenida por la policía por su supuesta relación con el secuestro de un recién nacido y la desaparición de objetos sagrados. Durante el interrogatorio, la mujer se suicida arrojándose por la ventana tras encomendarse al diablo. Como venganza, su espíritu toma el cuerpo de la hija del comisionado de la zona. Presentación a cargo de Alberto Sedano, comisario del ciclo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-31",
-                "time": "20:30",
-                "version": "Presentación de Alberto Sedano"
-            }
-        ]
+        "screenings": []
     },
 {
         "id": "invasion-travesti-2000",
@@ -6759,14 +6710,7 @@ const movies = [
             "Underground"
         ],
         "synopsis": "Las hordas travestis han invadido el planeta. Laura Crawford, un híbrido letal formado con lo peor del hombre y la mujer, ha conducido a la humanidad al caos y al desprecio mutuo. Bárbara Furiasse, la última heterosexual sobre la Tierra, tiene tres días para encontrar a 'un hombre de verdad' y juntos escapar de la Invasión Travesti. Presentación a cargo del director, Jero de los Santos.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-01",
-                "time": "19:00",
-                "version": "Presentación del director"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "las-melancolicas-1971",
@@ -6791,13 +6735,7 @@ const movies = [
             "Culto"
         ],
         "synopsis": "Una mujer es puesta bajo el cuidado de un doctor tras el fallecimiento de su madre, que había sido sometida a un exorcismo. Tania, una paciente de asilo, sufre graves efectos conductuales tras aquella trágica pérdida, adentrándose en una espiral de delirios, opresión y locura en un lúgubre sanatorio.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-01",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-chaser-2008",
@@ -7280,13 +7218,7 @@ const movies = [
             "Cine dentro del cine"
         ],
         "synopsis": "Un psiquiatra somete a sus pacientes a técnicas de control mental mediante mensajes subliminales. Paralelamente, en la sala de un cine de barrio, un acomodador psicópata y sumiso a los deseos de su autoritaria madre comienza una espiral de crímenes sangrientos, creando una estructura narrativa en la que los espectadores de la película dentro de la pantalla se convierten en víctimas del terror.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-31",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ariel-1988",
@@ -7354,7 +7286,13 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "Documental sobre la mítica actriz y cantante Marlene Dietrich. Reacia a dejarse filmar en su vejez, la propia Dietrich colabora en el proyecto únicamente a través de su voz, entablando un complejo duelo dialéctico con el director Maximilian Schell mientras se repasan fragmentos de sus películas, grabaciones de archivo y los mitos de su carrera cinematográfica.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-04",
+                "time": "17:30"
+            }
+        ]
     },
     {
         "id": "el-director-de-orquesta-1980",
@@ -7534,7 +7472,13 @@ const movies = [
             "Melodrama"
         ],
         "synopsis": "En 1928, una idealista y moderna maestra recién llegada a una remota isla japonesa comienza a dar clase a un grupo de doce niños de primer curso (sus veinticuatro ojos). A lo largo de las siguientes dos décadas, marcadas por la creciente sombra del militarismo y la Segunda Guerra Mundial, la profesora y sus alumnos experimentarán los drásticos cambios de la historia y el dolor de la separación, manteniendo un profundo vínculo afectivo a través de los años.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-07",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "afterimage-2016",
@@ -7646,7 +7590,13 @@ const movies = [
             "Thriller psicológico"
         ],
         "synopsis": "Michelle, una mujer anciana y respetada, disfruta de su jubilación en un tranquilo pueblo borgoñón junto a su amiga Marie-Claude. Su apacible rutina se ve alterada cuando recibe la visita de su hija Valérie y de su nieto coincidiendo con el inicio de la temporada de caza, desenterrando viejos reproches, secretos inconfesables y una serie de tensiones ocultas que pondrán a prueba sus vínculos.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-08",
+                "time": "20:30"
+            }
+        ]
     },
     {
         "id": "las-senoritas-de-wilko-1979",
@@ -7686,13 +7636,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "En algún lugar de la meseta española, un pastor de ovejas sueña con viajar al Titicaca, un dúo musical retirado recuerda su época dorada, dos niñas buscan pokémons sin suerte y un abuelo recuenta las casas vacías del pueblo para quedarse dormido. Los protagonistas de esta película configuran un mapa para navegar por el pasado, el presente y el futuro del medio rural y de un estilo de vida que parece desvanecerse en el tiempo.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-30",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-rio-fuefuki-1960",
@@ -7716,13 +7660,7 @@ const movies = [
             "Cine bélico"
         ],
         "synopsis": "A lo largo de cuatro generaciones, una familia campesina de la provincia de Kai vive a orillas del río Fuefuki mientras asiste a los devastadores conflictos bélicos que sacuden el Japón del periodo Sengoku, especialmente las campañas del clan Takeda. A través de los años, los hombres de la familia se ven abocados a marchar a la guerra, mientras las mujeres sufren el dolor de la pérdida y la crudeza de un destino marcado por la violencia.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-30",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cortometrajes-minuca-villaverde",
@@ -7850,7 +7788,13 @@ const movies = [
             "Melodrama"
         ],
         "synopsis": "Japón, años 30. Sadako y Heikichi son dos jóvenes campesinos profundamente enamorados cuyos planes de futuro se truncan cuando Sadako es obligada por su familia a casarse con el hijo del terrateniente local, un hombre déspota y desequilibrado. A lo largo de los años marcados por la guerra y los cambios sociales, el acoso implacable del marido y el dolor del amor prohibido desatarán una espiral de tragedia y venganza que perdurará décadas.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-04",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "ander-eta-yul-1988",
@@ -7940,7 +7884,13 @@ const movies = [
             "Basado en hechos reales"
         ],
         "synopsis": "En 1961, Kenton Bunton, un taxista jubilado de 60 años, robó el famoso retrato del duque de Wellington pintado por Goya de la Galería Nacional de Londres. Fue el primer y único robo en la historia de la pinacoteca. Keton envió cartas exigiendo un rescate bajo la condición de que el gobierno invirtiera más dinero en el cuidado de los ancianos y en la gratuidad de la televisión para los pensionistas, desencadenando una insólita y divertida persecución mediática y judicial.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-06",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "carmens-pure-love-1952",
@@ -7963,7 +7913,13 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "En esta nueva entrega centrada en la excéntrica bailarina Lily Carmen, la trama vuelve a incidir con ironía y ligereza en la fascinación y los malentendidos que provoca la modernidad occidental en la sociedad japonesa tradicional, combinando números musicales, enredos amorosos y una aguda crítica de las costumbres de la época.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-03",
+                "time": "17:30"
+            }
+        ]
     },
     {
         "id": "el-ultimo-1924",
@@ -7985,7 +7941,13 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Un anciano trabaja como portero en un lujoso hotel y siente un enorme orgullo por su empleo y, sobre todo, por el vistoso uniforme que representa su posición. En el humilde barrio donde vive, sus vecinos lo respetan precisamente por esa apariencia de autoridad y prestigio. Pero cuando sus superiores consideran que ya es demasiado mayor para desempeñar su tarea, lo relegan a trabajar como encargado de los lavabos. Incapaz de admitir su nueva situación ante quienes lo rodean, intenta mantener las apariencias.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-20",
+                "time": "20:30"
+            }
+        ]
     },
     {
         "id": "la-madrastra-1953",
@@ -8008,7 +7970,14 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Un complejo y sombrío relato de pasiones ocultas, celos y tensiones familiares en el que la llegada de una nueva figura materna a un hogar altera por completo la convivencia, desatando una atmósfera opresiva en la que los secretos del pasado y la culpa terminan por aflorar de manera implacable.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-11",
+                "time": "19:00",
+                "version": "Venta solo en taquilla el mismo día de la sesión."
+            }
+        ]
     },
     {
         "id": "la-novia-cadáver-2005",
@@ -8033,13 +8002,7 @@ const movies = [
             "Musical"
         ],
         "synopsis": "En un lúgubre pueblo de la época victoriana, Victor, un joven tímido e inseguro, ensaya nervioso los votos de su boda con Victoria, la joven de la que está enamorado y con quien sus padres planean casarle por conveniencia social. Al huir al bosque tras equivocarse en el ensayo, coloca por error el anillo de compromiso en una rama que resulta ser el dedo esquelético de Emily, una novia asesinada en su noche de bodas. Victor es arrastrado de repente al inframundo, un reino lleno de color y alegría macabra, donde se verá atrapado entre dos mundos.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-31",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-rocky-horror-picture-show-1975",
@@ -8065,13 +8028,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Una formal y recién comprometida pareja de jóvenes americanos, Brad y Janet, sufre una avería en su coche durante una tormenta nocturna. Buscando ayuda, llegan a un lúgubre y aislado castillo habitado por el excéntrico y seductor científico alienígena Dr. Frank-N-Furter. Allí se celebra una convención científica anual donde el doctor está a punto de dar vida a su última creación: un hombre musculoso y rubio llamado Rocky. La noche se convertirá en un viaje salvaje, liberador y lleno de excesos musicales que cambiará sus vidas para siempre.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-10-31",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "amenaza-en-la-sombra-1973",
@@ -8421,13 +8378,7 @@ const movies = [
             "Histórico"
         ],
         "synopsis": "Un sobrecogedor relato dramático dirigido por Judith Colell que explora las complejas barreras físicas, emocionales y sociales que condicionan la vida de sus protagonistas, poniendo de relieve los conflictos humanos en situaciones límite marcadas por la incertidumbre, la memoria histórica y la búsqueda de horizontes de libertad.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-31",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-buena-hija-2025",
@@ -8534,13 +8485,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En una sociedad marcada por la sequía extrema y el pulso de los nuevos tiempos, Nora, una mujer de poco más de cuarenta años, acaba de superar un cáncer de mama. Tras esa experiencia límite, siente una urgencia vital y feroz por vivir intensamente. Dividida entre la estabilidad de su relación de toda la vida y la irrupción inesperada de un joven que despierta en ella una nueva pulsión de deseo, Nora emprenderá un viaje emocional hacia la libertad.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-30",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cada-dia-nace-un-listo-2026",
@@ -8565,13 +8510,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "Toni Lomas alcanzó la fama efímera al participar en un exitoso talent show, pero ahora se encuentra arruinado y sin rumbo. Su situación cambia por completo cuando Malena, un amor del pasado, le pone en contacto con Junior, el hijo de un acaudalado empresario, para proponerle un plan: robar un valioso cuadro de la colección familiar, desatando una red de enredos, picaresca y estafas.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-10-31",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "forastera-2025",
@@ -8670,14 +8609,7 @@ const movies = [
             "Cine social"
         ],
         "synopsis": "La periferia de Ciudad del Cabo, Sudáfrica, es el epicentro de un inspirador viaje a través del trabajo de Boa Mistura, colectivo artístico de proyección internacional con raíces en el graffiti y el arte urbano. En el camino, el arte urbano se convierte en el vehículo que conecta las vidas de un vecino de una favela en São Paulo, un joven del slum de Kibera, en Kenia, una indígena mapuche en el norte de Chile, un refugiado sirio y una mujer de una población pesquera de República Dominicana. Estos pequeños encuentros a través de la pintura son la semilla de cambios tanto en los vecinos de las comunidades como en el colectivo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-10-30",
-                "time": "19:00",
-                "version": "Encuentro posterior con los artistas"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "in-the-sentimental-lugo-2026",
@@ -8695,13 +8627,7 @@ const movies = [
             "Independiente"
         ],
         "synopsis": "Un gallego radicado en La Plata regresa a Lugo con su hija después de 27 años, contra viento y marea, en un viaje íntimo y poético marcado por la memoria, los reencuentros y el peso del paso del tiempo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-01",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "memories-of-murder-2003",
@@ -8984,12 +8910,6 @@ const movies = [
         ],
         "synopsis": "En los sótanos de la Ópera de París vive oculto el misterioso Erik, un hombre con el rostro desfigurado y una voz de ángel que está obsesionado con la joven soprano Christine Daaé, a la que promete convertir en la estrella de la compañía mediante métodos aterradores y despiadados.",
         "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-10-31",
-                "time": "20:00",
-                "version": "Cine mudo con piano en directo (Federico Lechner)"
-            },
             {
                 "cinema": "Artistic Metropol",
                 "date": "2026-11-03",
@@ -9831,7 +9751,7 @@ const movies = [
         ],
         "synopsis": "Hollywood, 1947. Eddie Valiant, un detective privado cínico y alcohólico, es contratado para investigar un caso de celos que involucra a Jessica Rabbit, la sensual esposa de la estrella de dibujos animados Roger Rabbit. Cuando el dueño del club nocturno en el que trabaja Jessica aparece asesinado, todas las pruebas apuntan a Roger, desatando una divertida e ingeniosa conspiración entre el mundo real y el de los 'toons'.",
         "screenings": [
-             {
+            {
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-12-12",
                 "time": "12:00"
@@ -10234,13 +10154,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Toni, un chico gitano de 15 años, vive en el asentamiento irregular más grande de Europa, a las afueras de Madrid. Orgulloso de pertenecer a una familia de chatarreros, sigue a su abuelo a todas partes. Pero los derribos se acercan a su parcela y su abuelo se niega a marcharse, sea cual sea el sacrificio. En oscuras noches sin electricidad, mientras las leyendas de su infancia cobran vida, Toni debe elegir: enfrentarse a un futuro incierto o aferrarse a un mundo que se desvanece.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-30",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "spain-is-not-different-2026",
@@ -10263,13 +10177,7 @@ const movies = [
             "Cortometraje / Largometraje"
         ],
         "synopsis": "Incluye la proyección del cortometraje «You no Mashallah!» de Juanfer Andrés y Laura Vago (13 mins). A continuación, «Spain is not different»: rodada en blanco y negro durante las Fallas de Valencia, sigue a una mujer recién llegada a España que busca salir adelante en una ciudad en plena fiesta. En su camino encuentra a otras mujeres en su misma situación, con las que comparte la lucha diaria por encontrar su lugar. Ganadora de múltiples premios en festivales internacionales.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-30",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "soy-tribulete-7-2026",
@@ -10289,13 +10197,7 @@ const movies = [
             "Cortometraje / Largometraje"
         ],
         "synopsis": "Incluye la proyección del cortometraje «Deseos Mayores» de Regina Carolina y Natalia Prieto (16 minutos). A continuación, «Soy Tribulete 7»: en un edificio centenario de Lavapiés convive una comunidad de vecinos diversa e intergeneracional. Cuando su permanencia en el edificio se pone en duda, se unen y encuentran en la cultura y en el apoyo del barrio su manera de seguir adelante. Narra la actriz Ana Martín García. Presentado en el Museo Reina Sofía.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-31",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "aminetu-2026",
@@ -10319,13 +10221,7 @@ const movies = [
             "Derechos humanos"
         ],
         "synopsis": "Docuthriller sobre Aminetu Haidar, defensora saharaui de los derechos humanos, Premio Nobel Alternativo 2019 y candidata al Premio Nobel de la Paz. En 2009, al volver de Nueva York tras recibir el Premio al Coraje Civil, quedó retenida en Lanzarote, donde mantuvo una huelga de hambre de 32 días que despertó una oleada internacional de solidaridad. Con testimonios de José Manuel García-Margallo, Luis Planas, Pilar del Río y Pepe Viyuela, entre otros.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-31",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "buscando-a-lisette-2026",
@@ -10343,13 +10239,7 @@ const movies = [
             "Cortometraje / Largometraje"
         ],
         "synopsis": "Incluye la proyección del cortometraje «My name is Hope» de Sherwan Haji (20 mins). A continuación, «Buscando a Lisette»: En 2014, mientras rodaba un documental en las selvas del Putumayo junto a los periodistas David Beriain y Roberto Fraile, Pablo García-Inés conoció a Lisette, una adolescente de 17 años a la que apodaban «La Cachorra» y cuyo sueño era conocer el mar. Siete años después, dos cineastas recorren Colombia en moto para encontrarla y, por el camino, escuchan a militares, policías, campesinos y representantes de Naciones Unidas. El viaje se convierte en un retrato íntimo de un país que busca memoria y paz.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-01",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-aleteo-de-las-libelulas-2026",
@@ -10367,13 +10257,7 @@ const movies = [
             "Derechos humanos"
         ],
         "synopsis": "Personas que conviven con la ELA y sus familias abren las puertas de su día a día en un retrato íntimo sobre la fortaleza, el amor y la dignidad. Sus protagonistas comparten con un grupo de adolescentes lo que la enfermedad les ha enseñado: valorar el tiempo, aceptar lo que no se puede cambiar y entender el miedo como un estado de ánimo.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-01",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mitologia-de-barrio-quien-vio-los-templos-caer-2024-2025",
@@ -10853,14 +10737,7 @@ const movies = [
             "Cine con música en directo"
         ],
         "synopsis": "Año 1838. En la ciudad de Wisborg viven felices el joven Hutter y su mujer Ellen, hasta que el oscuro agente inmobiliario Knock decide enviar a Hutter a Transilvania para cerrar un negocio con el conde Orlok. Una vez en el castillo, Hutter descubre que el conde es, en realidad, un vampiro. Al verle partir hacia su nuevo hogar, Hutter teme por Ellen.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-10-31",
-                "time": "12:00",
-                "version": "Piano en directo por Adrián Begoña - Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "tokyo-godfathers-2003",
@@ -11345,13 +11222,7 @@ const movies = [
             "Remake"
         ],
         "synopsis": "Una revisión cruda y visceral del clásico de terror de John Carpenter dirigida por Rob Zombie. La película explora con mayor profundidad los oscuros y traumáticos años de infancia de Michael Myers en Haddonfield, desde su brutal asesinato en la noche de Halloween siendo un niño de diez años hasta su posterior fuga del sanatorio psiquiátrico quince años más tarde, dispuesto a regresar a casa para encontrar a su hermana pequeña.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-01",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "halloween-ii-2009",
@@ -11376,13 +11247,7 @@ const movies = [
             "Secuela"
         ],
         "synopsis": "Secuela directa de la versión de Rob Zombie. Tras los sangrientos acontecimientos de la noche de Halloween anterior, Michael Myers regresa a Haddonfield obsesionado con reunirse con su hermana Laurie Strode. Mientras Laurie intenta lidiar con el profundo trauma psicológico y las secuelas de la masacre, un nuevo ciclo de terror y violencia desmedida se desata con el misterioso y sangriento retorno del asesino enmascarado.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-01",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-maldicion-cursed-2005",
@@ -11407,13 +11272,7 @@ const movies = [
             "Hombres lobo"
         ],
         "synopsis": "Los Ángeles. En una noche de luna llena, algo que surge de entre las tinieblas hace que los hermanos Ellie y Jimmy Myers caigan por un barranco con su coche. Aunque logran salvar la vida, ya no volverán a ser los mismos: de repente descubren que poseen una fuerza sobrehumana, unos sentidos hiperpotenciados y que experimentan nuevos e insaciables impulsos que les obligarán a luchar contra una maldición licántropa.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-02",
-                "time": "22:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-noche-de-los-muertos-vivientes-1968",
@@ -12743,38 +12602,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Jack Skellington, el Rey de la Ciudad de Halloween, se aburre de hacer lo mismo año tras año. Por casualidad descubre la Ciudad de Navidad y queda tan fascinado que decide secuestrar a Santa Claus y asumir su papel para celebrar una Navidad muy particular y tétrica.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-10-31",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-11-01",
-                "time": "12:00"
-            },
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-11-02",
-                "time": "12:00"
-            },
-            {
-                "cinema": "Cine Yelmo Ideal",
-                "date": "2026-10-30",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cine Yelmo Ideal",
-                "date": "2026-10-31",
-                "time": "18:00"
-            },
-            {
-                "cinema": "Cine Yelmo Ideal",
-                "date": "2026-11-01",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cooking-up-democracy-2025",
@@ -12915,14 +12743,7 @@ const movies = [
             "Cine de terror"
         ],
         "synopsis": "Un equipo de rodaje de bajo presupuesto rueda una película de zombis en una antigua instalación militar japonesa de la Segunda Guerra Mundial. Mientras intentan sacar adelante una exigente toma continua de treinta minutos sin cortes, la situación se desborda cuando auténticos zombis irrumpen en el set de filmación.",
-        "screenings": [
-            {
-                "cinema": "Palacio de la Prensa",
-                "date": "2026-10-30",
-                "time": "20:00",
-                "version": "Coloquio posterior con @huetemuchacho, @starringedu_ y @guillevandrai"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "willow-1988",
@@ -13106,11 +12927,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Casa de América",
-                "date": "2026-10-31",
-                "time": "19:00"
-            },
-            {
-                "cinema": "Casa de América",
                 "date": "2026-11-06",
                 "time": "19:00"
             },
@@ -13173,14 +12989,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Ana regresa a su ciudad natal en Tijuana después de muchos años de ausencia. Si la muerte de su hermana es sólo una memoria fragmentada, su casa de la infancia es una presencia real y conflictiva.",
-        "screenings": [
-            {
-                "cinema": "Casa de México",
-                "date": "2026-10-31",
-                "time": "19:00",
-                "version": "Presentación por Estrella Araiza"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "say-goodbye-2025",
@@ -13250,13 +13059,1319 @@ const movies = [
             "Sobrenatural"
         ],
         "synopsis": "A los doctores Venkman, Stantz y Spengler, expertos en parapsicología, no les conceden una beca de investigación que habían solicitado. Al encontrarse sin trabajo, deciden fundar la empresa 'Los Cazafantasmas', dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la ciudad será el presagio de la llegada de un peligroso y poderoso demonio.",
+        "screenings": []
+    },
+    {
+        "id": "macario-1960",
+        "title": "Macario",
+        "originalTitle": "Macario",
+        "poster": "images/macario.jpg",
+        "director": "Roberto Gavaldón",
+        "cast": [
+            "Ignacio López Tarso",
+            "Pina Pellicer",
+            "Enrique Lucero",
+            "Narciso Busquets",
+            "José Dupeyrón"
+        ],
+        "year": 1960,
+        "duration": 91,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Fantasía"
+        ],
+        "synopsis": "Macario, un aldeano sumamente pobre que tiene esposa y varios hijos, se dedica a vender leña en el pueblo. Harto de una vida de privaciones y apuros, manifiesta que su mayor anhelo es poder comerse él solo un pavo, sin tener que compartirlo con nadie. Su esposa, confidente de tan profundo deseo, un día roba uno de la granja de una familia rica. Cuando Macario se dispone a comérselo, Dios, el Diablo y la Muerte se le aparecen para pedirle que lo comparta.",
         "screenings": [
             {
-                "cinema": "Cine Yelmo Ideal",
-                "date": "2026-11-02",
-                "time": "18:00"
+                "cinema": "Casa de México",
+                "date": "2026-11-19",
+                "time": "16:30"
+            }
+        ]
+    },
+    {
+        "id": "melodia-de-arrabal-1933",
+        "title": "Melodía de arrabal",
+        "originalTitle": "Melodía de arrabal",
+        "poster": "images/melodia-de-arrabal.jpg",
+        "director": "Louis Gasnier",
+        "cast": [
+            "Imperio Argentina",
+            "Carlos Gardel",
+            "Vincent Padula"
+        ],
+        "year": 1933,
+        "duration": 82,
+        "country": "Francia",
+        "genres": [
+            "Cine musical",
+            "Drama"
+        ],
+        "synopsis": "Roberto es un vividor que lleva una vida desordenada y bohemia en bares y tabernas de los barrios bajos, en donde se dedica a cantar y a jugar a las cartas, intentando embaucar a pardillos para sacar una tajada. Un día Alina, una joven profesora de piano, le oye cantar y le presenta una nueva perspectiva profesional que puede cambiar la vida de Roberto para siempre.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-03",
+                "time": "17:30",
+                "version": "Presentación del libro “¡Al Hollywood parisino!” a cargo de Santiago Aguilar y Felipe Cabrerizo"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-28",
+                "time": "19:00",
+                "version": "Presentación del libro “¡Al Hollywood parisino!” a cargo de Santiago Aguilar y Felipe Cabrerizo"
+            }
+        ]
+    },
+    {
+        "id": "a-santanotte-1922",
+        "title": "'A Santanotte",
+        "originalTitle": "'A Santanotte",
+        "poster": "images/a-santanotte.jpg",
+        "director": "Elvira Notari",
+        "cast": [
+            "Eduardo Notari",
+            "Rosè Angione",
+            "Antonio Palmieri"
+        ],
+        "year": 1922,
+        "duration": 55,
+        "country": "Italia",
+        "genres": [
+            "Drama",
+            "Cine mudo"
+        ],
+        "synopsis": "Una de las obras maestras del cine mudo de la pionera directora italiana Elvira Notari, ambientada en Nápoles. Nanninella está enamorada de Tore, pero su brutal y alcohólico padre no aprueba la relación, favoreciendo las pretensiones de Carluccio, quien le proporciona bebida gratis. La sesión incluye la proyección del cortometraje 'L'Italia s'è desta' (Elvira Notari, 1927) y cuenta con música en directo a cargo del pianista Marcos Ortiz Casas. Duración total de la sesión 90'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-04",
+                "time": "20:30",
+                "version": "Presentación a cargo de Carlota Álvarez Basso"
+            }
+        ]
+    },
+    {
+        "id": "nobleza-baturra-1935",
+        "title": "Nobleza baturra",
+        "originalTitle": "Nobleza baturra",
+        "poster": "images/nobleza-baturra.jpg",
+        "director": "Florián Rey",
+        "cast": [
+            "Imperio Argentina",
+            "Miguel Ligero",
+            "Juan de Orduña",
+            "Manuel Luna",
+            "Carmen Riquelme",
+            "Esperanza Roy"
+        ],
+        "year": 1935,
+        "duration": 105,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Cine musical",
+            "Melodrama"
+        ],
+        "synopsis": "María, una honrada joven aragonesa, es calumniada falsamente por un pretendiente rechazado, lo que provoca la deshonra ante su familia y el rechazo de su amado Joaquín. Años más tarde, la verdad saldrá a la luz en un drama rural marcado por el honor, los celos y el folclore aragonés. La sesión se completa con la proyección del cortometraje 'El club de las solteras' (Fernando López Heptener, 1927), una comedia sobre un grupo de mujeres jóvenes que deciden organizar su vida al margen del matrimonio y las expectativas sociales tradicionales de los años veinte. Duración total de la sesión 130'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-05",
+                "time": "17:30",
+                "version": "Presentación a cargo de Tània Balló y Carlos Reviriego"
+            }
+        ]
+    },
+    {
+        "id": "marius-1931",
+        "title": "Marius",
+        "originalTitle": "Marius",
+        "poster": "images/marius.jpg",
+        "director": "Alexander Korda",
+        "cast": [
+            "Raimu",
+            "Pierre Fresnay",
+            "Orane Demazis",
+            "Charpin",
+            "Alida Rouffe"
+        ],
+        "year": 1931,
+        "duration": 130,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "En el viejo puerto de Marsella, Marius sueña con embarcarse en un largo viaje para conocer mundo, a pesar de trabajar en el bar de su padre, César. Su profundo amor por Fanny, una joven vendedora de marisco, y el afecto de un honrado comerciante maduro que compite por su mano, crearán un intenso dilema entre la lealtad familiar, el amor y la llamada irrefrenable de la aventura marinera.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-05",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-20",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "fantasia-e-surdate-1927",
+        "title": "Fantasia 'e surdate",
+        "originalTitle": "Fantasia 'e surdate",
+        "poster": "images/fantasia-e-surdate.jpg",
+        "director": "Elvira Notari",
+        "cast": [
+            "Eduardo Notari",
+            "Geppino Jovine",
+            "Lina Cipriani"
+        ],
+        "year": 1927,
+        "duration": 35,
+        "country": "Italia",
+        "genres": [
+            "Drama",
+            "Cine mudo"
+        ],
+        "synopsis": "Narra la vida de varios soldados napolitanos, centrándose en sus relaciones amorosas y conflictos emocionales en el contexto de la guerra. La sesión se completa con la proyección de los cortometrajes 'Carmela, la sartina di Montesanto' (Elvira Notari, 1916), sobre una joven costurera y los conflictos de celos en el barrio de Montesanto; y el documental 'La Festa della S.S. Assunta in Avellino + La Festa della Madonna della Libera a Trevico' (Elvira Notari, 1923), centrado en procesiones y rituales religiosos populares en el sur de Italia. Además, la función cuenta con música en directo a cargo del pianista Marcos Ortiz Casas. Duración total de la sesión 61'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-05",
+                "time": "20:30",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "id": "la-balada-de-narayama-1958",
+        "title": "La balada de Narayama",
+        "originalTitle": "Narayama bushikô",
+        "poster": "images/la-balada-de-narayama.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Kinuyo Tanaka",
+            "Teiji Takahashi",
+            "Yûko Mochizuki",
+            "Danjirô Miki",
+            "Seiji Miyaguchi"
+        ],
+        "year": 1958,
+        "duration": 98,
+        "country": "Japón",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "En una remota y empobrecida aldea montañosa de Japón donde escasean los alimentos, existe una severa y cruel tradición: al cumplir los setenta años, los ancianos deben ser llevados a la cima del monte Narayama para morir abandonados y así aliviar la carga de sus familias. Orin, una mujer anciana pero fuerte y de gran sabiduría, se prepara de manera voluntaria y digna para cumplir con su destino, mientras su hijo Tatsuhei se debate entre el dolor filial y el estricto cumplimiento de las implacables leyes de su comunidad.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-06",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-12",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "e-piccerella-1922",
+        "title": "È Piccerella",
+        "originalTitle": "È Piccerella",
+        "poster": "images/e-piccerella.jpg",
+        "director": "Elvira Notari",
+        "cast": [
+            "Rosé",
+            "Eduardo Notari",
+            "Tina Notari"
+        ],
+        "year": 1922,
+        "duration": 65,
+        "country": "Italia",
+        "genres": [
+            "Drama",
+            "Cine mudo"
+        ],
+        "synopsis": "Considerada una de las obras cumbres de la pionera directora italiana Elvira Notari, la película retrata con realismo y crudeza la vida en los barrios obreros de Nápoles. La historia sigue a una joven caprichosa y coqueta de los callejones napolitanos cuyos amoríos y rechazos desatan una red de celos, pasiones violentas y venganzas de honor en el seno de la comunidad.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-06",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "shorts-for-future-un-mundo-mejor-2017-2025",
+        "title": "Shorts for Future: Un mundo mejor. 2017-2025",
+        "originalTitle": "Shorts for Future: Un mundo mejor",
+        "poster": "images/shorts-for-future.jpg",
+        "director": "Varios directores",
+        "cast": [],
+        "year": 2017,
+        "yearText": "2017-2025",
+        "duration": 90,
+        "country": "Varios",
+        "genres": [
+            "Cortometrajes",
+            "Animación",
+            "Documental"
+        ],
+        "synopsis": "Shorts for Future propone una mirada comprometida y creativa sobre cuestiones fundamentales como el medioambiente, la diversidad y la empatía a través de una cuidada selección de cortometrajes internacionales. La sesión incluye: 'Polos opuestos' (Paloma Baeza, 2017), la historia de supervivencia y conexión inesperada entre una osa polar hambrienta en un Ártico desolado por el deshielo y un ingenuo oso pardo; 'El ciego' (Rémy Xu, 2024), donde un hombre ciego de 46 años convierte un trayecto por Burdeos en una fascinante aventura sensorial y visual; 'El verano de Eloise' (Lize Cuveele, 2025), el viaje de una niña mestiza de nueve años que aprende a querer su cabello rizado y sus raíces camerunesas; 'En la naturaleza' (Marcel Barelli, 2021), un divertido y didáctico recorrido que demuestra que la homosexualidad no es exclusiva de los seres humanos; 'Érase una vez una montaña' (Natalia Abramova, 2025), que relata cómo cambia la paz de una gran montaña tras la llegada de la humanidad; 'Cualquier árbol' (Isaac King, 2020), una reflexión animada al aire libre sobre nuestra desconexión con la naturaleza en la era de las redes sociales y los selfies a partir de un árbol muerto que se vuelve viral; y 'Ola de calor' (Fokion Xenos, 2019), un dinámico stop-motion sobre dos niños que idean cómo refrescar a todo el mundo en plena ola de calor.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-07",
+                "time": "17:30",
+                "version": "Sesión con presentación y coloquio a cargo de Ana Claqueta"
+            }
+        ]
+    },
+    {
+        "id": "locura-de-mujer-1983",
+        "title": "Locura de mujer",
+        "originalTitle": "Heller Wahn",
+        "poster": "images/locura-de-mujer.jpg",
+        "director": "Margarethe von Trotta",
+        "cast": [
+            "Hanna Schygulla",
+            "Angela Winkler",
+            "Peter Striebeck"
+        ],
+        "year": 1983,
+        "duration": 105,
+        "country": "Alemania",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Olga es una mujer independiente que da clases de literatura feminista y vive con una pianista de origen inmigrante. Se hará amiga de Ruth, una pintora que es todo lo contrario: casada con Franz, es retraída, tan excéntrica que parece tener algún tipo de trastorno, e incluso fantasea con el suicidio. Pero entre ambas surge una conexión profunda que incluso provocará los celos del marido de Ruth. Duración total de la sesión 125'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-07",
+                "time": "20:30",
+                "version": "Presentación y coloquio a cargo de la directora Margarethe von Trotta"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-20",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "honey-2025",
+        "title": "Honey",
+        "originalTitle": "Honey",
+        "poster": "images/honey.jpg",
+        "director": "Natasha Arthy",
+        "cast": [
+            "Selma Dali Pape",
+            "Jesper Christensen",
+            "Sidsel Boel Kruse",
+            "Lene Maria Christensen"
+        ],
+        "year": 2025,
+        "duration": 97,
+        "country": "Dinamarca",
+        "genres": [
+            "Drama",
+            "Infantil"
+        ],
+        "synopsis": "Honey es una chica de 13 años con una vida bastante ajetreada: su madre trabaja demasiado, su hermana es terca como una mula y su padre, aunque es un tipo de buen carácter, trapichea con sustancias ilegales y tiene un punto un poco rebelde. Pero lo único con lo que sueña Honey es con hacer música y entrar en el grupo de rock de su nuevo colegio. Duración total de la sesión 130'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-08",
+                "time": "17:30",
+                "version": "Presentación y coloquio a cargo de Rai Maria"
+            }
+        ]
+    },
+    {
+        "id": "para-hacer-una-pelicula-solo-hace-falta-un-arma-2026",
+        "title": "Para hacer una película solo hace falta un arma",
+        "originalTitle": "Para hacer una película solo hace falta un arma",
+        "poster": "images/para-hacer-una-pelicula-solo-hace-falta-un-arma.jpg",
+        "director": "Santiago Sein",
+        "cast": [],
+        "year": 2026,
+        "duration": 146,
+        "country": "Argentina",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "A mediados de la década del 70, los primeros estudiantes de cine de la Universidad de Córdoba son perseguidos y sus películas destruidas por integrantes de las fuerzas armadas. 50 años después, en un viejo depósito de la ciudad universitaria, aparecen decenas de latas con material fílmico. Entre los rollos de película, mezclados con cortos de ficción y ocultos bajo otro nombre, hay una serie de registros documentales con manifestaciones populares y escenas de represión de los años 70. Sus autores son tres jóvenes realizadores, dos de ellos franceses, que abandonaron el cine de ficción para dedicarse al documental político y la militancia revolucionaria. Pero la intervención militar en la universidad y la aparición de un extraño personaje ligado al destino de las películas, nos revelan el final abrupto y violento de los sueños de una generación de cineastas. Duración total de la sesión 170'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-10",
+                "time": "17:30",
+                "version": "Presentación a cargo del director Santiago Sein"
+            }
+        ]
+    },
+    {
+        "id": "5-es-el-numero-perfecto-2019",
+        "title": "5 es el número perfecto",
+        "originalTitle": "5 è il numero perfetto",
+        "poster": "images/5-es-el-numero-perfecto.jpg",
+        "director": "Igor Tuveri",
+        "cast": [
+            "Toni Servillo",
+            "Valeria Golino",
+            "Carlo Buccirosso",
+            "Iaia Forte",
+            "Gianfelice Imparato"
+        ],
+        "year": 2019,
+        "duration": 107,
+        "country": "Italia",
+        "genres": [
+            "Crimen",
+            "Thriller",
+            "Drama"
+        ],
+        "synopsis": "Nápoles, años 70. Peppino Lo Cicero, sicario retirado de la Camorra, ha cedido el oficio a su único hijo, Nino. Cuando este es asesinado, el viejo pistolero vuelve a la acción junto a su compinche Totò y a Rita, su amor de siempre, y desata una espiral de venganzas y traiciones entre los clanes.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-10",
+                "time": "21:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-18",
+                "time": "19:00"            
+            }
+        ]
+    },
+    {
+        "id": "mburucuya-cuadros-de-la-naturaleza-1992",
+        "title": "Mburucuyá, cuadros de la naturaleza",
+        "originalTitle": "Mburucuyá, cuadros de la naturaleza",
+        "poster": "images/mburucuya-cuadros-de-la-naturaleza.jpg",
+        "director": "Jorge Acha",
+        "cast": [],
+        "year": 1992,
+        "duration": 95,
+        "country": "Argentina",
+        "genres": [
+            "Documental",
+            "Experimental"
+        ],
+        "synopsis": "El viaje que en 1799 emprendieron el prusiano Alexander von Humboldt y el francés Aimée Bonpland, junto con tres indígenas de la cuenca del Orinoco, y que quedó recogido en el libro “El viaje a las regiones equinoccionales del Nuevo Continente” es el origen de esta película póstuma de Jorge Acha. En ella pretende capturar la esencia de los colores y los sonidos expresados en los escritos del científico germano. Estamos ante un viaje que contrapone el cientifismo racional con el animismo que caracteriza a las tradiciones del pueblo indígena yaruro. La sesión se completa con la proyección del cortometraje 'Ceniza verde' (Pablo Mazzolo, 2018), que recuerda el trágico suicidio colectivo de las etnias Henia y Kamiare en el cerro Colchiqui tras la llegada de los españoles en 1575. Duración total de la sesión 105'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-11",
+                "time": "17:30",
+                "version": "Venta solo en taquilla el mismo día de la sesión"
+            }
+        ]
+    },
+    {
+        "id": "el-adios-de-un-hijo-1944",
+        "title": "El adiós de un hijo",
+        "originalTitle": "Rikugun",
+        "poster": "images/el-adios-de-un-hijo.jpg",
+        "director": "Keisuke Kinoshita",
+        "cast": [
+            "Ken Uehara",
+            "Kinuyo Tanaka",
+            "Chûichirô Kawamura",
+            "Yôko Katsuragi",
+            "Haruko Sugimura"
+        ],
+        "year": 1944,
+        "duration": 90,
+        "country": "Japón",
+        "genres": [
+            "Drama",
+            "Bélico"
+        ],
+        "synopsis": "Crónica de tres generaciones de una familia de Kyushu y de su relación con el ejército, desde mediados del siglo XIX hasta la guerra en China. El último de la saga, Shintaro, es un muchacho enfermizo al que sus padres se empeñan en fortalecer para que pueda ser soldado y cumplir con la tradición familiar.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-11",
+                "time": "20:30",
+                "version": "Venta solo en taquilla el mismo día de la sesión."
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-19",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "polvo-seran-2024",
+        "title": "Polvo serán",
+        "originalTitle": "Polvo serán",
+        "poster": "images/polvo-seran.jpg",
+        "director": "Carlos Marqués Marcet",
+        "cast": [
+            "Ángela Molina",
+            "Alfredo Castro",
+            "Mónica Almirall",
+            "Patricia Bargalló",
+            "Albert Prat"
+        ],
+        "year": 2024,
+        "duration": 106,
+        "country": "España",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Claudia recibe un desolador diagnóstico de tumor cerebral. Decidirá entonces marchar a Suiza para decidir allí cuándo y cómo acabar su vida con la ayuda de una clínica de suicidio asistido. Su marido Flavio le apoya implicándose incluso personalmente. Pero antes deciden comunicar la noticia a sus familiares. Duración total de la sesión 140'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-12",
+                "time": "20:30",
+                "version": "Presentación a cargo del director Carlos Marqués Marcet"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-25",
+                "time": "19:00",
+                "version": "Presentación a cargo del director Carlos Marqués Marcet"
+
+            }
+        ]
+    },
+    {
+        "id": "fin-de-jornada-1939",
+        "title": "Fin de jornada",
+        "originalTitle": "La fin du jour",
+        "poster": "images/fin-de-jornada.jpg",
+        "director": "Julien Duvivier",
+        "cast": [
+            "Victor Francen",
+            "Michel Simon",
+            "Harry Baur",
+            "Louis Jouvet",
+            "Madeleine Ozeray"
+        ],
+        "year": 1939,
+        "duration": 99,
+        "country": "Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Un grupo de actores y actrices con escasos recursos viven en una residencia de ancianos. Allí suelen comentar sucesos del pasado, sus grandes éxitos y los momentos de gloria de sus carreras interpretativas. Cuando llega allí el actor Raphael Saint-Clair, que tuvo un gran prestigio en el pasado, surgirán entre los residentes rivalidades, celos y envidias de antaño.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-13",
+                "time": "17:30",
+                "version": ""
+            }
+        ]
+    },
+    {
+        "id": "el-amor-solfeando-1930",
+        "title": "El amor solfeando",
+        "originalTitle": "El amor solfeando",
+        "poster": "images/el-amor-solfeando.jpg",
+        "director": "Robert Florey",
+        "cast": [
+            "Imperio Argentina",
+            "Estrellita Castro",
+            "Gabriel Gabrio",
+            "Lucien Callamand"
+        ],
+        "year": 1930,
+        "duration": 67,
+        "country": "España, Francia, Alemania",
+        "genres": [
+            "Comedia",
+            "Musical"
+        ],
+        "synopsis": "Sara es una mujer coqueta, casada, que mantiene una aventura con Fernando. En sus ausencias, le dice a su marido que va a ver al profesor de canto Ribera, que vive en el edificio. Y poco a poco ese “affaire” se entremezclará con varios líos amorosos y equívocos con otros vecinos implicados, como el portero de la finca, la vedette Lulú o diferentes estudiantes de canto.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-13",
+                "time": "19:00",
+                "version": "Se proyectará una copia incompleta, el argumento del film puede seguirse sin problema."
+            }
+        ]
+    },
+    {
+        "id": "la-mujer-y-el-pelele-1929",
+        "title": "La mujer y el pelele",
+        "originalTitle": "La femme et le pantin",
+        "poster": "images/la-mujer-y-el-pelele.jpg",
+        "director": "Jacques de Baroncelli",
+        "cast": [
+            "Conchita Montenegro",
+            "Raymond Destac",
+            "Henri Lévêque"
+        ],
+        "year": 1929,
+        "duration": 110,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Cine mudo"
+        ],
+        "synopsis": "El rico Don Mateo ayuda a Conchita, una jovencita que se encuentra en apuros durante un viaje en tren. Conchita visitará más tarde a Don Mateo en su palacio de Sevilla. El hombre se enamora de la jovencita, pero éste juega con él y acabará marchándose con un puñado de dinero. Más tarde se volverán a encontrar cuando ella trabaja en un cabaret de dudosa reputación.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-13",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "crazy-stop-motion-2014-2016",
+        "title": "Crazy Stop Motion",
+        "originalTitle": "Crazy Stop Motion",
+        "poster": "images/crazy-stop-motion.jpg",
+        "director": "Varios directores",
+        "cast": [],
+        "year": 2016,
+        "yearText": "2014-2026",
+        "country": "Varios",
+        "genres": [
+            "Cortometrajes",
+            "Animación"
+        ],
+        "synopsis": "Crazy Stop Motion reúne una selección de obras excepcionales que exploran la magia del stop motion desde diversas perspectivas. A través de técnicas como la plastilina, el papel o los elementos naturales, esta muestra invita a recorrer universos rebosantes de creatividad y humor y delicadas fábulas sobre la convivencia y las emociones humanas a través de una cuidada selección de cortometrajes internacionales que incluye: 'La chica que lloraba perlas' (Chris Lavis, Maciek Szczerbowski, 2025), una fábula sobre amor y codicia en Montreal; 'A solas en el ascensor' (Anastasia Papadopoulou, 2021), una mirada al comportamiento humano en un espacio reducido; 'El pequeño y el gigante' (Isabela Costa, 2025), un viaje postapocalíptico de amistad entre un hámster y una criatura vegetal; 'Una puntada a tiempo' (Francisco Javier María, Pep Suriñach, 2026), una reflexión sobre los cánones de belleza y la identidad; 'Gemelos en la panadería' (Mari Miyazawa, 2014), un mágico secreto en una panadería japonesa; 'Fuego en el bolsillo' (Janka Feiner, 2026), una aventura combinada con hongos reales en crecimiento; 'Banco' (Rich Webber, 2020), una cómica disputa con humor mordaz sobre el egoísmo; y 'Matilda y la cabeza de repuesto' (Ignas Meilünas, 2020), la historia de una niña que adquiere una segunda cabeza para acumular más conocimientos. Duración total de la sesión 90'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-14",
+                "time": "17:30",
+                "version": "Presentación a cargo de Giovanni Maccelli"
+            }
+        ]
+    },
+    {
+        "id": "nouvelle-vague-1990",
+        "title": "Nouvelle vague",
+        "originalTitle": "Nouvelle vague",
+        "poster": "images/nouvelle-vague.jpg",
+        "director": "Jean-Luc Godard",
+        "cast": [
+            "Alain Delon",
+            "Domiziana Giordano",
+            "Jacques Dacqmine"
+        ],
+        "year": 1990,
+        "duration": 90,
+        "country": "Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Una condesa italiana heredera de un gran imperio industrial, Elena Torlato-Favrini, se hace amante de Roger, un hombre que ha encontrado por casualidad. Sin embargo, este morirá ahogado sin el auxilio de Elena. Tiempo después el hermano de Roger, Richard, conocerá a Elena y la chantajeará con un escándalo para entrar en sus negocios.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-14",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-24",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "dialogando-con-la-vida-2022",
+        "title": "Dialogando con la vida",
+        "originalTitle": "Le lycéen",
+        "poster": "images/dialogando-con-la-vida.jpg",
+        "director": "Christophe Honoré",
+        "cast": [
+            "Paul Kircher",
+            "Juliette Binoche",
+            "Vincent Lacoste",
+            "Christophe Honoré",
+            "Erwan Kepoa Falé"
+        ],
+        "year": 2022,
+        "duration": 122,
+        "country": "Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Cuando su padre muere en un accidente, la vida del adolescente Lucas da un vuelco. Empezará a sufrir una profunda crisis existencial, al tiempo que su vida parece una bestia ingobernable, con sus pulsiones homosexuales y su itinerario en solitario, apenas acompañado por una madre y un hermano mayor. No será fácil conquistar la esperanza. Duración total de la sesión 150'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-14",
+                "time": "20:00",
+                "version": "Presentación y coloquio a cargo del director Christophe Honoré"
+            }
+        ]
+    },
+    {
+        "id": "cesar-1936",
+        "title": "César",
+        "originalTitle": "César",
+        "poster": "images/cesar.jpg",
+        "director": "Marcel Pagnol",
+        "cast": [
+            "Raimu",
+            "Pierre Fresnay",
+            "Charpin",
+            "Orane Demazis",
+            "Alida Rouffe"
+        ],
+        "year": 1936,
+        "duration": 168,
+        "country": "Francia",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Tras varios años de matrimonio con Fanny, muere Honoré Panisse. Fanny entonces acabará contando a su hijo Cesariot que su verdadero padre no era Panisse, sino Marius, que dejó Marsella veinte años atrás y marchó durante mucho tiempo al extranjero y que ahora vive en una ciudad cercana a Marsella.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-15",
+                "time": "20:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-27",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "no-quiero-volver-a-casa-2000",
+        "title": "No quiero volver a casa",
+        "originalTitle": "No quiero volver a casa",
+        "poster": "images/no-quiero-volver-a-casa.jpg",
+        "director": "Albertina Carri",
+        "cast": [
+            "Analía Couceyro",
+            "Luciano Suardi",
+            "Carlos Echeverría",
+            "Gabino Suanes"
+        ],
+        "year": 2000,
+        "duration": 74,
+        "country": "Argentina",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "La historia de dos familias muy distintas atravesada por un asesinato. Por un lado, la familia de Rubén, un joven de 25 años que no parece tener ningún objetivo en la vida. Por otro, la de Ricardo, un empresario venido a menos que tiene serios problemas con su socio. El vínculo que les une es una prostituta llamada Violeta. La sesión se completa con la proyección del cortometraje 'La hora del lobo' (Natalia Ferreyra, 2015), centrado en la ola de robos y saqueos durante la huelga policial de Córdoba en 2013 y la respuesta vecinal de los estudiantes. Duración total de la sesión 125'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-17",
+                "time": "17:30",
+                "version": "Presentación a cargo de la directora Natalia Ferreyra"
+            }
+        ]
+    },
+    {
+        "id": "les-chansons-d-amour-2007",
+        "title": "Les chansons d’amour",
+        "originalTitle": "Les chansons d'amour",
+        "poster": "images/les-chansons-d-amour.jpg",
+        "director": "Christophe Honoré",
+        "cast": [
+            "Louis Garrel",
+            "Cécile de France",
+            "Ludivine Sagnier",
+            "Clotilde Hesme",
+            "Grégory Fitoussi"
+        ],
+        "year": 2007,
+        "duration": 91,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Musical",
+            "Romance"
+        ],
+        "synopsis": "Ismaël y Julie forman una pareja joven en París. Para reavivar una relación que se apaga, han incorporado a su cama a Alice, compañera de trabajo de él. Una muerte repentina rompe el trío y obliga a los que quedan, y a la familia de Julie, a aprender a vivir con la ausencia.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-17",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "bosque-arriba-en-la-montana-2026",
+        "title": "Bosque arriba en la montaña",
+        "originalTitle": "Bosque arriba en la montaña",
+        "poster": "images/bosque-arriba-en-la-montana.jpg",
+        "director": "Sofía Bordenave",
+        "cast": [],
+        "year": 2026,
+        "duration": 91,
+        "country": "Argentina",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "El 25 de noviembre de 2017, fuerzas de seguridad del Estado mataron al joven mapuche Rafael Nahuel en un bosque de la Patagonia argentina. En ese mismo bosque, Mirta Ñancunao ha luchado durante años contra empresas forestales. Un viaje por carretera recorre la historia de familias desintegradas por el genocidio conocido como la «Campaña del Desierto», que devastó comunidades y territorios a finales del siglo XIX. La película sigue a jóvenes que reconstruyen su identidad a través de la música, trazando un camino generacional entre la pérdida y la renovación. Un sendero, un testimonio y un viaje a través del desierto revelan que la lucha territorial mapuche es también una lucha por preservar su identidad, su cultura y su tierra. La sesión se completa con la proyección del cortometraje 'Hablan las aves' (Rodrigo Montani, 2026), un experimento etnográfico sobre la devastación de los bosques del Gran Chaco y las voces de los indígenas wichís. Duración total de la sesión 125'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-18",
+                "time": "17:30",
+                "version": "Presentación a cargo de la directora Sofía Bordenave"
+            }
+        ]
+    },
+    {
+        "id": "vivir-deprisa-amar-despacio-2018",
+        "title": "Vivir deprisa, amar despacio",
+        "originalTitle": "Plaire, aimer et courir vite",
+        "poster": "images/vivir-deprisa-amar-despacio.jpg",
+        "director": "Christophe Honoré",
+        "cast": [
+            "Pierre Deladonchamps",
+            "Vincent Lacoste",
+            "Denis Podalydès",
+            "Adib Alkhalidey",
+            "Quentin Thébault"
+        ],
+        "year": 2018,
+        "duration": 132,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Década de los 90. Arthur es un estudiante que vive en Rennes. Conocerá a Jacques, un escritor de París que vive con su hijo. Arthur y Rennes darán comienzo a una historia de amor durante el verano. Pero son los años en que el SIDA hacía estragos y Jacques sabe que tendrá vivir ese nuevo amor rápidamente.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-18",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "la-dolorosa-1934",
+        "title": "La dolorosa",
+        "originalTitle": "La dolorosa",
+        "poster": "images/la-dolorosa.jpg",
+        "director": "Jean Grémillon",
+        "cast": [
+            "Agustín Godoy",
+            "Rosita Díaz Gimeno",
+            "Tulio Carminati",
+            "María Dalbaicín"
+        ],
+        "year": 1934,
+        "duration": 85,
+        "country": "España, Francia, Alemania",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Rafael es un pintor que acude a un monasterio para restaurar un fresco de La dolorosa. La modelo de la pintura obsesiona a Rafael, que se enamora de ella. Pero Dolores mantiene relaciones con Natalio. Rafael decidirá entonces ingresar como novicio en el monasterio. Pero Dolores será engañada por Natalio.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-19",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "marcello-mio-2024",
+        "title": "Marcello mio",
+        "originalTitle": "Marcello mio",
+        "poster": "images/marcello-mio.jpg",
+        "director": "Christophe Honoré",
+        "cast": [
+            "Chiara Mastroianni",
+            "Catherine Deneuve",
+            "Fabrice Luchini",
+            "Nicole Garcia",
+            "Melvil Poupaud",
+            "Benjamin Biolay"
+        ],
+        "year": 2024,
+        "duration": 120,
+        "country": "Francia, Italia",
+        "genres": [
+            "Comedia",
+            "Drama"
+        ],
+        "synopsis": "Durante un verano, Chiara Mastroianni, hija de las estrellas de cine Marcello Mastroianni y Catherine Deneuve, decide metamorfosearse en su padre, de manera que se viste como él, se peina y caracteriza como él, gesticula y habla como él... Lo imita con tal perfección que algunos empiezan a llamarle Marcello.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-19",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "cortos-latinos-raices-aromas-y-color-2021-2025",
+        "title": "Cortos latinos: Raíces, aromas y color",
+        "originalTitle": "Cortos latinos: Raíces, aromas y color",
+        "poster": "images/cortos-latinos-raices-aromas-y-color.jpg",
+        "director": "Varios Autores",
+        "cast": [],
+        "year": 2025,
+        "duration": 85,
+        "yearText": "2021-2025",
+        "country": "Varios",
+        "genres": [
+            "Cortometrajes",
+            "Animación",
+            "Ficción"
+        ],
+        "synopsis": "Cortos latinos: Raíces, aromas y color reúne una selección de cortometrajes latinoamericanos que invita a hacer un viaje lleno de color, ritmo y sabor, a través de historias entrañables para reflexionar y descubrir la fuerza de la amistad, la solidaridad, la magia del arte y el humor. El programa incluye: 'La vitualla' (Santiago Posada, 2023), sobre la cocina y la memoria en la costa Caribe colombiana; 'El jardín mágico' (Naira Carneiro, Carlon Hardt, 2025), una historia brasileña sobre generosidad; 'La Sixtina' (Juan Camilo Fonnegra, 2022), centrada en una persona sin hogar que crea arte bajo un puente; 'Palabras mágicas' (Carlon Hardt, 2023), una pieza sobre el poder del lenguaje; 'Xolo' (Yuca, 2025), un viaje mágico en el Día de Muertos en México; 'El extraño caso del hombre bala' (Roberto Valencia, 2023), sobre un misterioso forastero en un pueblo pequeño; 'Dos pajaritos. El huevo' (Alejo Schettini, Alfredo Soderguit, 2021), una divertida competencia por un huevo; y 'La gran hazaña' (Luber Yesid Zúñiga Ordóñez, 2024), donde unos niños se unen para salvar a una gallina. Duración total de la sesión 85'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-21",
+                "time": "17:30",
+                "version": "Presentación y coloquio a cargo de Pablo López"
+            }
+        ]
+    },
+    {
+        "id": "eight-bridges-2026",
+        "title": "Eight Bridges",
+        "originalTitle": "Eight Bridges",
+        "poster": "images/eight-bridges.jpg",
+        "director": "James Benning",
+        "cast": [],
+        "year": 2026,
+        "duration": 80,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental",
+            "Experimental"
+        ],
+        "synopsis": "El veterano James Benning filma ocho grandes puentes en Estados Unidos. Son planos estáticos de diez minutos cada uno. Duración total de la sesión 80'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-21",
+                "time": "19:00",
+                "version": "Presentación a cargo del director James Benning"
+            }
+        ]
+    },
+    {
+        "id": "orange-flavor-wedding-2026",
+        "title": "Orange Flavor Wedding",
+        "originalTitle": "Mariage au goût d'orange",
+        "poster": "images/orange-flavor-wedding.jpg",
+        "director": "Christophe Honoré",
+        "cast": [
+            "Vincent Lacoste",
+            "Paul Kircher",
+            "Adèle Exarchopoulos",
+            "Nadia Tereszkiewicz",
+            "Alban Lenoir",
+            "Noée Abita",
+            "Malou Khebizi",
+            "Park Ji-min",
+            "Victoire Du Bois"
+        ],
+        "year": 2026,
+        "duration": 115,
+        "country": "Francia, Italia",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Nantes, 1978. Jacques y Martine celebran su boda. Para la ocasión se han reunido muchas personas, familiares pero también algunas con las que todos desean estar. Hay camaradería, pero también tensiones que son fruto de heridas del pasado. ¿Se pueden curar las heridas de la infancia?",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-21",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "fanny-1932",
+        "title": "Fanny",
+        "originalTitle": "Fanny",
+        "poster": "images/fanny.jpg",
+        "director": "Marc Allégret",
+        "cast": [
+            "Raimu",
+            "Pierre Fresnay",
+            "Orane Demazis",
+            "Charpin",
+            "Alida Rouffe"
+        ],
+        "year": 1932,
+        "duration": 140,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Tras aceptar que su enamorado Marius emprenda un viaje por el mundo en busca de aventuras, Fanny se da cuenta de que está embarazada. Aunque sigue queriendo a Marius, el amor de su vida, con él ausente no le queda otra alternativa que empezar a plantearse secundar las proposiciones de matrimonio de su otro pretendiente, Honoré Panisse.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-22",
+                "time": "17:30"
+            },
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-26",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "little-boy-2025",
+        "title": "Little Boy",
+        "originalTitle": "Little Boy",
+        "poster": "images/little-boy.jpg",
+        "director": "James Benning",
+        "cast": [],
+        "year": 2025,
+        "duration": 75,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental",
+            "Experimental"
+        ],
+        "synopsis": "Como complemento a su película American Dreams: Lost and Found, el director James Benning ofrece una reflexión acerca de la historia de Estados Unidos, con una visión del pasado que mira al futuro, a través de la perspectiva de un niño pequeño. Duración total de la sesión 120'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-22",
+                "time": "20:30",
+                "version": "Presentación y coloquio a cargo del director James Benning"
+            }
+        ]
+    },
+    {
+        "id": "apenas-un-delincuente-1949",
+        "title": "Apenas un delincuente",
+        "originalTitle": "Apenas un delincuente",
+        "poster": "images/apenas-un-delincuente.jpg",
+        "director": "Hugo Fregonese",
+        "cast": [
+            "Jorge Salcedo",
+            "Liliana Masi",
+            "Tito Alonso",
+            "Constancio Cerutti",
+            "Mecha López"
+        ],
+        "year": 1949,
+        "duration": 88,
+        "country": "Argentina",
+        "genres": [
+            "Cine negro",
+            "Drama"
+        ],
+        "synopsis": "La novia de José, abogada, le dice que, debido a un vacío legal, por estafar la máxima pena es seis años. Así que José –que arrastra deudas de juego– idea un plan: robar medio millón de pesos en la empresa donde trabaja, esconderlos y dejarse atrapar. En seis años será rico. Sin embargo, no contaba con la presión que sentirá encerrado en prisión. La sesión se completa con la proyección del cortometraje 'Engomado' (Toia Bonino, Marcos Joubert, 2021), un diario en vídeo grabado desde la cárcel mediante un teléfono de contrabando. Duración total de la sesión 105'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-24",
+                "time": "17:30",
+                "version": "35 mm"
+            }
+        ]
+    },
+    {
+        "id": "la-deuda-2019",
+        "title": "La deuda",
+        "originalTitle": "La deuda",
+        "poster": "images/la-deuda.jpg",
+        "director": "Gustavo Fontán",
+        "cast": [
+            "Belén Blanco",
+            "Edgardo Castro",
+            "Mara Bestelli",
+            "Marcelo Subiotto"
+        ],
+        "year": 2019,
+        "duration": 74,
+        "country": "Argentina",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "No es la primera vez que Mónica no realiza un pago pendiente a uno de los clientes de su empresa. Ahora, su compañero Rafael vuelve a echar en falta dinero de las cuentas, en concreto la cantidad de quince mil pesos. El hecho es que Mónica ha usado el dinero para cuestiones personales y ahora tiene de plazo hasta la mañana siguiente para reponerlo. La sesión se completa con la proyección del cortometraje 'El brazo del whatsapp' (Martín Farina, 2019), sobre una reunión de amigos de la infancia cuya conversación se vuelve tensa al debatir sobre la continuidad en un grupo de chat. Duración total de la sesión 85'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-25",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "la-belle-mariniere-1932",
+        "title": "La belle marinière",
+        "originalTitle": "La belle marinière",
+        "poster": "images/la-belle-mariniere.jpg",
+        "director": "Harry Lachman",
+        "cast": [
+            "Madeleine Renaud",
+            "Jean Gabin",
+            "Pierre Blanchar",
+            "Charles Camus"
+        ],
+        "year": 1932,
+        "duration": 53,
+        "country": "Francia",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "El capitán de la gabarra “La belle marinière” se casa con Marinette, una bella jovencita a la que ha salvado de morir ahogada. La vida de ambos transcurre plácidamente por las rutas del canal. Sin embargo, Marinette se enamorará de Sylvestre, un joven que trabaja con su marido, y la tensa situación se hará insostenible.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-25",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "zulueta-aguirre-tentativa-y-obra",
+        "title": "Zulueta / Aguirre. Tentativa y obra",
+        "originalTitle": "Zulueta / Aguirre. Tentativa y obra",
+        "poster": "images/zulueta-aguirre-tentativa-y-obra.jpg",
+        "director": "Varios Autores",
+        "cast": [],
+        "year": null,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Experimental"
+        ],
+        "synopsis": "La sesión toma pie en el trabajo de identificación de materiales y obras de los fondos de Ivan Zulueta y Javier Aguirre en Filmoteca Española, abordando el dilema de dar o no estatus de obra inacabada a filmaciones con forma incompleta. A través del ensayo y la obra acabada, la muestra explora los métodos de trabajo menos sistemáticos de Zulueta y el anticine experimental de Javier Aguirre. Duración total de la sesión 71'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-26",
+                "time": "19:00",
+                "version": "Presentación a cargo de Domingo Guerrero, José Manuel Martín y Arancha Aguirre. Sesión gratuita."
+            }
+        ]
+    },
+    {
+        "id": "carne-de-fieras-1936",
+        "title": "Carne de fieras",
+        "originalTitle": "Carne de fieras",
+        "poster": "images/carne-de-fieras.jpg",
+        "director": "Armand Guerra",
+        "cast": [
+            "Carme Guinovart",
+            "Mauricio de Newark",
+            "Antonia Baró",
+            "Pedro Elías",
+            "Enrique Guitart"
+        ],
+        "year": 1936,
+        "duration": 71,
+        "country": "España",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Pablo es un boxeador de buen corazón que está casado con una mujer, ex cantante de varietés, que le engaña con un compañero. Un día, al regresar a casa tras pasear por el El Retiro, sorprende en su esposa con su amante. Totalmente abatido se dejará golpear en un combate y acabará viendo un espectáculo circense, donde Marlène, una artista del circo baila desnuda en una jaula de leones. Pablo se enamorará de Marlène.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-26",
+                "time": "20:30",
+                "version": "Presentación. Sesión acompañada de música en vivo con la soprano Laia Falcón y el pianista Alberto Rosado."
+            }
+        ]
+    },
+    {
+        "id": "no-soy-yo-2024",
+        "title": "No soy yo",
+        "originalTitle": "C'est pas moi",
+        "poster": "images/no-soy-yo.jpg",
+        "director": "Leos Carax",
+        "cast": [
+            "Denis Lavant",
+            "Katia Golubeva",
+            "Nastassja Kinski",
+            "Lola Dueñas",
+            "Leos Carax"
+        ],
+        "year": 2024,
+        "duration": 41,
+        "country": "Francia",
+        "genres": [
+            "Documental",
+            "Autobiografía"
+        ],
+        "synopsis": "Autorretrato del director Leos Carax, que responde sobre sí mismo con una panorámica de su filmografía y de su relación con el cine a lo largo de cuarenta años de carrera. Duración total de la sesión 90'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-27",
+                "time": "17:30",
+                "version": "Presentación y coloquio con el director Leos Carax"
+            }
+        ]
+    },
+    {
+        "id": "pusher-un-paseo-por-el-abismo-1996",
+        "title": "Pusher: Un paseo por el abismo",
+        "originalTitle": "Pusher",
+        "poster": "images/pusher.jpg",
+        "director": "Nicolas Winding Refn",
+        "cast": [
+            "Kim Bodnia",
+            "Mads Mikkelsen",
+            "Zlatko Burić",
+            "Laura Drasbæk",
+            "Paprika Steen"
+        ],
+        "year": 1996,
+        "duration": 110,
+        "country": "Dinamarca",
+        "genres": [
+            "Cine negro",
+            "Thriller",
+            "Crimen"
+        ],
+        "synopsis": "Frank es un criminal que trafica con drogas en las calles de Copenhague. Cuando le surge una oportunidad con un cliente, se da cuenta de que, si logra una buena negociación, podrá dar el golpe de su vida. Sin embargo, en medio de la operación irrumpe la policía. Frank tiene ahora que saldar su deuda, pues se ha quedado sin droga y sin dinero. La empresa va a resultar complicada.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-27",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "mientras-dure-la-guerra-2019",
+        "title": "Mientras dure la guerra",
+        "originalTitle": "Mientras dure la guerra",
+        "poster": "images/mientras-dure-la-guerra.jpg",
+        "director": "Alejandro Amenábar",
+        "cast": [
+            "Karra Elejalde",
+            "Santi Prego",
+            "Patricia López Arnaiz",
+            "Inen Cuesta",
+            "Mikel Bustamante"
+        ],
+        "year": 2019,
+        "duration": 107,
+        "country": "España, Argentina",
+        "genres": [
+            "Drama",
+            "Histórico"
+        ],
+        "synopsis": "Salamanca, verano de 1936. Miguel de Unamuno, rector de la universidad, apoya públicamente la sublevación militar con la esperanza de que ponga orden en el país, y el gobierno republicano lo destituye. La detención y el fusilamiento de amigos y colegas le harán replantearse su postura. La sesión se completa con la proyección de los cortometrajes documentales 'Franco en Salamanca I y II' (1937), material de archivo de noticiarios sobre la recepción a embajadores y discursos de la época. Duración total de la sesión 118'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-28",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "pusher-ii-con-las-manos-ensangrentadas-2004",
+        "title": "Pusher II: Con las manos ensangrentadas",
+        "originalTitle": "Pusher II",
+        "poster": "images/pusher-ii.jpg",
+        "director": "Nicolas Winding Refn",
+        "cast": [
+            "Mads Mikkelsen",
+            "Leif Sylvester",
+            "Anne Sørensen",
+            "Slavko Labović",
+            "Rammie Arif"
+        ],
+        "year": 2004,
+        "duration": 100,
+        "country": "Dinamarca",
+        "genres": [
+            "Cine negro",
+            "Thriller",
+            "Crimen"
+        ],
+        "synopsis": "Tonny sale de prisión y vuelve a estar en libertad. Esta vez, se ha propuesto hacer las cosas bien y no regresar a la cárcel; el primer paso es acudir a su padre. Aunque a éste no le hace ninguna gracia tener de vuelta a la oveja negra de la familia, decide darle una última oportunidad y le ofrece un puesto en su negocio. Tonny necesita el dinero y le atrae la idea de ser el padre del hijo de Charlotte, una prostituta. No obstante, el padre no llega a estar convencido del valor de su hijo; tanto es así, que llega a dar su visto bueno a un negocio de drogas bastante turbio...",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-28",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "libertarias-1996",
+        "title": "Libertarias",
+        "originalTitle": "Libertarias",
+        "poster": "images/libertarias.jpg",
+        "director": "Vicente Aranda",
+        "cast": [
+            "Ana Belén",
+            "Victoria Abril",
+            "Ariadna Gil",
+            "Loles León",
+            "Blanca Apilánez",
+            "Laura Mañá"
+        ],
+        "year": 1996,
+        "duration": 125,
+        "country": "España, Italia, Bélgica",
+        "genres": [
+            "Drama",
+            "Bélico",
+            "Histórico"
+        ],
+        "synopsis": "Barcelona, julio de 1936. María, una joven monja que huye de su convento tras el estallido de la guerra, se refugia en un burdel y acaba unida a un grupo de milicianas anarquistas de Mujeres Libres, con las que marcha al frente de Aragón. Allí descubrirán que tienen que librar dos batallas: contra el enemigo y contra sus propios compañeros, que pretenden devolverlas a la retaguardia. La sesión se completa con la proyección de los cortometrajes documentales 'Reportaje del Movimiento Revolucionario en Barcelona' (Santos Mateo, 1936) y 'La mujer y la guerra' (Mauricio A. Sollin, 1938), sobre la participación femenina y los primeros días del conflicto. Duración total de la sesión 158'.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-29",
+                "time": "17:30"
+            }
+        ]
+    },
+    {
+        "id": "pusher-iii-soy-el-angel-de-la-muerte-2005",
+        "title": "Pusher III: Soy el ángel de la muerte",
+        "originalTitle": "Pusher III",
+        "poster": "images/pusher-iii.jpg",
+        "director": "Nicolas Winding Refn",
+        "cast": [
+            "Zlatko Burić",
+            "Marin Jelača",
+            "Sesse Lind",
+            "Kamel Ben Safia",
+            "Tom Lindhardt"
+        ],
+        "year": 2005,
+        "duration": 108,
+        "country": "Dinamarca",
+        "genres": [
+            "Cine negro",
+            "Thriller",
+            "Crimen"
+        ],
+        "synopsis": "Milo ya no es el que era, ha envejecido y ganado peso. Le acompañamos a lo largo de un solo día, y desde luego no es uno de sus mejores días. Se encuentra bajo una enorme presión, ya que debe organizar la fiesta del 25 cumpleaños de su exigente hija, además de hacerse cargo de toda la comida. Además, se ve envuelto en un negocio de drogas; esta vez, algo nuevo: éxtasis. Milo no conoce esta sustancia –prefiere la clásica heroína– y las cosas no salen como esperaba. Es estafado con las pastillas y debe hacer grandes esfuerzos para salir de esa situación tan precaria.",
+        "screenings": [
+            {
+                "cinema": "Cine Doré",
+                "date": "2026-11-29",
+                "time": "20:30"
             }
         ]
     }
-
 ]
