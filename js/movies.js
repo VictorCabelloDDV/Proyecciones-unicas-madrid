@@ -2444,19 +2444,26 @@ const movies = [
         "title": "Mudras. Bailando los hilos invisibles",
         "originalTitle": "Mudras. Bailando los hilos invisibles",
         "poster": "images/mudras-bailando-los-hilos-invisibles.jpg",
-        "director": "Bobby Bedi",
+        "director": "María Salgado",
         "cast": [
             "Mónica de la Fuente",
             "Nazaré de la Fuente"
         ],
-        "year": 2024,
-        "duration": 75,
+        "year": 2025,
+        "duration": 78,
         "country": "España, India",
         "genres": [
-            "Documental"
+            "Documental",
+            "Baile"
         ],
-        "synopsis": "A principios de los 90, la bailarina Mónica de la Fuente viajó a la India descubriendo sus artes escénicas tradicionales. Treinta años después, su hija Nazaré, con la misma edad que tenía su madre entonces, recorre los mismos lugares. Lo que empieza como un viaje artístico se convierte en una exploración sobre la memoria, la herencia y la danza que une a dos generaciones entre España e India.",
-        "screenings": []
+        "synopsis": "Documental que explora los hilos invisibles que conectan culturas y generaciones a través de la danza, tendiendo un puente entre la danza española y las danzas clásicas del sur de la India. La historia sigue a Mónica de la Fuente y su hija Nazaré, ambas bailarinas, en un viaje artístico y vital que une pasado y presente. Hace tres décadas, Mónica descubrió las artes escénicas del sur de la India; ahora es Nazaré quien emprende ese mismo camino para nutrirse de esa tradición y crear junto a su madre una nueva obra coreográfica.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-28",
+                "time": "19:30"
+            }
+        ]
     },
     {
         "id": "bohemian-rhapsody",
@@ -9222,6 +9229,11 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-07",
                 "time": "19:00"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-06",
+                "time": "21:00"
             }
         ]
     },
@@ -11823,6 +11835,12 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-15",
                 "time": "20:00"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-16",
+                "time": "22:00",
+                "version": "Proyección con presentación"
             }
         ]
     },
@@ -12003,6 +12021,12 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-10",
                 "time": "20:30"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-26",
+                "time": "19:30",
+                "version": "Proyección con presentación y coloquio"
             }
         ]
     },
@@ -12086,6 +12110,11 @@ const movies = [
                 "date": "2026-11-17",
                 "time": "20:00",
                 "version": "Presentación y coloquio posterior con David Martín de los Santos y Rodrigo Sorogoyen"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-19",
+                "time": "22:00"
             }
         ]
     },
@@ -12256,6 +12285,11 @@ const movies = [
                 "date": "2026-11-19",
                 "time": "20:00",
                 "version": "Coloquio posterior con Beatriz Freire y Adán Aliaga"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-20",
+                "time": "20:00"
             }
         ]
     },
@@ -12284,6 +12318,11 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-11-19",
                 "time": "20:30"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-21",
+                "time": "17:30"
             }
         ]
     },
@@ -12315,6 +12354,11 @@ const movies = [
                 "date": "2026-11-20",
                 "time": "19:00",
                 "version": "Coloquio posterior con Dídac Gimeno"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-21",
+                "time": "19:30"
             }
         ]
     },
@@ -12397,6 +12441,11 @@ const movies = [
                 "date": "2026-11-20",
                 "time": "21:00",
                 "version": "Coloquio posterior con Toni Agustí, María S. Torregrosa y Hugo Serra, distribuidor"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-22",
+                "time": "22:00"
             }
         ]
     },
@@ -12428,6 +12477,11 @@ const movies = [
                 "date": "2026-11-21",
                 "time": "18:30",
                 "version": "Coloquio posterior con Fernando Martínez (Burnin' Percebes), Marina Maesso y Casandra Macías Gago (Ultra Todo)"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-22",
+                "time": "13:00"
             }
         ]
     },
@@ -12482,6 +12536,11 @@ const movies = [
                 "date": "2026-11-21",
                 "time": "19:00",
                 "version": "Coloquio posterior con Nitya López Saitua"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-22",
+                "time": "18:00"
             }
         ]
     },
@@ -12568,6 +12627,11 @@ const movies = [
                 "date": "2026-11-22",
                 "time": "19:30",
                 "version": "Embajadores Río"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-22",
+                "time": "20:00"
             }
         ]
     },
@@ -12675,6 +12739,12 @@ const movies = [
                 "cinema": "Sala Berlanga",
                 "date": "2026-11-12",
                 "time": "20:30"
+            },
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-16",
+                "time": "19:30",
+                "version": "Proyección con presentación"
             }
         ]
     },
@@ -14476,5 +14546,427 @@ const movies = [
                 "version": "Renoir Retiro - Con música en directo compuesta e interpretada por el pianista Adrián Begoña"
             }
         ]
-    }
+    },
+    {
+        "id": "la-playa-de-los-enchaquirados-2021",
+        "title": "La playa de los enchaquirados",
+        "originalTitle": "La playa de los enchaquirados",
+        "poster": "images/la-playa-de-los-enchaquirados.jpg",
+        "director": "Iván Mora Manzano",
+        "cast": [],
+        "year": 2021,
+        "duration": 86,
+        "country": "Ecuador",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Vicky es pescador de día y de noche es dueña de un bar. A través de ella conocemos una comunidad trans que forma parte de un pueblo de pescadores en la costa del Ecuador. ¿Con el tiempo aprendemos a aceptar al otro o, por el contrario, las diferencias nublan nuestra capacidad de mirar?",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-03",
+                "time": "19:30",
+                "version": "Proyección con presentación y coloquio"
+            }
+        ]
+    },
+    {
+        "id": "vidas-pasadas-2023",
+        "title": "Vidas pasadas",
+        "originalTitle": "Past Lives",
+        "poster": "images/vidas-pasadas.jpg",
+        "director": "Celine Song",
+        "cast": [
+            "Greta Lee",
+            "Teo Yoo",
+            "John Magaro"
+        ],
+        "year": 2023,
+        "duration": 106,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Nora y Hae Sung, dos amigos de la infancia con una conexión profunda, se separaron cuando la familia de Nora emigró de Corea del Sur. Veinte años más tarde, se reencuentran en Nueva York durante una semana mientras se enfrentan al amor, el destino y las elecciones que configuran una vida.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-05",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "orgullo-y-prejuicio-2026",
+        "title": "Orgullo y prejuicio",
+        "originalTitle": "Orgullo y prejuicio",
+        "poster": "images/orgullo-y-prejuicio.jpg",
+        "director": "Matías Szulanski",
+        "cast": [
+            "Mailén Kritzer",
+            "Alejandro Jovic",
+            "Violeta Bussy",
+            "Tomás Pernich",
+            "Sol Masaedo"
+        ],
+        "year": 2026,
+        "duration": 93,
+        "country": "Argentina",
+        "genres": [
+            "Drama",
+            "Comedia"
+        ],
+        "synopsis": "Versión contemporánea o libre dirigida por Matías Szulanski que adapta o reimagina los conflictos en torno al clásico de Jane Austen.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-06",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "sucia-2026",
+        "title": "Sucia",
+        "originalTitle": "Sucia",
+        "poster": "images/sucia.jpg",
+        "director": "Bàrbara Mestanza, Marc Pujolar",
+        "cast": [
+            "Bàrbara Mestanza"
+        ],
+        "year": 2026,
+        "duration": 82,
+        "country": "España",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Tras sufrir una agresión sexual durante un masaje en una sala de masajes de Madrid, la actriz Bàrbara Mestanza transforma su trauma en una obra de teatro para confrontar la pregunta que todos le hacen: «¿Por qué no hiciste nada?».",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-07",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "festival-anfibia-sesion-de-cortos-2026",
+        "title": "Festival Anfibia: Sesión de cortos",
+        "originalTitle": "Festival Anfibia: Sesión de cortos",
+        "poster": "images/festival-anfibia-cortos.jpg",
+        "director": "VV.AA.",
+        "cast": [],
+        "year": "2024-2026",
+        "duration": 49,
+        "country": "España, Francia, Bélgica, Argentina, México",
+        "genres": [
+            "Cortometrajes",
+            "Animación",
+            "Documental",
+            "Ficción"
+        ],
+        "synopsis": "Selección de cortometrajes que adaptan obras de otros formatos como cómics, libros y poemas. La sesión incluye: 'El cuerpo de Cristo' (Bea Lema, 2025), donde una joven asediada por un demonio familiar busca ayuda psiquiátrica mientras descubre que lo que realmente necesita es ser escuchada; 'Delincuente' (Alba Domínguez y Nuria Vilán, 2024), un viaje poético al Vigo de los 80 a través del recuerdo de La Maradona, mezclando cine quinqui, archivo en súper 8 y una potente reivindicación LGTBIAQ+; 'Rouge' (Zoé Arene, 2025), una subversiva y libre adaptación de Caperucita Roja donde la protagonista afirma sus deseos sin miedo, el lobo huye del rol de depredador y la abuela pierde la cabeza bajo la atenta mirada de un frustrado narrador; y 'CALM, el último cuento de Horacio Quiroga' (María Ruisánchez y Álvaro León, 2026), un recorrido alucinado por los últimos días del escritor uruguayo en el hospital, entrelazando sus recuerdos, la locura y los personajes de sus relatos. Duración total de la sesión: 49'.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-07",
+                "time": "21:30"
+            }
+        ]
+    },
+    {
+        "id": "la-perra-2026",
+        "title": "La perra",
+        "originalTitle": "La perra",
+        "poster": "images/la-perra.jpg",
+        "director": "Dominga Sotomayor",
+        "cast": [
+            "Manuela Oyarzún",
+            "Selton Mello",
+            "David Gaete",
+            "Giannina Fruttero"
+        ],
+        "year": 2026,
+        "duration": 112,
+        "country": "Chile, Brasil",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "En una remota isla del sur de Chile, Silvia, una solitaria mujer de mediana edad con un doloroso pasado, rescata a un cachorro abandonado y lo llama Yuri, el nombre que una vez eligió para la hija que nunca tuvo. A medida que su vínculo se profundiza, Silvia se vuelca en intentar enderezar un destino que durante mucho tiempo creyó irreparable.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-08",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "fromzero-shorts-7-2026",
+        "title": "Fromzero Shorts #7",
+        "originalTitle": "Fromzero Shorts #7",
+        "poster": "images/fromzero-shorts-7.jpg",
+        "director": "Varios Autores",
+        "cast": [],
+        "year": 2026,
+        "country": "España",
+        "genres": [
+            "Cortometrajes"
+        ],
+        "synopsis": "Nueva sesión de las Fromzero Sessions en la Sala Equis, que trae una selección de cortometrajes jóvenes, libres, atrevidos y premiados en festivales de todo el mundo. Nuevas voces y propuestas que sorprenden en la gran pantalla. Al finalizar la proyección, los asistentes pueden votar a sus cortometrajes favoritos mediante un código QR y participar en el sorteo de entradas gratuitas.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-12",
+                "time": "19:30"
+            }
+        ]
+    },
+    {
+        "id": "blood-feast-1963",
+        "title": "Blood Feast",
+        "originalTitle": "Blood Feast",
+        "poster": "images/blood-feast.jpg",
+        "director": "Herschell Gordon Lewis",
+        "cast": [
+            "Mal Arnold",
+            "Connie Mason",
+            "Highland Lassie",
+            "Cody Mason",
+            "Scott H. Hall"
+        ],
+        "year": 1963,
+        "duration": 90,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Splatter",
+            "Cine B"
+        ],
+        "synopsis": "Considerada la primera película de género 'splatter' de la historia del cine, sigue los pasos de Fuad Ramses, un estrafalario propietario de un servicio de catering en Miami que asesina ritualmente a varias mujeres jóvenes para utilizar sus partes corporales en la preparación de un banquete egipcio destinado a resucitar a la diosa Ishtar.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-14",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "a-paixao-segundo-g-h-2023",
+        "title": "A Paixão segundo G.H.",
+        "originalTitle": "A Paixão segundo G.H.",
+        "poster": "images/a-paixao-segundo-gh.jpg",
+        "director": "Luiz Fernando Carvalho",
+        "cast": [
+            "Maria Fernanda Cândido",
+            "Samira Nancassa"
+        ],
+        "year": 2023,
+        "duration": 126,
+        "country": "Brasil",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "En 1964, tras el fin de una pasión y el despido de su criada, G.H., una escultora de Río de Janeiro, decide limpiar su apartamento. En el cuarto de servicio, G.H. se topa con una enorme cucaracha y experimenta su vía crucis existencial.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-16",
+                "time": "17:00"
+            }
+        ]
+    },
+    {
+        "id": "de-brisa-y-de-sol-2026",
+        "title": "De brisa y de sol",
+        "originalTitle": "De brisa y de sol",
+        "poster": "images/de-brisa-y-de-sol.jpg",
+        "director": "Chloé Lecci López",
+        "cast": [
+            "Carmen Pérez Núñez"
+        ],
+        "year": 2026,
+        "duration": 62,
+        "country": "Francia, España",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Carmen lleva casi ochenta años limpiando casas, emigrando desde su Murcia natal, pasando por París y ahora de vuelta a la Península, pero en Galicia. Cantar siempre fue su fuerza, su remedio contra el exilio. Hoy, en el pueblo gallego donde vive con su marido, su voz se mezcla con la de unas adolescentes, también venidas de otros lugares, y quienes en las melodías de su generación encuentran un espacio para soñar.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-17",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "muchedumbre-2026",
+        "title": "Muchedumbre",
+        "originalTitle": "Muchedumbre",
+        "poster": "images/muchedumbre.jpg",
+        "director": "Felipe Rugeles Pineda",
+        "cast": [],
+        "year": 2026,
+        "duration": 70,
+        "country": "Colombia",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Un cineasta llega por accidente a un pueblo en ruinas cuyas almas silenciosas se niegan a revivir el pasado. Los restos de un rodaje realizado años atrás constituyen la única pista para comprender lo que una vez ocurrió allí.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-17",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "cherri-2025",
+        "title": "Cherri",
+        "originalTitle": "Cherri",
+        "poster": "images/cherri.jpg",
+        "director": "Fabian Suarez",
+        "cast": [
+            "Juan Miguel Más",
+            "Noslen Sánchez",
+            "Roberto Díaz Gomar",
+            "Gabriela Griffith",
+            "Verónica Díaz",
+            "Héctor Téllez Jr.",
+            "Edith Massola"
+        ],
+        "year": 2025,
+        "duration": 82,
+        "country": "Cuba",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Cherri es gay, le encanta el ballet clásico y tiene un cuerpo que es una celebración extravagante del peso. Es coreógrafo de una compañía de ballet de talla grande en una clínica de pesas de La Habana mientras cuida a su esposo discapacitado. Aunque es consciente de que se están aprovechando de él, no puede evitar rendirse a su enamoramiento por Tim, un joven y atractivo guardia de seguridad que sacia su sed de amor.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-18",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "siemprevivas-2026",
+        "title": "Siemprevivas",
+        "originalTitle": "Siemprevivas",
+        "poster": "images/siemprevivas.jpg",
+        "director": "Mar López Zapata",
+        "cast": [],
+        "year": 2026,
+        "duration": 76,
+        "country": "España",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Laura, una mujer trans de 65 años, dejó el cabaret y el trabajo de acompañante en el apogeo de su fama para cuidar de su madre. Veinte años después, quiere volver a trabajar, y sus amigas de Robadors Street la animan a superar sus miedos e inseguridades.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-20",
+                "time": "18:30"
+            }
+        ]
+    },
+    {
+        "id": "pero-abans-d-aixo-hi-haura-set-2026",
+        "title": "Però abans d’això hi haurà set",
+        "originalTitle": "Però abans d’això hi haurà set",
+        "poster": "images/pero-abans-d-aixo-hi-haura-set.jpg",
+        "director": "Màrius Intente y Pau Ballesté",
+        "cast": [],
+        "year": 2026,
+        "duration": 55,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine experimental"
+        ],
+        "synopsis": "Como una bocanada de aire fresco del sotobosque, aparecen Remei de Ca la Fresca: Xantal, Artur, Víctor y Iago, cuatro jóvenes de Arbúcies que, con una música inclasificable, sacuden, plantan preguntas y abren grietas. Río arriba, mientras ellas cantan, las embotelladoras vacían el acuífero del Montseny, y AiguaClara, el colectivo vecinal de Arbúcies, les planta cara. “Però abans d’això hi haurà set” acompaña dentro y fuera de los escenarios, de forma cercana e íntima: ensayos, conciertos, gira, pero también compromiso y amor por el territorio.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-20",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "oceano-titanico-2026",
+        "title": "Océano Titánico",
+        "originalTitle": "Titanic Ocean",
+        "poster": "images/oceano-titanico.jpg",
+        "director": "Konstantina Kotzamani",
+        "cast": [
+            "Arisa Sasaki",
+            "Melina Mardini",
+            "Haruna Matsui",
+            "Masahiro Higashide",
+            "Sei Matobu",
+            "Kotone Hanase",
+            "Hanna Muro",
+            "Riku Nakamura",
+            "Aki Kigoshi"
+        ],
+        "year": 2026,
+        "duration": 130,
+        "country": "Grecia, Alemania, Rumanía, España, Japón, Francia, Reino Unido, Chipre, Estados Unidos",
+        "genres": [
+            "Drama",
+            "Fantástico",
+            "Ciencia ficción"
+        ],
+        "synopsis": "En el centelleante universo de un internado especial que entrena a chicas adolescentes para convertirlas en sirenas profesionales, Akame, de 17 años, encontrará su voz de sirena, descubrirá el primer amor y experimentará una metamorfosis.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-21",
+                "time": "13:00"
+            }
+        ]
+    },
+    {
+        "id": "casi-todo-bien-2025",
+        "title": "Casi todo bien",
+        "originalTitle": "Casi todo bien",
+        "poster": "images/casi-todo-bien.jpg",
+        "director": "Andrés Salmoyraghi, Rafael López Saubidet",
+        "cast": [
+            "Marcel Borrás",
+            "Silma López",
+            "Lorenzo Ferro",
+            "Julián Villagrán",
+            "Secun de la Rosa",
+            "Adelfa Calvo",
+            "Iván Moraleda",
+            "Viti Suárez",
+            "Lou Cosette",
+            "Rita Rodríguez Velasco",
+            "Luis Dyangani"
+        ],
+        "year": 2025,
+        "duration": 87,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Drama"
+        ],
+        "synopsis": "Hilario es un escritor frustrado de 40 años que vive atrapado entre la nostalgia por la literatura clásica y el cinismo ante el mundo editorial contemporáneo. Mientras su novela es rechazada por todas las editoriales españolas, él se gana la vida en una librería e impartiendo un taller de escritura online. Sin embargo, cuando una noche de fiesta conoce a una chica que cree que puede ser la musa que siempre ha buscado, esto lo llevará a romper con la monotonía de su vida y arriesgarse a hacer cosas con las que nunca se había atrevido.",
+        "screenings": [
+            {
+                "cinema": "Sala Equis",
+                "date": "2026-11-21",
+                "time": "22:00"
+            }
+        ]
+    },
+    
 ]
