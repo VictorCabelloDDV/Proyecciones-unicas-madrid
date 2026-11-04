@@ -556,7 +556,13 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Después de escapar de un extraño accidente, un adolescente comienza a tener visiones de una misteriosa figura con disfraz de conejo que parece conocer el futuro y le empuja hacia una serie de acontecimientos inquietantes.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-07",
+                "time": "22:20"
+            }
+        ]
     },
     {
         "id": "et",
@@ -1053,7 +1059,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-09",
+                "time": "20:40"
+            }
+        ]
     },
     {
         "id": "isla-de-perros",
@@ -2236,7 +2248,13 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-10",
+                "time": "21:35"
+            }
+        ]
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -4888,7 +4906,13 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Hipnótico y estilizadísimo retrato urbano de Hong Kong que entrelaza las historias de varios personajes solitarios en los márgenes de la noche: un asesino a sueldo que busca abandonar su peligrosa profesión, su misteriosa socia que organiza sus contratos desde la sombra, un joven mudo que se dedica a allanar locales ajenos por las noches y una chica desconsolada por un desamor que busca desesperadamente un contacto humano.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-06",
+                "time": "22:30"
+            }
+        ]
     },
     {
         "id": "roma-2004",
@@ -5286,7 +5310,14 @@ const movies = [
         "Documental"
     ],
     "synopsis": "La alicantina Cecilia Bartolomé es una directora de cine, guionista y productora pionera del cine español. Maltratada por la censura, mantiene, siendo octogenaria, el espíritu libre que siempre la ha caracterizado. Un viaje a través de su apasionante vida, obra y lucha que continúan tan lejos, tan cerca.",
-    "screenings": []
+    "screenings": [
+            {
+            "cinema": "Cines Embajadores",
+            "date": "2026-11-19",
+            "time": "19:45",
+            "version": "Coloquio con Cecilia Bartolomé"
+        }
+        ]
     },
     {
     "id": "omega-wants-to-dance-2024",
@@ -8649,7 +8680,13 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "A principios de los años ochenta en una pequeña ciudad de Kansas, dos niños de ocho años sufren un misterioso episodio de amnesia de cinco horas tras un supresor encuentro con su entrenador de béisbol. Una década más tarde, ya en la adolescencia, sus caminos divergen radicalmente: Brian se ha convertido en un joven solitario obsesionado con abducciones alienígenas, mientras que Neil sobrevive en Nueva York dedicándose a la prostitución masculina y arrastrando un doloroso vacío. Cuando sus vidas vuelven a cruzarse, saldrá a la luz una terrible y oscura verdad sobre su pasado común.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-08",
+                "time": "22:20"
+            }
+        ]
     },
     {
         "id": "portrait-dune-jeune-fille-1994",
@@ -10854,6 +10891,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-11-08",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-08",
+                "time": "12:00"
             }
         ]
     },
@@ -11129,6 +11171,11 @@ const movies = [
                 "date": "2026-11-12",
                 "time": "20:30",
                 "version": "Sesión de tarde con presentación del libro de Lucía Tello Díaz"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-12",
+                "time": "11:30"
             }
         ]
     },
@@ -11872,6 +11919,12 @@ const movies = [
                 "date": "2026-11-09",
                 "time": "19:30",
                 "version": "Embajadores Río - Sesión especial con coloquio con directora, Gala del Sol, y actriz, Celina Biurrun."
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-16",
+                "time": "20:00",
+                "version": "Embajadores Río - Coloquio con Gala del Solo y Celina Birrun"
             }
         ]
     },
@@ -15112,6 +15165,781 @@ const movies = [
                 "date": "2026-11-12",
                 "time": "22:00",
                 "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "soy-mario-2026",
+        "title": "Soy Mario",
+        "originalTitle": "Soy Mario",
+        "poster": "images/soy-mario-2026.jpg",
+        "director": "Sharon Kleinberg",
+        "cast": [
+            "Oustin León",
+            "Héctor Kotsifakis",
+            "Mayra Batalla",
+            "Mercedes Hernández",
+            "Kristyan Ferrer"
+        ],
+        "year": 2026,
+        "duration": 93,
+        "country": "México",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Mario es un taxista trans que queda embarazado. Tiene la posibilidad de cumplir su deseo de ser padre, pero esto lo enfrenta a sus propias expectativas sobre su masculinidad. Antes de exponerse a una sociedad machista y llena de prejuicios, debe enfrentarse a sí mismo.",
+        "screenings": [
+            {
+                "cinema": "Casa de América",
+                "date": "2026-11-17",
+                "time": "18:00",
+                "version": "Presentación con Sharon Kleinberg"
+            }
+        ]
+    },
+    {
+        "id": "no-dejes-a-los-ninos-solos-2025",
+        "title": "No dejes a los niños solos",
+        "originalTitle": "No dejes a los niños solos",
+        "poster": "images/no-dejes-a-los-ninos-solos-2025.jpg",
+        "director": "Emilio Portes",
+        "cast": [
+            "Ana Serradilla",
+            "Jesús Zavala",
+            "José Sefami",
+            "Paloma Woolrich",
+            "Ricardo Galina",
+            "Juan Pablo Velasco",
+            "Armando Silva"
+        ],
+        "year": 2025,
+        "duration": 97,
+        "country": "México",
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Sobrenatural"
+        ],
+        "synopsis": "Una madre se muda a una casa nueva con sus dos hijos. Una noche debe dejar a los hermanos solos en casa. Lo que comienza como una explosión de juego despreocupado pronto se convierte en una claustrofóbica historia de terror.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-13",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "parvulos-hijos-del-apocalipsis-2024",
+        "title": "Párvulos: Hijos del apocalipsis",
+        "originalTitle": "Párvulos: Hijos del apocalipsis",
+        "poster": "images/parvulos-hijos-del-apocalipsis-2024.jpg",
+        "director": "Isaac Ezban",
+        "cast": [
+            "Farid Escalante Correa",
+            "Leonardo Cervantes",
+            "Mateo Ortega Casillas",
+            "Carla Adell",
+            "Noé Hernández",
+            "Horacio F. Lazo",
+            "Norma Flores",
+            "Juan Carlos Remolina"
+        ],
+        "year": 2024,
+        "duration": 118,
+        "country": "México",
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Zombis",
+            "Distopía"
+        ],
+        "synopsis": "Tres jóvenes hermanos viven en una cabaña en medio del bosque y esconden un oscuro e inquietante secreto en el sótano, lidiando en un mundo postapocalíptico con una terrible amenaza.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-14",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "estela-2024",
+        "title": "Estela",
+        "originalTitle": "Estela",
+        "poster": "images/estela-2024.jpg",
+        "director": "Adrián Araujo",
+        "cast": [
+            "Mara Lopez",
+            "Cristian Gamero",
+            "Mikael Lacko",
+            "Meteora Fontana"
+        ],
+        "year": 2024,
+        "duration": 90,
+        "country": "México",
+        "genres": [
+            "Drama",
+            "Terror",
+            "Thriller"
+        ],
+        "synopsis": "Susana y Jorge deciden mudarse a una mansión frente a un lago, en busca de tranquilidad que les permita convertirse en padres. La obsesión de ella por quedar embarazada acaba por atraer al fantasma de una niña que busca una madre.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-19",
+                "time": "19:00"
+            },
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-28",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "no-me-sigas-2025",
+        "title": "No me sigas",
+        "originalTitle": "No me sigas",
+        "poster": "images/no-me-sigas-2025.jpg",
+        "director": "Ximena García Lecuona, Eduardo Lecuona",
+        "cast": [
+            "Karla Coronado",
+            "Yankel Stevan",
+            "Julia Maqueo",
+            "Cesar Serrano Prado \"Parker\"",
+            "María Ulloa",
+            "Miranda García",
+            "Luz María Meza"
+        ],
+        "year": 2025,
+        "duration": 89,
+        "country": "México",
+        "genres": [
+            "Terror",
+            "Sobrenatural",
+            "Redes sociales"
+        ],
+        "synopsis": "Carla sueña con convertirse en una gran influencer, para conseguirlo decide fingir un embrujo en su apartamento. Sin embargo, al jugar con estas fuerzas oscuras, accidentalmente deja entrar a una entidad maligna real.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-20",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "tormento-2025",
+        "title": "Tormento",
+        "originalTitle": "Tormento",
+        "poster": "images/tormento-2025.jpg",
+        "director": "Olallo Rubio",
+        "cast": [
+            "Natalia Solián",
+            "Hoze Meléndez",
+            "Fernando Banda"
+        ],
+        "year": 2025,
+        "duration": 80,
+        "country": "México",
+        "genres": [
+            "Terror",
+            "Sobrenatural",
+            "Thriller"
+        ],
+        "synopsis": "Una exhausta guardia de seguridad es transferida a una morgue y, en su primera noche, descubre que las sombras y los silencios esconden un tormento del que quizá no hay retorno.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-21",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "tekenchu-el-ritual-de-los-nahuales-2026",
+        "title": "Tekenchu, el ritual de los nahuales",
+        "originalTitle": "Tekenchu, el ritual de los nahuales",
+        "poster": "images/tekenchu-el-ritual-de-los-nahuales-2026.jpg",
+        "director": "Carlos Matienzo Serment",
+        "cast": [
+            "Gerardo Oñate",
+            "Alejandra Herrera",
+            "Gerardo Trejoluna",
+            "Caraly Sánchez"
+        ],
+        "year": 2026,
+        "duration": 80,
+        "country": "México",
+        "genres": [
+            "Terror",
+            "Thriller",
+            "Folk Horror"
+        ],
+        "synopsis": "Un hombre herido escapa de un ataque. En un pueblo, un policía investiga escalofriantes asesinatos de niños con los dientes extraídos. El caso revela un misterio de misticismo y leyendas sobre nahuales.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-27",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "soy-frankelda-2025",
+        "title": "Soy Frankelda",
+        "originalTitle": "Soy Frankelda",
+        "poster": "images/soy-frankelda-2025.jpg",
+        "director": "Arturo Ambriz, Roy Ambriz",
+        "cast": [],
+        "year": 2025,
+        "duration": 106,
+        "country": "México",
+        "genres": [
+            "Animación",
+            "Fantástico",
+            "Musical",
+            "Stop Motion",
+            "Comedia de terror"
+        ],
+        "synopsis": "Frankelda, una decidida escritora mexicana del siglo XIX, viaja a su subconsciente para enfrentarse a los monstruos sobre los que ha escrito. Guiada por un príncipe atormentado, deberá restablecer el equilibrio entre ficción y realidad antes de que sea demasiado tarde.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-11-08",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "hanna-y-las-navidades-olvidadas-2025",
+        "title": "Hanna y las navidades olvidadas",
+        "originalTitle": "Hanna i els Nadals oblidats",
+        "poster": "images/hanna-y-las-navidades-olvidadas-2025.jpg",
+        "director": "Elena Ruiz",
+        "cast": [],
+        "year": 2025,
+        "duration": 88,
+        "country": "España",
+        "genres": [
+            "Animación",
+            "Infantil",
+            "Aventuras",
+            "Cine familiar",
+            "Navidad"
+        ],
+        "synopsis": "Hanna y sus amigos monstruos vuelven para vivir su primera Navidad juntos. Cuando la malvada Gárgola se convierte en el Espíritu de Navidad, todos los humanos y criaturas olvidan estas fiestas. Para salvarla, Hanna empieza una misión épica guiada por la misteriosa Esna, viajando por mundos repletos de magia y peligros. El tiempo se agota y, si fracasan, la Navidad desaparecerá para siempre. Mientras, Gárgola y su fiel Cíclope quieren usurpar el trono y gobernar la magia navideña.",
+        "screenings": [
+            {
+                "cinema": "Casa de México",
+                "date": "2026-12-20",
+                "time": "12:00"
+            }
+        ]
+    },
+    {
+        "id": "happy-together-1997",
+        "title": "Happy Together",
+        "originalTitle": "Chun gwong cha sit",
+        "poster": "images/happy-together-1997.jpg",
+        "director": "Wong Kar-Wai",
+        "cast": [
+            "Leslie Cheung",
+            "Tony Leung Chiu-Wai",
+            "Chang Chen"
+        ],
+        "year": 1997,
+        "duration": 96,
+        "country": "Hong Kong",
+        "genres": [
+            "Drama",
+            "Romance",
+            "Drama romántico",
+            "Cine LGTBI"
+        ],
+        "synopsis": "Lai Yiu-Kai y Ho Po-Wing viven una apasionada relación. Viajan desde Hong Kong a Argentina, pero la llegada al nuevo país parece transformar las cosas y Ho, de repente, abandona a Lai. Éste comienza a trabajar como portero de un bar, con el único afán de reunir el dinero suficiente para volver a su país. Un día Ho reaparece, pero las cosas ya no son iguales…",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-10",
+                "time": "22:30"
+            }
+        ]
+    },
+    {
+        "id": "perfect-blue-1997",
+        "title": "Perfect Blue",
+        "originalTitle": "Pākefu Burū",
+        "poster": "images/perfect-blue-1997.jpg",
+        "director": "Satoshi Kon",
+        "cast": [
+            "Junko Iwao",
+            "Rica Matsumoto",
+            "Shinpachi Tsuji",
+            "Masaaki Ôkura",
+            "Yôsuke Akimoto"
+        ],
+        "year": 1997,
+        "duration": 81,
+        "country": "Japón",
+        "genres": [
+            "Animación",
+            "Thriller",
+            "Cine negro",
+            "Intriga",
+            "Animación para adultos"
+        ],
+        "synopsis": "Mima es la cantante de un famoso grupo musical japonés. Debido al fracaso de ventas de sus discos, su mánager decide apartarla del grupo y darle un papel en una serie de televisión. Mima cae entonces en una profunda depresión que la lleva a replantearse su vida y su carrera, pero su crisis se agrava cuando descubre que su vida está al alcance de cualquiera en Internet y que alguien la está vigilando. Cuando la serie empieza a emitirse por televisión, Mima comprueba que la ficción se reproduce en su vida real: sueño y realidad se confunden hasta el punto de cuestionarse su propia identidad. El desarrollo de los acontecimientos y su propia intuición llevarán a la protagonista a un desenlace absolutamente inesperado…",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-12",
+                "time": "22:15",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "el-espejo-2020",
+        "title": "El espejo",
+        "originalTitle": "El espejo",
+        "poster": "images/el-espejo-2020.jpg",
+        "director": "Marco Berger",
+        "cast": [
+            "Ivan Corujo",
+            "Marco Berger"
+        ],
+        "year": 2020,
+        "duration": 102,
+        "country": "Argentina",
+        "genres": [
+            "Drama",
+            "Romance"
+        ],
+        "synopsis": "Juan, un joven director de cine, invita a Mateo, un antiguo actor que dejó atrás sus aspiraciones artísticas para formar una familia y dedicarse a una vida laboral estable, a protagonizar su próximo cortometraje. Lo que comienza como una colaboración profesional se convierte poco a poco en un espacio ambiguo donde la creación y el deseo se confunden.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-14",
+                "time": "12:00",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "bahia-de-sangre-1971",
+        "title": "Bahía de sangre",
+        "originalTitle": "Reazione a catena",
+        "poster": "images/bahia-de-sangre-1971.jpg",
+        "director": "Mario Bava",
+        "cast": [
+            "Claudine Auger",
+            "Luigi Pistilli",
+            "Claudio Camaso",
+            "Anna Maria Rosati",
+            "Chris Avram",
+            "Leopoldo Trieste",
+            "Laura Betti",
+            "Brigitte Skay",
+            "Isa Miranda",
+            "Paola Montenero",
+            "Guido Boccaccini"
+        ],
+        "year": 1971,
+        "duration": 84,
+        "country": "Italia",
+        "genres": [
+            "Terror",
+            "Intriga",
+            "Giallo",
+            "Slasher"
+        ],
+        "synopsis": "Una bahía, objeto del deseo de diversos personajes ambiciosos, será el espacio fatal donde se producirá una cadena de muertes causadas por sádicos asesinatos. Al parecer, una trama de oscuros intereses es el motor que impulsa una rueda criminal implacable.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-15",
+                "time": "12:00",
+                "version": "Embajadores Río - Presentación + proyección + coloquio"
+            }
+        ]
+    },
+    {
+        "id": "i-rarely-wake-up-dreaming-2024",
+        "title": "I Rarely Wake Up Dreaming",
+        "originalTitle": "I Rarely Wake Up Dreaming",
+        "poster": "images/i-rarely-wake-up-dreaming.jpg",
+        "director": "Isabelle Stever",
+        "cast": [
+            "Irina Mak",
+            "Markus Bright",
+            "Tania Myronyshena",
+            "Viktor Zhdanov"
+        ],
+        "year": 2024,
+        "duration": 100,
+        "country": "Alemania",
+        "genres": [
+            "Comedia",
+            "Drama"
+        ],
+        "synopsis": "El amor de Olya y Oleh, una joven pareja queer ucraniana, se pone a prueba cuando la transición de género de uno de ellos coincide con la invasión a gran escala de Rusia. A medida que la guerra reduce y pone a prueba los límites de la masculinidad y la feminidad, ambos luchan por mantener su vínculo y su identidad.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-15",
+                "time": "12:00",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "jaleos-2026",
+        "title": "Jaleos",
+        "originalTitle": "Jaleos",
+        "poster": "images/jaleos-2026.jpg",
+        "director": "Isaki Lacuesta",
+        "cast": [
+            "Rocío Molina",
+            "Alba Flores",
+            "C. Tangana",
+            "Soleá Morente",
+            "Georges Didi-Huberman",
+            "Pedro G. Romero",
+            "Perrate de Utrera",
+            "Serranito",
+            "José Manuel Gamboa",
+            "Nazario",
+            "Pastora Filigrana"
+        ],
+        "year": 2026,
+        "duration": 78,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Documental sobre música",
+            "Flamenco"
+        ],
+        "synopsis": "Largometraje documental construido con archivo, testimonios sonoros y grabaciones actuales que explora cómo la historia del flamenco está íntimamente ligada a la modernidad y al nacimiento de las máquinas. Entre el cuento y el ensayo, propone un viaje por episodios sorprendentes y poco conocidos: del primer film de Edison con la bailaora Carmencita a la fascinación flamenca del nazismo y las vanguardias artísticas. Un recorrido por los siglos XX y XXI, atravesando el mundo y conectando flamenco, política, arte e historia, guiado por un coro de voces diversas, con artistas contemporáneos y figuras clave del flamenco.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-21",
+                "time": "12:00",
+                "version": "Coloquio con Isaki Lacuesta (director)"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-10",
+                "time": "20:30",
+                "version": "Presentación de Isaki Lacuesta (director)"
+            }
+        ]
+    },
+    {
+        "id": "gugus-world-2026",
+        "title": "Gugu’s world",
+        "originalTitle": "Feito Pipa",
+        "poster": "images/gugus-world-2026.jpg",
+        "director": "Allan Deberton",
+        "cast": [
+            "Lázaro Ramos",
+            "Teca Pereira",
+            "Yuri Gomes",
+            "Carlos Francisco",
+            "Georgina Castro",
+            "Alda Pessoa",
+            "David Santos"
+        ],
+        "year": 2026,
+        "duration": 93,
+        "country": "Brasil",
+        "genres": [
+            "Drama",
+            "Infancia",
+            "Fútbol",
+            "Familia"
+        ],
+        "synopsis": "Gugu es un chico afeminado que sueña con convertirse en un gran jugador de fútbol. Criado por su abuela con Alzheimer, hará lo que sea por ocultar su enfermedad para no tener que vivir con su padre, que no le acepta en absoluto.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-22",
+                "time": "12:00",
+                "version": "Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "numakage-public-pool-2025",
+        "title": "Numakage Public Pool",
+        "originalTitle": "Numakage Public Pool",
+        "poster": "images/numakage-public-pool-2025.jpg",
+        "director": "Shingo Ōta",
+        "cast": [],
+        "year": 2025,
+        "duration": 80,
+        "country": "Japón",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "Durante más de cincuenta años, Numakage, una piscina pública suburbana de Tokio, ha sido un punto de encuentro entre personas mayores, familias y comunidades de cruising gay. Ante su demolición, a pesar de la oposición local, la película recorre el duelo colectivo a través de las cinco etapas de Kübler-Ross, cuestionando una pérdida normalmente reservada a la muerte humana.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-12",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "goya-el-ojo-que-escucha-2022",
+        "title": "Goya. El ojo que escucha",
+        "originalTitle": "Goya. El ojo que escucha",
+        "poster": "images/goya-el-ojo-que-escucha-2022.jpg",
+        "director": "José Luis López-Linares",
+        "cast": [
+            "Carlos Saura",
+            "Jean-Claude Carrière",
+            "Julian Schnabel",
+            "Nahal Tajadod",
+            "Luis Antonio González Marín",
+            "Charlotte Chastel-Rousseau",
+            "Guillermo Pérez Villalta",
+            "Pascual Adolfo Lopez Salueña"
+        ],
+        "year": 2022,
+        "duration": 87,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Documental sobre arte"
+        ],
+        "synopsis": "Documental sobre la figura y la obra de Francisco de Goya, explorando su mirada, su proceso creativo y la profunda vigencia de su arte a través del análisis de expertos, artistas y creadores contemporáneos.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-11",
+                "time": "11:30"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-11",
+                "time": "18:15"
+            }
+        ]
+    },
+    {
+        "id": "sesion-de-cortometrajes-terror-2026",
+        "title": "Sesión de Cortometrajes - Terror 2026",
+        "originalTitle": "Sesión de Cortometrajes - Terror 2026",
+        "poster": "images/sesion-cortos-terror-2026.jpg",
+        "director": "Varios directores",
+        "cast": [],
+        "year": "2023-2026",
+        "duration": 75,
+        "country": "España",
+        "genres": [
+            "Terror",
+            "Cortometrajes",
+            "Antología"
+        ],
+        "synopsis": "Sesión especial de cortometrajes de terror (reuniendo obras producidas entre 2023 y 2026) compuesta por cinco piezas:\n\n1. Ahora vuelvo (2023, 13 min.): Dirigido por Lucas Paulino y Gabe Ibáñez. María, una niña de 7 años, se queda sola en casa mientras su madre sale a hacer la compra. Al prolongarse la noche y alguien llamar a la puerta, la pequeña empieza a dudar si quien está al otro lado es realmente su madre o una presencia oscura.\n\n2. Tenéis que verlo (2026, 16 min.): Dirigido por Nacho Solana. Una pareja de treintañeros visita a unos amigos que acaban de tener un bebé. Lo que iba a ser una breve visita de cortesía se convierte en una experiencia perturbadora que revela que ni los padres están tan bien como dicen, ni el recién nacido es tan normal como aparenta.\n\n3. Tinieblas (2025, 15 min.): Dirigido por Raúl Cerezo y Carlos Moriana. Miriam acude a la casa de sus abuelos para recoger ropa tras la repentina hospitalización de su abuela, quien sufre demencia. Al entrar en la vivienda, la atmósfera opresiva y los oscuros recuerdos del desván atenazan a la joven en una espiral de terror psicológico.\n\n4. The Call (2025, 9 min.): Dirigido por Kiko Prada. Sophia trabaja en una compañía de seguros revisando facturas pendientes y, durante su jornada laboral rutinaria, le toca realizar una llamada a Jonathan David Brown que desencadenará una tensa situación de suspense.\n\n5. Mi zona (2023, 19 min.): Dirigido por Cristian Beteta. Paula conduce de madrugada tras una larga fiesta cuando su coche sufre una avería en medio de un solitario paraje desértico. Decidida a esperar asistencia, se verá envuelta en una situación límite donde el azar y la amenaza constante juegan con su supervivencia.",
+        "screenings": [
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-19",
+                "time": "22:30",
+                "version": "Presentación y coloquio"
+            }
+        ]
+    },
+    {
+        "id": "memotest-2026",
+        "title": "Memotest",
+        "originalTitle": "Memotest",
+        "poster": "images/memotest-2026.jpg",
+        "director": "Catalina Cortinez",
+        "cast": [
+            "Violeta Postolski",
+            "Carola Arbós",
+            "Guillermina Broens",
+            "Federico Edelstein"
+        ],
+        "year": "2026",
+        "duration": 86,
+        "country": "Argentina",
+        "genres": [
+            "Comedia"
+        ],
+        "synopsis": "María, una joven estudiante de comedia musical, está convencida de estar perdiendo la memoria. A medida que se adentra en los ensayos de una obra su preocupación se incrementa, junto con una atracción inesperada por Mariángeles, la actriz principal. Una divertida comedia de humor realizada con sus propios medios por un entusiasta grupo de jóvenes.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-14",
+                "time": "17:30",
+                "version": "Coloquio tras la proyección"
+            }
+        ]
+    },
+    {
+        "id": "test-2026",
+        "title": "Test",
+        "originalTitle": "Test",
+        "poster": "images/test-2026.jpg",
+        "director": "Sam McConnell",
+        "cast": [
+            "Brock Yurich",
+            "Matthew Morrison",
+            "Tammy Blanchard",
+            "Mike Edward",
+            "Paloma Garcia-Lee"
+        ],
+        "year": "2026",
+        "duration": 113,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Un joven culturista de la américa profunda tendrá que lidiar con una madre alcohólica, un padre ausente y una inexplicable fe para poder enfrentarse a un deseo que llevaba reprimiendo desde hace mucho tiempo.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-14",
+                "time": "20:00",
+                "version": "Coloquio tras la proyección"
+            }
+        ]
+    },
+    {
+        "id": "cortos-internacionales-iii-2025-2026",
+        "title": "Cortos Internacionales III",
+        "originalTitle": "Cortos Internacionales III",
+        "poster": "images/cortos-internacionales-iii.jpg",
+        "director": "Varios directores",
+        "cast": [],
+        "year": "2025-2026",
+        "duration": 81,
+        "country": "Brasil, India, Estados Unidos, China, Francia",
+        "genres": [
+            "Cortometrajes",
+            "Antología",
+            "Drama"
+        ],
+        "synopsis": "Sesión especial de cortometrajes internacionales (reuniendo obras producidas entre 2025 y 2026) compuesta por cinco piezas:\n\n1. La premiére marche (2025): Victoire, una judoka de 20 años, ve cómo su identidad trans queda al descubierto en pleno torneo. Sonia, su próxima oponente, se niega a enfrentarse a ella, transformando el gimnasio en un campo de batalla de debates sobre equidad y seguridad.\n\n2. Delay (2025): Un padre gay chino intenta asistir a la boda de su hijo heterosexual en París, un viaje con un retraso imprevisible que explora los lazos familiares tras un largo proceso de aceptación y divorcio.\n\n3. Today and Tmrw (2026): Dos mejores amigas, Mariah y Kimberly, navegan por su rutina extraescolar en Nueva York mientras un día corriente da un giro inesperado al salir a la luz sentimientos no expresados entre ellas.\n\n4. UPAASMAAR (Upon Starvation) (2026): Vivek, un carterista en Pune, utiliza la seducción en autobuses abarrotados para robar y satisfacer sus propios deseos, hasta que el encuentro con Kartik, un estudiante que busca una intimidad genuina, desestabiliza su control.\n\n5. Sandra Roque (2026): En una parada de autobús, una mujer sufre un violento estallido tras ser llamada burlonamente 'Jimmy Cliff', desvelando la caótica cadena de hechos y la intensa relación con su pareja, Samira, en torno a una motocicleta.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-17",
+                "time": "17:00",
+                "version": "Coloquio tras la proyección"
+            }
+        ]
+    },
+    {
+        "id": "cortos-nacionales-ii-2025-2026",
+        "title": "Cortos Nacionales II",
+        "originalTitle": "Cortos Nacionales II",
+        "poster": "images/cortos-nacionales-ii.jpg",
+        "director": "Varios directores",
+        "cast": [],
+        "year": "2025-2026",
+        "duration": 74,
+        "country": "España",
+        "genres": [
+            "Cortometrajes",
+            "Antología",
+            "Drama"
+        ],
+        "synopsis": "Sesión especial de cortometrajes nacionales (reuniendo obras producidas entre 2025 y 2026) compuesta por cinco piezas:\n\n1. Los pájaros (2026, 10 min.): Álvaro, un joven nadador de 17 años, vive atrapado entre la exigencia paterna y la violencia familiar, encontrando un frágil refugio en su compañero Jose mientras intenta proteger a los suyos.\n\n2. Blue berri (2025, 17 min.): Celia acoge en su casa a Judit tras haberse separado en mitad de un embarazo, llenando la nevera de arándanos mientras su relación especial evoluciona entre dudas sobre la dirección de su amor.\n\n3. L’horitzó (2026, 20 min.): Dos jóvenes regresan a Barcelona compartiendo una furgoneta, convirtiendo el trayecto en un espacio de reflexión sobre qué modelo de relaciones románticas desean construir.\n\n4. Piedra, papel y tijera (2025, 18 min.): Un aclamado escritor reúne a sus cuatro mejores amigos en una casa de campo para proponerles un juego inquietante: relatar el mejor recuerdo con él para que elija al vencedor del fin de semana.\n\n5. Sra. Antònia (2026, 9 min.): La descolorida y solitaria vida de la Sra. Antònia da un vuelco cuando una pareja de lesbianas se muda enfrente, despertando en ella recuerdos enterrados de su juventud.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-17",
+                "time": "19:00",
+                "version": "Coloquio tras la proyección"
+            }
+        ]
+    },
+    {
+        "id": "el-amor-era-esto-universo-juanma-carrillo-2026",
+        "title": "El amor era esto: Universo Juanma Carrillo",
+        "originalTitle": "El amor era esto: Universo Juanma Carrillo",
+        "poster": "images/el-amor-era-esto-juanma-carrillo.jpg",
+        "director": "Juanma Carrillo",
+        "cast": [],
+        "year": "2026",
+        "duration": 60,
+        "country": "España",
+        "genres": [
+            "Cortometrajes",
+            "Antología"
+        ],
+        "synopsis": "Sesión especial dedicada al universo cinematográfico del director Juanma Carrillo bajo el título 'El amor era esto', compuesta por una selección de seis cortometrajes que exploran las relaciones, los deseos y las complejidades afectivas a través de los títulos: Born Heroes, Consecuente, Caníbales, Andamio, Fuckbuddies y Muero de amor.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-17",
+                "time": "21:15",
+                "version": "Coloquio tras la proyección"
+            }
+        ]
+    },
+    {
+        "id": "cortos-nacionales-iii-2026",
+        "title": "Cortos Nacionales III",
+        "originalTitle": "Cortos Nacionales III",
+        "poster": "images/cortos-nacionales-iii.jpg",
+        "director": "Varios directores",
+        "cast": [],
+        "year": "2026",
+        "duration": 75,
+        "country": "España",
+        "genres": [
+            "Cortometrajes",
+            "Antología",
+            "Drama"
+        ],
+        "synopsis": "Sesión especial de cortometrajes nacionales compuesta por cinco piezas:\n\n1. Demasiado pronto: Clara, una treintañera adicta al trabajo, conoce a Eva, una joven guitarrista a la que acaban de dejar, desencadenando un encuentro que remueve los recuerdos y formas opuestas de vivir el pasado de ambas.\n\n2. El bañador: En el verano de 2003, dos amigos de catorce años, Miguel y Javi, pasan sus días en la piscina entre videojuegos y una apuesta sobre quién aguanta más bajo el agua, transformando su amistad ante los primeros deseos.\n\n3. Entailles de feu: Tras el robo de su corazón a manos de su propia sombra, el ser humano debe volver a aprender a disfrutar de las cosas simples de la vida.\n\n4. Cuerpos celestes: Enzo, un joven solitario decidido a acabar con su vida, es abducido por una fuerza del cielo hacia una nave espacial mientras grababa su carta de suicidio, encontrando a una criatura estelar con quien conecta profundamente.\n\n5. Crudas: Tras una noche de borrachera, Roberta, Valeria y Sandra se despiertan con resaca, un estado de malestar que les lleva a revelar sus facetas más tiernas y dolorosas, fortaleciendo su amistad.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-18",
+                "time": "18:15",
+                "version": "Coloquio tras la proyección - Entrega del Premio MÁS Talento Emergente"
+            }
+        ]
+    },
+    {
+        "id": "elles-2026",
+        "title": "Elles",
+        "originalTitle": "Elles",
+        "poster": "images/elles-2026.jpg",
+        "director": "Natalia González",
+        "cast": [
+            "陳臻 Julie Zhen",
+            "Lola Luna Carabante",
+            "Aroa Rojas",
+            "Helena Marant",
+            "Luar Labarta",
+            "Leo Mulió",
+            "Jose Belmonte",
+            "Sergio Domínguez"
+        ],
+        "year": "2026",
+        "duration": 72,
+        "country": "España",
+        "genres": [
+            "Drama"
+        ],
+        "synopsis": "Lola empieza su transición de género sin una red que la entienda. Una travesti le ayudará a buscar su sitio en una mágica comunidad trans y no binarie donde ciertas hormonas producen metamorfosis animales. Esta ópera prima es una película autofinanciada y producida por un equipo íntegramente compuesto por personas LGTBIQ+.",
+        "screenings": [
+            {
+                "cinema": "Sala Berlanga",
+                "date": "2026-11-18",
+                "time": "20:15",
+                "version": "Coloquio tras la proyección - Premiere mundial"
             }
         ]
     }
