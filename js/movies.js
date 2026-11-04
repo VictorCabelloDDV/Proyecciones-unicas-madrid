@@ -1059,13 +1059,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Hong Kong de 1962, dos vecinos descubren que sus respectivas parejas mantienen una relación y desarrollan entre ellos un vínculo íntimo que nunca llega a convertirse en una relación convencional.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-04",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "isla-de-perros",
@@ -5860,14 +5854,7 @@ const movies = [
             "Música"
         ],
         "synopsis": "Retrato íntimo, libre y musical de Chicho Sánchez Ferlosio, un singular autor, poeta y compositor anarquista que vivía al margen de la industria comercial, cantando sus coplas, canciones populares y reflexiones sobre la vida, la política y la libertad. La película vuelve a las salas tras una restauración llevada a cabo por la ECAM, bajo la supervisión de Javier Mosqueda, a partir del negativo original en 16 mm.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-04",
-                "time": "17:00",
-                "version": "Precio Reducido"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "scanners-ii-the-new-order",
@@ -6011,13 +5998,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-03",
-                "time": "22:10"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ring-zero-birthday-2000",
@@ -7313,13 +7294,7 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "Documental sobre la mítica actriz y cantante Marlene Dietrich. Reacia a dejarse filmar en su vejez, la propia Dietrich colabora en el proyecto únicamente a través de su voz, entablando un complejo duelo dialéctico con el director Maximilian Schell mientras se repasan fragmentos de sus películas, grabaciones de archivo y los mitos de su carrera cinematográfica.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-04",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-director-de-orquesta-1980",
@@ -7815,13 +7790,7 @@ const movies = [
             "Melodrama"
         ],
         "synopsis": "Japón, años 30. Sadako y Heikichi son dos jóvenes campesinos profundamente enamorados cuyos planes de futuro se truncan cuando Sadako es obligada por su familia a casarse con el hijo del terrateniente local, un hombre déspota y desequilibrado. A lo largo de los años marcados por la guerra y los cambios sociales, el acoso implacable del marido y el dolor del amor prohibido desatarán una espiral de tragedia y venganza que perdurará décadas.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-04",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ander-eta-yul-1988",
@@ -7940,13 +7909,7 @@ const movies = [
             "Sátira"
         ],
         "synopsis": "En esta nueva entrega centrada en la excéntrica bailarina Lily Carmen, la trama vuelve a incidir con ironía y ligereza en la fascinación y los malentendidos que provoca la modernidad occidental en la sociedad japonesa tradicional, combinando números musicales, enredos amorosos y una aguda crítica de las costumbres de la época.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-03",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-ultimo-1924",
@@ -8560,13 +8523,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "Una adolescente pasa el verano en casa de sus abuelos en Mallorca. Las vacaciones se ven alteradas de forma repentina por la muerte de su abuela. Incapaz de procesar el dolor de la pérdida, la joven comienza a vestirse con su ropa y a hacerse pasar por ella, un juego insólito que poco a poco empieza a desdibujar los límites de la realidad y se convierte en una poderosa y fantasmagórica exploración del duelo.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga", 
-                "date": "2026-11-04",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
 {
         "id": "salen-las-lobas-2026",
@@ -8936,14 +8893,7 @@ const movies = [
             "Clásico"
         ],
         "synopsis": "En los sótanos de la Ópera de París vive oculto el misterioso Erik, un hombre con el rostro desfigurado y una voz de ángel que está obsesionado con la joven soprano Christine Daaé, a la que promete convertir en la estrella de la compañía mediante métodos aterradores y despiadados.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-03",
-                "time": "22:00",
-                "version": "Cine mudo con intertitulos en español"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "munch-y-sus-criaturas-fantasticas-2023",
@@ -8984,14 +8934,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Violette y Florence ya no logran comprender lo que les está sucediendo. Ambas vecinas están atormentadas por una sensación de fracaso: a pesar de tener carreras profesionales exitosas y familias consolidadas, no son felices. ¿Y si la felicidad consistiera en rebelarse contra una sociedad rígida, obsesionada con el rendimiento, eligiendo a veces la satisfacción inmediata en lugar del éxito, y la libertad en lugar de hacer siempre lo correcto? En un mundo donde divertirse está muy lejos de ocupar los primeros puestos en la lista de prioridades, vivir una aventura con el repartidor puede convertirse en un acto revolucionario. Para Violette y Florence, es ese soplo de aire fresco que tanto tiempo llevaban esperando.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-04",
-                "time": "19:00",
-                "version": "Coloquio posterior con Vanessa-Tatjana Beerli"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-pupil-2025",
@@ -9571,11 +9514,6 @@ const movies = [
         ],
         "synopsis": "Chile, 1992. Mientras se aloja en el remoto hotel de sus abuelos, cerca de una estación de esquí de los Andes, Inés (9) entabla amistad con Hanna (15), una esquiadora alemana. Cuando Hanna desaparece sin dejar rastro, la búsqueda de la joven saca a la luz verdades ocultas.",
         "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-04",
-                "time": "18:30"
-            },
             {
                 "cinema": "Casa de América",
                 "date": "2026-11-05",
@@ -10486,13 +10424,7 @@ const movies = [
             "Cine negro"
         ],
         "synopsis": "Terry Malloy es un estibador portuario y antiguo boxeador fracasado que trabaja para Johnny Friendly, un corrupto jefe mafioso que controla el sindicato del puerto. Cuando Terry se enamora de Edie Doyle, la hermana de un hombre asesinado por los matones del sindicato por intentar denunciar la corrupción, experimenta una profunda crisis de conciencia. Dividido entre la lealtad al código del silencio y su deseo de justicia, Terry tendrá que decidir si se atreve a testificar.",
-        "screenings": [
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-11-03",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "sospecha-1941",
@@ -11248,7 +11180,14 @@ const movies = [
             "Remake"
         ],
         "synopsis": "Una revisión cruda y visceral del clásico de terror de John Carpenter dirigida por Rob Zombie. La película explora con mayor profundidad los oscuros y traumáticos años de infancia de Michael Myers en Haddonfield, desde su brutal asesinato en la noche de Halloween siendo un niño de diez años hasta su posterior fuga del sanatorio psiquiátrico quince años más tarde, dispuesto a regresar a casa para encontrar a su hermana pequeña.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-07",
+                "time": "12:00",
+                "version": "Programa doble con Halloween II"
+            }
+        ]
     },
     {
         "id": "halloween-ii-2009",
@@ -11273,7 +11212,14 @@ const movies = [
             "Secuela"
         ],
         "synopsis": "Secuela directa de la versión de Rob Zombie. Tras los sangrientos acontecimientos de la noche de Halloween anterior, Michael Myers regresa a Haddonfield obsesionado con reunirse con su hermana Laurie Strode. Mientras Laurie intenta lidiar con el profundo trauma psicológico y las secuelas de la masacre, un nuevo ciclo de terror y violencia desmedida se desata con el misterioso y sangriento retorno del asesino enmascarado.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-07",
+                "time": "12:00",
+                "version": "Programa doble con Halloween I"
+            }
+        ]
     },
     {
         "id": "la-maldicion-cursed-2005",
@@ -11984,18 +11930,7 @@ const movies = [
             "Biografía"
         ],
         "synopsis": "Documental que narra la evolución de Perugino a caballo entre la arquitectura de Piero della Francesca y su aprendizaje en el taller de Verrocchio en Florencia. La película busca devolver al artista al lugar que le corresponde en la historia del arte con motivo del 500 aniversario de su muerte, mostrando además la creación de dos salas dedicadas a su obra en la Galería Nacional de Umbría y el proceso de restauración de sus pinturas.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-11-04",
-                "time": "11:30"
-            },
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-11-04",
-                "time": "18:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-carn-2025",
@@ -13194,12 +13129,6 @@ const movies = [
         ],
         "synopsis": "Roberto es un vividor que lleva una vida desordenada y bohemia en bares y tabernas de los barrios bajos, en donde se dedica a cantar y a jugar a las cartas, intentando embaucar a pardillos para sacar una tajada. Un día Alina, una joven profesora de piano, le oye cantar y le presenta una nueva perspectiva profesional que puede cambiar la vida de Roberto para siempre.",
         "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-03",
-                "time": "17:30",
-                "version": "Presentación del libro “¡Al Hollywood parisino!” a cargo de Santiago Aguilar y Felipe Cabrerizo"
-            },
             {
                 "cinema": "Cine Doré",
                 "date": "2026-11-28",
@@ -14476,12 +14405,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-04",
-                "time": "19:00",
-                "version": "Presentación y coloquio"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-11-05",
                 "time": "22:00",
                 "version": "Precio reducido"
@@ -14561,14 +14484,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Vicky es pescador de día y de noche es dueña de un bar. A través de ella conocemos una comunidad trans que forma parte de un pueblo de pescadores en la costa del Ecuador. ¿Con el tiempo aprendemos a aceptar al otro o, por el contrario, las diferencias nublan nuestra capacidad de mirar?",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-03",
-                "time": "19:30",
-                "version": "Proyección con presentación y coloquio"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vidas-pasadas-2023",
@@ -14968,5 +14884,68 @@ const movies = [
             }
         ]
     },
-    
+    {
+        "id": "el-jorobado-de-notre-dame-1923",
+        "title": "El jorobado de Notre Dame",
+        "originalTitle": "The Hunchback of Notre Dame",
+        "poster": "images/el-jorobado-de-notre-dame-1923.jpg",
+        "director": "Wallace Worsley",
+        "cast": [
+            "Lon Chaney",
+            "Patsy Ruth Miller",
+            "Norman Kerry",
+            "Cully Richards",
+            "Excelsior Tower",
+            "Virginia Pearson"
+        ],
+        "year": 1923,
+        "duration": 110,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Cine mudo",
+            "Romance",
+            "Terror"
+        ],
+        "synopsis": "Adaptación clásica de la célebre novela de Victor Hugo. Ambientada en el París del siglo XV, narra la trágica historia de Quasimodo, el deforme campanero de la catedral de Notre Dame, y su devoción por la bondadosa gitana Esmeralda, mientras se ve envuelto en las intrigas y maquinaciones del malvado Jehan y el archidiácono Frollo.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-06",
+                "time": "22:00",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "la-caida-de-la-casa-usher-1928",
+        "title": "La caída de la casa Usher",
+        "originalTitle": "La Chute de la maison Usher",
+        "poster": "images/la-caida-de-la-casa-usher-1928.jpg",
+        "director": "Jean Epstein",
+        "cast": [
+            "Jean Debucourt",
+            "Charles Lamy",
+            "Margarita Gance",
+            "Fournez-Goffard"
+        ],
+        "year": 1928,
+        "duration": 63,
+        "country": "Francia",
+        "genres": [
+            "Terror",
+            "Cine mudo",
+            "Drama",
+            "Fantástico"
+        ],
+        "synopsis": "Adaptación maestra del célebre relato de Edgar Allan Poe dirigida por el vanguardista Jean Epstein. La historia sigue a un hombre que viaja a una sombría y apartada mansión para visitar a su amigo Roderick Usher, quien se encuentra obsesionado con pintar a su enfermiza esposa Madeleine, atrapada en una atmósfera de locura, decadencia y presagios fúnebres.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-07",
+                "time": "22:55",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    }
 ]
