@@ -67,12 +67,6 @@ const movies = [
                 "cinema": "mk2 Cine Paz",
                 "date": "2026-11-12",
                 "time": "20:00"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-04",
-                "time": "22:00",
-                "version": "Doblada al español"
             }
         ]
     },
@@ -8548,13 +8542,7 @@ const movies = [
             "Musical"
         ],
         "synopsis": "Luna, una adolescente de quince años, es enviada a un centro de internamiento juvenil tras ser acusada por su padre de malos tratos. Allí conoce a Yanira, Rocío y Melissa, tres internas con las que formará una amistad que cambiará su manera de enfrentarse al mundo. Cuando descubren su talento para la música, las cuatro se embarcan en el sueño de triunfar en un concurso de trap en Barcelona. Juntas, se convertirán en “Las Lobas” y encontrarán una vía de escape y una nueva familia dentro de un sistema que intenta someterlas.",
-        "screenings": [
-            {
-                "cinema": "Sala Berlanga",
-                "date": "2026-11-04",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "mary-anning-y-la-playa-de-los-dinosaurios-2025",
@@ -9541,13 +9529,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "René, una adolescente solitaria, insegura y rebelde, huye de sus sofocantes padres ante el mar de dudas en que se ahoga. Eso la llevará a recorrer un trayecto de dos mil kilómetros hacia Ciudad Juárez donde presiente que algo la llama y que supondrá también un revelador viaje interior.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-04",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ah-girl-2026",
@@ -10267,14 +10249,7 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "La suplantación de identidad puede ser muy adictiva. Una limpiadora sueña con una vida más emocionante. Una noche, se hace pasar por mecenas de arte y atrae a dos estudiantes de arte a la casa vacía de su empleadora. Embriagada por su posición de poder, se deja arrastrar cada vez más por el engaño. Pero el juego, aparentemente inocente, pronto corre el riesgo de tener graves consecuencias.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-04",
-                "time": "20:00",
-                "version": "Coloquio posterior con la directora"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "sangre-facil-1984",
@@ -11870,13 +11845,7 @@ const movies = [
             "Basado en hechos reales"
         ],
         "synopsis": "Año 1967. Susanna Kaysen, como la mayoría de las chicas de su edad, se siente confusa, insegura y lucha por entender el mundo que la rodea. Tras diagnosticarle un trastorno de la personalidad, su psiquiatra decide ingresarla en el Hospital Claymoore. Allí, Susanna conoce a Lisa, Georgina, Polly y Janet, un grupo de chicas inadaptadas con las que entabla una estrecha amistad y que, además, le muestran el camino para encontrarse a sí misma.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-04",
-                "time": "22:20"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "llueve-sobre-babel-2026",
@@ -13156,14 +13125,7 @@ const movies = [
             "Cine mudo"
         ],
         "synopsis": "Una de las obras maestras del cine mudo de la pionera directora italiana Elvira Notari, ambientada en Nápoles. Nanninella está enamorada de Tore, pero su brutal y alcohólico padre no aprueba la relación, favoreciendo las pretensiones de Carluccio, quien le proporciona bebida gratis. La sesión incluye la proyección del cortometraje 'L'Italia s'è desta' (Elvira Notari, 1927) y cuenta con música en directo a cargo del pianista Marcos Ortiz Casas. Duración total de la sesión 90'.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-04",
-                "time": "20:30",
-                "version": "Presentación a cargo de Carlota Álvarez Basso"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "nobleza-baturra-1935",
@@ -14944,6 +14906,211 @@ const movies = [
                 "cinema": "Artistic Metropol",
                 "date": "2026-11-07",
                 "time": "22:55",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "halloween-iii-1982",
+        "title": "Halloween III: El temporada de la bruja",
+        "originalTitle": "Halloween III: Season of the Witch",
+        "poster": "images/halloween-iii-1982.jpg",
+        "director": "Tommy Lee Wallace",
+        "cast": [
+            "Tom Atkins",
+            "Stacey Nelkin",
+            "Dan O'Herlihy",
+            "Michael Currie",
+            "Ralph Strait",
+            "Essex Smith"
+        ],
+        "year": 1982,
+        "duration": 98,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Ciencia ficción",
+            "Misterio"
+        ],
+        "synopsis": "A diferencia de las demás entregas de la saga, esta secuela no sigue al asesino Michael Myers. Un médico de urgencias y la hija de una víctima investigan una misteriosa fábrica de máscaras de Halloween en un pequeño pueblo de California, descubriendo un siniestro complot tecnológico ideado por su propietario para sacrificar a los niños durante la noche de Halloween mediante unas máscaras conectadas a un fragmento de Stonehenge.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-08",
+                "time": "22:00"
+            }
+        ]
+    },
+    {
+        "id": "la-casa-del-horror-1927",
+        "title": "La casa del horror",
+        "originalTitle": "London After Midnight",
+        "poster": "images/la-casa-del-horror-1927.jpg",
+        "director": "Tod Browning",
+        "cast": [
+            "Lon Chaney",
+            "Polly Moran",
+            "Henry B. Walthall",
+            "Marceline Day",
+            "Conrad Nagel",
+            "Edna Tichenor",
+            "Claude King",
+            "Andy MacLennan"
+        ],
+        "year": 1927,
+        "duration": 72,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Cine mudo",
+            "Vampiros",
+            "Misterio"
+        ],
+        "synopsis": "La casa abandonada de un hombre asesinado es ocupada por un grupo de espectrales figuras. ¿Serán vampiros? El inspector Burke investiga a un sospechoso que, bajo hipnosis, puede estar cometiendo nuevos crímenes disfrazado de vampiro.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-09",
+                "time": "20:00",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "el-mago-rojo-1929",
+        "title": "El mago rojo",
+        "originalTitle": "The Last Performance",
+        "poster": "images/el-mago-rojo-1929.jpg",
+        "director": "Pál Fejös",
+        "cast": [
+            "Conrad Veidt",
+            "Mary Philbin",
+            "Leslie Fenton",
+            "Fred MacKaye",
+            "Gusztáv Pártos",
+            "William H. Turner",
+            "Anders Randolf",
+            "Sam De Grasse",
+            "George Irving"
+        ],
+        "year": 1929,
+        "duration": 60,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Terror",
+            "Romance",
+            "Cine mudo"
+        ],
+        "synopsis": "Mago de fama internacional, Erik den Store se ha enamorado de su linda asistente Julie Fergeron, pero aunque ella demuestra un gran aprecio por él, su corazón se inclinará por Mark Royce, el joven ayudante que el mago emplea tras encontrarlo robando en su cuarto de hotel. Así comienza una historia de celos y tragedia.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-09",
+                "time": "21:30",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "el-estudiante-de-praga-1926",
+        "title": "El estudiante de Praga",
+        "originalTitle": "Der Student von Prag",
+        "poster": "images/el-estudiante-de-praga-1926.jpg",
+        "director": "Henrik Galeen",
+        "cast": [
+            "Conrad Veidt",
+            "Eliza Landi",
+            "Agnes Esterhazy",
+            "Fritz Alberti",
+            "Werner Schott",
+            "Marianne Winkelstern"
+        ],
+        "year": 1926,
+        "duration": 94,
+        "country": "Alemania",
+        "genres": [
+            "Terror",
+            "Fantástico",
+            "Cine mudo",
+            "Expresionismo alemán"
+        ],
+        "synopsis": "Obra cumbre del expresionismo alemán dirigida por Henrik Galeen y protagonizada por Conrad Veidt. Balduin, un estudiante pobre pero excelente esgrimista, hace un pacto fáustico con el misterioso y maquiavélico Scapinelli: a cambio de una gran fortuna, le cede su reflejo en el espejo. Sin embargo, su propio doble cobrará vida propia para atormentarlo y destruir su vida amorosa y social.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-10",
+                "time": "22:00",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "las-manos-de-orlac-1924",
+        "title": "Las manos de Orlac",
+        "originalTitle": "Orlacs Hände",
+        "poster": "images/las-manos-de-orlac-1924.jpg",
+        "director": "Robert Wiene",
+        "cast": [
+            "Conrad Veidt",
+            "Alexandra Sorina",
+            "Fritz Kortner",
+            "Carmen Cartellieri",
+            "Paul Askonas",
+            "Hans Homma"
+        ],
+        "year": 1924,
+        "duration": 93,
+        "country": "Austria",
+        "genres": [
+            "Terror",
+            "Cine mudo",
+            "Expresionismo alemán",
+            "Thriller"
+        ],
+        "synopsis": "Obra maestra indiscutible del expresionismo alemán dirigida por Robert Wiene. Paul Orlac, un virtuoso pianista, pierde sus manos en un terrible accidente de tren. Tras someterse a una operación quirúrgica experimental, le trasplantan las manos de un asesino ejecutado recientemente. Poco después, Orloc comienza a sentir que sus nuevas manos cobran voluntad propia y tienen impulsos homicidas.",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-11",
+                "time": "22:10",
+                "version": "Muda con intertítulos en español"
+            }
+        ]
+    },
+    {
+        "id": "el-legado-tenebroso-1927",
+        "title": "El legado tenebroso",
+        "originalTitle": "The Cat and the Canary",
+        "poster": "images/el-legado-tenebroso-1927.jpg",
+        "director": "Paul Leni",
+        "cast": [
+            "Laura La Plante",
+            "Creighton Hale",
+            "Forrest Stanley",
+            "Tully Marshall",
+            "Gertrude Astor",
+            "Flora Finch",
+            "Arthur Edmund Carewe",
+            "Martha Mattox",
+            "George Siegmann",
+            "Lucien Littlefield"
+        ],
+        "year": 1927,
+        "duration": 82,
+        "country": "Estados Unidos",
+        "genres": [
+            "Terror",
+            "Intriga",
+            "Comedia de terror",
+            "Cine mudo"
+        ],
+        "synopsis": "Los parientes del viejo rico Cyrus West están esperando su muerte para heredar. Pero el viejo Cyrus estipula que su voluntad deberá ser leída 20 años después de su muerte. Durante el día designado, sus expectantes herederos llegan a su mansión. La voluntad es leída y resulta que la única heredera es Annabelle West, siempre y cuando ella demuestre que está cuerda. Si no fuese así, el dinero y algunos diamantes irían a parar a otra persona, cuyo nombre está en un sobre sellado...",
+        "screenings": [
+            {
+                "cinema": "Artistic Metropol",
+                "date": "2026-11-12",
+                "time": "22:00",
                 "version": "Muda con intertítulos en español"
             }
         ]
