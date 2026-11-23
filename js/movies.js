@@ -69,14 +69,7 @@ const movies = [
             "Acción"
         ],
         "synopsis": "En un Neo-Tokio devastado, un joven motorista desarrolla poderes telequinéticos que amenazan con desatar una catástrofe de proporciones inimaginables.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-19",
-                "time": "22:00",
-                "version": "Doblada al español"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "american-beauty",
@@ -685,13 +678,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Eddie Felson, un joven y arrogante jugador de billar, recorre las salas de juego buscando enfrentarse al legendario Gordo de Minnesota para demostrar que es el mejor, mientras su relación con una mujer solitaria pone a prueba su ambición.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-11-23",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-castillo-ambulante",
@@ -1717,14 +1704,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "Ponyo, una pequeña criatura marina que sueña con convertirse en humana, conoce al niño Sosuke y desarrolla un fuerte vínculo con él, desencadenando una serie de acontecimientos mágicos junto al mar.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "16:00",
-                "version": "Doblada al español"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "por-un-punado-de-dolares",
@@ -2220,14 +2200,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Fred Madison, un músico de jazz que vive con su esposa Renee, recibe unos misteriosos vídeos que muestran lo que ocurre dentro de su propia casa. Tras ser acusado del asesinato de su mujer, Fred desaparece inexplicablemente de su celda y en su lugar aparece un joven mecánico que lleva una vida completamente diferente.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-19",
-                "time": "22:00",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     }, 
     {
         "id": "la-virgen-de-agosto",
@@ -2297,14 +2270,7 @@ const movies = [
             "Aventura"
         ],
         "synopsis": "En los años 50, una familia japonesa se traslada al campo. Las dos hijas, Satsuki y Mei, entablan amistad con Totoro, un espíritu del bosque, y viven fantásticas aventuras en un entorno natural lleno de magia.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "16:00",
-                "version": "Doblada al español"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "pastoris",
@@ -2648,13 +2614,7 @@ const movies = [
             "Terror"
         ],
         "synopsis": "Un extraterrestre cazador llega a una calurosa ciudad de Los Ángeles sumida en una brutal guerra entre bandas de narcotraficantes. Un veterano policía intentará atrapar a la criatura antes de convertirse en su próxima presa.",
-        "screenings": [
-            {
-                "cinema": "mk2 Cine Paz",
-                "date": "2026-11-21",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "horizonte-final",
@@ -5997,14 +5957,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "Henry Spencer es un joven empleado que vive en un sombrío y lúgubre entorno industrial. Un día descubre que su antigua novia ha dado a luz a un mutante deforme que parece un extraño reptil recién nacido. Atrapado en una pesadilla de ansiedad, culpa y extrañas visiones domésticas, Henry deberá afrontar su angustiosa paternidad.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-23",
-                "time": "16:00",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ring-zero-birthday-2000",
@@ -7913,13 +7866,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "Un anciano trabaja como portero en un lujoso hotel y siente un enorme orgullo por su empleo y, sobre todo, por el vistoso uniforme que representa su posición. En el humilde barrio donde vive, sus vecinos lo respetan precisamente por esa apariencia de autoridad y prestigio. Pero cuando sus superiores consideran que ya es demasiado mayor para desempeñar su tarea, lo relegan a trabajar como encargado de los lavabos. Incapaz de admitir su nueva situación ante quienes lo rodean, intenta mantener las apariencias.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-20",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-madrastra-1953",
@@ -8292,14 +8239,7 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "Tras la muerte de la matriarca de la familia Graham, su hija y su familia comienzan a desentrañar una serie de secretos terroríficos y oscuros sobre su ascendencia. A medida que descubren una herencia maldita y siniestra, una presencia maligna y opresiva empieza a consumir sus vidas, arrastrándolos a una espiral de dolor, locura y tragedia sobrenatural de la que es imposible escapar.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-19",
-                "time": "21:30",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "napoleon-en-el-nombre-del-arte-2021",
@@ -9098,13 +9038,7 @@ const movies = [
             "Cine biográfico"
         ],
         "synopsis": "Sarah deja atrás su apasionante vida como activista y artista en el San Francisco de los noventa cuando se ve obligada a regresar a su pequeña y conservadora ciudad, de la que huyó hace unos años, al enterarse de que el Alzheimer ha empezado a socavar la vibrante personalidad de su madre. Obligada a madurar a toda velocidad, deberá compaginar una nueva relación, sus ambiciones profesionales y una familia de lo más excéntrica, con la que hace un viaje de ida y vuelta a México en un último esfuerzo para convencerles de que se tomen la situación en serio. Frente a una realidad desconcertante que no puede controlar, Sarah no tendrá más remedio que encontrar un equilibrio aceptando el deterioro de su madre y la maravillosa imperfección de su familia, si quiere ser la hija que necesitan.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-21",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "woman-unknown-2026",
@@ -10578,7 +10512,13 @@ const movies = [
             "Cine de culto"
         ],
         "synopsis": "En pleno invierno en Tokio, tres personas sin hogar —Gin, un alcohólico cascarrabias; Hana, una mujer trans que antaño fue corista; y Miyuki, una joven que huyó de su casa— rebuscan en la basura durante la Nochebuena. Inesperadamente, encuentran a un bebé abandonado entre los desperdicios junto a una nota y algunas pistas sobre su madre. Deciden entonces emprender una delirante y entrañable aventura por toda la ciudad para encontrar a los padres de la criatura, enfrentándose en el camino a los fantasmas de su propio pasado.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-03",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "fanny-y-alexander-1982",
@@ -10602,7 +10542,13 @@ const movies = [
             "Cine de autor"
         ],
         "synopsis": "En la Upsala de principios del siglo XX, los hermanos Fanny y Alexander Ekdahl viven felices en el seno de una gran, teatral y acomodada familia dirigida por la matriarca Helena. Sin embargo, tras la repentina muerte de su padre, su madre Emilie contrae matrimonio con un austero, rígido y puritano obispo. Los niños se mudan a la sombriza residencia episcopal, donde el férreo control y los castigos del padrastro sumergen sus vidas en una pesadilla de la que intentarán escapar con la ayuda de la magia y el amor de los suyos.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-01",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "sesion-cortometrajes-terror-renoir-2026",
@@ -10695,13 +10641,7 @@ const movies = [
             "Cine asiático"
         ],
         "synopsis": "Dos historias de amor paralelas ambientadas en el bullicioso y melancólico distrito de Tsim Sha Tsui, en Hong Kong. La primera sigue a un joven policía obsesionado con su expareja que conoce a una misteriosa mujer fatal con peluca rubia y gabardina. La segunda se centra en otro apático agente de policía cuya novia azafata le ha dejado, y cuya vida da un giro cuando una peculiar y alegre empleada de un puesto de comida rápida se obsesiona discretamente con él, colándose clandestinamente en su apartamento.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-19",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "lawrence-de-arabia-1962",
@@ -10752,18 +10692,7 @@ const movies = [
             "Cine clásico"
         ],
         "synopsis": "De regreso a la Tierra, la nave de carga comercial Nostromo intercepta una transmisión de socorro desconocida procedente de un planeta cercano y desolado. Siguiendo las directrices de la compañía, la tripulación decide investigar el origen de la señal. Durante la exploración, uno de los tripulantes es atacado por una extraña criatura con forma de parásito que se adhiere a su rostro. Aunque inicialmente parece recuperarse, un terrorífico organismo alienígena estalla de su pecho durante una comida, sembrando el pánico y convirtiendo la nave en una trampa mortal claustrofóbica donde nadie está a salvo.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "12:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "12:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "esencia-de-mujer-1992",
@@ -10908,6 +10837,11 @@ const movies = [
                 "cinema": "Cines Embajadores",
                 "date": "2026-12-27",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-15",
+                "time": "20:00"
             }
         ]
     },
@@ -11679,13 +11613,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Andrés, un hombre de mediana edad, atraviesa una crisis vital acentuada por su fracaso profesional. Tras quedarse sin hogar y verse obligado a dormir en su coche, regresa a su pueblo natal después de muchos años. Entre reencuentros con amores del pasado, amistades de la adolescencia y conflictos familiares sin resolver, Andrés oculta su realidad mientras busca un refugio desde el que rehacer su vida.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-19",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ghost-in-the-machine-2026",
@@ -11779,6 +11707,36 @@ const movies = [
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-11-27",
                 "time": "17:00"
+            },
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-11-28",
+                "time": "12:00",
+                "version": "Coloquio con Ione Hernández Sáenz"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-24",
+                "time": "19:30",
+                "version": "Coloquio presencial con Ione Hernández Sáenz,Elena Anaya y Emma Suárez - Renoir Retiro"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-24",
+                "time": "19:30",
+                "version": "Coloquio online con Ione Hernández Sáenz,Elena Anaya y Emma Suárez - Renoir Plaza de España"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-12-28",
+                "time": "18:00",
+                "version": "Coloquio con Ione Hernández Sáenz,Elena Anaya y Emma Suárez"
+            },
+            {
+                "cinema": "mk2 Cine Paz",
+                "date": "2026-12-28",
+                "time": "20:30",
+                "version": "Presentación previa a la película"
             }
         ]
     },
@@ -11823,13 +11781,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "María ha tenido una revelación que le ha cambiado la vida. Se obsesiona con la tejeduría tradicional y comienza un particular viaje, visitando diferentes tejedoras en Galicia y Portugal, con el objetivo de conocer los secretos de esta labor artesanal que ella quiere dar a conocer a todo el mundo. Descubrirá que los hilos de la tejeduría lo conectan todo, todo son códigos que se pueden tejer.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-20",
-                "time": "20:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "filipinana-2026",
@@ -11851,18 +11803,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "En medio de un calor sofocante y una sequía generalizada, Isabel, una joven ilocana de 17 años, trabaja en un lujoso club de campo a las afueras de Manila preparando pelotas de golf para hombres influyentes. Al intentar devolver un palo extraviado a su director, Isabel se adentra en los rincones más exclusivos del complejo, descubriendo las violentas verdades ocultas tras sus impolutas instalaciones.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-19",
-                "time": "20:30"
-            },
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-21",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "las-mantis-2026",
@@ -11886,19 +11827,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Aitana es una niña de trece años que pasará el verano en casa de su tío en el pueblo tras la muerte de su madre. Allí conoce a su primo Lope, un chico introvertido obsesionado con los insectos y los fantasmas, y a Cecilia, una misteriosa niña muda que ayuda en la casa. A través de juegos escalofriantes y escapadas al bosque, los primos reviven un verano en el que dejan atrás la infancia y se convierten en niños salvajes, mientras Aitana comprende la muerte de su madre gracias al espíritu guía conocido como el Dios del bosque.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-20",
-                "time": "19:00",
-                "version": "Coloquio posterior con Dídac Gimeno"
-            },
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-21",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "hoxe-e-o-resto-do-mundo-2026",
@@ -11918,14 +11847,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Una película que nos sumerge en el periplo vital y artístico de Isaac Díaz Pardo y Mimina Arias de Castro, fundadores del Laboratorio de Formas (Sargadelos). A través de infinidad de archivos, viajamos entre Galicia y el exilio por el arte, la memoria histórica, el diseño, la arquitectura y el pensamiento de vanguardia y, por encima de todo, el humanismo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-20",
-                "time": "20:00",
-                "version": "Coloquio posterior con Cecilia Díaz Betz"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "yastay-2026",
@@ -11943,13 +11865,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Dos siglos después del histórico cruce de los Andes que condujo a la liberación de Sudamérica de la colonización española, un grupo de ingenieros y arrieros andinos emprende una expedición a través de la cordillera para liberar a un robot.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-20",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-gran-fiesta-del-cine-2026",
@@ -11973,19 +11889,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Cinco años después de rodar una película experimental sin presupuesto, el equipo de artistas y técnicos se reúne para celebrar su inesperado éxito y decidir qué hacer con los beneficios generados en salas y plataformas.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-20",
-                "time": "21:00",
-                "version": "Coloquio posterior con Toni Agustí, María S. Torregrosa y Hugo Serra, distribuidor"
-            },
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-22",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "la-muerte-de-dracula-2026",
@@ -12009,19 +11913,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Mina está enferma y, al intentar ganar dinero vendiendo su sangre, conoce a Drácula. Juntos recorren la ciudad de noche compartiendo confesiones en una última jornada donde él busca el fin de su condena y ella escapar de la muerte. Sin embargo, Mina descubre que el vampiro encarna siglos de violencia y un patriarcado en ruinas, viendo en su transformación la oportunidad de acabar con el viejo monstruo y representar un mito renovado. La sesión incluirá la proyección del cortometraje 'Ultra Todo' (Marina Maesso, Casandra Macías Gago, España, 15').",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-21",
-                "time": "18:30",
-                "version": "Coloquio posterior con Fernando Martínez (Burnin' Percebes), Marina Maesso y Casandra Macías Gago (Ultra Todo)"
-            },
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-22",
-                "time": "13:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "un-eclipse-y-el-caos-2025",
@@ -12039,14 +11931,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "En medio de la noche, las directoras se adentran en un bosque oscuro donde unas risas infantiles las conducen hacia el día. Tras los juegos de los niños en la naturaleza, un presagio de la abuela se cumple con un eclipse total de sol y un incendio. Poco después llega el confinamiento por el COVID-19, sumergiendo a los menores en pantallas. Un segundo sueño de la abuela y la llegada de la primavera rompen el ciclo oscuro, celebrando el regreso de la luz y la persistencia intacta de la infancia.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-21",
-                "time": "19:00",
-                "version": "Presentación y coloquio posterior con Dubi Cano y Samantha Cabrera"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "simulacro-2026",
@@ -12068,19 +11953,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Un director regresa a la casa de su infancia para recrear, con actores, la discusión que provocó la ruptura de sus padres cuando él tenía cuatro años. A través de la improvisación y un rodaje que revela su propio artificio, construye recuerdos a los que nunca tuvo acceso. Pero a medida que repite la escena, las indicaciones se vuelven inestables y la frontera entre reconstrucción y deseo comienza a desdibujarse.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-21",
-                "time": "19:00",
-                "version": "Coloquio posterior con Nitya López Saitua"
-            },
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-22",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cristina-y-los-otros-mundos-2026",
@@ -12099,14 +11972,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Retrato complejo, irreverente y lúcido de la escritora y periodista Cristina Fernández Cubas —Premio Nacional de Narrativa y Premio Nacional de las Letras Españolas—, una figura clave cuya trayectoria configura uno de los universos literarios más singulares de la cultura española contemporánea, defendiendo siempre la intensidad frente a la extensión.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-22",
-                "time": "17:30",
-                "version": "Coloquio posterior con Cristina Andreu y Cristina Fernández Cubas, moderado por Isabel Coixet, productora del documental"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cantics-a-la-penombra-2026",
@@ -12124,13 +11990,7 @@ const movies = [
             "Cine independiente"
         ],
         "synopsis": "Carme se muda a un pueblo del interior de Cataluña donde aún perdura la memoria de las mujeres ajusticiadas como brujas, que en realidad eran curanderas y parteras. A través de Joana, la niña de ocho años a la que cuida, Carme comienza a transitar umbrales invisibles mediante sueños compartidos, conectando el presente con los ecos de aquellas mujeres que caminaban hacia la resistencia y el saber colectivo.",
-        "screenings": [
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-22",
-                "time": "18:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "rose-2026",
@@ -12155,46 +12015,6 @@ const movies = [
         ],
         "synopsis": "Siglo XVII en un aislado pueblo en el corazón de Europa. La verdadera historia de una estafadora e impostora que, pese a haber nacido mujer, adoptó la apariencia de un hombre y con un nombre falso cometió toda clase de abyectas infamias.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-20",
-                "time": "17:35",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-20",
-                "time": "22:25",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "20:35",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "19:00",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cineteca Madrid",
-                "date": "2026-11-22",
-                "time": "19:30"
-            },
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-22",
-                "time": "20:00"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-23",
-                "time": "18:30",
-                "version": "Embajadores Río"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-11-25",
@@ -12648,7 +12468,13 @@ const movies = [
             "Sobrenatural"
         ],
         "synopsis": "A los doctores Venkman, Stantz y Spengler, expertos en parapsicología, no les conceden una beca de investigación que habían solicitado. Al encontrarse sin trabajo, deciden fundar la empresa 'Los Cazafantasmas', dedicada a limpiar Nueva York de ectoplasmas. El aumento repentino de apariciones espectrales en la ciudad será el presagio de la llegada de un peligroso y poderoso demonio.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-10",
+                "time": "20:00"
+            }
+        ]
     },
     {
         "id": "macario-1960",
@@ -12768,13 +12594,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el viejo puerto de Marsella, Marius sueña con embarcarse en un largo viaje para conocer mundo, a pesar de trabajar en el bar de su padre, César. Su profundo amor por Fanny, una joven vendedora de marisco, y el afecto de un honrado comerciante maduro que compite por su mano, crearán un intenso dilema entre la lealtad familiar, el amor y la llamada irrefrenable de la aventura marinera.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-20",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "fantasia-e-surdate-1927",
@@ -12877,13 +12697,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Olga es una mujer independiente que da clases de literatura feminista y vive con una pianista de origen inmigrante. Se hará amiga de Ruth, una pintora que es todo lo contrario: casada con Franz, es retraída, tan excéntrica que parece tener algún tipo de trastorno, e incluso fantasea con el suicidio. Pero entre ambas surge una conexión profunda que incluso provocará los celos del marido de Ruth. Duración total de la sesión 125'.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-20",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "honey-2025",
@@ -13303,13 +13117,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Durante un verano, Chiara Mastroianni, hija de las estrellas de cine Marcello Mastroianni y Catherine Deneuve, decide metamorfosearse en su padre, de manera que se viste como él, se peina y caracteriza como él, gesticula y habla como él... Lo imita con tal perfección que algunos empiezan a llamarle Marcello.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-19",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "cortos-latinos-raices-aromas-y-color-2021-2025",
@@ -13328,14 +13136,7 @@ const movies = [
             "Ficción"
         ],
         "synopsis": "Cortos latinos: Raíces, aromas y color reúne una selección de cortometrajes latinoamericanos que invita a hacer un viaje lleno de color, ritmo y sabor, a través de historias entrañables para reflexionar y descubrir la fuerza de la amistad, la solidaridad, la magia del arte y el humor. El programa incluye:\n\n1. La vitualla (Santiago Posada, 2023): sobre la cocina y la memoria en la costa Caribe colombiana.\n\n2. El jardín mágico (Naira Carneiro, Carlon Hardt, 2025): una historia brasileña sobre generosidad.\n\n3. La Sixtina (Juan Camilo Fonnegra, 2022): centrada en una persona sin hogar que crea arte bajo un puente.\n\n4. Palabras mágicas (Carlon Hardt, 2023): una pieza sobre el poder del lenguaje.\n\n5. Xolo (Yuca, 2025): un viaje mágico en el Día de Muertos en México.\n\n6. El extraño caso del hombre bala (Roberto Valencia, 2023): sobre un misterioso forastero en un pueblo pequeño.\n\n7. Dos pajaritos. El huevo (Alejo Schettini, Alfredo Soderguit, 2021): una divertida competencia por un huevo.\n\n8. La gran hazaña (Luber Yesid Zúñiga Ordóñez, 2024): donde unos niños se unen para salvar a una gallina.\n\nDuración total de la sesión 85'.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-21",
-                "time": "17:30",
-                "version": "Presentación y coloquio a cargo de Pablo López"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "eight-bridges-2026",
@@ -13352,14 +13153,7 @@ const movies = [
             "Experimental"
         ],
         "synopsis": "El veterano James Benning filma ocho grandes puentes en Estados Unidos. Son planos estáticos de diez minutos cada uno. Duración total de la sesión 80'.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-21",
-                "time": "19:00",
-                "version": "Presentación a cargo del director James Benning"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "orange-flavor-wedding-2026",
@@ -13386,13 +13180,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "Nantes, 1978. Jacques y Martine celebran su boda. Para la ocasión se han reunido muchas personas, familiares pero también algunas con las que todos desean estar. Hay camaradería, pero también tensiones que son fruto de heridas del pasado. ¿Se pueden curar las heridas de la infancia?",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-21",
-                "time": "20:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "fanny-1932",
@@ -13418,11 +13206,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Doré",
-                "date": "2026-11-22",
-                "time": "17:30"
-            },
-            {
-                "cinema": "Cine Doré",
                 "date": "2026-11-26",
                 "time": "17:30"
             }
@@ -13443,14 +13226,7 @@ const movies = [
             "Experimental"
         ],
         "synopsis": "Como complemento a su película American Dreams: Lost and Found, el director James Benning ofrece una reflexión acerca de la historia de Estados Unidos, con una visión del pasado que mira al futuro, a través de la perspectiva de un niño pequeño. Duración total de la sesión 120'.",
-        "screenings": [
-            {
-                "cinema": "Cine Doré",
-                "date": "2026-11-22",
-                "time": "20:30",
-                "version": "Presentación y coloquio a cargo del director James Benning"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "apenas-un-delincuente-1949",
@@ -14061,13 +13837,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Laura, una mujer trans de 65 años, dejó el cabaret y el trabajo de acompañante en el apogeo de su fama para cuidar de su madre. Veinte años después, quiere volver a trabajar, y sus amigas de Robadors Street la animan a superar sus miedos e inseguridades.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-20",
-                "time": "18:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "pero-abans-d-aixo-hi-haura-set-2026",
@@ -14084,13 +13854,7 @@ const movies = [
             "Cine experimental"
         ],
         "synopsis": "Como una bocanada de aire fresco del sotobosque, aparecen Remei de Ca la Fresca: Xantal, Artur, Víctor y Iago, cuatro jóvenes de Arbúcies que, con una música inclasificable, sacuden, plantan preguntas y abren grietas. Río arriba, mientras ellas cantan, las embotelladoras vacían el acuífero del Montseny, y AiguaClara, el colectivo vecinal de Arbúcies, les planta cara. “Però abans d’això hi haurà set” acompaña dentro y fuera de los escenarios, de forma cercana e íntima: ensayos, conciertos, gira, pero también compromiso y amor por el territorio.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-20",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "oceano-titanico-2026",
@@ -14118,13 +13882,7 @@ const movies = [
             "Ciencia ficción"
         ],
         "synopsis": "En el centelleante universo de un internado especial que entrena a chicas adolescentes para convertirlas en sirenas profesionales, Akame, de 17 años, encontrará su voz de sirena, descubrirá el primer amor y experimentará una metamorfosis.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-21",
-                "time": "13:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "casi-todo-bien-2025",
@@ -14153,13 +13911,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Hilario es un escritor frustrado de 40 años que vive atrapado entre la nostalgia por la literatura clásica y el cinismo ante el mundo editorial contemporáneo. Mientras su novela es rechazada por todas las editoriales españolas, él se gana la vida en una librería e impartiendo un taller de escritura online. Sin embargo, cuando una noche de fiesta conoce a una chica que cree que puede ser la musa que siempre ha buscado, esto lo llevará a romper con la monotonía de su vida y arriesgarse a hacer cosas con las que nunca se había atrevido.",
-        "screenings": [
-            {
-                "cinema": "Sala Equis",
-                "date": "2026-11-21",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "el-jorobado-de-notre-dame-1923",
@@ -14505,13 +14257,7 @@ const movies = [
             "Redes sociales"
         ],
         "synopsis": "Carla sueña con convertirse en una gran influencer, para conseguirlo decide fingir un embrujo en su apartamento. Sin embargo, al jugar con estas fuerzas oscuras, accidentalmente deja entrar a una entidad maligna real.",
-        "screenings": [
-            {
-                "cinema": "Casa de México",
-                "date": "2026-11-20",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "tormento-2025",
@@ -14533,13 +14279,7 @@ const movies = [
             "Thriller"
         ],
         "synopsis": "Una exhausta guardia de seguridad es transferida a una morgue y, en su primera noche, descubre que las sombras y los silencios esconden un tormento del que quizá no hay retorno.",
-        "screenings": [
-            {
-                "cinema": "Casa de México",
-                "date": "2026-11-21",
-                "time": "19:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "tekenchu-el-ritual-de-los-nahuales-2026",
@@ -14736,13 +14476,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "El amor de Olya y Oleh, una joven pareja queer ucraniana, se pone a prueba cuando la transición de género de uno de ellos coincide con la invasión a gran escala de Rusia. A medida que la guerra reduce y pone a prueba los límites de la masculinidad y la feminidad, ambos luchan por mantener su vínculo y su identidad.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-20",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "jaleos-2026",
@@ -14775,26 +14509,9 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-11-19",
-                "time": "22:30"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "12:00",
-                "version": "Coloquio con Isaki Lacuesta (director)"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-11-25",
                 "time": "22:30",
                 "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cines Renoir",
-                "date": "2026-11-22",
-                "time": "18:15",
-                "version": "Coloquio con el director Isaki Lacuesta"
             }
         ]
     },
@@ -14823,19 +14540,7 @@ const movies = [
             "Familia"
         ],
         "synopsis": "Gugu es un chico afeminado que sueña con convertirse en un gran jugador de fútbol. Criado por su abuela con Alzheimer, hará lo que sea por ocultar su enfermedad para no tener que vivir con su padre, que no le acepta en absoluto.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "12:00",
-                "version": "Embajadores Río"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-20",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "numakage-public-pool-2025",
@@ -14895,14 +14600,7 @@ const movies = [
             "Antología"
         ],
         "synopsis": "Sesión especial de cortometrajes de terror (reuniendo obras producidas entre 2023 y 2026) compuesta por cinco piezas:\n\n1. Ahora vuelvo (2023, 13 min.): Dirigido por Lucas Paulino y Gabe Ibáñez. María, una niña de 7 años, se queda sola en casa mientras su madre sale a hacer la compra. Al prolongarse la noche y alguien llamar a la puerta, la pequeña empieza a dudar si quien está al otro lado es realmente su madre o una presencia oscura.\n\n2. Tenéis que verlo (2026, 16 min.): Dirigido por Nacho Solana. Una pareja de treintañeros visita a unos amigos que acaban de tener un bebé. Lo que iba a ser una breve visita de cortesía se convierte en una experiencia perturbadora que revela que ni los padres están tan bien como dicen, ni el recién nacido es tan normal como aparenta.\n\n3. Tinieblas (2025, 15 min.): Dirigido por Raúl Cerezo y Carlos Moriana. Miriam acude a la casa de sus abuelos para recoger ropa tras la repentina hospitalización de su abuela, quien sufre demencia. Al entrar en la vivienda, la atmósfera opresiva y los oscuros recuerdos del desván atenazan a la joven en una espiral de terror psicológico.\n\n4. The Call (2025, 9 min.): Dirigido por Kiko Prada. Sophia trabaja en una compañía de seguros revisando facturas pendientes y, durante su jornada laboral rutinaria, le toca realizar una llamada a Jonathan David Brown que desencadenará una tensa situación de suspense.\n\n5. Mi zona (2023, 19 min.): Dirigido por Cristian Beteta. Paula conduce de madrugada tras una larga fiesta cuando su coche sufre una avería en medio de un solitario paraje desértico. Decidida a esperar asistencia, se verá envuelta en una situación límite donde el azar y la amenaza constante juegan con su supervivencia.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-11-19",
-                "time": "22:30",
-                "version": "Presentación y coloquio"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "memotest-2026",
@@ -15146,14 +14844,7 @@ const movies = [
             "Musical"
         ],
         "synopsis": "Ali Rose (Aguilera) es una chica de pueblo que se traslada a la gran ciudad y entra a trabajar como camarera en un club de variedades; pero, muy pronto, su objetivo será demostrarle a la encargada del local, Tess (Cher), que tiene talento para ser una de las chicas del espectáculo encima del escenario.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "12:00",
-                "version": "Embajadores Río - Laca y Palomitas: VOSE (Presentado por La Caneli)"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "vino-la-noche-2025",
@@ -15177,13 +14868,7 @@ const movies = [
             "Documental"
         ],
         "synopsis": "La creación de un comando peruano. Un grupo de jóvenes se enlista en un riguroso entrenamiento militar en la Fuerza Aérea del Perú que busca transformarlos en operadores especiales. Sueñan con convertirse en ‘hombres de guerra’ y ansían su primera misión real en el VRAEM. Sin embargo, el enemigo es invisible. En medio del hermético mundo militar peruano, estos jóvenes transitan del entusiasmo juvenil a la disciplina extrema. En medio de la dureza del entrenamiento, emergen también la camaradería y la compasión.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-23",
-                "time": "17:45"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "reinas-2024",
@@ -15601,13 +15286,7 @@ const movies = [
             "Romance"
         ],
         "synopsis": "En el Nueva York de finales de los años 80, un artista experimenta un momento extraordinario entre una grave enfermedad y la muerte. Un tiempo en el que la belleza y el amor aún son posibles.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-22",
-                "time": "17:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "ephemera-2026",
@@ -15720,13 +15399,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "En un pueblo nepalí enclavado en el corazón de un bosque habitado por elefantes salvajes, Pirati, la matriarca de una comunidad kinnar, sueña con escapar para vivir con el hombre al que ama. Pero cuando una de sus hijas desaparece, debe investigar y elegir entre su deseo de libertad y sus responsabilidades para con su comunidad.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-20",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "bearcave-2025",
@@ -15748,13 +15421,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "La agricultora Argyro y la manicurista Anneta son amigas íntimas en un pequeño pueblo griego, y cada una libra discretamente sus propias batallas frente a las expectativas sociales sobre las mujeres. Anneta, embarazada, quiere mudarse a la ciudad de Larisa —la capital de Tesalia, que tiene tres clubes y los tres son de striptease, como dice el chiste recurrente de la película— para vivir en casa de los padres de su novio policía, Giorgos. La familia de Argyro, que está enamorada de Anneta, la presiona para que se parezca más a su mejor amiga.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-21",
-                "time": "19:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "coward-2026",
@@ -15778,13 +15445,7 @@ const movies = [
             "Bélico"
         ],
         "synopsis": "1916. Primera Guerra Mundial. Pierre es un joven soldado belga, recién llegado al frente, que está ansioso por demostrar su valía. Allí conoce a Francis, quien decide levantar el ánimo de sus compañeros montando un espectáculo teatral. En medio de la violencia, ambos hombres intentan encontrar la manera de escapar de la brutalidad de la guerra, aunque solo sea brevemente, mientras se cuestionan las nociones de heroísmo y cobardía.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-19",
-                "time": "22:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "taiga-2026",
@@ -15863,30 +15524,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cines Embajadores",
-                "date": "2026-11-20",
-                "time": "17:40",
-                "version": "Doblada al español - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "12:00",
-                "version": "Doblada al español - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "17:45",
-                "version": "Doblada al español - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-22",
-                "time": "16:00",
-                "version": "Doblada al español - Embajadores Río"
-            },
-            {
-                "cinema": "Cines Embajadores",
                 "date": "2026-11-25",
                 "time": "16:10",
                 "version": "Doblada al español - Embajadores Río"
@@ -15895,6 +15532,26 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-12-13",
                 "time": "12:00"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-23",
+                "time": "22:35"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-24",
+                "time": "22:35"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-25",
+                "time": "22:35"
+            },
+            {
+                "cinema": "Cines Verdi",
+                "date": "2026-11-26",
+                "time": "22:45"
             }
         ]
     },
@@ -15913,17 +15570,6 @@ const movies = [
         ],
         "synopsis": "Recientemente se han redescubierto tres cintas MiniDV de 2001 sobre la vida en Gaza. Estas imágenes son ahora testimonio de un lugar y un tiempo que ya no existen. Lo que comienza como la búsqueda de un antiguo compañero de prisión de 1989 -un hombre perdido en el tiempo y en la guerra- desemboca en un inesperado viaje por carretera desde el norte hasta el sur de Gaza, acompañado por Hasan, un guía local cuyo destino sigue siendo desconocido. A medida que la cámara se desplaza por las calles y paisajes de Gaza, capta momentos fugaces de la vida cotidiana, fragmentos de una realidad ahora irreversiblemente alterada. «Con Hasan en Gaza» transforma estas imágenes olvidadas en una reflexión cinematográfica sobre la memoria, la pérdida y el paso del tiempo, capturando una Gaza del pasado y unas vidas que tal vez nunca vuelvan a encontrarse.",
         "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-21",
-                "time": "22:40"
-            },
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-23",
-                "time": "19:30",
-                "version": "Coloquio con Amnistía Internacional"
-            },
             {
                 "cinema": "Cines Embajadores",
                 "date": "2026-11-25",
@@ -16065,13 +15711,7 @@ const movies = [
             "Drama"
         ],
         "synopsis": "Argelia 1935. Mersault, un modesto empleado que vive y trabaja en Argel, recibe la noticia de la muerte de su madre. Después del funeral, encuentra a Marie, una mecanógrafa amiga suya, y comienza una relación con ella. Un vecino suyo, Raymond, un pícaro, le ofrece su amistad y le pide ayuda para vengarse de una chica árabe. Meursault, indiferente y dispuesto a todo, consiente y mata a sangre fría al hermano de la chica.",
-        "screenings": [
-            {
-                "cinema": "Cines Verdi",
-                "date": "2026-11-19",
-                "time": "20:15"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "oca-2025",
@@ -16885,24 +16525,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Artistic Metropol",
-                "date": "2026-11-20",
-                "time": "22:15",
-                "version": "VOSE"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-22",
-                "time": "22:00",
-                "version": "VOSE"
-            },
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-23",
-                "time": "19:30",
-                "version": "Doblada al español"
-            },
-            {
-                "cinema": "Artistic Metropol",
                 "date": "2026-11-24",
                 "time": "22:00",
                 "version": "VOSE"
@@ -16940,13 +16562,7 @@ const movies = [
             "Sobrenatural"
         ],
         "synopsis": "Un hombre con la cara desfigurada y vistiendo un uniforme nazi se dedica a asesinar impunemente a todo el que se cruza en su camino. Tras ello, un hombre y una mujer llegan a una posada donde les cuentan la historia de un navío inglés que naufragó en una noche parecida a la que están viviendo.",
-        "screenings": [
-            {
-                "cinema": "Artistic Metropol",
-                "date": "2026-11-23",
-                "time": "16:00"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "blood-tracks-1985",
@@ -17059,13 +16675,7 @@ const movies = [
             "LGBTQ+"
         ],
         "synopsis": "Étienne es camionero. Aferrado a la carretera, reduce su vida afectiva a encuentros anónimos y efímeros en aparcamientos. Cuando se cruza con Bartosz, un camionero polaco, su soledad se ve sacudida. Su amor clandestino convierte la cabina de su camión en un refugio de ternura. Presentada en Cannes, donde ganó la Queer Palm Revelación.",
-        "screenings": [
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-22",
-                "time": "21:30"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "sauna-2023",
@@ -17092,14 +16702,7 @@ const movies = [
             "Feminismo"
         ],
         "synopsis": "En la oscuridad de una sauna finlandesa, las mujeres comparten sus secretos y experiencias más íntimas, lavando la vergüenza retenida en sus cuerpos y recuperando su fuerza a través de un sentimiento de unión.",
-        "screenings": [
-            {
-                "cinema": "Cines Embajadores",
-                "date": "2026-11-20",
-                "time": "22:35",
-                "version": "Embajadores Río"
-            }
-        ]
+        "screenings": []
     },
     {
         "id": "the-ambassador-to-bern-2014",
@@ -17160,13 +16763,31 @@ const movies = [
                 "cinema": "Cines Renoir",
                 "date": "2026-11-25",
                 "time": "20:30",
-                "version": "Renoir Plaza de España"
+                "version": "Coloquio online con Pawel Pawlikowski - Renoir Plaza de España"
             },
             {
                 "cinema": "Cines Renoir",
                 "date": "2026-11-25",
                 "time": "20:30",
-                "version": "Renoir Retiro"
+                "version": "Coloquio online con Pawel Pawlikowski - Renoir Retiro"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-25",
+                "time": "20:30",
+                "version": "Coloquio online con Pawel Pawlikowski - Renoir Retiro"
+            },
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-11-25",
+                "time": "20:30",
+                "version": "Coloquio online con Pawel Pawlikowski - Renoir Princesa"
+            },
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-25",
+                "time": "19:00",
+                "version": "	Presentación y coloquio con Pawel Pawlikowski y Jesús Ruiz Mantilla"
             }
         ]
     },
@@ -18495,11 +18116,6 @@ const movies = [
         "screenings": [
             {
                 "cinema": "Cine Estudio (Círculo de Bellas Artes)",
-                "date": "2026-11-23",
-                "time": "17:00"
-            },
-            {
-                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
                 "date": "2026-11-24",
                 "time": "22:00"
             },
@@ -18689,6 +18305,343 @@ const movies = [
                 "time": "19:15"
             }
         ]
+    },
+    {
+        "id": "ensayo-final-para-utopia-2012",
+        "title": "Ensayo final para utopía",
+        "originalTitle": "Dress Rehearsal for Utopia (Ensayo final para utopía)",
+        "poster": "images/ensayo-final-para-utopia-2012.jpg",
+        "director": "Andrés Duque",
+        "cast": [
+            "Silvio Duque",
+            "David de Carlos",
+            "Geronimo Gil",
+            "Saidano Victrino",
+            "Alberto Fernando",
+            "Wilson de Margarida",
+            "Arcelia Maria",
+            "Fatima Salvador",
+            "Nelson Domingo",
+            "Felix Duque",
+            "Ana Duque"
+        ],
+        "year": 2012,
+        "duration": 75,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Cine experimental"
+        ],
+        "synopsis": "Empieza con un viaje del propio Andrés Duque a Mozambique buscando viejas películas producidas en el país; sin embargo, extrañas premoniciones comienzan a abrumarle.",
+        "screenings": [
+            {
+                "cinema": "Cine Estudio (Círculo de Bellas Artes)",
+                "date": "2026-11-26",
+                "time": "21:30",
+                "version": "Presentación y coloquio con Oliver Laxe"
+            }
+        ]
+    },
+    {
+        "id": "primavera-2025",
+        "title": "Primavera",
+        "originalTitle": "Primavera",
+        "poster": "images/primavera-2025.jpg",
+        "director": "Damiano Michieletto",
+        "cast": [
+            "Tecla Insolia",
+            "Michele Riondino",
+            "Andrea Pennacchi",
+            "Fabrizia Sacchi",
+            "Valentina Bellè",
+            "Stefano Accorsi",
+            "Miko Jarry"
+        ],
+        "year": 2025,
+        "duration": 110,
+        "country": "Italia, Francia",
+        "genres": [
+            "Drama",
+            "Siglo XVIII",
+            "Música"
+        ],
+        "synopsis": "Venecia, siglo XVIII. Cecilia es una virtuosa del violín de 20 años que permanece confinada en el orfanato Pietà. Su única escapatoria parece ser el matrimonio. Sin embargo, su vida cambia cuando Antonio Vivaldi, un compositor brillante y ambicioso, llega como nuevo profesor de violín. Bajo su tutela y a través de su música, Cecilia encuentra la fuerza para desafiar el destino que antes parecía inevitable.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-12-01",
+                "time": "20:15"
+            }
+        ]
+    },
+    {
+        "id": "the-doom-generation-1995",
+        "title": "The Doom Generation",
+        "originalTitle": "The Doom Generation",
+        "poster": "images/the-doom-generation-1995.jpg",
+        "director": "Gregg Araki",
+        "cast": [
+            "James Duval",
+            "Rose McGowan",
+            "Johnathon Schaech",
+            "Cress Williams",
+            "Nicky Katt",
+            "Parker Posey",
+            "Margaret Cho",
+            "Perry Farrell"
+        ],
+        "year": 1995,
+        "duration": 85,
+        "country": "Estados Unidos, Francia",
+        "genres": [
+            "Comedia",
+            "Acción",
+            "Drama",
+            "Road Movie",
+            "Crimen",
+            "Película de culto",
+            "Cine independiente USA"
+        ],
+        "synopsis": "Amy Blue (Rose McGowan), Jordan White (James Duval), y Xavier Red (Johnathon Schaech) son un trío de jóvenes embarcados en una espiral de sexo y crímenes que acaba teniendo incluso cobertura televisiva. Un film independiente con semejanzas a \"Natural Born Killers\" de Oliver Stone, y autoproclamado por su director Araki como una «película criminal heterosexual». Dada sus profusas dosis de sexo y violencia, obtuvo una escasa distribución en todo el mundo.",
+        "screenings": [
+            {
+                "cinema": "Cines Embajadores",
+                "date": "2026-12-05",
+                "time": "12:00",
+                "version": "Especial «Laca y Palomitas» con La Caneli - Embajadores Río"
+            }
+        ]
+    },
+    {
+        "id": "el-dia-de-la-bestia-1995",
+        "title": "El día de la bestia",
+        "originalTitle": "El día de la bestia",
+        "poster": "images/el-dia-de-la-bestia-1995.jpg",
+        "director": "Álex de la Iglesia",
+        "cast": [
+            "Álex Angulo",
+            "Santiago Segura",
+            "Armando de Razza",
+            "María Grazia Cucinotta",
+            "Terele Pávez",
+            "Nathalie Seseña",
+            "Jaime Blanch",
+            "El Gran Wyoming",
+            "Enrique Villén",
+            "Def Con Dos"
+        ],
+        "year": 1995,
+        "duration": 103,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Fantástico",
+            "Terror",
+            "Comedia de terror",
+            "Navidad",
+            "Satanismo",
+            "Película de culto"
+        ],
+        "synopsis": "Un sacerdote cree haber descifrado el mensaje secreto del Apocalipsis según San Juan: el Anticristo nacerá el 25 de diciembre de 1995 en Madrid. Para impedir el nacimiento del hijo de Satanás, el cura se alía con José María, un joven aficionado al death metal. Ambos intentan averiguar en qué parte de Madrid tendrá lugar el apocalíptico acontecimiento. Con la ayuda del profesor Cavan, presentador de un programa de televisión de carácter esotérico y sobrenatural, el cura y José Mari invocan al diablo en una extraña ceremonia.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-17",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "placido-1961",
+        "title": "Plácido",
+        "originalTitle": "Plácido",
+        "poster": "images/placido-1961.jpg",
+        "director": "Luis García Berlanga",
+        "cast": [
+            "Cassen",
+            "José Luis López Vázquez",
+            "Elvira Quintillá",
+            "Manuel Alexandre",
+            "Amelia de la Torre",
+            "Julia Caba Alba",
+            "Amparo Soler Leal",
+            "Agustín González",
+            "Antonio Ferrandis",
+            "Luis Ciges"
+        ],
+        "year": 1961,
+        "duration": 85,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Pobreza",
+            "Navidad",
+            "Sátira"
+        ],
+        "synopsis": "En una pequeña ciudad provinciana, a unas burguesas ociosas se les ocurre la idea de organizar una campaña navideña cuyo lema es: \"Siente a un pobre a su mesa\". Se trata de que los más necesitados compartan la cena de Nochebuena con familias acomodadas y disfruten del calor y el afecto que no tienen. Plácido ha sido contratado para participar con su motocarro en la cabalgata, pero surge un problema que le impide centrarse en su trabajo: ese mismo día vence la primera letra del vehículo, que es su único medio de vida.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-22",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "intocable-2011",
+        "title": "Intocable",
+        "originalTitle": "Intouchables",
+        "poster": "images/intocable-2011.jpg",
+        "director": "Olivier Nakache, Éric Toledano",
+        "cast": [
+            "François Cluzet",
+            "Omar Sy",
+            "Anne Le Ny",
+            "Audrey Fleurot",
+            "Clotilde Mollet",
+            "Joséphine de Meaux",
+            "Alba Gaïa Bellugi",
+            "Cyril Mendy",
+            "Christian Ameri",
+            "Marie-Laure Descoureaux",
+            "Grégoire Oestermann"
+        ],
+        "year": 2011,
+        "duration": 112,
+        "country": "Francia",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Comedia dramática",
+            "Discapacidad",
+            "Amistad",
+            "Basado en hechos reales"
+        ],
+        "synopsis": "Philippe, un aristócrata millonario que se ha quedado tetrapléjico a causa de un accidente de parapente, contrata como cuidador a domicilio a Driss, un inmigrante de un barrio marginal recién salido de la cárcel. Aunque, a primera vista, no parece la persona más indicada, los dos acaban logrando que convivan Vivaldi y Earth Wind and Fire, la elocuencia y la hilaridad, los trajes de etiqueta y el chándal. Dos mundos enfrentados que, poco a poco, congenian hasta forjar una amistad tan disparatada, divertida y sólida como inesperada, una relación única en su especie de la que saltan chispas.",
+        "screenings": [
+            {
+                "cinema": "Cines Renoir",
+                "date": "2026-12-29",
+                "time": "20:00"
+            }
+        ]
+    },
+    {
+        "id": "nebraska-2013",
+        "title": "Nebraska",
+        "originalTitle": "Nebraska",
+        "poster": "images/nebraska-2013.jpg",
+        "director": "Alexander Payne",
+        "cast": [
+            "Bruce Dern",
+            "Will Forte",
+            "June Squibb",
+            "Stacy Keach",
+            "Bob Odenkirk"
+        ],
+        "year": 2013,
+        "duration": 115,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Comedia",
+            "Road Movie",
+            "Vejez / Madurez",
+            "Familia",
+            "Comedia dramática",
+            "Vida rural (Norteamérica)"
+        ],
+        "synopsis": "A Woody Grant, un anciano con síntomas de demencia, le comunican por correo que ha ganado un premio. Cree que se ha hecho rico y obliga a su receloso hijo David a emprender un viaje para ir a cobrarlo. Poco a poco, la relación entre ambos, rota durante años por el alcoholismo de Woody, tomará un cariz distinto para sorpresa de la madre y del triunfador hermano de David.",
+        "screenings": []
+    },
+    {
+        "id": "rocco-y-sus-hermanos-1960",
+        "title": "Rocco y sus hermanos",
+        "originalTitle": "Rocco e i suoi fratelli",
+        "poster": "images/rocco-y-sus-hermanos-1960.jpg",
+        "director": "Luchino Visconti",
+        "cast": [
+            "Alain Delon",
+            "Renato Salvatori",
+            "Annie Girardot",
+            "Katina Paxinou",
+            "Claudia Cardinale",
+            "Spiros Focás",
+            "Max Cartier",
+            "Rocco Vidolazzi",
+            "Roger Hanin",
+            "Paolo Stoppa"
+        ],
+        "year": 1960,
+        "duration": 177,
+        "country": "Italia, Francia",
+        "genres": [
+            "Drama",
+            "Melodrama",
+            "Neorrealismo",
+            "Pobreza",
+            "Familia",
+            "Boxeo",
+            "Película de culto"
+        ],
+        "synopsis": "Rosaria y sus cuatro hijos (Simone, Rocco, Ciro y Luca) abandonan su tierra natal, Lucania (la actual Basilicata), para emigrar a Milán en busca de trabajo y oportunidades que les permitan mejorar sus condiciones de vida. Allí encuentran a Vincenzo, el hermano mayor, que trabaja de albañil pero que está relacionado con el mundo del boxeo.",
+        "screenings": []
+    },
+    {
+        "id": "atrapado-en-el-tiempo-1993",
+        "title": "Atrapado en el tiempo",
+        "originalTitle": "Groundhog Day",
+        "poster": "images/atrapado-en-el-tiempo-1993.jpg",
+        "director": "Harold Ramis",
+        "cast": [
+            "Bill Murray",
+            "Andie MacDowell",
+            "Chris Elliott",
+            "Stephen Tobolowsky",
+            "Brian Doyle-Murray",
+            "Rick Ducommun",
+            "Marita Geraghty",
+            "Harold Ramis"
+        ],
+        "year": 1993,
+        "duration": 101,
+        "country": "Estados Unidos",
+        "genres": [
+            "Comedia",
+            "Fantástico",
+            "Romance",
+            "Comedia romántica",
+            "Bucles temporales",
+            "Vida rural (Norteamérica)",
+            "Película de culto"
+        ],
+        "synopsis": "Phil, el hombre del tiempo de una cadena de televisión, va un año más a Punxstawnwey, a cubrir la información del festival del Día de la Marmota. En el viaje de regreso, Phil y su equipo se ven sorprendidos por una tormenta que los obliga a regresar a la pequeña ciudad. A la mañana siguiente, al despertarse, comprueba atónito que comienza otra vez el Día de la Marmota.",
+        "screenings": []
+    },
+    {
+        "id": "la-dama-de-shanghai-1947",
+        "title": "La dama de Shanghái",
+        "originalTitle": "The Lady from Shanghai",
+        "poster": "images/la-dama-de-shanghai-1947.jpg",
+        "director": "Orson Welles",
+        "cast": [
+            "Rita Hayworth",
+            "Orson Welles",
+            "Everett Sloane",
+            "Glenn Anders",
+            "Ted de Corsia",
+            "Erskine Sanford",
+            "Gus Schilling"
+        ],
+        "year": 1947,
+        "duration": 88,
+        "country": "Estados Unidos",
+        "genres": [
+            "Cine negro",
+            "Intriga"
+        ],
+        "synopsis": "Michael O'Hara (Orson Welles), un marinero irlandés, entra a trabajar en un yate a las órdenes de un inválido casado con una mujer fatal (Rita Hayworth) y queda atrapado en una maraña de intrigas y asesinatos.",
+        "screenings": []
     }
 
 ]
