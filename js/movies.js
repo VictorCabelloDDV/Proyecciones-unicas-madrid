@@ -457,6 +457,11 @@ const movies = [
                 "cinema": "Cineteca Madrid",
                 "date": "2026-12-27",
                 "time": "18:00"
+            },
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-12-26",
+                "time": "20:30"
             }
         ]
     },
@@ -1340,10 +1345,18 @@ const movies = [
         "genres": [
             "Animación",
             "Fantasía",
-            "Aventura"
+            "Aventura",
+            "Cine mudo"
         ],
         "synopsis": "El príncipe Ahmed emprende un viaje fantástico en el que se enfrenta a un poderoso hechicero y vive aventuras extraordinarias con la ayuda de un caballo mágico, Aladino y la bruja de la Montaña de Fuego.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-12-29",
+                "time": "18:00",
+                "version": "Sesión musicalizada en directo por VIU (Ro Rapoport y artista invitada)"
+            }
+        ]
     },
     {
         "id": "lazos-ardientes",
@@ -9065,7 +9078,14 @@ const movies = [
             "Thriller psicológico"
         ],
         "synopsis": "Marie, una joven niñera y criada, está a punto de casarse con Christian, un rico viudo de mayor edad para quien trabaja. Pero Marie guarda un secreto vergonzoso. Durante la Segunda Guerra Mundial, mantuvo una relación íntima con un soldado alemán. Ahora, el pasado de Marie amenaza con alcanzarla y se ve obligada a hacer todo lo que esté en su mano para conservar su nueva posición como señora de la casa en medio de la anarquía de la posguerra.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-27",
+                "time": "19:00",
+                "version": "Encuentro tras la proyección con la directora May el-Toukhy"
+            }
+        ]
     },
     {
         "id": "timestamp-2025",
@@ -14868,7 +14888,13 @@ const movies = [
             "Documental"
         ],
         "synopsis": "La creación de un comando peruano. Un grupo de jóvenes se enlista en un riguroso entrenamiento militar en la Fuerza Aérea del Perú que busca transformarlos en operadores especiales. Sueñan con convertirse en ‘hombres de guerra’ y ansían su primera misión real en el VRAEM. Sin embargo, el enemigo es invisible. En medio del hermético mundo militar peruano, estos jóvenes transitan del entusiasmo juvenil a la disciplina extrema. En medio de la dureza del entrenamiento, emergen también la camaradería y la compasión.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-24",
+                "time": "16:00"
+            }
+        ]
     },
     {
         "id": "reinas-2024",
@@ -15686,7 +15712,13 @@ const movies = [
             "Documental"
         ],
         "synopsis": "Tras cinco años de producción, esta es la película más extensa jamás realizada sobre este artista revolucionario. Con el testimonio de primera mano del propio artista en vísperas de su misteriosa desaparición, esta película revela a Caravaggio como nunca antes. Con una muestra de sus obras maestras y testimonios de destacados expertos de todo el mundo, Caravaggio sumerge al público en las narrativas ocultas de la vida del artista, desentrañando las pistas incrustadas en su increíble arte. Las obras maestras de Caravaggio son algunas de las más reconocibles al instante. Nadie más utiliza su característica combinación de luz dramática, naturalismo intenso y figuras audaces e impactantes. Sus asombrosas pinturas han cautivado al público durante siglos. Pero existe un misterio más profundo, uno que aún nos invita a explorar. ¿Qué revelan estas obras maestras sobre el hombre tras el pincel? Las intrigantes autorrepresentaciones en sus obras, a veces disimuladas, a veces a plena vista, ofrecen una ventana excepcional a su psique y sus luchas personales. Acompáñenos a desentrañar la historia de una de las figuras más brillantes, complejas y controvertidas de la historia.",
-        "screenings": []
+        "screenings": [
+            {
+                "cinema": "Cines Conde Duque",
+                "date": "2027-01-14",
+                "time": "19:00"
+            }
+        ]
     },
     {
         "id": "el-extranjero-1967",
@@ -18642,6 +18674,527 @@ const movies = [
         ],
         "synopsis": "Michael O'Hara (Orson Welles), un marinero irlandés, entra a trabajar en un yate a las órdenes de un inválido casado con una mujer fatal (Rita Hayworth) y queda atrapado en una maraña de intrigas y asesinatos.",
         "screenings": []
+    },
+    {
+        "id": "jamon-jamon-1992",
+        "title": "Jamón, jamón",
+        "originalTitle": "Jamón, jamón",
+        "poster": "images/jamon-jamon-1992.jpg",
+        "director": "Bigas Luna",
+        "cast": [
+            "Javier Bardem",
+            "Penélope Cruz",
+            "Jordi Mollà",
+            "Stefania Sandrelli",
+            "Anna Galiena",
+            "Juan Diego",
+            "Armando del Río"
+        ],
+        "year": 1992,
+        "duration": 95,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Drama",
+            "Romance",
+            "Vida rural",
+            "Melodrama"
+        ],
+        "synopsis": "José Luis es el hijo de un acaudalado matrimonio que posee una fábrica de ropa interior masculina, en la que trabaja su novia Silvia. Cuando ella se queda embarazada, él promete casarse con ella a pesar de la oposición de sus padres. Con el fin de frustrar esa boda no deseada, la madre decide contratar a un joven aspirante a torero para que seduzca a la joven.",
+        "screenings": [
+            {
+                "cinema": "Cines Callao",
+                "date": "2026-11-27",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "kiro-2026",
+        "title": "Kiro",
+        "originalTitle": "Kiro",
+        "poster": "images/kiro-2026.jpg",
+        "director": "María Yáñez",
+        "cast": [
+            "Ana Kiro",
+            "Brigitte Vasallo",
+            "Nuno Pico",
+            "Ses",
+            "Xosé Manuel Pereiro"
+        ],
+        "year": 2026,
+        "duration": 92,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Biográfico",
+            "Documental sobre música"
+        ],
+        "synopsis": "Ana Kiro forjó su estatus de diva popular durante los años 80 y 90 recorriendo verbenas por toda Galicia, vendiendo cientos de miles de discos y casetes y actuando ante miles de personas en Europa y Latinoamérica. KIRO es una celebración de su figura y de su especial relación con el público. Una película sobre el poder emocional de la «canción ligera» en una cultura minorizada y marcada por la emigración.",
+        "screenings": [
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-11-25",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "crispr-la-secuencia-de-la-vida-2026",
+        "title": "CRISPR: La secuencia de la vida",
+        "originalTitle": "CRISPR: La secuencia de la vida",
+        "poster": "images/crispr-la-secuencia-de-la-vida-2026.jpg",
+        "director": "Paloma Peñarrubia, Pablo Macías",
+        "cast": [],
+        "year": 2026,
+        "duration": 74,
+        "country": "España",
+        "genres": [
+            "Documental",
+            "Documental sobre música"
+        ],
+        "synopsis": "¿Puede la música ser creada a partir del ADN? CRISPR: La secuencia de la vida es un viaje a través del conocimiento, la ciencia y las artes en la cultura europea contemporánea. La película sigue a la compositora andaluza Paloma Peñarrubia y al colectivo de arte digital BROMO en un proyecto de creación y divulgación científica inspirado en CRISPR, la innovadora herramienta de edición genética. A través de la experimentación artística y de conversaciones con científicos de reconocido prestigio, el documental explora las aplicaciones de esta tecnología y los desafíos éticos que plantea.",
+        "screenings": [
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-11-26",
+                "time": "20:30"
+            }
+        ]
+    },
+    {
+        "id": "13-alfileres-2026",
+        "title": "13 alfileres",
+        "originalTitle": "13 Alfinetes",
+        "poster": "images/13-alfileres-2026.jpg",
+        "director": "João Pedro Rodrigues, João Rui Guerra da Mata",
+        "cast": [
+            "Fernando Santos",
+            "Alexander David",
+            "Cláudia Jardim",
+            "João Pedro Mamede",
+            "Paulo Guilherme",
+            "Diogo Nogueira"
+        ],
+        "year": 2026,
+        "duration": 60,
+        "country": "Portugal, España",
+        "genres": [
+            "Comedia",
+            "Religión"
+        ],
+        "synopsis": "En la ermita madrileña de San Antonio de la Florida, las jóvenes sumergían trece alfileres en agua bendita para adivinar cuántos pretendientes tendrían en el futuro. Desde la Lisboa medieval hasta las fiestas del Madrid actual, pasando por los frescos de Goya, 13 alfileres revive un milagro atribuido al santo para jugar con la fe y el deseo.",
+        "screenings": [
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-11-28",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "we-are-fugazi-from-washington-dc-2023",
+        "title": "We Are Fugazi from Washington, D.C.",
+        "originalTitle": "We Are Fugazi from Washington, D.C.",
+        "poster": "images/we-are-fugazi-from-washington-dc-2023.jpg",
+        "director": "Joe Gross, Jeff Krulik, Joseph Pattisall",
+        "cast": [],
+        "year": 2023,
+        "duration": 96,
+        "country": "Estados Unidos",
+        "genres": [
+            "Documental"
+        ],
+        "synopsis": "La película está compuesta por las grabaciones realizadas y aportadas por el público de la última actuación en directo de Fugazi, el 4 de noviembre de 2002 en The Forum de Londres, junto con material de archivo poco habitual de la banda, seleccionado por Joe Gross, Joseph Pattisall y Jeff Krulik. La película rinde homenaje a la extraordinaria fuerza de Fugazi como banda en directo: para que sus antiguos seguidores puedan recordarla y para que una nueva generación descubra lo que se perdió.",
+        "screenings": [
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-11-28",
+                "time": "21:00"
+            }
+        ]
+    },
+    {
+        "id": "piel-de-asno-1970",
+        "title": "Piel de asno",
+        "originalTitle": "Peau d'âne",
+        "poster": "images/piel-de-asno-1970.jpg",
+        "director": "Jacques Demy",
+        "cast": [
+            "Catherine Deneuve",
+            "Jean Marais",
+            "Jacques Perrin",
+            "Micheline Presle",
+            "Delphine Seyrig",
+            "Fernand Ledoux",
+            "Henri Crémieux",
+            "Sacha Pitoëff"
+        ],
+        "year": 1970,
+        "duration": 90,
+        "country": "Francia",
+        "genres": [
+            "Fantástico",
+            "Musical",
+            "Romance"
+        ],
+        "synopsis": "En su lecho de muerte, la Reina hace prometer al Rey que no volverá a casarse hasta que no encuentre a una mujer que la supere en bondad y belleza. Años después, el Rey se da cuenta de que la sustituta perfecta de su esposa es su propia hija. El Hada de las Lilas, la madrina de la joven princesa, le aconseja que pida a su padre, como regalo, unos vestidos maravillosos, aparentemente imposibles de confeccionar. Pero como el Rey consigue los vestidos, la princesa le pide que le regale una capa hecha con la piel del asno banquero, principal fuente de riqueza del Reino.",
+        "screenings": [
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-12-30",
+                "time": "12:00",
+                "version": "VE"
+            },
+            {
+                "cinema": "La Casa Encendida",
+                "date": "2026-12-30",
+                "time": "17:30",
+                "version": "VE"
+            }
+        ]
+    },
+    {
+        "id": "sanguine-2026",
+        "title": "Sanguine",
+        "originalTitle": "Sanguine",
+        "poster": "images/sanguine-2026.jpg",
+        "director": "Marion Le Corroller",
+        "cast": [
+            "Mara Taquin",
+            "Karin Viard",
+            "Kim Higelin",
+            "Sami Outalbali",
+            "Stefan Crepon",
+            "Sonia Faidi"
+        ],
+        "year": 2026,
+        "duration": 101,
+        "country": "Francia",
+        "genres": [
+            "Terror",
+            "Ciencia ficción",
+            "Body Horror",
+            "Pandemias",
+            "Medicina"
+        ],
+        "synopsis": "Margot, una brillante pero insegura estudiante de medicina, lucha por sobrevivir al ritmo frenético de sus prácticas en urgencias. Sin embargo, el agotamiento no es su mayor problema: una oleada de pacientes jóvenes ingresa con síntomas inexplicables que desafían toda lógica clínica. A medida que la frontera entre su diagnóstico y su propia realidad se desdibuja, Margot descubre con horror que su cuerpo está empezando a replicar la misma y misteriosa patología que intenta curar.",
+        "screenings": [
+            {
+                "cinema": "Instituto Francés",
+                "date": "2026-11-24",
+                "time": "20:00",
+                "version": "Preestreno"
+            }
+        ]
+    },
+    {
+        "id": "siendo-heumann-2026",
+        "title": "Siendo Heumann",
+        "originalTitle": "Being Heumann",
+        "poster": "images/siendo-heumann-2026.jpg",
+        "director": "Siân Heder",
+        "cast": [
+            "Ruth Madeley",
+            "Mark Ruffalo",
+            "Dylan O'Brien",
+            "Madeline Delp",
+            "Rob Delaney",
+            "David Hewlett",
+            "Daniel Durant",
+            "Ray Fisher",
+            "Roberta Colindrez"
+        ],
+        "year": 2026,
+        "duration": 127,
+        "country": "Estados Unidos",
+        "genres": [
+            "Drama",
+            "Biográfico",
+            "Discapacidad",
+            "Basado en hechos reales",
+            "Años 70"
+        ],
+        "synopsis": "No atendían las llamadas de Judy Heumann, así que ella ocupó su edificio. En 1977, una joven con discapacidad y una combativa alianza de personas al margen del sistema deciden que ya han tenido suficiente. Lo que comienza como un acto impulsivo se convierte en la ocupación de un edificio federal más larga de la historia de Estados Unidos: cientos de personas toman las oficinas gubernamentales y se niegan a abandonarlas hasta que el burócrata que bloquea sus reivindicaciones actúe.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-24",
+                "time": "19:00",
+                "version": "Encuentro tras la proyección con Ruth Madeley"
+            }
+        ]
+    },
+    {
+        "id": "maria-vitoria-2025",
+        "title": "María Vitória",
+        "originalTitle": "Maria Vitória",
+        "poster": "images/maria-vitoria-2025.jpg",
+        "director": "Mário Patrocínio",
+        "cast": [
+            "Mariana Cardoso",
+            "Miguel Borges",
+            "Miguel Nunes",
+            "Ana Cristina Oliveira",
+            "Bárbara Albuquerque"
+        ],
+        "year": 2025,
+        "duration": 114,
+        "country": "Portugal",
+        "genres": [
+            "Drama",
+            "Deporte",
+            "Fútbol",
+            "Familia"
+        ],
+        "synopsis": "María Vitória vive en una aldea remota de las montañas portuguesas y juega al fútbol en el equipo juvenil masculino local. Decidida a convertirse en futbolista profesional, dedica todo su tiempo libre a entrenar intensamente con su padre, Nacho. La rutina de ambos se ve alterada por el inesperado regreso de Bruno, el hermano mayor, que se marchó hace muchos años tras un trágico incendio en el que perdieron a su madre. Mientras se prepara para el partido más importante de su vida, María empieza a cuestionar la autoridad de su padre y el peso que rige su existencia. Poco a poco, busca una forma de liberarse, comprender cuáles son sus verdaderos deseos y tomar las riendas de su futuro, lejos de las sombras del pasado.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-25",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "elsinore-2026",
+        "title": "Elsinore",
+        "originalTitle": "Elsinore",
+        "poster": "images/elsinore-2026.jpg",
+        "director": "Simon Stone",
+        "cast": [
+            "Andrew Scott",
+            "Olivia Colman",
+            "Johnny Flynn",
+            "Billie Piper",
+            "Luke Thompson",
+            "Juliet Stevenson",
+            "Peter Mullan",
+            "Adeel Akhtar",
+            "Joe Locke"
+        ],
+        "year": 2026,
+        "duration": 111,
+        "country": "Reino Unido, Estados Unidos, Italia",
+        "genres": [
+            "Drama",
+            "Basado en hechos reales",
+            "Cine dentro del cine",
+            "Biográfico",
+            "Años 80",
+            "Teatro",
+            "SIDA"
+        ],
+        "synopsis": "La emocionante historia real de Ian Charleson, un actor extraordinario que convirtió el mayor desafío de su vida en su mayor triunfo. Enfrentándose a su propia mortalidad con lucidez, humor y entereza, Charleson ofrece una interpretación valiente e inolvidable que acabará convirtiéndose en una fuente de consuelo e inspiración para quienes le rodean. Ambientada en 1989, la película narra cómo Charleson acepta interpretar a Hamlet en la producción dirigida por Richard Eyre. Conocido internacionalmente por su papel de Eric Liddell en ‘Carros de fuego’, el actor afronta el reto de preparar uno de los grandes personajes de Shakespeare mientras su tiempo se agota trágicamente.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-25",
+                "time": "19:00"
+            }
+        ]
+    },
+    {
+        "id": "esta-isla-2025",
+        "title": "Esta isla",
+        "originalTitle": "Esta isla",
+        "poster": "images/esta-isla-2025.jpg",
+        "director": "Cristian Carretero, Lorraine Jones Molina",
+        "cast": [
+            "Zion Ortiz",
+            "Fabiola Brown",
+            "Xavier Morales",
+            "Georgina Borri",
+            "Audicio Robles",
+            "Teófilo Torres"
+        ],
+        "year": 2025,
+        "duration": 114,
+        "country": "Puerto Rico",
+        "genres": [
+            "Drama",
+            "Acción",
+            "Thriller"
+        ],
+        "synopsis": "Bebo, un adolescente de un pueblo costero de Puerto Rico, vive con su hermano mayor en un complejo de vivienda pública. La pesca es su principal medio de sustento, pero la necesidad los lleva a involucrarse en negocios ilegales que prometen dinero fácil. Cuando la jugada sale mal y corre la sangre, Bebo huye con su novia Lola, una joven adinerada que busca escapar de su propia y problemática realidad. La travesía hacia el interior laberíntico y montañoso de la isla les ofrece tanto refugio como amenaza. Mientras sicarios acechan, Bebo tendrá que enfrentar las consecuencias de sus decisiones y preguntarse si existe la redención… o si el mar es la última respuesta.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-26",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "las-buenas-companias-2023",
+        "title": "Las buenas compañías",
+        "originalTitle": "Las buenas compañías",
+        "poster": "images/las-buenas-companias-2023.jpg",
+        "director": "Sílvia Munt",
+        "cast": [
+            "Alícia Falcó",
+            "Elena Tarrats",
+            "Itziar Ituño",
+            "Ainhoa Santamaría",
+            "María Cerezuela",
+            "Nagore Cenizo",
+            "Iván Massagué",
+            "Mikel Laskurain"
+        ],
+        "year": 2023,
+        "duration": 95,
+        "country": "España, Francia",
+        "genres": [
+            "Drama",
+            "Adolescencia",
+            "Feminismo",
+            "Años 70",
+            "Basado en hechos reales",
+            "Homosexualidad"
+        ],
+        "synopsis": "Verano de 1977. Bea tiene 16 años y se suma a los aires de cambio que recorren el país; colabora con un grupo de mujeres para visibilizar la causa feminista, así como para ayudarles a abortar en condiciones dignas. La rebeldía que siente en la sangre se mezclará con un sentimiento inesperado y que pondrá su vida patas arriba: se enamora de una chica algo mayor que ella y de buena familia. Lo que no sospecha es que esta enigmática chica, Miren, guarda un secreto que obligará a Bea a adentrarse sin tapujos en el doloroso mundo de los adultos.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-26",
+                "time": "19:00",
+                "version": "Gaudí de Honor 2026: Sílvia Munt (Encuentro con Sílvia Munt y Fernando Méndez-Leite antes de la proyección)"
+            }
+        ]
+    },
+    {
+        "id": "bajo-el-mismo-sol-2025",
+        "title": "Bajo el mismo sol",
+        "originalTitle": "Bajo el mismo sol",
+        "poster": "images/bajo-el-mismo-sol-2025.jpg",
+        "director": "Ulises Porra Guardiola",
+        "cast": [
+            "David Castillo",
+            "Valentina Shen Wu",
+            "Jean Johnny",
+            "Toni Regueiro",
+            "Augustin Rousseau",
+            "Víctor Ramírez",
+            "Cecile van Welie",
+            "Danny Radhames Vasquez Castillo"
+        ],
+        "year": 2025,
+        "duration": 103,
+        "country": "República Dominicana, España, Argentina",
+        "genres": [
+            "Drama",
+            "Siglo XIX",
+            "Colonialismo"
+        ],
+        "synopsis": "En 1819, Lázaro, un joven heredero español, Mei, una tejedora china, y Baptiste, un desertor del ejército haitiano luchan por encontrar su lugar y su humanidad en el tenso cruce de culturas del Caribe colonial, mientras se embarcan en la ambiciosa empresa de establecer una fábrica de seda en pleno corazón de la isla La Española.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-27",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "un-cabo-suelto-2025",
+        "title": "Un cabo suelto",
+        "originalTitle": "Un cabo suelto",
+        "poster": "images/un-cabo-suelto-2025.jpg",
+        "director": "Daniel Hendler",
+        "cast": [
+            "Sergio Prina",
+            "Pilar Gamboa",
+            "César Troncoso",
+            "Alberto \"Mandrake\" Wolf",
+            "Néstor Guzzini",
+            "Daniel Elías",
+            "Fernando Amaral",
+            "Ezequiel Díaz"
+        ],
+        "year": 2025,
+        "duration": 95,
+        "country": "Uruguay, Argentina, España",
+        "genres": [
+            "Comedia",
+            "Thriller",
+            "Romance",
+            "Policíaco"
+        ],
+        "synopsis": "Santiago, un cabo de la policía argentina, cruza la frontera hacia Uruguay huyendo de otros agentes policiales que lo andan buscando. Valiéndose de su uniforme, va inspeccionando puestos de comida regional, probando lácteos y embutidos para sobrevivir, al tiempo que intenta pasar desapercibido entre los lugareños. Sin dinero ni hospedaje, pero con empatía y astucia, comienza a tramar una nueva vida, recibiendo la ayuda de personajes locales que va cruzando en el camino e, incluso, encuentra a quien cree puede ser el amor de su vida.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-30",
+                "time": "16:00"
+            }
+        ]
+    },
+    {
+        "id": "la-escopeta-nacional-1978",
+        "title": "La escopeta nacional",
+        "originalTitle": "La escopeta nacional",
+        "poster": "images/la-escopeta-nacional-1978.jpg",
+        "director": "Luis García Berlanga",
+        "cast": [
+            "José Sazatornil",
+            "Luis Escobar",
+            "Antonio Ferrandis",
+            "José Luis López Vázquez",
+            "Rafael Alonso",
+            "Agustín González",
+            "Mónica Randall",
+            "Amparo Soler Leal",
+            "Chus Lampreave",
+            "Bárbara Rey"
+        ],
+        "year": 1978,
+        "duration": 95,
+        "country": "España",
+        "genres": [
+            "Comedia",
+            "Caza",
+            "Comedia negra"
+        ],
+        "synopsis": "Un fabricante catalán de porteros electrónicos viaja a Madrid, acompañado de su amante, para asistir a una cacería que él mismo ha organizado. Lo que pretende es relacionarse con gente de la alta sociedad española para promocionar su negocio. En la finca del marqués de Leguineche conoce a diversos personajes y vive multitud de situaciones tan absurdas como disparatadas.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-11-30",
+                "time": "19:00",
+                "version": "Centenario Azcona (Encuentro tras la proyección con Cristóbal Garrido y Adolfo Valor)"
+            }
+        ]
+    },
+    {
+        "id": "el-pez-que-fuma-2025",
+        "title": "El pez que fuma",
+        "originalTitle": "El pez que fuma",
+        "poster": "images/el-pez-que-fuma-2025.jpg",
+        "director": "Luis Fernández",
+        "cast": [
+            "Fran Berenguer",
+            "Mimí Lazo",
+            "Jorge Reyes",
+            "Rafael Romero",
+            "Claudia Rojas",
+            "Carlota Sosa",
+            "Karina Velásquez"
+        ],
+        "year": 2025,
+        "duration": 108,
+        "country": "Venezuela, España",
+        "genres": [
+            "Drama",
+            "Cine dentro del cine"
+        ],
+        "synopsis": "En 1976, una joven inicia su carrera de actriz en El Pez que Fuma. Las consecuencias de desnudarse en pantalla marcan su vida. Décadas después, regresa a la icónica película. Al embarcarse en la producción del remake, su vida personal comienza a replicar el triángulo amoroso que interpreta en la ficción. Más allá de la redención profesional que anhela, EL PEZ QUE FUMA volverá a cambiar su destino de forma inesperada. La ficción dentro de la ficción. El pez que fuma, el más famoso burdel de la década del 70 en Venezuela es presidido por La Garza. Mujer poderosa que navega la violencia patriarcal, sabe que debe sustituir al «hombre fuerte» de turno ante su evidente decadencia, para preservar el orden y «la familia». La llegada de un joven extranjero le abre un camino inesperado: una pasión que promete ser la última de su vida.",
+        "screenings": [
+            {
+                "cinema": "Academia de Cine",
+                "date": "2026-12-02",
+                "time": "16:00"
+            }
+        ]
     }
 
 ]
